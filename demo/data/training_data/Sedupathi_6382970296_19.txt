@@ -1,0 +1,82 @@
+meta	others	SEDHUPATHI M
+meta	others	Mobile No: 6382970296
+meta	others	Email: msedhugreat@gmail.com
+meta	others	Vellore.
+header	knowledge	Career Objective
+content	knowledge	To  associate  with  an  organization  that  gives  me  a  chance  to  prove  my
+content	knowledge	knowledge, efficiency and enhance my skills in the field of the technology and
+content	knowledge	be a part of the team that excels in work towards the growth of the organization.
+header	education	Academic Qualification
+content	education	MCA Computer Application
+content	education	C.Abdul Hakeem College Of Engineering &
+content	education	Technology, Vellore.
+content	others	2017-2019
+content	education	I completed my PG with 8.7
+content	education	CGPA
+content	education	Bachelor of Science Computer Science
+content	education	K.M.G College of Arts & Science, Gudiyattam,
+content	education	Vellore.
+content	others	2014-2017
+content	education	I passed out my UG with 8.201
+content	education	CGPA
+content	education	HSC(Maths &  Computer Science)
+content	education	Govt.Boys higher secondary school, odugathur,
+content	education	vellore.
+content	education	2014
+content	education	I completed my HSC with 87%
+content	education	SSLC
+content	education	Govt.Boys higher secondary school, odugathur,
+content	education	vellore.
+content	others	2012
+content	education	I completed my SSLC with 72%
+header	knowledge	Technical Proficiency
+header	knowledge	Languages
+content	knowledge	C,OOPS(C++, JAVA)
+header	knowledge	Software Packages
+content	knowledge	MS-Office, Matlab.
+content	knowledge	Database
+content	knowledge	SQL, PLSQL,MySQL.
+content	knowledge	Operating System
+content	knowledge	Windows versions(xp,7,8.8.1,10)
+content	knowledge	Web Design
+content	knowledge	HTML, JAVA Script, CSS.
+header	others	Activities and Achievements
+content	others	•  School First in HSC.
+content	others	•  Won second price in Code and Debugging Event.
+content	others	•  Attended AI workshop in Anna University presented by Microsoft.
+header	project	Main Project handled
+content	project	Title
+content	project	Type
+content	project	Brain Tumor segmentation using CNN in MRI images.
+content	project	Hospitality.
+content	project	Front-End
+content	project	Software (Matlab12a), Language (Matlab script).
+content	project	Back-End
+content	project	MySQL
+header	project	Description
+content	project	This method is based on CNN exploring small 3*3 kernals.
+content	project	This allows designing a deeper architecture to classify stages
+content	project	of Tumor affected in Brain.
+content	project	Methodologies  Data Mining Techniques (Preprocessing, Feature Extraction,
+content	project	CNN, prediction Model).
+header	project	Mini Project handled
+content	project	Title
+content	project	Type
+content	project	Description
+content	project	Prediction of Hypothyroid using Data Mining Techniques.
+content	project	Hospitality
+content	project	This  method  predicts  the  Hypothyroid  based  on  size  of
+content	project	Thyroid  gland  and  levels  of  hormone  provided  by  T3,  T4
+content	project	&THS.
+header	others	Personal Information
+meta	others	Date of birth
+meta	others	16thJanurary 1997
+meta	others	Languages Known
+meta	others	English, Tamil, Urdu, Telugu.
+meta	others	Gender
+meta	others	Male
+meta	others	Personal skills
+meta	others	Self-learner, Hard worker, Mentorship.
+meta	others	Declaration
+meta	others	I hereby declare that all the details given above are true to the
+meta	others	best of my knowledge and belief.

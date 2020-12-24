@@ -1,0 +1,10 @@
+content	education	UNIVERSITY/
+content	education	(C.KARPAGAMOORTHY)
+content	knowledge	 JavaScript
+content	knowledge	 Miniproject
+content	knowledge	 Mainproject
+content	knowledge	 ReadingBooks,
+content	knowledge	 PlayingCricket.
+meta	others	:kckmoorthy0718@gmail.com
+meta	others	Nationality
+meta	others	Tamil,English.

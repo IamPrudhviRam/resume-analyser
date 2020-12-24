@@ -1,0 +1,90 @@
+header	others	PRAKASHRAJ P
+meta	others	+91 8122531617
+meta	others	Prakashraj7913@gmail.com
+header	others	OBJECTIVE:
+header	education	EDUCATION:
+header	education	Education
+content	education	MCA
+content	education	BCA
+content	education	HSC
+content	education	SSLC
+content	others	To obtain a challenging job in the organization where I can utilize my tech skills and conceptual knowledge to
+content	others	contribute to the growth of organization
+header	education	School/College
+content	education	Paavai Engineering College,
+content	others	Namakkal, Tamilnadu.
+content	education	Valluvar College of Science
+content	others	and Management, Karur,
+content	others	Tamilnadu.
+content	education	Sowdambikaa Matric Higher
+content	education	Secondary School,
+content	others	Thuraiyur, Tamilnadu.
+content	education	Vivekananda Higher
+content	education	secondary School, Karur,
+content	others	Tamilnadu.
+content	education	University / Board
+content	education	Anna University
+header	others	Percentage
+content	experience	78%
+content	education	Year of Passing
+content	others	2018
+content	education	Bharathidasan University
+content	education	Tamilnadu State Board
+content	education	Tamilnadu State Board
+content	others	60%
+content	others	69%
+content	others	64%
+content	others	2016
+content	others	2013
+content	others	2011
+header	knowledge	TECHNICAL SKILL SETS:
+header	knowledge	●  Programming Languages
+header	knowledge	●  Web Technologies
+header	knowledge	●  Database
+header	knowledge	●  Cloud Services
+content	knowledge	:   Core Java, JDBC, JSP, Hibernate.
+content	knowledge	:   HTML, CSS, JavaScript.
+content	knowledge	:   MySQL, Oracle 11g.
+content	knowledge	:   Amazon Web Services.
+header	education	TRAININGS AND CERTIFICATIONS:
+content	experience	•  Java and Testing Trained from ABC for Technology Training, Bengaluru.
+header	project	ACADEMIC PROJECT:
+header	others	•  Title
+header	project	•  Project Outline
+header	knowledge	•  Technologies
+header	project	•  Team Size
+content	experience	•  Role & Responsibility: Involved in designing of web pages, development of Servlets and database
+content	project	: Protecting Cloud Services against their Malicious Users.
+content	project	: Java, MySQL, Tomcat Server.
+content	project	: Four Members.
+content	project	creation & connection.
+header	others	CO-CURRICULAR ACTIVITIES
+meta	others	•
+meta	others	•
+content	experience	I attended National Seminar on Big Data Analytics with Apache Spark.
+content	experience	I participated seminar on BIG DATA ANALYTICS conducted
+meta	education	by Paavai Engineering College.
+header	others	PERSONAL TRAITS:
+meta	others	•  Good Team Management and Leadership skills.
+meta	others	•  Ability to learn things by myself and to communicate it with others.
+meta	others	•  Hardworking and Energetic person.
+meta	others	•  Able to work in communal environment and extreme pressure surroundings.
+header	others	PERSONAL DETAILS:
+meta	others	•  Father’s Name
+meta	others	: Periyanayagam A
+meta	others	•  Mother’s Name
+meta	others	: Kavitha P
+meta	others	•  Date of Birth
+meta	others	: 26.06.1996
+meta	others	•  Gender
+meta	others	: Male
+meta	others	•  Marital Status
+meta	others	: Single
+meta	others	•  Languages Known
+meta	others	: Tamil and English.
+meta	others	•  Permanent Address
+meta	others	: 24/2, Ramachandrapuram, Thanthonimalai, Karur, Tamilnadu.
+content	others	DECLARATION:
+meta	others	Date:
+meta	others	•
+meta	others	I hereby declare that all the details furnished above are authentic to the best of my knowledge.

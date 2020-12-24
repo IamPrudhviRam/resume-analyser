@@ -1,0 +1,76 @@
+header	experience	Experience summary:
+content	experience	6+ years of experience in Software Testing both Manual and Automation(Selenium with Java).
+content	experience	Having good experience on Banking and Procurement domain.
+content	experience	Good knowledge on Software development life cycle methodologies
+content	experience	Good experience in Software Testing Life Cycle, Bug Life Cycle and Black box testing like Functional testing and Regression testing.
+content	experience	Good Experience in Selenium Web Driver using Java.
+content	experience	Experience in preparation of automated test scripts using Selenium web Driver and TestNG.
+content	experience	Experience in Build Automation Tools like Maven and Continuous Integration Tool like Jenkins.
+content	experience	Having Experience and knowledge in automation hybrid Framework.
+content	experience	Experience various tests like Regression testing, Re-testing, smoke testing and exploratory testing etc.
+content	experience	Good experience in creating, modifying and enhancing both manual test cases and test scripts created in Selenium Web Driver.
+content	experience	Experience in design, development and implementation of test cases and test scripts using QTP.
+content	experience	Experience on production issues using QA environment on different clients like UTC, Pfizer, Wels Fargo, Raytheon, BI, 3M, Varian CNA and P&G.
+content	experience	Experience recreation of issues and Root Cause Analysis (RCA).
+content	experience	Quick Learner with ability to grasp new technologies with ease and comfort.
+content	experience	Working on read and writes the data in excel using Apache POI API
+content	experience	Working on different payment transactions (internal and external funds transfer).
+content	experience	Worked on feed testing using user, location and CSF.
+content	experience	Worked on root cause analysis (RCA) on QA environment.
+content	education	M.Sc (IS) from Nagarjuna University.
+content	knowledge	Good Knowledge on Database concepts.
+header	knowledge	Technical Skills:
+content	knowledge	Tools : Manual testing and Selenium(Web Driver), TestNG, Git and Jenkins.
+content	knowledge	Having good understanding of object identification in Selenium Web Driver.
+content	knowledge	Tools : Manual testing and QTP
+content	knowledge	Tools : Manual testing
+content	project	Read and writes the data in excel using Apache POI API.
+content	project	Expertise in developing and executing of the functional and regression test cases based on test scenarios.
+content	project	Expertise in tracking of defects. Rising, monitoring and re-testing issues using different bug tracking tools.
+content	project	Worked for Caritor Solutions India Private Ltd,Bangalore as a Sr Test Engineer from Mar’2015 to Jan-2018.
+content	project	Worked for Arctern Consulting Private Ltd, Bangalore as a quality analyst from August 2010 to Feb'2014
+header	project	Project: #1
+content	project	Title : Banking.
+content	project	Client : Sainsbury's Bank Edinburgh, Scotland, UK.
+content	project	Channels : Touch point, Self services and IVR.
+content	project	Duration : March 2015 to Jan-2018.
+header	project	Project Description:
+content	project	Sainsbury’s bank is online banking, it is provides a range of financial products including savings, loans and credit cards. There are different types of modules like Accounts, Deposits, Fund transfer Loans and credit card. In this project bank is seeking to manage this account through computer-based system operation. Tasks involved in this project are opening the user accounts, recording the account holders transactions, modify, the user records and generating the reports.
+content	project	Analyzing and understanding the Requirement Specifications.
+content	project	Involved in designing the test conditions and test cases against the business requirement.
+content	project	Performed various testing like Smoke testing ,Regression and Retesting
+content	project	Develop the test scripts by using the TestNG with Web Driver
+content	project	Maintained and executed Maven build files for running automated tests.
+content	project	Executing test cases against various browsers like Mozilla Firefox, Google chrome, IE(Cross Browser Testing)
+content	project	Working on different letter verification against mockup document.
+content	project	Involved Reviews and Meetings
+header	project	Project: #2
+content	project	Duration : June 2012 to Feb'2014
+header	project	Project Description:
+content	project	Consol is vendor management software which does an enterprise management of contingent labor & SOW. Consol is an end to end vendor management system (VMS) that helps manage every step in the services procurement life cycle, from initiation of requisitions, obtaining bids from suppliers, interviewing on off boarding vendors, bill pays and complex analytics. Consol includes online time cards, expenses management & project voucher as well as invoice submittals and approvals. Consol is configurable to client’s rules and terminology, scalable to support global operations, integrates seamlessly to any existing ERP, implemented successfully around the world.
+content	project	Involved in Designing & Executing the Functional and the Regression test cases
+content	project	Prepared the test cases for responsible area has and prepared test input data.
+content	project	Performed various black box testing methodologies such as Functionality, Regression Testing, Re-Testing and Ad-Hoc Testing.
+content	project	Executed Manual test cases and verified results with expected results
+content	project	Involved writing the descriptive Programming in QTP
+content	project	Involved in creating and Executing,
+content	project	Debugging the Automation test scripts
+content	project	Performing billing Validation on the extract and PeopleSoft files manually
+content	project	Worked on production issues and recreating issues on QA environment.
+content	project	Co-ordinate with helpdesk and onsite team
+content	project	Involved Prepare the certification for passed defects and uploaded in share point.
+meta	project	Updating daily status and weekly status to the stake holders.
+header	project	Project: #3
+content	project	Duration : August 2010 to May’2012
+header	project	Project Description:
+content	project	Consol is vendor management software which does an enterprise management of contingent labor & SOW. Consol is an end to end vendor management system (VMS) that helps manage every step in the services procurement life cycle, from initiation of requisitions, obtaining bids from suppliers, interviewing on off boarding vendors, bill pays and complex analytics. Consol includes online time cards, expenses management & project voucher as well as invoice submittals and approvals. Consol is configurable to client’s rules and terminology, scalable to support global operations, integrates seamlessly to any existing ERP, implemented successfully around the world.
+content	project	Involved in Designing & Executing the Functional and Regression test cases.
+content	project	Executed Manual test cases and verified results with expected results.
+content	project	Regression testing performed on every new build of the application
+content	project	Performing billing Validation on the extract and PeopleSoft files manually.
+content	project	Worked on production issues and recreating the issue on QA environment.
+content	project	Co-ordinate with helpdesk and onsite team.
+content	project	Involved prepared the certification issue and sent to client.
+meta	others	Srinivas Contact no: +91 9916360475
+meta	others	Updating daily status and weekly status to the stake holders.
+meta	others	Client : BI, 3M, Varian CNA and P&G.

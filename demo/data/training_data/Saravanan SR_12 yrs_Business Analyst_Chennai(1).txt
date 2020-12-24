@@ -1,0 +1,156 @@
+content	experience	12+ years of experience with proactive attitude.
+content	experience	 A dynamic professional with proactive attitude, 8+ years in
+content	experience	Business Analysis, Consultancy, Process Analysis. Overall
+content	experience	11+ years of experience and proactive attitude.
+content	experience	 Exposure to SDLC (Waterfall model, Agile Scrum) and
+content	experience	 Extensive experience in requirements gathering, gap
+content	experience	analysis, documentation and assessments.
+content	experience	 Strong facilitation skills and experience with a variety of
+content	experience	 Experienced working on Production Accounting, Banking,
+content	experience	 Excellent analytical, problem solving and decision-making
+content	experience	ITC Infotech
+header	experience	Designation
+content	experience	Stakeholder management & Process enhancement
+header	experience	Designation
+content	experience	Stakeholder management & Process enhancement
+header	experience	Designation
+content	experience	• Preparing BRD (Waterfall model), User Stories (Agile) on the collected requirements
+content	experience	ITC Infotech
+header	experience	Designation
+header	experience	Designation
+header	experience	Designation
+meta	education	Corporate & Institutions
+content	education	Hr. Sec. school, Coimbatore
+content	education	Hindusthan college of Arts &
+content	education	Science, Coimbatore
+meta	education	Basics of Banking (Indian Institute of Banking & Finance)
+header	education	Certifications
+content	knowledge	Process Re-engineering
+content	knowledge	Vinayaka Layout, Whitefield, Bangalore 560066
+content	knowledge	❑ Business analysis
+content	knowledge	❑ Stakeholder management
+content	knowledge	❑ People management
+content	knowledge	 Proficient in Business Process Redesign (BPR), Business
+content	knowledge	 Dealing with multi jurisdiction/multi stakeholder/multi
+meta	knowledge	 Good written & verbal communication skills, honed with
+meta	knowledge	Capital Markets
+content	knowledge	Mobile Apps (iOS, Android)
+content	knowledge	Career Highlights
+content	knowledge	Infosys Bpo
+content	knowledge	MS Office, MS Visio,
+content	knowledge	Redmine, JIRA, Confluence,
+content	knowledge	Azure DevOps, thinkcell
+content	knowledge	• Getting in-depth knowledge by eliciting the functional and non-functional requirements
+content	knowledge	Capco Technologies
+content	knowledge	Credit Workflow Tool (CWT)
+content	knowledge	• Getting in-depth knowledge by eliciting the functional and non-functional requirements
+content	knowledge	Payoda Technologies
+content	knowledge	Social networking App
+content	knowledge	• Getting in-depth knowledge by eliciting the functional and non-functional requirements
+content	knowledge	• Working on standardization, new presentation requests
+content	knowledge	Infosys Bpo
+content	knowledge	es and sending it to Bloomberg Terminal
+content	knowledge	Certified International Payment Systems Professional (CIPSP)
+meta	knowledge	Business Analyst Certification (endorsed by IIBA)
+meta	knowledge	: # 9A2, (Ground floor), 5th cross, Ramalinga Nagar, KK Pudur, Coimbatore - 641038
+content	project	Sr. Business Analyst/Project Manager with overall
+content	project	Project Management
+content	project	Requirement Management.
+content	project	 Experience in creating Business Requirement Document,
+content	project	Product Backlog, Knowledge Base, Use Case/User Story
+content	project	Documentation, Business Case and Data Flow Diagrams.
+content	project	Requirement Elicitation techniques.
+content	project	❑ Requirement management
+content	project	❑ Requirements documentation
+meta	project	❑ Requirement walkthrough
+content	project	❑ Change request management
+content	project	Process Flows, preparing graphical depictions of Use Cases
+content	project	including Use Case diagrams, and Activity based on UML
+content	project	methodology.
+content	project	 Active member of UAT testing, in creating Test Cases & Test
+content	project	Financial Services, Content Management Services domain.
+content	project	domain environments.
+content	project	the ability to liaise with all levels of management.
+content	project	Commercial Banking
+content	project	Credit Lending
+content	project	Media Accounting
+content	project	Production Accounting
+content	project	Digital Transformation
+content	project	Application development
+content	project	Website development
+content	project	Jul 09 – Nov 10
+content	project	Jan 11 – Aug 14
+content	project	Aug 14 – Jun 16
+content	project	MS SharePoint, MS Projects,
+content	project	BRD/Product backlog
+content	project	Agile (Scrum)
+content	project	: Sr. Business Analyst
+content	project	: Business Analyst/Project Manager/Scrum Master
+header	project	Projects Undertaken:
+content	project	Methodology
+content	project	Data Migration from legacy product to new product
+header	project	Key Responsibilities:
+content	project	• Requirements gathering from stakeholders using different gathering techniques
+content	project	• Responsible for conducting Product Backlog grooming meetings
+content	project	• Responsible for showcasing Sprint demo of the application to the stakeholders
+content	project	• Role of a Scrum Master in controlling the overall functioning of the Sprint
+content	project	• Role of a Project Manager in managing the project
+content	project	: Sr. Consultant
+header	project	Projects Undertaken:
+content	project	Methodology
+header	project	Key Responsibilities:
+content	project	• Requirements gathering from stakeholders using different gathering techniques
+content	project	• Responsible for creating & getting Product Backlog sign off from stakeholders
+content	project	• Responsible for conducting Product Backlog grooming meetings
+content	project	• Responsible for showcasing Sprint demo of the application to the stakeholders
+content	project	• Active member of the UAT in creating Test Cases and Test Scenarios
+content	project	: Associate Client Partner
+header	project	Projects Undertaken:
+content	project	Website development projects
+header	project	Gaming projects
+content	project	Methodology
+header	project	Key Responsibilities:
+content	project	• Gathering Requirements from Stakeholders
+content	project	• Responsible in creating Product Backlog & getting Product Backlog approval from stakeholders
+content	project	• Responsible for conducting Product Backlog grooming meetings
+content	project	• Preparing Data Flow Diagram to help stakeholders understand the project in a better way
+content	project	• Responsible for getting sign off of BRD/User Stories from Stakeholders
+content	project	• Active member of Sprint Zero & Sprint planning activities
+content	project	• Responsible for User Acceptance Testing (UAT) & showcasing project demo
+content	project	: Jan 2011 - Aug 2014
+content	project	: Associate IT Consultant
+header	project	Projects Undertaken:
+content	project	Corporate Expense Manager
+content	project	Workflow tool automation
+content	project	Methodology
+header	project	Key Responsibilities:
+content	project	• Gathering requirements through Interview, survey, brainstorming with stakeholders to understand
+content	project	business needs, collate and acknowledge the same
+content	project	• Prepare BRD, Use Case/User Story to support the requirements gathered
+content	project	• Owner of Product Backlog & conducting Product Backlog Grooming meetings with Scrum Master
+content	project	• Reviewing test case scenarios to be used in functional testing
+content	project	: Jul 2009 - Nov 2010
+header	project	Key Responsibilities:
+content	project	• Production of PowerPoint presentations according to customer needs
+content	project	: Process Executive
+header	project	Key Responsibilities:
+content	project	• Working on Annual/Quarterly/Half yearly/Press release & Role of a Data Analyst in Quality Checking
+content	project	: B1/B2 valid for 9 years
+meta	others	Business Analyst
+meta	others	Flat # 411, Sunglow Residency, Hagdur main road,
+meta	others	essar.saravanan@gmail.com
+meta	others	❑ Requirement walkthrough
+meta	others	 Good written & verbal communication skills, honed with
+meta	others	Corporate & Institutions
+meta	others	Capital Markets
+meta	others	: Business Analyst
+meta	others	: Business Analyst
+meta	others	: Business Analyst
+meta	others	Business Analyst Certification (endorsed by IIBA)
+meta	others	Basics of Banking (Indian Institute of Banking & Finance)
+meta	others	Nationality
+meta	others	Date of Birth
+meta	others	Permanent address
+meta	others	: English, Tamil, Hindi & Kannada
+meta	others	: Flat no: 411, Sunglow Residency, Hagdur Main Road, Whitefield, Bangalore - 560066
+meta	others	: # 9A2, (Ground floor), 5th cross, Ramalinga Nagar, KK Pudur, Coimbatore - 641038

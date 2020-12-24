@@ -1,0 +1,101 @@
+content	experience	5.5+ years of diversified experience in full stack web applications development using Java / J2EE technologies. Strong experience in application/web development, system analysis, technical design, development, implementation, performance tuning in all stages of Software Development life cycle.
+content	experience	Having strong experience in tech stack: Java/J2EE, Spring, Hibernate, JPA, JSP, Servlets, Oracle, PostgreSQL, JQuery, Javascript, JSON, HTML5, CSS,Angular 7.
+content	experience	Strong experience in engineering web development, all layers, from UI to services to Database.
+content	experience	Proven experience in designing and developing end to end Java/J2EE applications.
+content	experience	Experience in designing HLD/LLD business requirements.
+content	experience	Experience in Agile-Scrum Technology (JIRA/CI/CD)
+content	experience	Working experience with RDBMS systems, PostgreSQL and Oracle.
+content	experience	Proven working experience in front end technologies such as Angular 7, jQuery,JavaScript.
+content	experience	Strong experience on working with REST/SOAP Webservices.
+content	experience	Experience in using IDE and development tools such as Eclipse and NetBeans, STS.
+content	experience	Good experience with version control systems GIT and CVS.
+content	experience	Excellent knowledge and experience of developing applications with Model View Controller(MVC) Architecture.
+content	experience	No technology constraints, resourceful, result & quality driven and self-motivated.
+content	experience	Lincoln Tech Private Limited (Jan 2018 – Till Present)
+content	experience	Cavisson Systems Inc. (March 2014-Jan 2018)
+header	experience	PROFESSIONAL EXPERIENCE
+content	experience	Design and developed Thread Dump(DeadLock) UI with backend service.
+content	education	Master of Computer Application(MCA) from KIIT University,Bhubaneswar with 86%. (2014)
+content	education	Bachelor of Computer Application(BCA) from BIST,Burdwan University with 72%.(2011)
+content	education	+II from Board of Intermediate W.B.C.H.S.E with 64%. (2008)
+content	education	SSC from Board of Secondary Education W.B.B.S.E with 67%. (2006)
+content	knowledge	Expertise in creating Conceptual Data models.
+content	knowledge	Proficient in developing applications using Spring boot, Hibernate and JPA.
+content	knowledge	Experience in Junit using Mockito Spring boot and Jashmine/Karma in Angular 7
+content	knowledge	Strong knowledge on HealthCare and Application Performance Management (APM).
+content	knowledge	Having immense work ethics.
+content	knowledge	ORGANIZATIONS WORKED FOR
+content	knowledge	Programming: Java, J2EE, SQL
+content	knowledge	Databases: PostgreSQL,Oracle,MySql
+content	knowledge	IDE tools: Eclipse, Netbeans,STS, SQL Developer, PGAdmin
+content	knowledge	Api Testing tools: Postman,Swagger,HAL
+content	knowledge	Version Control: GIT, CVS
+content	knowledge	Build & Deployment: Maven
+content	knowledge	Application/Web Servers: Tomcat
+content	knowledge	Tech Stack: Java, JSP,Angular2,Angular4, Bootstrap, JQuery, Highcharts , CVS, HTML, CSS, javascript , Ant, JBoss
+content	project	Proficient in using different servers like Tomcat.
+content	project	Excellent in using cloud computing services like AWS .
+content	project	Practical Knowledge on working with Hardware such as scanners,mammography device, biometric devices to communicate with the web application.
+content	project	Knowledge on Configuration and Release management by using JIRA .
+content	project	Proven ability and experience in leading a team by providing healthy and innovative environment.
+content	project	Having excellent track record as a strong team player with good communication skills.
+content	project	Java / J2EE Technologies: Servlets, JSP, Spring, Hibernate, Logback, JDBC and REST/SOAP Webservices
+content	project	Front-End Technologies: Angular 7, HTML, JavaScript, jQuery, Highcharts, JSON, AJAX
+content	project	OS Platforms: Windows , Ubuntu
+content	project	Title: EHealth24By7 (Healthcare Information Management System)
+content	project	Duration: Jan 2018 - Till Present
+content	project	Role: Lead Developer
+content	project	Tech Stack: Java, Spring Boot, Spring Data REST, PostgreSQL, Angular 7, HTML, Bootstrap, Highcharts, Maven, JIRA, AWS (EC2, S3 and RDS), NGINX and Bitbucket
+content	project	Project Description: HIMS is an application for Healthcare Organizations to streamline their business operations and reduce costs by visibility on financial aspects.
+content	project	HIMS consists of modules such as EMR, Pharmacy Inventory Management System and Lab Integration Tool and Analytics etc.
+content	project	Roles and Responsibilities:
+content	project	Working as a Senior Developer/Lead Developer - managing a team of 6 Members
+content	project	Involved in every aspect of Development Life Cycle.
+content	project	Setup JIRA Workflow for the team.
+content	project	Integrated Biometric Authentication in to the web application for System Users.
+content	project	Created inhouse release management process using Bitbucket Pipelines.
+content	project	Researched and Implemented PACS server on X-Ray images to reduce digital filming cost by applying lossless compression.
+content	project	Design and developed EMR(Electronic Medical Record) and PHARMA Module.
+content	project	Client: KOHLS , US
+content	project	Duration: March 2014-Jan 2018
+content	project	Role: Senior Developer
+header	project	Project Description:
+content	project	The primary objective of NetDiagnostics Developer is to ensure that the overall performance of all the applications is acceptable even during the peak utilization period.
+content	project	The objectives of the NetDiagnostics Tool Development Team is to ensure acceptable performance of the ATG platform from the perspective of the end user and also to determine the capacity of the production systems to handle 2013 holiday traffic very comfortably. ATG platform needs to perform within the set of guidelines for the selected functional transactions running under varying load scenarios.
+content	project	NetDiagnostics Development Team consists of Bytecode Level Instrumentation of the Web-Application code and capture the entry and exit points of the every method of the application, Parsing all the data of the Application, Storing Data into the database, Reporting to the User Interface.
+content	project	Netstorm is a tool that analyzes the performance of a web-application whereas netdiagnostics will go deeper in to the application code and capture valuable information.
+content	project	Roles and Responsibilities:
+content	project	Participated in requirement gathering and analysis discussions for planning module
+content	project	Involved in understanding, analyzing and communicating with client-side coordinator for the various clarifications as per the requirement.
+content	project	Handled the planning module development as a developer.
+content	project	Developed modules and customizing the code as per requirements.
+content	project	Involved in developing the complex modules like PA, Claims. Provided support for other modules.
+content	project	Revamp some of the feature from JSP to Angular 2
+content	project	Implemented all Shell script DB query to JAVA based query using Velocity template engine.
+content	project	Involved in writing and executing Unit Test Cases.
+content	project	Involved in Integration Testing and system testing
+content	project	Client: KOHLS ,MACYS,REDBOX US
+content	project	Duration: Feb 2015-Feb 2017
+content	project	Role: Senior Developer
+content	project	Tech Stack: Java, JSP, Bootstrap, JQuery, Highcharts , CVS, HTML, CSS, javascript , Ant
+header	project	Project Description:
+content	project	Netstorm is extremely powerful load generator appliance that provided an accurate estimate of the client perceived response time. Netstorm components which plays a key role of user behavior patterns, number of active users, user arrival rate, speed of user’s connection to the internet backbone. It’s handle load variables,user,applications and network realism.
+content	project	Roles and Responsibilities:
+content	project	Developed modules and customizing the code as per requirements.
+content	project	Design Dashboard for and different stats using HighCharts/Angular 2
+content	project	Involved in writing and executing Unit Test Cases.
+content	project	Involved in Integration Testing and system testing
+content	project	Client: J.C. Penney Corporation, Texas
+content	project	Duration: Oct 2014-Jan2015
+content	project	Role: Developer
+content	project	Tech Stack: Java, JSP, Postgres, Eclipse, CVS, HTML, CSS, javascript, Maven, Tomcat.
+header	project	Project Description:
+content	project	The primary objective of NetVision is used to provide visibility into the online customer experience by capturing, analyzing and replaying details of customers' visits to find site errors or issues and understand the impact that transaction failures have on business processes.
+content	project	Roles and Responsibilities:
+content	project	Participated in requirement gathering and analysis discussions for planning module
+content	project	Involved in developing business logic in DAOs using jdbc, commons DBCP.
+content	project	Involved in Design and Development of the user interface (UI) using JSP.
+content	project	Writing and executing Unit Test Cases.
+meta	others	SUMAN KUNDU Email: kundukiit@gmail.com Phone: +91-7908074257/7503710170
+meta	others	Java Full Stack Developer Design | Development | Deployment | Maintenance Java | J2EE | Spring | JPA | Web-services | Angular7| AWS
+meta	others	Client: Visakhapatnam Port Trust (Govt. Of India), King George Hospital (Govt of Andhra Pradesh) and Arogyaratham (Andhra Pradesh State Govt. Initiative)

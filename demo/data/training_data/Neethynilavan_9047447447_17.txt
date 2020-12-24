@@ -1,0 +1,33 @@
+header	others	V.S.Neethy Nilavan E-Mail: neethynilavan14@gmail.com
+meta	others	Contact: +919047447447
+header	others	Objective:
+meta	others	To pursue a challenging position in your organization where by my skills and abilities will greatly enhance the success of the organization and for my personal growth.
+header	others	Professional Summary:
+content	knowledge	Good foundation in software programming concepts of OOP’s, Collections &Exceptions.
+content	knowledge	Expertise in developing enterprise web-based applications based on J2EE technologies using Servlet, JSP.
+content	experience	Experienced in Agile based application development.
+content	experience	Experienced in using Database like MySQL.
+content	experience	Experienced in configuring and deploying application in Apache Tomcat Server.
+header	experience	Summary of Experience:
+content	experience	Organization : Vedha Technologies.
+content	experience	Designation : Software Developer
+content	others	Period : Feb 2018 – Till Now
+header	education	Educational Qualification:
+content	education	Bachelor of Engineering(Mechanical Engg.) at Mookambigai College of Engineering, Pudukkottai (Anna University) from 2013 to 2017 with 60%
+content	education	HSC from Sri Ramakrishna Matriculation Higher Secondary School, Perambalur passed out in 2013 with 83.50%.
+content	education	SSLC from Sri Ramakrishna Matriculation Higher Secondary School, Perambalur passed out in 2017 with 88.20%.
+header	knowledge	Summary of IT Skills:
+header	project	Projects Profile:
+header	others	Description:
+content	project	A Transgenie is a web and mobile enabled hybrid application, which helps to engage the Transporter and Shipper handshake. It provides multiple screens to maintain the transporter and shipper profile with respective details and also helps to post load, post vehicle, search match load against available vehicle and price bidding against the post load.
+header	project	Role and Responsibilities:
+header	project	Requirement Analysis
+content	project	Finding the logical bugs and fixing the same effectively.
+header	others	PERSONAL TRAITS
+meta	others	Goal Communication Skills
+content	project	Able to meet deadlines and handle responsibilities
+meta	others	Positive Thinking, Self-Motivation and flexible
+meta	others	Ambitious, Hardworking, Energetic and well disciplined
+header	others	Personal Details:
+meta	others	Hereby I declare that all the details furnished above are true to the best of my knowledge.
+meta	others	Yours truly,

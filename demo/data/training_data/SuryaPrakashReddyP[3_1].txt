@@ -1,0 +1,51 @@
+content	experience	(Software Developer)
+content	experience	3 + years of Professional IT experience in Java/J2EE Technologies.
+content	experience	IT professional with expertise in complete Software Development Life Cycle (SDLC) like analysis, design, development, deployment and maintenance of Client/Server and web based applications.
+content	experience	IT Professional with expertise in complete agile development like analysis of stories, enhancement development, code delivery, application build, maintenance of application.
+content	experience	Having experience on Spring Boot with restful services.
+content	experience	Having Experience on working in Database Management Systems like MySQL.
+content	experience	Experience in build management tools using Maven.
+content	experience	Hands on experience in IDE using Eclipse for developing software applications.
+content	experience	Working as a Software Developer in Perficient from 2017 January to till date.
+content	education	MCA from Sree Vidyanikethan Engineering College affiliated to JNTU Anatapur.
+content	knowledge	Having knowledge on HTML5, CSS, JSP.
+content	knowledge	Having knowledge on JavaScript.
+content	knowledge	Ability to learn new technologies with minimal time period.
+content	knowledge	Have a motivation to take independent responsibility and be a good team player. Positive attitude and willing to adapt to new challenges and new technologies.
+content	knowledge	Frameworks : Spring Core, Spring MVC, Spring Boot
+content	knowledge	UI Technologies : HTML5,CSS.
+content	knowledge	Database Software : Mysql
+content	knowledge	Database Tools : SQL workbench
+content	knowledge	REST Testing Tools : Postman
+content	project	Seeking a challenging position in quality growth oriented IT environment, where my knowledge in Java and Java related technologies.
+content	project	Solid experience on coding using Spring Framework (Spring MVC, Spring IOC), Hibernate.
+content	project	Having experience as a scrum team member in working in the Agile (Scrum).
+content	project	Flexible and versatile to adopt any new environment and work on any project.
+content	project	J2SE Technology : Core Java, JDBC
+content	project	J2EE Technologies : Servlets, JSP
+content	project	ORM Technology : Hibernate
+content	project	Server : Jetty, Tomcat
+content	project	Code Repository Tool : Git
+content	project	Build Tools : Maven
+content	project	Automation Testing Tool : JUnit
+content	project	Title : United Health Group Renewals
+content	project	Client : United Health Group
+content	project	Duration : 2019 April to till date.
+header	project	Description :
+content	project	United Health Group (UHG) is a distinctively diversified health and well-being company headquartered in the United States, and a leader worldwide in helping people lives healthier lives and helping make the health system work better for everyone. UnitedHealth Group is committed to introducing innovative approaches, products and services that can improve personal health and promote healthier populations in local communities. United Health Group core capabilities in clinical expertise, advanced technology and data and health information uniquely enable.
+content	project	Responsible for writing controller classes and DAO classes.
+content	project	Preparing Technical Analysis Document.
+content	project	Writing validation rules using spring.
+content	project	Clarifying with BA’s, if there is any problem with Logic page.
+content	project	Implementing the Spring Framework with core java concepts collections framework,
+content	project	Exception handling, JUnit test case.
+header	project	Project #2:
+content	project	Role : Java Developer
+content	project	Technologies : Java, Spring mvc, Spring Data JPA, MySql, Maven.
+header	project	Description :
+content	project	Clarity has been designed to record the working timings of each and every employee. This application tracks the timings recorded in detail from very granular level, which includes the project and corresponding tasks worked on and hours per task. Also it provides very flexible way of reporting at multiple level including project, employee and monthly and yearly reports, which are very useful for the billing.
+content	project	Involved in writing Technical Design Documents.
+content	project	Involved in writing Controller classes, Repository classes.
+content	project	Participated in writing Entities, DTO classes.
+meta	others	E-Mail: suryapspr@gmail.com
+meta	others	Phone: +91 9790706595

@@ -1,0 +1,162 @@
+content	experience	satisfaction. Strong blend of creative and technical skills, with over 7 years of experience in architecting and
+content	experience	deploying Power BI, MSBI and .Net solutions primarily specialized on Microsoft Visual Studio, Microsoft SQL
+content	experience	from ideation, initiation, design, development through testing and launch while still writing code effectively and
+content	experience	Molina Healthcare as Technical Lead and exposure to Onshore/Offshore model delivery. Excellent knowledge in
+content	experience	  Power BI and MSBI
+header	experience	Experience Summary:
+content	experience	May, 2018 - Present, Full- Time with Mindtree as Technical Lead.
+header	experience	PROFESSIONAL EXPERIENCE
+content	experience	May, 2018 - Present.
+content	experience	management services that result in meaningful improvements in clinical quality, reductions in utilization (including acute
+content	experience	Marks and Spencer (M&S), Chennai/ India and London/UK.
+content	education	Bachelor of Technology: Major in Information Technology, Anna University, India. – 78%
+content	education	Aggregate and Precedence Constraints.
+content	knowledge	Server Management Studio (SSMS), SQL Server Integration Service (SSIS), SQL Server Reporting Service (SSRS),
+content	knowledge	Knowledge on developing SQL Server Analysis Service (SSAS), Power BI, AWS solution Architect and Azure Big
+content	knowledge	Data Analytics, UNIX shell scripts, Complex SQL queries, and .net programming.
+content	knowledge	data warehousing concepts and has vast experience in creating functional mapping documents for ETL &
+content	knowledge	  Sound knowledge on SSIS and Power BI
+content	knowledge	  Expertise in web-based technologies with HTML, CSS, JavaScript, C# and ASP.net.
+content	knowledge	  Other Tools: Autosys Workload Scheduler (Job scheduling).
+content	knowledge	  Knowledge on Amazon Web Services Cloud.
+content	knowledge	  Experienced in conducting technical interviews for laterals.
+content	knowledge	Clients: Molina Healthcare, Marks and Spencer PLC. (M&S) and United Health Group (UHG).
+content	knowledge	  Resolve production issues reported by end users within stipulated Time.
+content	knowledge	Technology Stack: Power BI, Microsoft SQL server 2008/2014, Microsoft Business Intelligence MBSI (SSIS, SSRS),
+content	knowledge	Informatica, Teradata, Salesforce, SharePoint.
+content	knowledge	Molina Healthcare Inc.
+content	knowledge	  Resolve production issues reported by end users within stipulated Time.
+content	knowledge	Technology Stack: Power BI, Microsoft SQL server 2008/2014, Microsoft Business Intelligence MBSI (SSIS, SSRS), C#,
+content	knowledge	admits/re-admits or ER visits), improved risk scores and member satisfaction.
+content	knowledge	  Resolve production issues reported by end users within stipulated Time.
+content	knowledge	Microsoft BizTalk server 2010.
+content	knowledge	as well as outstanding quality foods, responsibly sourced from around 2,000 suppliers globally. M&S employ over 75,000
+content	knowledge	GM Range planner and Contracts Management System is one of the top critical business applications for the Business
+content	knowledge	2005 and incompatible for SQL 2008. All the packages have been migrated to compatible with SQL 2008.
+content	knowledge	  Migrated the SSIS packages from SQL 2005 to SQL 2008 version.
+content	knowledge	customer/employee satisfaction and technical objectives.
+content	knowledge	Technology Stack: .NET as front end, C# as programming language, SSIS as ETL tool, SQL Server 2005/2008 as database
+content	project	Solutions-focused, cutting-edge Enterprise Information Management Specialist with track record of fusing
+content	project	technology, vision, and strategic plans to achieve successful product development, delivery and great customer
+content	project	Confident leader able to co-ordinate cross-functional teams of various sizes through entire application lifecycles,
+content	project	skilled in working with managers from client companies and translating business needs into high-quality results.
+content	project	Worked on projects for Clients such as Optum Technology (United Health Group), Marks and Spencer PLC and
+content	project	reporting tools. Have strong experience in project tracking, project status & metrics reporting, team
+content	project	management using Onshore/Offshore model.
+content	project	  Database Tools: SQL Developer, SQL Server management studio & Business Intelligence studio, Teradata SQL
+content	project	Clients: American Red Cross
+content	project	Jun, 2011 – Apr, 2018, Full- Time with Cognizant Technology Solutions as Module Lead.
+content	project	American Red Cross (ARC).
+content	project	Power BI Technical Lead
+content	project	Client: American Red Cross (ARC).
+content	project	The American Red Cross (ARC), also known as The American National Red Cross, is a humanitarian organization that
+content	project	provides emergency assistance, disaster relief, and disaster preparedness education in the United States. It is the
+content	project	designated US affiliate of the International Federation of Red Cross and Red Crescent Societies and the United States
+content	project	movement to the International Red Cross and Red Crescent Movement.
+content	project	Project: Biomed Sales and Distribution (Inventory management and Hospital Sales).
+content	project	ARC supplies roughly 40% of the donated blood in the United States, which it sells to hospitals and regional suppliers.
+content	project	Community-based blood centers supply 50% and 6% is collected directly by hospitals.
+content	project	Role and Responsibilities:
+content	project	  Handle the team of 8 members
+content	project	  Develop Inventory management and Hospital Sales reports using Power BI
+content	project	  Handle Design, Code review independently
+content	project	  Tuning ETL packages to improve the data load process
+content	project	  Deploying the packages/Reports and executing the data load
+content	project	  Preparation of Technical design documents by analyzing the business requirement for enhancement work.
+content	project	  Participate in analysis, coding, testing and documentation.
+content	project	  Training team members in understanding the different vulnerabilities
+content	project	  Effectively provided possible solution and created new automated processes to reduce manual work and man
+content	project	  Analyzed applications, created ETL Maps using SSIS, and modified them based on need.
+content	project	  Design and developed stored procedures, functions, schedulers using SQL server TSQL
+content	project	Involved in sharing knowledge gathered with the team members.
+content	project	  Significant contribution in training the entire off shore team in SSIS as well as MSBI concepts.
+content	project	  Responsible for Project Status reporting on weekly/monthly basis.
+content	project	MSBI /DWBI-ETL Module Lead
+content	project	Feb, 2016 – Apr, 2018.
+content	project	Client: Molina Healthcare Inc.
+content	project	Molina Healthcare's mission is to provide quality health services to financially vulnerable families and individuals
+content	project	covered by government programs. Molina Healthcare has health plans, medical clinics and a health information
+content	project	Project: Premium Reconciliation Application (Financial Reports Generation using Power BI).
+content	project	PRA (Premium Reconciliation Application) is currently used by Molina to reconcile payments from states. The application
+content	project	calculates the expected premium based on eligibility data in QNXT (Product). Payments received from CMS and the
+content	project	states are loaded from 820 files. The PRA engine runs on the nightly basis and reconciles receivables with payments to
+content	project	generate discrepancies
+content	project	Role and Responsibilities:
+content	project	  Develop Technical design document.
+content	project	  Develop Business Level Finance reports using Power BI
+content	project	Involved in Maintenance and Enhancement of Applications.
+content	project	  Deploying the packages/Reports and executing the data load.
+content	project	  Designed the ETL processes using SSIS to extract data from flat files to SQL Server and SQL server to Flat file,
+content	project	Excel doc.
+content	project	  Preparation of Technical design documents by analyzing the business requirement for enhancement work.
+content	project	  Handle data requests from the Operations and Production Management Group.
+content	project	  Participate in analysis, coding, testing and documentation.
+content	project	  Training team members in understanding the different vulnerabilities
+content	project	  Effectively provided possible solution and created new automated processes to reduce manual work and man
+content	project	  Analyzed applications, created ETL Maps using SSIS, and modified them based on need.
+content	project	  Design and developed stored procedures, functions, triggers, schedulers using SQL server TSQL
+content	project	Involved in sharing knowledge gathered with the team members.
+content	project	  Significant contribution in training the entire off shore team in SSIS as well as MSBI concepts.
+content	project	  Responsible for Project Status reporting on weekly/monthly basis.
+content	project	VB.Net and Microsoft BizTalk server 2009.
+content	project	United Health Group (UHG).
+content	project	MSBI /DWBI- ETL Module Lead
+content	project	Apr, 2014 – Jan, 2016.
+content	project	Client: United Health Group (UHG)
+content	project	INSPIRIS offers proactive, high-touch, scalable services that are provider-led and patient-centric.  As a leading health
+content	project	Project: Care Deliver Management Application Support and Enhancement.
+content	project	The project is to extract, transfer and Load the Member, Eligibility, Provider, Claim and other medical details for various
+content	project	Health plans using the ETL process (SSIS) and generates the Census, 837 Claim files, HL7 member files and other medical
+content	project	reports using SSRS and BizTalk process.
+content	project	Role and Responsibilities:
+content	project	  Preparation of Technical design documents by analyzing the business requirement for enhancement work.
+content	project	  Tuning ETL packages to improve the data load process.
+content	project	  Deploying the packages/Reports and executing the data load.
+content	project	  Designed the ETL processes using SSIS to extract data from flat files to SQL Server and SQL server to Flat file,
+content	project	Excel doc.
+content	project	  Design the SSIS packages which transfer the assessment details to health plan organization through Secure FTP
+content	project	  Participate in analysis, coding, testing and documentation.
+content	project	  Training team members in understanding the different vulnerabilities
+content	project	  Effectively provided possible solution and created new automated processes to reduce manual work and man
+content	project	  Analyzed applications, created ETL Maps using SSIS, and modified them based on need.
+content	project	  Design and developed stored procedures, functions, triggers, schedulers using SQL server TSQL
+content	project	Involved in sharing knowledge gathered with the team members.
+content	project	  Significant contribution in training the entire off shore team in SSIS as well as MSBI concepts.
+content	project	  Responsible for producing the SLA metrics report for Open/closed tickets on monthly basis.
+content	project	  Developed SSIS packages which generate the Daily Hospital census reports for various HP clients which helped
+content	project	the HP to track the patient Hospitalization status across locations in US.
+content	project	Technology  Stack: Microsoft  SQL  server 2008/2012, Microsoft  Business  Intelligence  MBSI  (SSIS,  SSRS),  C#,  VB.Net  and
+content	project	Product Specialist
+content	project	Client: Marks and Spencer plc.
+content	project	Established by Michael Marks and Tom Spencer in 1884, Marks & Spencer is one of the UK's leading retailers, with over
+content	project	21 million people visiting the stores each week. M&S offer stylish, high quality, great value clothing and home products,
+content	project	Project: Range planner SQL 2008 Migration.
+content	project	users and plays a pivotal role in General Merchandise area for the Product planning and forecasting and product
+content	project	development. Business user creates the stroke (a product) for GM Business unit using RP application and develop the
+content	project	product through the product life cycle in CMS until the products comes to the warehouse or stores. Both internal
+content	project	Business users as well suppliers will be using these applications to get the required product in stores for GM business of
+content	project	GM Range planner (RP) application was running on SQL 2005. All the SSIS packages/Jobs are compatible only with SQL
+content	project	Involved in Maintenance and Enhancement of .Net Applications.
+content	project	  Handle data requests from the Operations and Production Management Group.
+content	project	  Resolve production issues reported by end users within stipulated time based on the priority/Severity.
+content	project	Involved in building the Code build and deployment in the production and Test servers
+content	project	  Training team members in understanding the different vulnerabilities
+content	project	  Effectively provided possible solution and created new automated processes to reduce manual work and man
+content	project	  Designed the ETL processes using SSIS to extract data from flat files to SQL Server and SQL server to Flat file,
+content	project	Excel doc.
+content	project	  Designed, developed SSIS mappings, enabling the extract, transport and loading of the data into target files.
+content	project	Identified source systems connectivity, related tables and fields and ensure data suitably for mapping.
+meta	project	  Used SSIS tasks namely Dataflow, Data sources, Derived Column, Conditional Split, Union All, Sort, Pivot,
+content	project	Identified the bugs in the data extraction tool (SSIS) and modified the package to process the data successfully at
+content	project	  On-Site Co-coordinator at a later point of time.
+content	project	Lead the entire offshore GM Distributed team to achieve milestones set in delivering the Ticket reduction.
+content	project	  Owned the Process and Quality oriented tasks also involved in preparing artifacts for CMMI audit.
+content	project	  Significant contribution in developing custom reports for audit compliance.
+content	project	  Responsible for producing the SLA metrics report for Open/closed tickets on Weekly/monthly basis.
+content	project	24th June 1990
+meta	others	Rajaram SenthilRaj
+meta	others	Email: rajaramsenthil.s@gmail.com Mobile: +91 9952464499
+meta	others	  Used SSIS tasks namely Dataflow, Data sources, Derived Column, Conditional Split, Union All, Sort, Pivot,
+meta	others	Date of birth
+meta	others	Nationality
+meta	others	Marital status

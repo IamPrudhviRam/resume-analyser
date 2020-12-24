@@ -1,0 +1,122 @@
+header	experience	EXPERIENCE SUMMARY
+content	experience	Having 11 years of experience in design and development of JavaEE applications.
+content	experience	Experience in Agile Development and Test-Driven Development.
+content	experience	Experience in developing micro services with PCF platform.
+content	experience	Experienced with Java Tools like Eclipse, RSA, RAD, and Net beans.
+content	experience	Experienced with Web Sphere Application Server and Apache Tomcat Web Server.
+content	experience	Knowledge on Web Sphere configurations like JNDI, LDAP and JDBC connection Pools.
+content	experience	Experienced in Amazon Web Services (AWS) cloud platform and services like S3, Lambda, and Data Pipeline.
+content	experience	Good in problem study, Analysis and define methodical approach to problem solution.
+header	experience	PROFESSIONAL EXPERIENCE
+content	experience	Currently working in Birlasoft Limited, Hyderabad as technical lead from Oct-2017 to till date.
+content	experience	Currently working in Info Vision Labs India Pvt Ltd., Pune as technical lead from Aug-2016 to Sep- 2017.
+content	experience	Worked as a Software Developer in Manac Info Tech Pvt Ltd, Hyderabad, from May-2008 to Jun-2010
+content	experience	Participated in the requirements analysis and technical assessments.
+content	experience	Build and deploy micro services into PCF.
+content	experience	Participated in the requirements analysis and technical assessments.
+meta	education	B. Tech (Electronics & Communication) from JNTU University, A.P
+content	knowledge	Experience in developing web-based applications using Servlets, JSP, RESTful, Struts 1.x, Strtus 2.x, Spring AOP,Spring boot, Hibernate, JPA, AngularJS etc.
+content	knowledge	Good exposer on tools like JIRA, Bitbucket and Jenkin.
+content	knowledge	Servers : Tomcat 8.0, Websphere 8.0, Websphere 6.1, Tomcat 5.0
+content	knowledge	RDBMS : MySQL, DB2, Oracle 9i/11g
+content	knowledge	ORM : JPA, Hibernate
+content	knowledge	Operating Systems : MS Windows XP/7, Linux, AIX
+content	knowledge	IDE : Eclipse, RSA 7.5, RAD 8.0, Net Beans, TOAD
+content	knowledge	Logging Tool : Log4j, splunk
+content	knowledge	Version Control Tools : Git(bit bucket), VSS
+content	knowledge	Environment: Java, J2EE, Spring Boot, SpringREST, SpringJDBCTemplate, Swagger, Eclipse, Oracle 11g, Tomcat 8.0
+content	knowledge	Environment: JDK1.6, Struts 2.1, Hibernate 3.0, JPA, jQuery, RAD 8, DB2 9.7, Web Sphere 8.0, Linux
+content	knowledge	Developed UI using JSP, Ajax.
+content	knowledge	Environment: JDK1.6, RAD 8.0, DB2 9.7, Windows XP
+content	knowledge	Environment: JDK1.5, POI API, RSA 7.5, DB2 9.1, Windows XP
+content	knowledge	Developed view using JSP, HTML.
+content	knowledge	Environment: JDK1.4, Struts 1.2, Net Beans, Tomcat 6.0, Oracle 9i, Windows XP
+content	knowledge	Developed view using JSP, HTML.
+content	project	Ability to deliver quality work under pressure and attitude to meet client deadlines.
+content	project	Languages : Java/J2ee
+content	project	Web Technologies : Servlets, Jsp, Struts 1.x, Struts 2.x, Spring 3.0/4.0, Spring Boot, RESTFul Web services, AngularJS, ReactJS
+content	project	Cloud : AWS, S3, PCF
+content	project	Worked as a senior system analyst in Concentrix Daksh Services India Pvt. Ltd., Bangalore as from Feb-2012 to July-2016.
+content	project	Worked as a Software Developer in IBM GPS, Gurgaon from July-2010 to Jan-2012.
+content	project	Project: Intelligent Virtual Assistant (IVA) Oct’17 – Till Date
+content	project	Client: Synchrony Financial Description: IVA is a chat bot application for synchrony cardholders to provide details about account holder. An account holder can initiate chat with virtual assistant to know about the detail of account balance, request for diferent services like late fee waiver, Credit balance refund, Name Change etc. and he can ask the details about previous transaction via chatting only. This application is built via using of different micro services. This service will also provide the update to the customer if account is eligible for getting late fee waiver or not.
+content	project	Roles and Responsibilities:
+content	project	Involved in development of the Application using SpringBoot framework.
+content	project	Involved in Data Retrieval as well as Manipulation using Spring JDBCTemplate.
+content	project	Unit testing and integration testing of owning use cases.
+content	project	Environment: Java, J2EE, Spring Boot, SpringREST, SpringJDBCTemplate, Maven, PCF, Swagger, Eclipse, Tomcat 8.0
+content	project	Project: JITR Aug’16 – Sep' 17
+content	project	Client: Verizon Wireless, USA Description: JITR is one of the subsystems of Verizon Wireless - Billing Test Automation. It caters to automating tasks involved in testing activities of IT system for different releases. IT system comprises of subsystems/applications like DVS, VISION, JITR, CPI and others. In existing testing process involves lot of manual intervention in testing JITR system for various releases. This manual intervention is in form of uploading data, validating data, running jobs, executing API’s and verifying results using database.
+content	project	JITR automation will target to minimize manual intervention and thereby improving efficiency of testing and project management processes. This will enable Verizon Wireless to have IT system with more streamlined and effective internal processes.
+content	project	Roles and Responsibilities:
+content	project	Involved in development of the Application using SpringBoot framework.
+content	project	Involved in Data Retrieval as well as Manipulation using Spring JDBCTemplate.
+content	project	Unit testing and integration testing of owning use cases.
+content	project	Project: ZETTA Jun’15 – Jul’16
+content	project	Client: Concentrix Description: ZETTA Application intends to unify the major requirements from different account in organization to produce a one stop solution to answer their monitoring needs against some key aspects through its modules namely • Coaching Module -- Engagement to gauge employee satisfaction and prepare action plan • Quality Module -- Solution to audit and maintain transaction quality • Quiz and Survey Management -- Periodically access agents on skill • Knowledge Base Module -- Central repository to maintain and manage knowledge • News Module -- Timely Cascading of information to suit the dynamics of contact center business • User Management Module -- All the user related tasks will reside within this module • Performance Metric Management Module -- To upload metric based performance for reporting purpose
+content	project	Roles and Responsibilities:
+content	project	Involved in development of the Application using RESTful Jersey framework.
+content	project	Involved in Data Retrieval as well as Manipulation using Hibernate.
+content	project	Involved in development of UI integration with REST services using angularJS.
+content	project	Involved in development of file upload into Amazon S3 bucket.
+content	project	Environment: JDK1.7, Jersey 2.17, Spring 4.0, Hibernate 4.3, AngularJS, Eclipse, MySQL, Tomcat 8.0 and Amazon cloud
+content	project	Project: GAIN Manager Mar’14 – May’15
+content	project	Client: IBM GPS Description: GAIN Manager is the Performance Management application. GAIN Manager calculates the Monthly incentives and arrears of all employees who are belong to band 3 to 7 and job family of operations and quality. The following modules will be addressed by the application: • Performance Metric Management Module • Incentive Rule Management Module • Approval hierarchy Management • Arrear Module • Budget Module • Reports Module • Payout Module
+content	project	Roles and Responsibilities:
+content	project	Involved in development of the Application using Struts 2 framework.
+content	project	Involved in Data Retrieval as well as Manipulation using Hibernate.
+content	project	Performed Client side validations Using Validation Framework.
+content	project	Environment: JDK1.6, SpringMVC, Hibernate 3.0, RAD 8, DB2 9.7, Web Sphere 8.0
+content	project	Project: UnI Feb-11 to Mar-14
+content	project	Client: IBM GPS
+content	project	Description: U-n-I is a system to capture the performance and attrition pattern of the employees. Apart from capturing the performance and attrition pattern of the employee, the system will be used for mapping newly appointed agents to different trainers. The performance of the employees will be captured using tools like OneOnOne and EWI. Depending upon the roles of the employees they can view different historical data of the employees who directly or indirectly report to him.
+content	project	UnI is designed to host different types of meets online such as OxO template/New OxO template, HR Skip Meeting , Manager Skip Meeting so that anyone authorized person can view all current status of any employee like employee’s current EWI rating, his releasable status, historical OxO record etc.
+content	project	Roles and Responsibilities:
+content	project	Involved in development of the Application using Struts 2 framework.
+content	project	Developed UI using JSP, Ajax, Jquery and JGrid.
+content	project	Involved in implementing of i18n in the application.
+content	project	Involved in Data Retrieval as well as Manipulation using Hibernate.
+content	project	Performed Client side validations Using Validation Framework.
+content	project	Involved in migrating application from hibernate to JPA technology.
+content	project	Project: DNC Project Jan-13 to Apr-14
+content	project	Client: IBM GPS
+content	project	Description: - DNC (Do Not Call) application is serve as a centralized web-based application which helps the business operations to be compliant with the legal requirements provided by TRAI. When user upload data, the tool will automatically trigger a comparison among the existing TRAI data and the customer data provided by the bank to check for update in do not call data. Mainly the application serves the outbound phone number calling list with comparison of existing TRAI data.
+content	project	Roles and Responsibilities:
+content	project	Involved in development of the Application using Struts framework.
+content	project	Involved in database design.
+content	project	Project: ODM Project Aug-10 to Jan-11
+content	project	Client: IBM GPS
+content	project	Description: - ODM is a java based application utility which is used to extract the HR information’s from the people soft database and create a HR report (Excel Format and Encrypted format) and later to be uploaded into the Australian Server. ODM are event based process which takes two parameters during the runtime D–DELTA FEED and F–FULL FEED. The ODM utility is triggered by a windows scheduler on daily basis automatically. Upon the event getting triggered the ODM generates log files which include the report of the HR extract details from the people soft database. Upon the event getting triggered by the parameter D-DELTAFEED will extract the HR details based on the daily intervals from the previous day to the current day consecutively. When report needs to be generated for a whole period on account of even trace or audit, the parameter F-FULLFEED can also be applied. ODM also gives provision for the triggered event on manual basis when the parameter is F.
+content	project	ODM stand for Operational Data Mart. In this project we have to send the IBM employee details to Client.
+content	project	Roles and Responsibilities:
+content	project	Involved in Data Retrieval as well as Manipulation using JDBC.
+content	project	Involved in Writing Database Queries.
+content	project	Project: Dream Jobs Oct-09 to Jun-10
+content	project	Client: Om Technologies
+header	project	Description:
+content	project	Dream Jobs is a job portal and the main objective of this application is to ease the process of searching for jobs by job seekers and employers to post their jobs and to search for job seekers. This portal helps to hire the highest quality candidates in the shortest possible time frame. Dream Jobs makes it easy for visitors to find and apply for their suitable positions by using customized job search operation. This also provides job messenger to inform the job seekers about the new positions by automatically sending emails to the job seekers. This also makes it easy to the recruiting firms to search for the right candidates using the search options provided for the recruiters and to send emails for the job seekers to inform about their new positions.
+content	project	Roles and Responsibilities:
+content	project	Involved in development of the Application using Struts framework.
+content	project	Developed view using JSP, Ajax.
+content	project	Involved in Data Retrieval as well as Manipulation using JDBC.
+content	project	Involved in Writing Database Queries
+content	project	Performed Client side validations Using Validation Framework
+content	project	Environment: JDK1.5, Struts 1.2, Net Beans, Tomcat, Oracle 10g, Ajax, Windows XP
+content	project	Client: Glory Corp
+header	project	Description:
+content	project	We Care is intended to automate different activities performed by a typical Health Care agency. Agency maintains special care staff to provide services to registered consumers at their home by performing required tasks such as giving bath, giving medicines, and some health checkup activities. Service can also be provided in the home of the care giver, as with respite. The system captures and tracks the information to allow a seamless way of providing services.
+content	project	Roles and Responsibilities:
+content	project	Involved in development of the Application using Struts framework.
+content	project	Involved in Data Retrieval as well as Manipulation using JDBC.
+content	project	Involved in Writing Database Queries
+content	project	Project: HRMS Jul-08 to Jan-09
+header	project	Description:
+content	project	The overall objective of HRMS is to create Human Resource Database and put in place hardware and software systems to update and maintain the database. This database facilitates uniform decision making process on employee records in a predictable time. The System provides a consistent and unified picture of the employee data facilitating an error free and correct generation of pay bills and salary slips. The System facilitates electronic transfer of pay bill data to the relevant Treasury. Transfers and promotions are computerized
+content	project	Roles and Responsibilities:
+content	project	Involved in Data Retrieval as well as Manipulation using JDBC.
+content	project	Involved in Writing Database Queries
+content	project	Environment: JDK1.4, Servlets, Jsp, JDBC, Oracle 9i, Tomcat 5.0 and Eclipse.
+meta	others	E-mail: ksandeep7575 @gmail.com Mobile: 08802490179
+meta	others	B. Tech (Electronics & Communication) from JNTU University, A.P
+meta	others	Date of Birth : 4th Aug, 1984
+meta	others	Marital Status : Married

@@ -1,0 +1,24 @@
+content	education	Electronics and Communication Engineering ,
+content	education	Saranathan college of Engineering.
+content	education	➢  B.E in Electronics and Communication Engineering(2016-
+content	education	2019)  - 6.2 CGPA
+content	education	Saranathan College of Engineering , Trichy.
+content	education	➢  Diploma in Electronics and Communication Engineering
+content	education	((2014-2016) 67%
+content	education	Seshasayee Institute of Technology , Trichy
+content	education	➢  HSC in  (2013-2014) -63.5%
+content	education	Ponniah higher secondary School , Trichy.
+content	education	➢  SSLC                                     (2011-2012)-47%
+content	education	St. Joseph higher secondary School , Trichy.
+content	education	“Saranathan college of Engineering”, Trichy.
+header	knowledge	CAREER OBJECTIVE:
+content	knowledge	I seek challenging opportunities where I can fully use my skills for
+header	knowledge	AREAS INTEREST:
+content	knowledge	➢  Networking.
+content	knowledge	➢  Angular ( html, css , typescript)
+content	knowledge	: 57 Keela padaiyachi St,
+content	project	➢  Got  prize in Mini  project presentation conducted by
+meta	others	:saravananthiyagarajan99@
+meta	others	DOB                 : 25th Oct 1996
+meta	others	SEX                  : Male
+meta	others	NATIONALITY : Indian

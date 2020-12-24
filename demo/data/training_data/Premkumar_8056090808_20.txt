@@ -1,0 +1,34 @@
+content	education	PREMKUMAR M
+content	education	Apollo Arts and Science College
+content	education	Bachelor in Computer Science, 71%, 2016
+content	education	University Of Madras, Department of Computer
+content	education	Master of Computer Application, 6.8, Pursuing
+content	education	(PREMKUMAR M)
+content	knowledge	JavaScript , NodeJS ,TypeScript ,
+content	knowledge	Field of Interest
+content	knowledge	I am  Interested to Exploring a
+content	knowledge	Data set and Predicting and
+content	knowledge	I am Interested to Create Some
+content	knowledge	Web Development
+content	knowledge	company then i can prove myself in work.
+content	knowledge	Explore on Web for Something interesting
+content	project	Visualization Technique
+content	project	Application
+header	project	Project Details
+meta	project	INTERNSHIP 1 @ Appropriate Technology
+content	project	Developed University Website Module
+content	project	Period : October 2017 to January 2018       Team
+content	project	Role : Web Development
+meta	project	INTERNSHIPS 2 @ Appropriate Technology
+content	project	Developed Login page
+content	project	Period : May 2018 to June 2018       Team Size: 2
+content	project	Role : Web Development
+content	project	Team Lead, Ability work under Pressure and
+meta	others	premvenkat786@gmail.com
+meta	others	No 19/20 Rukmani Ammal Street
+meta	others	K K Nagar Chennai -78
+meta	others	INTERNSHIP 1 @ Appropriate Technology
+meta	others	INTERNSHIPS 2 @ Appropriate Technology
+meta	others	something New.
+meta	others	Reading Tamil Novels and  Traveling
+meta	others	I hereby declare that all the details furnished above

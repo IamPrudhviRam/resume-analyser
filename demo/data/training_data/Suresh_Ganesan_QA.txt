@@ -1,0 +1,20 @@
+content	experience	To seek a challenging position in corporate environment and work enthusiastically in team to achieve goal of the organization with dedication and smart work
+content	experience	5.1 years of work experience in the software testing in both automation and manual.
+content	experience	Have strong experience in developing and executing the test cases.
+content	experience	Have experience in UI Automations testing, API Automation testing and non functional testing.
+content	experience	Worked with clients directly.
+header	experience	EXPERIENCE:
+content	experience	Worked as “Software Testing Engineer - Associate” for last 4 Years in Vernalis Systems, Chennai.
+content	experience	Currently working as a “Test Analyst ” in Infosys from past 1.1 year.
+content	knowledge	Good knowledge in Core Java, JIRA, Fog Bug, Jmeter, Load Runner, Selenium and cucumber.
+content	knowledge	Strong knowledge in STLC and SDLC process.
+content	knowledge	Strong analytical and problem solving skills and Ability to learn new tools and technologies.
+content	knowledge	Good team player with strong interpersonal skills.
+header	knowledge	CERTIFICATION:
+content	knowledge	Manual and Selenium Automation Testing -QSpiders institute, Chennai - Year: 2014.
+content	knowledge	 Awarded employee of the month in very short period - November 2014 and again in Feb 2017.
+content	project	Have extensive knowledge in Functional testing, Regression testing, identifying defects and track risks.
+meta	others	MOBILE:+919003135362
+meta	others	Father’s Name : GANESAN. M Date of Birth : 20 October 1991
+meta	others	Sex : Male Nationality : Indian Marital Status :Married
+meta	others	Languages Known : English and Tamil

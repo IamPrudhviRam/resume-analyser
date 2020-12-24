@@ -1,0 +1,87 @@
+meta	others	ARAVINDHAN.T.R
+meta	others	Mobile No:9751127687
+meta	others	#37,G1,Ashtalakshmi Flats,
+meta	others	Email:aravindhantr30@gmail.com
+meta	others	Vijayalakshmi Nagar,1st main Rd,
+meta	others	DOB: 30-Aug-1995
+meta	others	Kattupakkam,Chennai-56
+header	knowledge	Career Objective
+content	knowledge	To  associate  with  an  organization  that  gives  me  a  chance  to  prove  my  knowledge  and
+content	knowledge	efficiency  and  enhance  my  skills  in  the  field  of  the  technology  and  be  a  part  of  the  team  that
+content	knowledge	excels in work towards the growth of the organization.
+header	education	Academic Qualification
+content	education	Degree/Course  Institution
+content	education	University/
+content	education	Board
+content	education	Percentag
+content	education	e/CGPA
+content	education	Year  of
+content	education	Passing
+content	education	MCA
+content	education	BCA
+content	education	H.S.C
+content	education	S.S.L.C
+content	education	C.Abdul  Hakeem  College
+content	education	Of
+content	education	and
+content	education	Technology, Vellore.
+content	education	Engineering
+content	education	Anna
+content	education	University
+content	education	7.9
+content	education	C.Abdul Hakeem College,
+content	education	Vellore.
+content	education	SRKM Higher
+content	education	Secondary School-Arcot
+content	education	SRKM Higher Secondary
+content	education	School-Arcot
+content	education	Thiruvalluvar
+content	education	University
+content	education	6.4
+content	education	State Board  73%
+content	education	Matriculatio
+content	education	n
+content	education	81%
+content	education	2019
+content	education	2016
+content	education	2013
+content	education	2011
+header	knowledge	Technical Proficiency
+content	knowledge	:
+content	knowledge	Languages
+content	knowledge	C, C++,JAVA
+content	knowledge	Methodologies
+content	knowledge	OOPS
+content	knowledge	Software Packages
+content	knowledge	MS-Office.
+content	knowledge	Database
+content	knowledge	SQLServer.
+content	knowledge	Operating system
+content	knowledge	Windows 10
+content	knowledge	Web Design
+header	knowledge	HTML, Java Script, CSS.
+content	knowledge	Trainings
+meta	knowledge	•  Participated in Short Term Training Program on Web Development using PHP in
+content	knowledge	C.Abdul Hakeem College of Engineering and Technology, Vellore.
+content	knowledge	•  Participated in state level technical symposium on Big data and its opportunities
+content	knowledge	Which was held in Arcot Mahalakshmi College, Vellore.
+content	knowledge	•  Participated  in  National  level  technical  symposium  on  Machine  Learning  –  AI
+content	knowledge	Workshop  by  MICROSOFT  held  at  College  of  Engineering,  Guindy,  Anna
+content	knowledge	University.
+header	others	Personal Skills
+content	others	✓  Willingness to learn.
+content	others	✓  Good team player.
+content	others	✓  Leader Ship quality.
+header	others	Personal profile
+meta	others	Name
+meta	others	: T.R.Aravindhan
+meta	others	Father’s name
+meta	others	: T.C.Ravikumar
+meta	others	Gender
+meta	others	Language
+meta	others	Nationality
+meta	others	Permanent Address
+meta	others	: Male
+meta	others	: English, Tamil
+meta	others	: Indian
+meta	others	: 100, Anaicut Road, Thirumalaicherry, Walajapet,

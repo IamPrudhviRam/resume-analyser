@@ -1,0 +1,26 @@
+meta	others	Lakshmi Durga Prasad Yandra
+meta	others	Mobile: +91-7995669558
+content	others	CAREER OBJECTIVE:
+content	others	To grow personally and professionally, with full determination and dedication to achieve organizational as well as personal goals.
+header	experience	PROFESSIONAL EXPERIENCE:
+content	experience	Software Developer in HTC Global Services with 3+ years of experience (2016 to Present)
+header	education	Education:
+meta	education	B.TECH in Computer Science (2010-2014) at Swarnandhra Institute Of Engineering & Technology & Science, JNTU Kakinada with 63.20% .
+header	knowledge	Key Skills:
+header	knowledge	Web Technologies:
+content	knowledge	Angular7, Java Script, HTML5, CSS3, JQuery, AJAX, Bootstrap.
+header	knowledge	Databases:
+content	knowledge	MSSQL Server, PostgreSQL
+header	knowledge	Version Control:
+content	knowledge	SVN.
+header	knowledge	Tools:
+content	knowledge	VS Code, Smart Communication, Eclipse and Form Builder
+header	project	PROJECT: My BBMC
+content	project	PROJECT: Service Focus
+meta	others	PERSONAL PROFILE:
+meta	others	Father’s Name : Prakasa Rao
+meta	others	Date of birth : 16-03-1993
+meta	others	Permanent Address : D. No.2-93,china sarava,
+meta	others	Lakshmaneswaram post, naraspur mandal,
+meta	others	West Godavari dt, Andhra Pradesh –534275
+meta	others	Languages Known : English and Telugu.

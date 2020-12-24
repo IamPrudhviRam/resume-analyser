@@ -1,0 +1,31 @@
+header	experience	Professional Expertise
+content	experience	Currently working in Capgemini India Pvt Ltd as Senior Consultant-.
+content	experience	Excellent understanding of Core Java 8, j2ee (Hibernate,Spring 4.0(Core,MVC with Rest WebService).
+content	experience	Experience in working with databases like Oracle 9iDB29.7,SQL Developer
+content	experience	Good exposure to SDLC & Agile Methodologies.
+content	experience	Exposure to Design Pattern(Singleton, Factory, Dependncy Injection).
+header	education	Education Summary
+content	education	Master in Computer Applications (MCA), Kalinga University Chhattisgarh, 2002-2005
+content	education	Intermediate, D.S College, 1996-1999
+content	education	SSC, Rangadhar High School, 1996
+content	knowledge	Having 8+ years of Experience knowledge in Core Java(1.5)J2EE(Spring (core ,MVC Rest,,Hibernate), Javascript, HTML,XML
+header	knowledge	Career Objective
+content	knowledge	Added Spring Boot Starter dependencies in Maven Config file.
+content	knowledge	Used Embedded Tomcat Server and actuator end points.
+content	knowledge	Developed Model Layer using JpaRepository in Spring Data Jpa.
+content	knowledge	Added both REST and Messaging End points to communicate microservices through HTTP and AMQP protocols using RabbitMQ Server.
+content	knowledge	Good knowledge in java 8 .
+content	knowledge	Good knowledge in Application Server and Web Server i.e JBOSS 5.0, Tomcat
+content	knowledge	Having strong knowledge in developing and deploying Web application (In Jenkins ,Nexus)
+content	knowledge	Knowledge on configuration tool i.e CVS, Star Team, SVN
+header	knowledge	Technical Proficiency
+content	knowledge	Good interpersonal and public relation skills.
+content	knowledge	A team player that brings enthusiasm & energy into group efforts.
+content	project	Used Spring Boot Autoconfiguration for built-in classes.
+content	project	Designed and Implemented Microservices using Spring Boot
+content	project	Initiative, creative and able to learn new technologies and systems with strong emphasis on handling a team.
+content	project	Competent in mapping client requirements to technical specifications, designing, testing and implementation of the same productively.
+content	project	Interacted with various clients as a part of the team involved in requirements analysis, this included understanding the features expected by the clients.
+meta	others	SISIR KUMAR SAMAL
+meta	others	Personal Strengths
+meta	others	Ambitious and prepared to work hard to obtain my goal.

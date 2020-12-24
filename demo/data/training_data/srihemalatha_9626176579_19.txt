@@ -1,0 +1,22 @@
+header	education	Academic Qualification
+header	education	Qualification
+content	education	Bharathiyar Institute Of Engineering
+content	education	Arasunagar Matric Higher
+content	education	Secondary School
+content	education	Arasunagar Matric Higher
+content	education	Secondary School
+content	education	Engineering College.
+content	education	(S.Srihemalathaa)
+content	knowledge	❖  Participated International Workshop on “Robotics Revolution” held by IIT
+content	knowledge	Programming  Languages
+content	knowledge	❖  Angular,Javascript,Html,c++
+header	project	Mini project
+content	project	TITLE: Bus Reservation System
+content	project	DESCRIPTION: The online bus reservation system will be done in our project by using
+meta	others	Name:S.Srihemalathaa
+meta	others	E-mail:s.srihema2598@gmail.com
+meta	others	Phone: 9626176579
+meta	others	of java programs.
+meta	others	Date of Birth
+meta	others	Permanent Address
+meta	others	: 83, A Periyar Nagar, Small Street,

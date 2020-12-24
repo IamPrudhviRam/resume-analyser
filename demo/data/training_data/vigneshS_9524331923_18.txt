@@ -1,0 +1,54 @@
+header	education	Educational Qualification:
+content	education	Board/University   Year of
+content	education	Dr.NGP College of
+content	education	Bharathiyar University
+content	education	Arts & Science,
+content	education	(Autonomous)
+content	education	State Board
+content	education	School, Tiruppur
+content	education	State Board
+content	education	School, Tiruppur
+header	knowledge	Career Objective:
+content	knowledge	Core Subjects:
+content	knowledge	Software Engineering and Testing
+content	knowledge	•  C,C++, Java(Basics)
+content	knowledge	•  Cyber Security
+content	knowledge	•  Big Data Analytics
+content	knowledge	•  Web Programming & Web Designing.
+content	knowledge	Front End : Asp.net
+content	knowledge	Back End: Mysqul
+content	knowledge	Technical Course :
+content	knowledge	Description : I have created an application in AngularJs. In this application I used services,
+header	knowledge	Certification:
+header	knowledge	Computer Proficiency Skills:
+content	knowledge	C, Java, HTML ,AngularJS
+content	knowledge	Windows 8 & 10
+content	knowledge	Basic Trouble Shooting, All Software Installation
+content	project	Govt Hr.Sec
+content	project	Govt Hr.Sec
+content	project	•  Data Mining
+content	project	Final year Project:
+content	project	Title : Web Based Alumni File Sharing Process
+content	project	Environment
+content	project	Project Owner: Self
+content	project	Description: I have created software to support collage admin team circulate event details in one short
+content	project	and provide update on upcoming events like interview, cultural events. This save time and helped students
+content	project	to get information handy and timely.
+header	project	SIGNIFICANT PROJECT:
+content	project	Title : Shopping Mart
+content	project	Routing, Bootstrap, Many Npm’s, pipes, Events. etc. The main purpose of this shopping cart is
+content	project	that provides the customers to calculate easily what all they purchase whether it is goods or
+meta	others	vigneshtheoptimus@gmail.com
+meta	others	Examination   Discipline   School/College
+meta	others	•  Asp.Net, VB.net
+meta	others	Duration: 6 Months
+meta	others	British English Certification
+meta	others	Date of Birth
+meta	others	Marital Status
+meta	others	Father Name
+meta	others	Mother Name
+meta	others	31 December 1997
+meta	others	English, Tamil & Malayalam
+meta	others	Address for Communication
+meta	others	:           No.3022, Ram Nagar 6th Main Road,
+meta	others	Chennai – 600091.

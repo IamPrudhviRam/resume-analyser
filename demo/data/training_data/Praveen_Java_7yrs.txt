@@ -1,0 +1,93 @@
+header	others	CURRICULUM VITAE
+meta	others	PraveenKumar Malladi E-mail: praveenmalladi@gmail.com
+meta	others	Mobile: +91-9052976012
+content	experience	Around 7yrs of experience in developing J2SE and J2EE applications using Frameworks(SpringBoot, Spring, Hibernate), Wildfly, WebLogic, Glassfish, Tomcat, Eclipse, Log4J.
+content	experience	Hands on experience in developing applications using Spring Boot, JPA, Hibernate.
+content	experience	Hands on experience in Design Patterns, Swagger integration with Spring Boot.
+content	experience	Good Understanding of UML.
+content	experience	Knowledge on SQL.
+content	experience	Working as Lead Engineer at Pervacio India Pvt. Ltd, Hyderabad since Jan/2017 – Till Date.
+content	experience	Worked as Sr. Software Engineer at Pervacio India Pvt. Ltd, Hyderabad since November/2015 – December/2016 with the payroll of CBSI India Pvt. Ltd.
+content	experience	Worked as Sr. Software Engineer at Accenture India Pvt. Ltd., Hyderabad since October/2014 – Apr/2015 with the payroll of SourceOne.
+content	experience	Worked as Software Engineer at IBM India Pvt. Ltd, Bangalore from October/2013 – June/2014 with the payroll of Experis IT.
+content	experience	Worked as Software Engineer at YBR Infotech Pvt. Ltd, Hyderabad from Jan/2012 – October/2013
+content	project	Project - I:
+content	project	Name : Pervacio Warehouse
+content	project	Technology : J2SE, Spring Boot, JPA
+content	project	Environment : MySQL, Windows 8.1 OS
+content	project	Server : Wildfly, Apache
+content	project	Duration : November/2015 – Till Date.
+content	project	Role : Lead Engineer
+content	project	Project Description:
+content	project	A complete suite of products for after-sales & reverse warehousing operations, Pervacio’s Warehouse platform enables you to automate existing manual diagnostic checks, optimize device cataloguing & inventory and build resilience into your supply chain, all whist ensuring devices leave the factory floor in forensically certified, pre-sale condition.
+content	project	Reduce staff cost through an automated approach
+content	project	Process multiple devices, across multiple platforms simultaneously
+content	project	Standardize device asset tagging & information capture
+content	project	Effortless and secure wiping of device data
+header	others	Contribution:
+content	project	Developed business logic according to client Requirement.
+content	project	Implementing Spring Rest Services.
+content	project	Implementing DAO, Service classes.
+content	project	Implementing Thread based logics.
+content	project	Implementing business logic.
+content	project	Involved in Deployments.
+content	project	Implementing swagger docs.
+header	project	Project - II:
+content	project	Name : BMW
+content	project	Technology : J2SE, JDBC, JSP, Hibernate, Spring
+content	project	Environment : Oracle, Windows 7 OS
+content	project	App Server : Glassfish 3.1.2 , Weblogic 12c
+content	project	Duration : Oct/2014 – Apr/2015
+content	project	Role : Sr. Software Engineer
+content	project	Project Description: The application servers are migrated from Weblogic to Glassfish 3, Glassfish 2 to Glassfish 3 and Weblogic 10 to Weblogic 12c. So we should implementing the applications for compatibility to new servers and implementing staging in New Servers. The applications are running with old security authentications and now implemented the new security authentication for application servers.
+content	project	Contribution:
+content	project	Migrated and implemented the application from Weblogic to Glassfish Server.
+content	project	Implemented JAAF authentication.
+content	project	Converted LDAP (Lightweight Directory Access Protocol) to LAAS attributes.
+content	project	Implemented in J2SE programming.
+content	project	Implemented Servlet classes.
+content	project	Design and develop JSP pages.
+content	project	Implemented New Requirements using Spring modules.
+content	project	Verification and front end validations of the module.
+content	project	Deployed the application in Test and Integration servers and Involved in Production Deployment.
+content	project	Done the Unit and Smoke testing.
+header	project	Project - II:
+content	project	Name : MOBILY (Telecom Services)
+content	project	Technology : J2SE, JDBC, JSP, Servlets, Spring
+content	project	Environment : Oracle, Windows XP OS
+content	project	Web Server : Apache Tomcat
+content	project	Duration : Oct/2013 – Jun/2014
+content	project	Role : Software Developer
+content	project	Project Description: An enterprise to integrate its existing applications and systems and also makes it possible to add new technologies and applications to the mix so that an enterprise can model and automate its business processes.
+content	project	EAI Framework enables Telecom Service Providers to achieve seamless business and process level integration among their BSS and OSS application.
+header	project	Contribution:
+content	project	Involved in J2SE programming.
+content	project	Implementing the JDBC code.
+content	project	Implementing Servlet classes.
+content	project	Design and develop JSP pages.
+content	project	Verification and front end validations of the module.
+content	project	Integrating the all team members code.
+content	project	Involved in Deployment.
+content	project	Involved in Unit Testing.
+content	project	Implements the program for Generating the Excel sheets as Output.
+header	project	Project - III:
+content	project	Name : FAPS J2EE MIGRATION
+content	project	Technology : J2SE, JSP, Servlets, Hibernate
+content	project	Environment : Oracle, Windows XP OS
+content	project	App Server : Weblogic 10
+content	project	Duration : Jan/2012 – Oct/2013
+content	project	Role : Associate Software Engineer
+content	project	Project Description:
+content	project	The FAPS is a product for WLL handles the billing needs for logistics business. This system should be capable of reconciling supplier invoices and bill customers for the various services. This system also needs to communicate the payments and receivables to the financial package. To enable this FAPS system interacts with various external entities (customer, suppliers, operation system and financial systems) has to communicate.
+header	project	Contribution:
+content	project	Implementing classes.
+content	project	Verification and front end validations of the module
+content	project	Involved in Unit Testing.
+meta	education	M.Tech (SOFTWARE ENGINEERING) from GITAM University, Visakhapatnam in 2012.
+meta	education	B.Tech (INFORMATION TECHNOLOGY) from Gudlavalleru Engg College, Gudlavalleru in 2010.
+meta	others	Name : Praveen Kumar Malladi
+meta	others	Gender : Male
+meta	others	Hobbies : Learning new things, photography
+meta	others	Marital Status : Married
+meta	others	Languages Known : Telugu, English
+meta	others	NSR ITIN : 871097614139

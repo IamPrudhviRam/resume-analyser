@@ -1,0 +1,94 @@
+meta	others	Selvan Jayavelu
+meta	others	linkedin.com/in/kjselvan
+meta	others	+91-8807284101
+meta	others	kjselvan@gmail.com
+meta	others	Business Analyst
+header	experience	EXPERIENCE
+meta	others	Lead Business Analyst
+content	others	BNY Mellon Technology
+content	others	Sep 2017-Feb 2019
+content	others	Chennai
+content	project	▪  Lead  business  analyst  for  Albridge  (subsidiary  of  BNY  Mellon)
+content	project	responsible  for  business  analysis  activities  for  the  flagship  product  of
+content	project	Albridge called AWR (Albridge Wealth Reporting) tool.
+content	project	▪  Sole Business Analyst in offshore who handled the Incoming data (Data
+content	project	is  used  by  AWR
+content	project	Aggregation)  from  various  data  sources  that
+content	project	application.
+content	project	▪  Documenting  Requirements,  understanding  the  problems  of  the
+content	project	stakeholders  and  recommending  solutions,  product  analysis,  data
+content	project	analysis were daily routine of mine as a business analyst
+content	project	▪  Key  projects  involved  risk  and  resiliency  initiatives  such  as  SSN
+content	project	Tokenization,  Obfuscation  of  personal  data  as  per  GDPR  regulation  in
+content	project	order to adhere to data privacy rules
+content	project	Consultant
+content	project	Capgemini
+content	project	Jul 2015-Apr 2017
+content	project	Mumbai
+content	project	▪  Business  Analyst  to  the  client  Metlife  broker  dealer  for  their  internal
+content	project	product called iTracker and to adopt a new product named streetscape
+content	project	▪  As  a  business  analyst/consultant  created  Business
+content	project	functional
+content	project	documents  for  different  down  streams  and  involved  in  business
+content	project	meetings where the discussion about the same happens
+content	project	▪  Translate the customer needs into functional requirements
+content	project	▪  Understand  the  business  requirements,  analyze  the  gaps  and  provide
+content	project	solutions for implementation
+content	project	▪  Create use cases, work flow diagrams, write user stories
+content	project	▪  Lead  /  support  creation  of  onboarding  document  and  contribute
+content	project	towards building the knowledge repository of the Practice
+content	project	Senior Systems Executive
+content	project	Cognizant Technology Solutions
+content	project	Dec 2010-Jun 2013
+content	project	Bengaluru
+content	project	▪  Worked for Merck Inc as a software engineer in monitoring work flows
+content	project	in informatica, performance analysis and reporting activity, application
+content	project	deployments, handling SLA for incidents as part of daily routine
+header	project	Intern
+content	project	iMacs
+content	project	Apr 2014-Jun 2014
+content	project	Chennai
+content	project	▪  Skill  gap  analysis  in  Agriculture  sector  by  performing  primary  and
+content	project	secondary research
+header	knowledge	KEY SKILLS
+content	knowledge	  Business Analysis
+content	knowledge	  Requirements Gathering
+content	knowledge	  Documentation
+content	knowledge	  Product management
+content	knowledge	  Microsoft Excel/Visio
+content	knowledge	  SQL
+header	knowledge	CERTIFICATION:
+content	knowledge	  Certified Business Analysis professional from
+content	knowledge	Imarticus learning, Mumbai
+content	knowledge	  NCFM Securities Market basic module from
+header	knowledge	NSE Academy certifications
+content	knowledge	Infrastructure Management Services
+content	knowledge	certification from Micro Academy Pvt. Ltd,
+content	knowledge	Bangalore
+content	knowledge	  C,C++ certifications from NIIT, Chennai
+header	knowledge	COURSES:
+header	knowledge	Udemy courses completed for the following
+content	knowledge	  Product Management
+content	knowledge	  R Programming (basics)
+header	education	ACADEMICS
+content	education	SQL bootcamp
+content	education	MBA
+content	education	7.79/10
+content	education	(OGPA)
+content	education	2013-2015
+content	education	Bharathidasan
+content	education	Institute of
+content	education	Management,
+content	education	Trichy
+content	education	B.E., ECE
+content	education	74%
+content	education	2005-2009
+content	education	SVCE, Chennai
+content	education	HSC
+content	education	92.5%
+content	education	2005
+content	education	Matric Hr Sec
+content	education	Bharathidasanar
+content	education	School, Arakonam
+content	education	DrGengusamy
+content	education	MATRIC

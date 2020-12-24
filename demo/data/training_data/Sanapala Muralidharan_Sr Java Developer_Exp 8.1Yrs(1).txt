@@ -1,0 +1,28 @@
+content	experience	Having total 08 years of experience in Software Development.
+content	experience	Experience with the Java 2 Platform, Enterprise Edition (J2EE).
+content	experience	Experience includes application development in Java (client/server), JSP, Servlets programming, JDBC, Spring, Hibernate, Spring Boot, Micro Services full life cycle development of a project.
+content	experience	Experience of working in a services oriented architecture and web based development.
+content	experience	Experience in using Spring MVC (Model View Controller) architecture for developing applications using JSP, Java Beans, Hibernate and Servlets.
+content	experience	Good experience in Tableau and Jasper Reports.
+header	experience	WORK EXPERIENCE:
+content	experience	Working as a Software Engineer at Team ware Solutions Aug, 2016 to Till Date.
+content	experience	Worked as a Software Engineer at Abhibus Services India Pvt Ltd From Jul,2011 to Aug,2016
+header	experience	Professional Experience:
+header	education	Educational Qualification:
+meta	education	M.C.A from Andhra University, in 2009
+content	knowledge	Good Knowledge on Spring Boot with Rest API.
+content	knowledge	Good knowledge in tools like Bit bucket, Maven, Git, SVN.
+content	knowledge	Knowledge on PL/SQL, SQL Developer.
+content	knowledge	Having good Debugging Skills
+header	knowledge	Technical Skills:
+content	knowledge	Agile methodology.
+content	project	Java Developer
+content	project	Active participation in project Knowledge Transition activities.
+content	project	Good in analyzing, posses a unique combination of excellent technical skills and ability to understand client requirements.
+content	project	Ability to adopt new technologies quickly.
+content	project	Ability to deal with multiple tasks, good in team work and performing efficiently under pressure.
+content	project	Development Models:
+content	project	*Thank You*
+meta	others	Email:muralijava786@gmail.com
+meta	others	Mobile No: 9949995046
+meta	others	M.C.A from Andhra University, in 2009

@@ -1,0 +1,42 @@
+content	experience	➣Title: ​ Intra-college Clubs Management.
+content	experience	➣Title: ​  Online Food ordering.
+content	experience	➣ ​ Scored 80% in National Programming Aptitude Test conducted by  NPTEL.
+header	education	EDUCATION :
+content	education	Institution
+content	education	science and
+content	education	engineering
+content	education	​SSN College of
+content	education	Engineering
+content	education	Vivekananda Higher
+content	education	Secondary and
+content	education	Matriculation School
+content	education	Vivekananda Higher
+content	education	Secondary and
+content	education	Matriculation School
+content	knowledge	​ To obtain a creative and challenging position in an organization that gives me an
+content	knowledge	organization with my technical, innovative and logical skills.
+content	knowledge	➣DATA STRUCTURES.
+content	knowledge	- HTML5, CSS3, JSP.
+content	knowledge	​TECHNICAL SKILLS :
+content	knowledge	➣ Programming Languages  - JAVA, C, C++.
+content	knowledge	➣Web Technologies
+content	knowledge	➣Scripting                             - JavaScript.
+content	knowledge	➣Databases                          - MySQL.
+content	knowledge	Web application that connects various clubs of a college where students can register for
+content	knowledge	Web application in which users can order food items from the available list. After
+content	project	Velagoundampatti(via),
+content	project	➣Title: ​ Image-Search using Hadoop framework.
+content	project	​Developed a background engine for a shopping application using Hadoop framework.
+content	project	HIPI tool is used to classify the desired images from the cloud. Various image features are obtained
+content	project	and the required images are classied.
+content	project	➣Title: ​ TicTacToe android gaming application.
+content	project	Android application that uses the Min-Max algorithm to decide the moves, in the single
+content	project	​Technology used: ​HTML,CSS,Microsoft access.
+content	project	​Technology used:​ JSP,Java.
+content	project	successful completion of order, order details are sent via mail to the customer.
+content	project	➣​ Runner Up of Programming Contest (website creation) held at MIT (CollegeSymposium)
+meta	others	​Phone no: ​+91 8754237559                                                  2/198,Selamagoundampalayam,
+meta	others	​Email-Id   : ​vigneshanbumani478@gmail.com​                      Manathi(p.o),
+meta	others	Father’s Name            : Anbumani S
+meta	others	PERSONAL DETAILS​:
+meta	others	Permanent address    : 2/198, Selamagoundampalayam,  Manathi(p.o),

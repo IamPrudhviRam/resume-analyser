@@ -1,0 +1,104 @@
+header	others	PATAN
+meta	others	Cell: +918919621161.
+meta	others	Email:patanlite@gmail.com
+header	others	Professional Summary:
+content	experience	Having ~5years of IT experience in developing and maintaining Client/Server, Web based Applications using JAVA/J2EE.
+content	experience	Experience in Java, JSP, Servlets,JDBC.
+content	experience	Hands on experience with Springand Hibernate Frameworks.
+content	knowledge	Knowledge on Docker, Jenkins, Ansible, Containerization, CICD Pipeline.
+content	experience	Experience in Rest APIcalls.
+content	knowledge	Good Implementation Knowledge in Design Patterns like Singleton, Factory,Strategy.
+content	experience	Hands on experience on tools like Maven, Log4j, SVN,GitHub.
+content	knowledge	Efficiency in using different kinds of servers like Tomcat, Glassfish, WebSphere,WebLogic.
+content	knowledge	Strong knowledge on Object OrientedProgramming.
+content	experience	Hands on experience with IBMSterlingOMS 9.5.
+content	experience	Worked on the following OMS modules -Process Modeling, Participant Modeling, Implementing User Exits, Catalog and Inventory Management.
+content	experience	Worked with Create an Organization with Ship Node, Carrier, Seller and buyeretc.
+content	knowledge	Expertise in using Pipelines, Transactions, Events, Status,Actions.
+content	experience	Experience in End to End testing usingSelenium.
+content	experience	Experience in XML, XSLT, HTML 5,JSON.
+content	others	Flexible, able to work effectively in a team environment or as an individualContributor.
+content	others	Excellent analytical, communication and mentoring skills prove an asset toorganization.
+content	knowledge	Easy learning and flexible to work on different kinds of API’s andTechnologies.
+content	others	Versatile Team Player with Good Communications and Problem SolvingSkills.
+content	project	Exposure to the Software Development Life Cycle, familiarity with projectexecution.
+header	experience	Professional Experience:
+content	experience	Worked as a Senior Java Developer in IBM from Jul-2018 to Jun-2019(Through HCL).
+content	experience	Worked as a Software Engineer in MarLabs from Jul-2016 toJune-2018.
+content	experience	Worked as a Software Engineer in from Invenger Solutions PvtLtd Apr-2014 toJune-2016.
+header	education	Education Summary:
+content	education	B-Tech from Jawaharlal Nehru Technological University Kakinada.
+header	knowledge	Technical Expertise:
+content	knowledge	Programminglanguages : Java/J2EE (Jdbc, Servlet,Jsp)
+content	knowledge	WebTechnologies : HTML, CSS, JavaScript.
+content	knowledge	FrameWorks :Spring.
+content	knowledge	DistributedTechnologies : JAX-WS, JAX-RSAPI.
+content	knowledge	Databases/w’s : MySQL, Oracle 11g,DB2.
+content	knowledge	ORMs/w’s : Hibernate, RestAPI.
+content	knowledge	Servers : Tomcat, Web Logic,WebSphere.
+content	knowledge	IDE’s : Eclipse Photon, Net beans,STS.
+header	project	Project Details:
+header	project	Project #1:
+content	project	Title : Federated Co-OperativesLimited.
+content	project	Client :FCL(Through IBM).
+content	project	Role :Consultant
+content	project	Environment : Sterling Oms 9.5,java, Dojo, Selenium, Xml, Xslt, Oracle
+content	project	Duration : Jul 2018 –TillDate.
+content	others	Description:
+content	project	The primary objective of this project is to provide FCL with business to business (B2B) order management capabilities using the new Sterling Order Management System (DOM) and Call Center (COM). Currently, FCL uses multiple “in house” written legacy applications to manage, fulfill and deliver location member’s orders. These applications are dated and scheduled to be decommissioned with the mainframe. FCL wishes to move from the mainframe to a distributed application that is scalable and able to accommodate Business to Consumer (B2C) demands in the future. Sterling OMS was chosen to meet theserequirements
+content	project	Roles & Responsibilities:
+content	project	Working in Development Phase Zero forFCL.
+content	project	Involved in Design and Development of Sterling OrderLifecycle.
+content	project	Involved in call center & store custom screens forFCL.
+content	project	Worked on DOM, Claims,Promotions.
+content	project	Implemented various repository functionalities namely Pipelines, Transactions, Actions, Events, Statuses, Conditions andServices.
+content	project	Created various Queues and Servers(Agent/Integration).
+content	project	Developed various Custom APIs,Services.
+content	project	Implemented various UserExits.
+content	project	Performed DB Extensions (Column Extensions, Custom Table creationetc.)
+content	project	Implemented XSL Transformations on the documentflow.
+header	project	Project #2:
+content	others	Title :Insurance.
+content	others	Clients : 21st centuryInsurance.
+content	project	Role :Developer
+content	project	Environment : Java,J2EE, Spring ,Hibernate,
+content	project	Duration : Jul 2016 - Jun2018.
+content	others	Description:
+content	project	The policy administration system is a important distribution channel for the agents along with a system that will allow the underwriters to easily and rapidly communicate with them. Each group of users have their own needs, and system enables to provide the right view, the right transactions and the right process flow for eachone.
+content	project	Claims processor module helps to analyze claims to determine extent of company’s liability, make approval or denial decisions and negotiate settlements with claimants in accordance with policy provisions and it also collaborate with insurance agents and interview claimants to correct errors , rectify omissions and investigate questionable issues and optimum service to policyholders, negotiate fair settlements and identifies fraudulent claims.
+header	project	Roles & Responsibilities:
+content	project	Understanding the requirements and analyzing toimplement.
+content	project	Developed Servlets for processing the User requests in point of salemodule.
+content	project	Worked on the sales quote of Cars, Motorcycles, health insurance and umbrella insurance extensively.
+content	project	Extensively developed supporting java Beans components in Eclipse IDE.
+content	project	Prepared Hibernate Mappingfiles.
+content	project	Used GIT for VersionControl.
+content	project	Interacting with client in requirements gathering andanalysis.
+content	project	Requirement analysis and code analysis for the givenfunctionalities.
+content	project	Involved in developing for DAOs, Services andControllers.
+header	project	Project #3:
+content	others	Title : Health Care system.
+content	project	Client : MCMG.
+content	project	Role : Developer.
+content	project	Environment : Java1.7, J2ee, Spring , Spring JDBC.
+content	others	Duration : Jul 2015- Jun 2016.
+header	others	Description:
+content	project	This project mainly focuses on Doctors & Patients relation. This software facilitates a doctor to get a registration which provides a quick reference of past history related to a patient like his/her symptoms, drug allergies, family history etc. Doctors can use this information for further advises. So doctors will feel simple while treating a patient which he already treated before.
+content	project	In this system patient will also facilitate by user-id and password to get online appointment with a doctor. So no patient will suffer for getting an appointment because all information about doctors like his/her available hospital name, available time etc will be open in the web for that day. If a patient wants appointment for a doctor then he can send a message and can engage.
+header	project	Roles & Responsibilities:
+content	project	Involved in the design and development of Web pages.
+content	project	Involved in integration spring with hibernate.
+content	project	Custom validations using Spring Frame Work.
+content	project	Implement DAO’s and their implementation with hibernate.
+content	project	Involved in Unit testing.
+header	project	Project #4:
+content	project	Title : Bus24.
+content	project	Client : Bus24.
+content	project	Role : Developer
+content	project	Environment : Java/J2EE.
+content	others	Duration : Apr 2014 – Jun 2015.
+header	others	Description:
+content	project	Bus24 is a software application; the main purpose of this application is providing the online bus ticket booking for customers. The Application maintaining the records of passenger details, seat availability, price per seat, bill generation and other things.
+content	project	The main modules being contained in this project are Booking Module, User Module, and Customer Support Module. And it contains some of the Roles in the project they are Super Admin Role, Travel Admin Role, Agent Role, Passenger Role and Customer Support Role.
+header	project	Roles & Responsibilities:
+content	project	Responsible for development and coding for server side application with technologies like spring, Hibernate.

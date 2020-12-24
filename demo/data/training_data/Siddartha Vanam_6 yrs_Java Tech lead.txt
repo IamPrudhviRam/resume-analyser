@@ -1,0 +1,163 @@
+content	experience	Around 6 years of experience in working on the various phases of Software Development Life Cycle like requirements analysis, design, coding, testing, debugging and maintaining the Java based applications.
+content	experience	Worked on Log4j configuration and setup and Implementation part.
+content	experience	Good experience on JBoss and BRMS, JUnit, XSLT, SOAP, SOA and REST Web Services.
+content	experience	Have architected and implemented Service-Oriented Architecture (SOA),batch, business intelligence, and transactional systems.
+content	experience	Experienced with Java Multithreaded programming to develop multithreaded modules and applications.
+content	experience	Worked with servers WebLogic, JBoss, JBoss Fuse and Apache's Tomcat.
+content	experience	Good Experience in SOAP and RESTFUL webservices
+content	experience	Experience in web development technologies like HTML, JavaScript, JQuery, CSS, Angular JS, Node JS.
+content	experience	Some of the attributes that would describe me would be Team player, Quick learner, Self-Motivated and strong interest in Front End Development.
+header	experience	Professional Experience:
+content	experience	Participate in intra-day and overnight Support.
+content	experience	Experience in installing, configuring and deploying application on Web Logic Server.
+content	experience	Worked with IntelliJ and MS Visual Studio to develop and deploy complete application.
+content	experience	Have worked on changing the version of Java from Java 7 to Java8.
+content	experience	Developed an UI using Java Swings with a combination of JComboBoxes, JPanel and JFrame where the selection of input is also retrieved from the production Database.
+content	experience	Experience in installing, configuring and deploying application on Web Logic Server.
+content	experience	Worked with Eclipse IDE to develop and deploy complete application.
+content	experience	Write and tests Web Services calls manually and through automation.
+content	knowledge	Analysis, Development, Testing, Documentation, Deployment, Integration, and Maintenance of web based and Client/Server applications utilizing Java,J2EE, Spring, Hibernate, JSF, JMS, JAX-RS 2.0, XML, EJB , JSP, Servlets, JDBC, JNDI, HTML and JavaScript, SQL, DB2 ,PL/SQL , Mongo DB.
+content	knowledge	Achieved Proficiency in Core Java concepts Exceptional Handling, Multi-Threading, Strings, Generics etc.
+content	knowledge	Thorough knowledge with J2EE application platform configuration and performance optimization.
+content	knowledge	Developing websites using HTML 4.0/5.0, CSS, CSS3, JavaScript, JQuery, Ajax and JSON.
+content	knowledge	Knowledge on C and C++ with Object Oriented Concepts.
+content	knowledge	Experience in using RAD, IntelliJand Eclipse IDE for Application development.
+content	knowledge	Experienced in working with Tomcat, WebSphere and IIS web servers.
+content	knowledge	Knowledge in developing applications using Agile and SCRUM methodologies.
+content	knowledge	Experience in Linux/UNIX andShell scriptingalong with C++ concepts.
+content	knowledge	Created Hibernatemapping and debug issues related to data integrity.
+content	knowledge	Have good communication skills to discuss the projects with technical and non-technical SME’s.
+content	knowledge	Have excellent analytical, problem solving, communication and interpersonal skills with ability to interact with individuals at all levels and ability to work independently.
+content	knowledge	Java 8, J2EE, JavaScript,C#, Servlets, JSP, EJB, JDBC, Spring boot, React JS, Spring Config, , Jersey, RESTful Web services, Tomcat,Jenkins, Team City, Junit,Mockito, XML,XSLT, ANT, Gradle, Maven,Node JS, Aqua Data Studio,UNIX Shell Scripts, IntelliJ, MSVisualStudio 2015, SVN, Postgress SQL HTML 5,CSS3.
+content	knowledge	Contributed effectively in reducing the support by working on the support reduction JIRA tickets.
+content	knowledge	Implemented Object-relation mapping in the persistence layer using hibernate framework in conjunction with validation.xml functionality.
+content	knowledge	Worked with Jenkins build tool for the continuous and integration build for the application.
+content	knowledge	Implemented Object-relation mapping in the persistence layer using Hibernate (ORM) framework.
+content	knowledge	Implemented build scripts using Gradle. Mockito.
+content	knowledge	Utilized SVN for software configuration management and version control.
+content	knowledge	Java 8, J2EE, JavaScript,C#, Servlets, JSP, EJB, JDBC, Spring Framework, Hibernate, Spring Config, , Jersey, RESTful Web services, Tomcat,Jenkins, Team City, Junit,Mockito, XML,XSLT, SQL, SOAP, ANT, Gradle, Maven,Node JS, Aqua Data Studio,UNIX Shell Scripts, IntelliJ, MSVisualStudio 2015, SVN, SQL HTML 5,CSS3.
+content	knowledge	Developed UI modules using HTML, JSP, JavaScript, Bootstrap, CSS and Node JS framework.
+content	knowledge	Developed well responsive single page application using React JS framework and JavaScript in conjunction with HTML5, CSS3 standards.
+content	knowledge	Implemented Object-relation mapping in the persistence layer using hibernate framework in conjunction with validation.xml functionality.
+content	knowledge	Implemented Object-relation mapping in the persistence layer using Hibernate (ORM) framework.
+content	knowledge	Obtained JSON responses to front-end using GSON API.
+content	knowledge	Java 8, J2EE, JavaScript , Servlets, JSP, EJB, Rational Rose, JDBC, Spring Framework, Hibernate, Spring Config, , Jersey, RESTful Web services, FTP, SFTP,WSDL, Weblogic, Struts, Junit, XML,XSLT, Log4j, MySQL, SOAP, ANT, Maven, Node JS, SQL Developer,WebLogic 10.3.x, UNIX Shell Scripts, Eclipse IDE 3.7, SVN, SQL HTML 5,CSS3.
+content	knowledge	Used the light weight container of the Spring Frame work to provide architectural flexibility for inversion of controller (IOC).
+content	knowledge	Implemented Persistence layer using Hibernate to interact with the Mongo database, Used Hibernate Framework for object relational mapping and persistence.
+content	knowledge	Developed Servlets and JSPs based on MVC pattern using Struts framework and Spring Framework.
+content	knowledge	Used EXTJS 4.0 Java script Framework.
+content	knowledge	Used Java Script, Prototype, JSF and AJAX to support the functionalities of the front end.
+content	knowledge	Developed GUI using JSP, Struts, HTML3, CSS3, XHTML, Swing and JavaScript to simplify the complexities of the application.
+content	knowledge	Simulated a vending machine using the Java Swing API.
+content	knowledge	Developed Web based Dynamic Form Builder using DHTML, JavaScript Object-to-XML.
+content	knowledge	Java 1.6, J2EE, Spring Frame work, Soap, Hibernate, HTML 4.x, CSS2.x, JavaScript, Adobe CQ, JQUERY, Junit, AJAX, JSON, XML, YUI, JBoss Fuse,Multithreading,Angular JS framework, SOAP UI, REST web services, spring web flow, Boot strap, Spring JP.
+content	knowledge	Web enabled the application using Servlets, JDBC, Session Beans, JMS, JSP, and EJB.
+content	knowledge	Eclipse and used JPA annotations.
+content	knowledge	Created applications, connection pools, deployment of JSPs, Servlets, and EJBs in WebSphere also Soap web service.
+content	knowledge	Java,J2EE, Spring Frame work, Soap, Hibernate,Multithreading, HTML 4.x, CSS2.x, JQUERY, JSON, XML, YUI, C++, APACHE TOMCAT server, Angular JS framework, JPA, SOAP UI, REST web services, spring web flow, Boot strap.
+meta	project	Sr Java Developer Mobile: 93909-12404
+content	project	Worked on MVC Architecture like Struts, Spring frame work, JSF.
+content	project	Worked on setting up JBOSS Fuse ESB and building and deploying applications to Fuse server.
+content	project	Exposure to IBM Message Broker, IBM WebSphere, Hibernate and Spring Framework.
+content	project	Builds automated processes for testing to improve quality and throughput.
+content	project	Involved in several web application development projects that required Responsive Web Design.
+content	project	Good understanding or network protocols such as TCP/IP, HTTP etc.
+content	project	Performs execution of test cases, test scripts, captures test results, test metrics and reports them.
+content	project	Analyzes business requirements, design documents for completeness and testability.
+content	project	Develops test plans, test scenarios, test cases, test data and test scripts for different types of testing activities.
+content	project	Performed quality assurance testing activities to ensure the applications and products and/or releases follow the Quality Assurance standards of the organization.
+content	project	Client: HSBC Bank, New York, NY October 2018 – September 2019
+content	project	Role: Sr Java Developer
+content	project	Involved in the Analysis, design, workflow, and process flow, Development of internal trading application known as evolve. Which uses react js for the front end and spring boot on the back end and elastic search as the data base.
+content	project	Continuous delivery of both Java server side microservices and Javascript, CSS, HTML based apps for the frontend.
+content	project	Work with other team members and liaise with nominated business stakeholders when required to ensure that business requirements are fully understood before commencing design and development.
+content	project	Fully browser test any implemented solutions in advance of User Acceptance Testing
+content	project	Draw-up detailed technical designs for components in response to business requirements and high-level technical architecture
+content	project	Implement best-of-breed technical solutions based on agreed technical design, adopting industry standard development patterns and methodologies (including continuous integration and automated unit and integration testing)
+content	project	Fully test implemented solutions in advance of User Acceptance Testing
+content	project	Assist with the deployment of components to development and test environments
+content	project	Environment:
+content	project	Client: Goldman Sachs, New York, NY November 2017 – October 2018
+content	project	Role: Software Developer
+content	project	Involved in the Analysis, design, workflow, and process flow, Development of AIMS technology applicationcalled Fluentwhich follows a service-based architecture using Java Spring in the backend and C# for the UI.
+content	project	Involved in developing a integration testing framework using Rest web services for the service api application which helps in
+content	project	Primarily responsible for the support and enhancement of the application called FLUENT,
+content	project	Worked in the Agile Environment with daily standups and work within the specific time.
+content	project	Providing strategic insights and direction into developing innovative solutions for our clients as well as technically contributing to projects on all levels.
+content	project	Requirements analysis and documentation for maintain activities in terms of defect fixing and enhancements.
+content	project	Implemented Mockito framework in writing the test cases for the code and logic implemented.
+content	project	Have extensively worked on the Java 8 new feature Lambda expressions, Method references and functional interfaces.
+content	project	Extensively used DAO patterns, including mapping DAO objects, configure file and classes to interact with database.
+content	project	Implemented web services, used to retrieve data that tells whether claimant is incarcerated or not.
+content	project	Developed applications using Hibernate persistent framework, developed persistent classes, hibernate-mapping files, configured XML files, hibernate query language.
+content	project	Performed unit testing using Mockito framework and tested DAO's and Business Services.
+content	project	Developed design Patterns for the objects to access within the application.
+content	project	Used SFTP for the multiple file transfers.
+content	project	Developed Stored Procedures, Triggers and Functions in SQL.
+content	project	Environment:
+content	project	Client: FEDEX WTC, Collierville, TN September 2016 – November 2017
+content	project	Role: Java Developer
+content	project	Designed and developed the application in sprints using Agile Scrum methodology and participated in weekly status meetings and daily standups.
+content	project	Involved in the Analysis, design, workflow, and process flow, Development of Airline technology applications called FOCUSand CIS using Core Java and Java Swings
+content	project	Involved in consuming, producing SOAP annotation based web-services using JAX-WS. Which includes features like WS-Security standards, role-based security to restrict access to resources.
+content	project	Designed and developed persistence layer build on ORM framework and developed it using Hibernate.
+content	project	Developed all the User Interfaces using JSP and spring MVC.
+content	project	Worked in the Agile Environment with daily standups and work within the specific time
+content	project	Extensively used DAO patterns, including mapping DAO objects, configure file and classes to interact with database.
+content	project	Developed rich User Interface using JQuery, JavaScript, CSS3, and HTML5.
+content	project	Used AJAX function calls using JQuery functions to handle the user requests asynchronously and to have faster responses from the server by directly connecting to the server.
+content	project	Implemented web services, used to retrieve data that tells whether claimant is incarcerated or not.
+content	project	Developed applications using Hibernate persistent framework, developed persistent classes, hibernate-mapping files, configured XML files, hibernate query language.
+content	project	Developed JSP pages for correspondence team.
+content	project	Implemented web services using WSDL/SOAP and created web services and clients to use those services.
+content	project	Developed a tool called PaySql’s where the automation of Sql Scripts is achieved by using Java Swings.
+content	project	Experience in using Data Access Objects (DAO), Session Facade, and Business Delegate and Factory patterns to increase the performance of the system.
+content	project	Implemented build scripts using MAVEN.
+content	project	Involved in Unit Test Cases writing and having good knowledge in JUnit.
+content	project	Performed unit testing using JUnit framework and tested DAO's and Business Services.
+content	project	Developed design Patterns for the objects to access within the application.
+content	project	Used SFTP for the multiple file transfers.
+content	project	Environment:
+content	project	State of NC- DHHS, Raleigh,NC Aug 2015 – Aug 2016
+content	project	Java Developer
+content	project	Developed and Implemented Web Services and used Spring Framework.
+content	project	Implemented the caching mechanism in Hibernate to load data from Mongo database.
+content	project	Implemented application level persistence using Hibernate and Spring.
+content	project	Used prototype java script library for front-end validations.
+content	project	Test Automation Framework for QTP8.2/9.5 automation.
+content	project	Taken Care of Multithreading in backend java beans.
+content	project	Maintained JIRA for tracking and updating project defects and tasks
+content	project	Exposed various capabilities as Web Services using SOAP/WSDL13.
+content	project	Responsible for analyzing various cross-functional, multi-platform applications systems enforcing, best practices and provide guidance in making long term architectural design decisions.
+content	project	Responsible for build and release the code from Clear case, Subversion and Perforce.
+content	project	Utilized HTML, CSS, JavaScript, and AJAX for client side developments and validations. Designed and developed Using Performance Engineering.
+content	project	Used AJAX (Asynchronous Java API for XML) for better performance.
+content	project	Applied model-view-controller design pattern using JavaBeans, Swing and conducted simultaneous queries and retrievals using Java multithreading techniques.
+content	project	Wrote GWT code to create presentation layer using GWT widgets and event handlers.
+content	project	Created all the services to work with the various entities provided and rectified the services using REST APIs.
+content	project	Developed UI screens using YUI, CSS, FLEX and JQuery.
+content	project	Developed user interfaces using JSP, frame work with AJAX, Java Script, HTML, DHTML, and CSS.
+content	project	Resolved update, merge and password authentication issues in Bamboo and JIRA
+content	project	Use RAD IDE for developing the application and for connecting to the MKS (source control).
+content	project	Involved in the creation of interface to manage user menu and Bulk update of Attributes using JS.
+content	project	Designed and developed the UI using Struts view component, JSP, HTML, CSS and JavaScript.
+content	project	Environment:
+content	project	TCS, Chennai, India Aug 2013 – Jul 2014
+content	project	Java Developer
+content	project	Prepare Java/J2EE development structure for Eclipse, maven, Jetty.
+content	project	Used the Eclipse as IDE, configured and deployed the application onto WebLogic application server using Maven build scripts to automate the build and deployment process.
+content	project	Developed and designed interfaces using HTML, JSP, Server Side components using Servlets on
+content	project	Involved in study of business processes, collection of functional & technical requirements
+content	project	Worked on various process related to MDMand involved in construction and managing variety of data and functional models.
+content	project	Developed various helper classes needed following Core Java multi-threaded programming and Collection classes.
+content	project	Implemented Persistence layer using Hibernate to interact with the Oracle.
+content	project	Experience in Hibernate 3.0 which includes integrating legacy databases, writing custom CRUD statements, integrating stored procedures and functions andalso performed polymorphic associations.
+content	project	Developed hibernate DAO Accessor Classes using Spring JDBC Template, Worked with Hibernate for object relational mapping and connection management.
+content	project	Created Automation Test Scripts in Test Complete and involved in Automation Infrastructure Development in Test Complete.
+content	project	Developed the Presentation and Controller layers using JSP, HTML, Java Script, Business layer using Spring (IOC, AOP), DTO, JTA, and Persistent layer DAO, Hibernate for all modules.
+content	project	Implemented User interface (UI) entire application using JSP, JSTL, Custom Tag Libraries, JavaScript, XML/ XSLT, HTML, CSS and Especially.
+content	project	Unit Testing, Integration Testing, QA and implementation.
+content	project	Environment:
+content	project	from University of Houston Clear Lake Aug ’14 to Dec’15
+meta	others	Siddartha Vanam Email: siddu.vanam@gmail.com
+meta	others	Sr Java Developer Mobile: 93909-12404

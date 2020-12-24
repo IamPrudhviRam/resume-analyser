@@ -1,0 +1,31 @@
+content	experience	Having 2+ years of experience in all aspects of Design and Development on JSE, JEE, Spring, Hibernate and Web-services based system and have developed Enterprise Level Application.
+content	experience	Experience in ORM technologies and ORM based framework like Hibernate and JPA.
+content	experience	Hands on experience in Spring ORM Technology (Spring with Hibernate Integration).
+content	experience	Hands on experience in working with Spring AOP.
+content	experience	Hands on experience in working with Restful Api (JAX-RS).
+content	experience	Hands on experience in binding technologies like JAXB.
+content	experience	Hands on experience in parsing technologies like JAXP (SAX, DOM).
+content	experience	Self-motivated, curious and a strong sense of ownership.
+header	experience	Work Experience:
+header	education	Educational Qualification:
+content	education	Master of Computer Applications (MCA) from Uttar Pradesh Technical University (Lucknow) with 70% marks.
+meta	knowledge	To achieve a position in a results-oriented company, where I can efficiently use my 2+ years of experience, acquired skills and education to be utilized toward continued growth and advancement of company’s success and individual.
+header	knowledge	Technical Summary:
+content	knowledge	Practical exposer in presentation tier technologies framework like Spring MVC.
+content	knowledge	Having a good knowledge on Struts Framework.
+content	knowledge	Having Knowledge of Spring Transaction.
+content	knowledge	Having Awareness of SOAP Web Services (JAX-WS).
+content	knowledge	Having Awareness of Spring Boot.
+content	knowledge	Knowledge on swagger.
+content	knowledge	Awareness of Micro Services.
+content	knowledge	Having knowledge in integrated technologies like XML, XSD, and Namespaces.
+content	knowledge	Having Good knowledge of OOP Concepts, Collections and Exception Handling.
+content	knowledge	Hands-on Knowledge on JPA Annotation.
+header	knowledge	Technical Skills:
+content	project	Experience in implementing various Design Patterns such as Strategy Design Pattern, Factory Design Pattern and Singleton Design Pattern, Front Controller, Builder Design Pattern, DAO.
+content	project	Effectively communicate with all team members and with the management team.
+content	project	Involved in Agile Scrum Methodologies to develop the project.
+header	project	Project Experience:
+meta	others	Email: udaypankaj.singh12@gmail.com Mobile: +91 9616884881
+meta	others	To achieve a position in a results-oriented company, where I can efficiently use my 2+ years of experience, acquired skills and education to be utilized toward continued growth and advancement of company’s success and individual.
+meta	others	Date: Uday Veer Singh

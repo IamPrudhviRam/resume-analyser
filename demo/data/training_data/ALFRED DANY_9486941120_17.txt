@@ -1,0 +1,111 @@
+meta	others	ALFRED DANY J
+meta	others	Email-Id: alfreddany@gmail.com
+meta	others	Contact No: +91-9486941120
+header	others	Job Objective:
+content	others	To serve the organization with best of my technical skills and abilities by utilizing my educational and professional
+content	others	knowledge and competencies acquired by me in my academic career and professional experience.
+header	knowledge	Functional Skills:
+content	knowledge	ITIL Processes
+content	knowledge	IT Infrastructure Support
+content	knowledge	Intense collaboration, Passionate customer focus
+content	knowledge	  Thoughtful, fast, disciplined execution
+content	knowledge	  Tenacious commitment to continuous improvement
+content	knowledge	  Relentless drive to win
+content	knowledge	  Understanding user requirements, error troubleshooting , fixing their issues and Bug identification.
+content	knowledge	  Monitoring the application process , application logs and managing appropriate resolutions in case of failures.
+content	knowledge	  Passionate towards solving business problems , learning new technologies / process , customer satisfaction , job
+content	knowledge	Interested in debugging the technical components for root cause analysis.
+content	knowledge	engagement and fulfilling assigned responsibility
+content	experience	  Minimum of 2 years in Application Support , especially in L2/L3 Support and enhancements.
+content	knowledge	  Abe to understand IT Projects , Concepts , Programming languages and experienced working in IT Support
+content	knowledge	projects.
+header	knowledge	Technical Skills :
+content	knowledge	  Technologies : Java, SQL, Unix, HTML, C++, JavaScript, CSS
+content	knowledge	  Data Base: Oracle SQL Developer
+content	knowledge	  Operating System: Windows, Linux
+content	knowledge	  Angular – (Pursuing)
+header	knowledge	IT Skills:
+content	knowledge	  Jira
+content	knowledge	  Confluence
+content	knowledge	  SVN
+content	knowledge	  Shared Repository
+content	knowledge	  Concur Travel App
+content	knowledge	  Tangoe Payment files
+content	knowledge	  Service Now
+header	knowledge	Tools Used:
+content	knowledge	Informatica
+content	knowledge	  Eclipse
+content	knowledge	
+content	knowledge	  Oracle SQL developer
+content	knowledge	  JXplorer
+content	knowledge	  Tortoise SVN
+content	knowledge	  Putty
+content	knowledge	  Winscp
+header	experience	Employment:
+content	experience	  Joined Cognizant- Dec 2017 as Programmer Analyst Trainee
+content	experience	  Dec 2017 – March 2018 (Trained in Cognizant Academy on Advanced Java), Coimbatore.
+content	experience	April 2018 – Till present (Working in cognizant for the project Amgen as Java Developer (Programmer Analyst).
+header	project	Project Details:
+content	project	  Project Title : Amgen
+content	project	  Domain: Life Science
+content	project	  Role: Java Developer
+content	project	  Location: Chennai, India
+content	project	  Environment:  JAVA
+header	experience	Experience:
+content	experience	  Around 1 year 10 months of experience, worked as a JAVA developer and establish strong relationship with
+content	experience	Business, end users and technical resources
+content	knowledge	  Web logic upgrade – Java version upgrade performed for set of applications in the project.
+content	knowledge	  Minor Enhancements using java scripting in the application Jira. Increasing the functionality and process
+content	knowledge	
+content	knowledge	Improvement in the Jira application for the users based on their demand and request.
+content	knowledge	Integration of various tools like Prism, Rally to Jira. And migration of the projects and functionality from other
+content	knowledge	environment/instances to Jira by coordinating with the various teams.
+content	project	  Strong ability in resolving complex project related issues and have received multiple appreciation from the
+content	project	project management and have also received star performer award from Business.
+content	knowledge	  Having strong knowledge in UNIX commands and UNIX based server deployments.
+content	knowledge	  Having strong knowledge in SQL queries.
+content	others	  Ability to adjust both written and oral communications to a variety of different audience.
+content	others	  Ability to perform well in a large team with proper coordination.
+content	others	  Ability to work independently to complete assigned tasks and to work in tight deadlines.
+header	others	Responsibilities:
+content	others	Integrate code changes, test code changes, and document code changes.
+content	others	
+content	others	  Ownership- System owner Role in project from the cognizant part for the set of applications ( Jira, Confluence,
+content	others	SVN and Tangoe payment files). Responsible/ owner for the above applications from cognizant end.
+content	others	  Carrying out system ownership activities like, privileged and non-privileged access reviews, service account
+content	others	
+content	others	password reset, to maintain the application quality score and to perform maintenance activities for the
+content	others	applications.
+content	others	Interact with Business Analysts and participate in user requirement sessions to analyze and gather business
+content	others	requirements.
+content	others	Installation, configuration, Management and upgrade of various web applications.
+content	others	
+content	others	  Deployment of new builds and debug application deployment issues.
+content	others	  Preparation of technical document specifying the solutions for various functionalities in the system.
+content	others	  Ensure overall organizational support goals are met (i.e. SLA, incident / problem reduction, application
+content	others	availability).
+content	others	  Analyze complex production issues and troubleshoot the root cause and fix the issue.
+content	others	  Writing scripts to automate standard tasks.
+content	others	  Manage client impacting incidents including business impact assessment, technical resolution, engagement, and
+content	others	communications.
+content	others	  Try to replicate the issues reported by client in similar environment.
+content	others	  Collaborate with database technical teams to ensure proper integration of the environment.
+content	others	  Weekly reporting to client through teleconferencing or webex.
+content	others	  Defect fixing for the issues in Servers on Disk Utilization, CPU Utilization & Memory Utilization.
+content	others	  Manage and analyze log files to find information and facilitate problem resolution.
+content	others	  Ensures monitoring alerts and systems events are assessed, prioritized, and managed.
+header	education	Educational Credentials:
+meta	education	  BE (ECE), 2013-2017, St.Joseph’s College Of Engineering, Chennai, CGPA- 7.08
+meta	education	  HSS, 2011-2013, Campion Anglo Indian Hr. Sec. School, Trichy,  84.6%
+meta	education	  SSLC 2010,  Campion Anglo Indian Hr. Sec. School, Trichy,  91.4%
+header	others	Personal Details:
+meta	others	  Name: Alfred Dany J
+meta	others	  Fathers Name: John Peter A
+meta	others	  Gender: Male
+meta	others	  Language: English, Tamil
+meta	others	  Address: Flat No: 4212, Arun Excello Compact Homes (Sankara apartments),
+meta	others	Kolathur Village, Mambakkam,
+meta	others	(Near Kelambakkam-Vandalur Road)
+meta	others	Chennai – 600127.
+content	others	I hereby declare that all the details furnished above are true to the best of my knowledge.
+content	others	Place: Chennai                                                                                                                                                      ALFRED DANY J

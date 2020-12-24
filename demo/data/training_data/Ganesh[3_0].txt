@@ -1,0 +1,80 @@
+header	others	RESUME
+meta	others	Name: Ganesh kage
+meta	experience	Current profile: Software Engineer
+meta	others	Email: jdeveloper1990@gmail.com
+meta	experience	Mob: +91 8121446887
+header	experience	Summary Experience
+content	experience	  Overall 3+ years of experience in the development of Web & Enterprise application using
+content	knowledge	Java and J2EE  technologies.
+content	knowledge	  Good understanding of Software Development Life Cycle (SDLC) process in the area of
+content	knowledge	Design, Implementation and Testing of software application using JSE/JEE technologies.
+content	knowledge	  Good knowledge of Scrum Model of Agile Methodology.
+content	knowledge	  Areas of expertise include Java, Servlet, JSP, spring framework, Hibernate, Web services
+content	knowledge	(SOAP, RESTful).
+content	knowledge	  Experienced in developing interactive web applications using Spring Framework  (MVC,
+content	knowledge	IOC, AOP, JDBC, Transaction, and Security).
+content	knowledge	  Experience in Spring framework integration with RESTFUL API’s, Spring  RESTFUL
+content	knowledge	  Known design Patterns: Singleton, Factory Method, Strategy design pattern,
+content	knowledge	service, Spring MVC.
+content	knowledge	Builder, VO, DAO, BO, DTO.
+header	knowledge	TECHNICAL EXPERTISE
+content	knowledge	JSE/J2EE technology: JDBC, JEE 5, Servlet 3.1, JSP 2.0
+content	knowledge	Frameworks: Spring (MVC, AOP, JDBC, Transaction, Spring-REST, Spring [Boot])
+content	knowledge	ORM technology: Hibernate, JPA
+content	knowledge	Databases: Oracle, MySQL
+content	knowledge	IDE tools: Eclipse, STS
+content	knowledge	Web technologies: HTML, CSS, JS, XML, JSON
+content	knowledge	Web services: RESTful(JAX-RS2.0), SOAP(JAX-WS)
+content	knowledge	Web/Application server: Tomcat, glassfish, Wildfly
+content	knowledge	Tools: MAVEN, Gradle, JUnit, MySQL Workbench
+content	knowledge	SOAP/REST testing tool : SOAP UI, POSTMAN
+header	project	Project Experience: -
+content	project	TYCHE INFOTECH
+content	project	PVT. LTD.
+content	project	PROJECT-2
+header	project	Project Name:
+header	project	Project Details:
+header	project	Roles And
+header	project	Responsibilities
+header	project	INDIA PUNE.
+content	project	Janalaxmi Bank
+content	project	  We designed a RESTful API to get the customer all
+content	project	details for providing loan to customer, pre validations.
+content	project	This all happened using REST API of Banking sector.
+content	project	  This platform is beneficial to both bankers and customer.
+content	project	Bankers will get whole info about customer details and
+content	project	easily they can provide requested loan by validating
+content	project	documentation. Customers will also get quick loan via
+content	project	online or within a bank.
+content	project	  Participate in mandatory training and cross
+content	project	functions across team.
+content	project	  Deliver large scale Java/J2EE/Spring based product.
+content	project	  Design, develop and test Java based solutions using
+content	project	JAX-WS, JAX-RS, Spring.
+content	project	  Maintain and update all existing J2EE application
+content	project	  Involved in understanding and analyzing the
+content	project	requirements, and development of various modules in
+content	project	different releases.
+content	project	  Developed different spring controllers, validator, rest client
+content	project	for different requirements.
+header	project	PROJECT-1
+header	project	INDIA, Pune
+header	project	Project Name:
+content	project	Laboratory Information Management System(LIMS)
+header	project	Project Details:
+content	project	  LIMS solution for Sample Management, Data
+content	project	Management, Inventory Management and Instrument
+content	project	Management.
+content	project	  On demand generation of standard, Location Content
+content	project	History, Inventory Stock,  etc.
+content	project	  Ensuring adherence to defined process & quality
+content	project	standards, best  practices.
+content	project	  Ensuring high quality levels in all deliverables.
+content	project	  Implemented Spring Modules like Spring MVC Spring
+content	project	AOP, Spring Transactions, and Spring Security.
+header	others	Roles And
+header	others	Responsibilities
+header	others	Academic Chronicle: -
+content	education	  Master of computer Application(MCA) from JNTU Hyderabad University in 2016.
+content	education	  Bachelor of Computer Application(BCA)from Dr. BAMU Aurangabad Pune University in 2012.
+content	education	(Ganesh kage)

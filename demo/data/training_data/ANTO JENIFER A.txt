@@ -1,0 +1,30 @@
+content	education	M.E in Computer Science and Engineering (2013-2015) from Govt.College of Engineering, Tirunelveli under Anna University with CGPA 7.69.
+content	education	B.Tech in Information Technology (2009-2012) from PET Engineering College, Vallioor under Anna University with CGPA 7.66.
+content	education	B.Sc. in Mathematics (2006-2009) from Arignar Anna College, Aralvoimozhi under Manonmaniam Sundaranar University with 85.1% aggregate .
+content	education	HSC from Sacred Heart Higher Secondary School, Kavalkinaru with 79% aggregate.
+content	education	SSLC from Sacred Heart Higher Secondary School, Kavalkinaru with 93% aggregate.
+header	knowledge	CAREER OBJECTIVE
+content	knowledge	AN OVERVIEW
+content	knowledge	Attended a certification course of 3 months on “JAVASCRIPT AND ANGULAR 8” at CREDO SYSTEMZ, Velachery
+content	knowledge	Designing and developing dynamic User Interface for the web application using HTML5, AngularJS, Javascript, CSS3 and Bootstrap.
+content	knowledge	Created custom Pipe for ordering array of objects.
+content	project	Proficient in developing User Interface using Angular 8, Javascript, HTML 5, CSS 3.
+content	project	Adept in understanding the Requirements and troubleshooting complex application problems.
+header	project	ACADEMIC PROJECTS
+content	project	E-Commerce Application
+content	project	Created custom Components, Directives and Pipes/Filters for reuse.
+content	project	Created Routing file for the entire application using angular router.
+content	project	Created custom attribute directives for input validations.
+content	project	During M. E
+content	project	Title: Maintaining Lifetime of Wireless Adhoc Sensor Networks by Mitigating Vampire Attacks
+content	project	Domain: Wireless Sensor Networks
+content	project	The objective of this work is to securely send the packets from source to destination without the interruption of vampire attacks using signature chaining algorithm.
+content	project	Title: User and Query Dependent Ranking for Web Databases Related to Automobile Sector
+content	project	Domain: Data Mining
+content	project	The objective of this work is to rank the query results for web databases using user and query dependent models.
+meta	others	Mobile: +91 8220342203
+meta	others	Father’s name : Mr.D.Antony George
+meta	others	Date of Birth : 15 August 1988
+meta	others	Nationality : Indian
+meta	others	Languages Known : English, Tamil
+meta	others	Marital Status : Married

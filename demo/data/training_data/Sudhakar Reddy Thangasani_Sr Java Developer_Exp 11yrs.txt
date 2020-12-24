@@ -1,0 +1,133 @@
+content	experience	Having 10+ years of experience in building Java-based enterprise & web-applications in Java/J2EE
+content	experience	Over 5 years of hands on development experience using Struts, Spring & Hibernate framework, Spring Boot, Microservices
+content	experience	2 years of experience with front-end Web software development, including CSS, HTML, JavaScript, and AngularJS, Angular 5
+content	experience	Good understanding of design principles and patterns
+content	experience	Strong understanding of Object-Oriented design and analysis of applications
+content	experience	Knowledge on server administration & configuration management of enterprise applications in IBM Websphere Application Server (WAS)
+content	experience	Worked at HSBC client location (HSDI, Hyderabad) as a Senior Consultant.
+header	experience	Professional Experience
+header	education	Certifications
+header	education	Academic Qualification
+content	education	BSc Computers
+content	knowledge	Propose affective solutions and thus help the business.
+content	knowledge	Good analytical and problem-solving skills.
+content	knowledge	Sun Certified Java Programmer for the Java2 Platform 1.5
+content	knowledge	IBM FileNET Administrator 4.0
+content	knowledge	Sun Certified in JCAPS (EAI tool)
+content	knowledge	Certified in JavaScript full Stack Developer
+content	knowledge	Used GIT for version control and RAD IDE for development
+content	knowledge	The Enot Application consist of the Notification service ( Retrieve Notification and Search Notification).
+content	knowledge	Framework: EJB 3.0, Spring Framework,Webservices,RAD 8,WAS8.
+content	knowledge	The application status (initiated, submitted, approved, offered, accepted, withdraw or declined) in recorded an each limit of the approval along with approval date.
+content	knowledge	Framework: WebAppInfra, Spring Framework,JSF
+content	knowledge	Staff – Branch and Call Centre – Staff will be trained to assist Customers to navigate the Plan Opening process, but will not actually open the Investment Plan.
+content	knowledge	Environment: Java, JSP, Spring framework 2.5,Hibernate, Portlet (JSR 168), JSF, RAD 7.5, MKS, WPS6.1, Windows XP.
+content	knowledge	Created the PDF format, using iText.
+content	knowledge	EDRS AP Invoice, where the user compares the indexed value with the scanned invoices
+content	knowledge	Developed Form Beans
+content	knowledge	Developed Action Classes and Struts-Config.xml file
+content	knowledge	Environment: JDK1.4, J2EE, Struts 1,1, JDBC, Tomcat 5.5, VSS 6.0,RAD 6.0, Oracle, Windows XP.
+content	project	Worked on various projects across Banking, Financial Services & Insurance domain.
+content	project	Involved in all the phases of SDLC
+content	project	Interaction with Business Analysts for requirements gathering, analysis and query resolution.
+content	project	Prepare use case realizations and technical specifications based on business requirements.
+content	project	Low level design and review of application modules.
+content	project	IBM FileNET Content Manager Java API 4.0
+content	project	Received Excellent Team Awards for the Retail Brokerage Platform and Commercial Solutions projects in HSBC.
+content	project	Working as a Senior Consultant in Capgemini India Pvt. Ltd., from Sep ’2008 to till date
+header	project	Description:
+content	project	Ovak is a desktop application. it is used for monitoring and following up events inside and outside of the VPC mainframe System. Ovak is standalone java application converted to Ovak web application by using angular framework , Spring Boot and Microservices.
+content	project	Framework: Java, Node JS, Angular 5, Visual Studio code, RAD 9, Spring Framework, Spring Boot, Microservices, DB2.
+content	project	Requirements gathering analysis, design, implementation, testing and code delivery.
+content	project	Involved to write the controllers using Spring Framework.
+content	project	Used AngularJs framework to create Single Page Application which can bind data to specific views and synchronize data with server using Bootstrap, Angular
+content	project	Worked upon Services, Components and Routing in Angular
+content	project	Used Spring Boot at back-end which helps to develop application with ease
+header	project	Description:
+content	project	The Enot application consist of a web application which is deployed on a Websphere Application Server.
+content	project	Retrieve Notification is the basic functionality of the Notification Service. The customer send in XML data RetrieveNotification containing a reference that identify a specific document and the document is fetched from the OnDemand server and returned to the customer as a PDF document.
+content	project	Search Notification is an additional functionality of the Notification service. The customer send in XML data SearchNotification containing a search reference that identify possible documents and the documents is fetched from the OnDemand server and returned to the customer as a xml Notification List document.
+content	project	Framework: Core Java, Spring Framework, Hibernate, RAD 8, WAS8, AFP2PDF, IBM
+content	project	Requirements gathering analysis, design, implementation, testing and code delivery.
+content	project	Involved to write the controllers using Spring Framework.
+content	project	Used Hibernate for generating database mapping files for persistent object (.hbm.xml) XML files.
+content	project	Database connectivity was done using Hibernate.
+content	project	Configure IBM .
+header	project	Description:
+content	project	DPL project deals with loan aspect of the discover Bank. The project mainly focuses on up gradation existing technologies. DPL contains the following modules like Login, Registration, Account Details, Payments, update login information/Email, Cancel DPL access and Maintenance.
+content	project	DPL will send the customer CIF to Finacle service and all the deposit account details fetched from the Finacle database using the CIF. For Loan accounts the customer CIF will be sent to CDS Database. In CDS database a table is maintained that maps each CIF with the corresponding loan number If any present for that CIF. The Loan number is again sent back to DPL. Now using the loan number DPL fetches the loan details from the Fiserv and display it.
+content	project	Understanding the existing flow and help the team migrates to new technologies.
+content	project	Analyzing the requirements and prepared use case documents.
+content	project	Implemented new business requirements with in established applications.
+header	project	Description:
+content	project	An approval is the process by which OHL interacts with approval system to create and ensure the relevant limit attributes are recorded and maintained. An approval may be as simple as overdraft privileges on a retail checking account, or as complex as a commercial relationship with many counterparties lines of credit and products. Since OHL is not an approval system, only approved credit applications will be input directly to OHL. The Front End would be used to add an approval when an automated interfaces between the approvals systems, Such as CARM.
+content	project	An Approval can be made up of one or more Limits, for each Limit, The approval also include the relationships for each limit.
+content	project	Prepared the Design Document for all the modules and reviewed.
+content	project	Implemented new business requirements with in established applications.
+content	project	Involved to write the classes using webAppInfra Framework.
+content	project	Responsible for well-formed unit testing of deliverables and move into production.
+content	project	Environment: JDK1.4, Servlets, JSP,JSF, RTC 3.0, WAS 8.0, Rational Team Concert 3.0, Quality Center 11.0
+header	project	Description:
+content	project	Retail Brokerage Platform is One HSBC Securities and Wealth (OH SW) workstream and it is an Investment Plan Accounts to be opened needs to be developed for the UK.
+content	project	Investment Plan Accounts need to be opened across multiple channels and for multiple applicants:
+content	project	Sole Customer Base
+content	project	New to Investments - existing account holders with valid Current / Savings accounts
+content	project	Existing Investment Account (InvestDirect) Holders – these Customers will also need to hold a valid Current / Savings account
+content	project	Customers must have access to PIB.
+content	project	Framework: IBM WSBCC, DS2, Spring Framework,Hibenate
+content	project	Developing new JSP pages with JSF
+content	project	Attending Client Meetings
+content	project	Code reviews and peer reviews
+content	project	Developing Services and DAO's components
+content	project	Implemented new business requirements with in established applications.
+content	project	Environment: JDK1.4, Servlets, JSP, MKS Integrity, WAS 7.0, RAD 7.0, Quality Center 11.0
+header	project	Description:
+content	project	Account Tax Compliance Act (FATCA) is a regulatory act which creates new tax information reporting and withholding for payments made to certain foreign financial institutions and other foreign persons. FATCA requires Foreign Financial Institutions FFIs such as HSBC to report directly to the Internal Revenue System IRS certain information about financial accounts held by U.S. taxpayers, or by foreign entities in which U.S. taxpayers hold a substantial ownership interest. This project is executed as two different modules, one for Personal banking customers and the other is for Commercial banking customers. In both the modules we will be capturing the respective indicia details and enable the customer to assign a FATCA classification and update the W8/W9 forms.
+content	project	Framework: IBM WSBCC, DS2, Spring Framework
+content	project	Involved in the requirements Analysis and client interactions.
+content	project	Worked as a developer on various modules like customer indicia details, FATCA classification and W8/W9 forms
+content	project	Performed design review and code review to achieve quality design and code Specification Documents.
+content	project	Responsible for well formed unit testing of deliverables and move into production.
+content	project	Environment: JDK1.4, Servlets, JSP, MKS Integrity, WAS 6.1, Rational Application Developer 7.0, Quality Center 11.0
+header	project	Description:
+content	project	The Application (or 'App') will run on the iPhone platform as a standalone and distinct service from any existing HSBC and first direct web offerings. The App will offer banking services to it's customer in line with core banking services. The App is aimed at existing customers who use online services, but will also be used as an acquisition tool by indicating our technology credentials and providing a tool which meets the needs of the visitors to our public websites each month. This service is not aimed to replicate or replace all existing online services, but to present a cut down version of Internet Banking offering the most commonly used functionality.
+content	project	The Application will offer the following functional elements in the first release:
+content	project	Payments and Transfers
+content	project	‘Feedback’ function
+content	project	Implementing JQTouch for all jsp’s
+content	project	Attending Client Meetings
+content	project	Code reviews and peer reviews
+content	project	Environment: JDK1.4, Servlets, JSP, JQTouch ,MKS Integrity, WAS 6.1, Rational Application Developer 7.0, Quality Center 11.0
+header	project	Description:
+content	project	Commercial Solutions is the proposed electronic system built to replace the current manual financial planning process used by the Commercial sector of HSBC. The new system will be developed for the ‘Staff’ and "Customer" facing channel and consist of numerous components that will provide electronic fact finding and pre-population of existing data, solution tooling and production of documentation.
+content	project	Developing new JSP pages with JSF
+content	project	Attending Client Meetings
+content	project	Code reviews and peer reviews
+content	project	Developing Services and DAO's components
+header	project	Description:
+content	project	Assurant Health is part of Assurant, a premier provider of specialized insurance products and related services in and selected international markets. Assurant implements Siebel Financial Services & Java to support their insurance business for both Internal and External Agents of Assurant Health.
+content	project	MyBook: MyBook Application is designed to provide alerts & policy information to MyBook users.
+content	project	MyBook helps agents manage their business by providing visibility to upcoming retention opportunities like Renewals, Late Payments, Terminations and Rewrites.
+content	project	Implemented email notification using java mail.
+content	project	Created the Design document and KT document for the email notification functionality.
+content	project	Implemented logger functionality using Log4j
+content	project	Connecting the database using JDBC.
+content	project	Environment: Java, Struts1.1, Java Mail, iText, Log4j, JDBC, Eclipse 3.2, Oracle 10g, DB2, Windows XP.
+header	project	Description:
+content	project	Contract Portal is a web-based application that serves as a repository of contracts (projects) being executed by MGL. It provides valuable insights for the corporate and finance planners by providing overview of contracts under execution, billing details and cash-flow forecast. This project contain four modules namely Proposal, MSA, Contract, Project, Reports and other master information.
+content	project	Prepared the Design Document for all the modules and reviewed.
+content	project	Developed User Interface using Spring tags, JSTL tags, JSP Tag libraries, HTML tags, Display Tags and Java Script in order to achieve the Clients requirements.
+content	project	Involved to write the controllers using Spring Framework.
+content	project	Used Hibernate for generating database mapping files for persistent object (.hbm.xml) XML files.
+content	project	Database connectivity was done using Hibernate.
+content	project	Environment: JDK1.5, J2EE, JSTL, Spring Framework 2.0, Hibernate 3.0, Tomcat 5.5, VSS 6.0,RAD 6.0, Oracle, Windows XP.
+header	project	Description:
+content	project	EDRS is an Electronic Data Retrieval System. The client receives invoice from their vendors, which is scanned and maintained in a database. The scanned image were later retrieved and indexed by matching the scanned invoice with the indexed values. It contains the following modules
+content	project	EDRS Admin, where the users and virtual folders will be created
+content	project	EDRS DocLoad, using this, the scanned invoice will be uploaded into the database along with the indexed value
+content	project	EDRS Viewer, where the user can view the scanned invoice image
+content	project	Prepared the Design Document for all the modules and reviewed.
+content	project	Developed JSP pages, controllers using MVC Pattern
+meta	others	Email: iamsudhakar1260@gmail.com
+meta	others	Mobile: +91 – 9966120008
+meta	others	New to Bank – no current relationship with HSBC. These prospects will need to open a valid Current / Savings account.

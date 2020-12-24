@@ -1,0 +1,41 @@
+content	experience	C , C++, JAVA (Limited Understanding).
+header	education	EDUCATIONAL QUALIFICATION:
+content	education	INSTITUTION
+content	education	B.E. Computer
+content	education	Science and
+content	education	Engineering
+content	education	Engineering
+content	education	Sri Sankara
+content	education	Matriculation
+content	education	Higher Secondary
+content	education	Sri Sankara
+content	education	Matriculation
+content	education	Higher Secondary
+content	education	Anna University
+content	education	State Board
+content	education	State Board
+content	knowledge	Looking forward for a challenging career in a company where my skills can be show
+header	knowledge	INTERNSHIP:
+content	knowledge	o I have completed an Internship Program in Java at HP Enterprise,Velachery (January
+content	knowledge	o I have recently completed Angular 8 course at Fita Velachery for 2 months duration.
+header	knowledge	AREA OF INTEREST:
+content	knowledge	Web Application, DBMS, OOPS
+content	knowledge	o Operating System: Windows platform
+content	knowledge	TECHNICAL KNOWLEDGE:
+content	knowledge	Angular 8, HTML, CSS
+content	knowledge	o I have organised at the National Level Symposium ,’CRYPTRIX 2K18’
+header	knowledge	Languages known
+content	project	PROJECT COMPLETED:
+content	project	o Project name: Credit Card Fraud Detection (Final Semester Project)
+content	project	o Description: A technique to detect the credit card fraud detection based on the type of
+content	project	merchant and the location from where the user uses his/her credit card.
+content	project	International BEC .
+meta	others	Mobile Number: 8056116558
+meta	others	EmailId: priyankavasu1998@gmail.com
+meta	others	ST.JOSEPH’S
+meta	others	Father Name
+meta	others	Date of Birth
+meta	others	No.30,SUBIKSHAM FLAT, plot no.S4,1st main
+meta	others	road, Thirumalai Nagar
+meta	others	Tamil ,English
+meta	others	priyankavasu1998@gmail.com

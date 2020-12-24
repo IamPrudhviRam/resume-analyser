@@ -1,0 +1,41 @@
+header	others	NAGA BARANEE THARAN R
+meta	others	Mobile No:7339046460
+meta	others	Email_id : baraniravi97@gmail.comsss
+header	others	OBJECTIVE
+content	others	Seeking a position in life to utilize my skills and abilities and achieve professional growth while being resourceful, innovative and flexible.
+header	education	EDUCATIONAL QUALIFICATION
+header	knowledge	TECHNICAL SKILL
+content	knowledge	Programming languages : Basics of C, C++, JavaScript, Angular 8
+content	knowledge	Database : SQL WebDevelopment : HTML 4 and CSS
+header	others	AREA OF INTEREST
+content	knowledge	JAVA Programming.
+content	knowledge	Data structures.
+header	knowledge	VALUE ADDED COURSES
+content	education	Completed DCP (C, C++) Course in CSC Computer Education in Periyakulam ,Theni dist.
+header	project	PROJECT TITLE
+content	project	Collaborative Game Development by Using UNITY 3D
+header	others	SUMMARY
+content	project	3D game developed by Using UNITY 3D
+content	project	Unity 3D is a cross platform game engine.
+content	project	Collaborative is a process of connecting four players simultaneously to play the game.
+content	project	Players are connected by using Facebook SDK Toolkit, toolkit allows players to connect with facebook account and providing connected circle with known person.
+content	project	There are some software’s for designing the models and characters.
+content	project	For character design using Miximo fuse software and buildings are design by using Edificius software. C# Coding is developed for giving motion to the characters.
+content	project	By using two brain gaming concept player need to survive himself and defend from another one attacks.
+header	others	ACHIEVEMENTS
+content	others	Won 1st prize in Multimedia competition” SCHOPFER 2K18”National level technical symposium conducted by Department of Computer Science And Engineering at Theni Kammavar Sangam College of Technology, Theni.
+header	experience	ABOUT INTERNSHIP:
+content	experience	I got internship programme in NIXSERV IT Solution Bangalore, specialized in website front end designing using HTML 4 and CSS
+content	experience	In part of internship the site designs are
+content	knowledge	Interior design
+content	knowledge	School Website designs
+header	others	PERSONAL PROFILE
+meta	others	.
+meta	others	Father’s Name : G.Ravindran
+meta	others	Date of Birth : 28-07-1997
+meta	others	Address : 15,North Poonthottam Street, Vadagarai,
+meta	others	Periyakulam,Theni (dt)
+meta	others	Hobby : Cricket, Volley Ball, Reading Magazine
+meta	others	Language Known : Tamil ,English, Telugu
+header	others	DECLARATION
+content	others	I hereby declare that all the above information is true to the best of my knowledge.

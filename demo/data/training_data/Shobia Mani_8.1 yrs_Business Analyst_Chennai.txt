@@ -1,0 +1,84 @@
+content	experience	2.8 years of experience as a Product Development Analyst in analysis, design, development and testing of content management using oracle documaker studio and RP 11.4/11.3, HODMOD (Mainframe) and DAL scripts
+content	experience	1.7 years of experience as a Processing Executive in banking domain at scope international with the help of eBBS, S2O, CEMS.
+content	experience	10 months of experience as a Software Programmer in both web and windows applications
+header	experience	WORK EXPERIENCE
+content	experience	Good understand of form requirements correctly and performed end to end design, develop, test and implementation part
+content	experience	Verified pre checking of SCB after crossing from Manager Sign
+content	experience	Good working knowledge on Application development and maintenance life cycle process.
+content	experience	B.Tech with specialization in Information Technology With 82%
+content	education	Hinduja Global Solutions (HGS) ­ January 2014 – September 2016
+content	education	The AMS College of Engineering, ANNA University, Chennai – 2010
+content	education	Higher Secondary School with 80%
+content	education	SSLC with 90%
+content	education	Govt Higher Secondary School Devapandalam, (Tamilnadu) - 2004
+content	education	Kallakurichi (Dist)-605801.
+content	knowledge	Currently working as a Product Business Analyst in requirements gathering, estimation, analysis, develop, test and deployment of electronic forms of certificates for US healthcare insurance business with the help of Oracle Documaker Studio 11.5 & 12.5 and HODMOD (Mainframe)
+content	knowledge	Using C#.Net, ASP.Net, ADO.Net and MSSQL.
+content	knowledge	CCM tools - Oracle Documaker Studio12.5, 11.5 & 11.4/11.3, HODMOD (Mainframe), DAL scripts, S2O, EBBS, CEMS, XML, MSSql and MS Office.
+content	knowledge	Environment: CCM tools - Oracle Documaker Studio 11.5 & 12.5, HODMOD (Mainframe), XML, DAL scripts
+content	knowledge	Used document automation language(DAL) for form variable information scripting
+content	knowledge	Environment: CCM tools - Oracle Documaker Studio 11.4/11.3,HODMOD(Mainframe),XML,DAL scripts
+content	knowledge	Worked as a checker (QA) for Address and Amendments team.
+content	knowledge	PGR InfoTech Services - May 2011 – March 2012
+content	knowledge	Experienced in programming of web and windows applications
+content	knowledge	Excellent troubleshooting techniques
+content	knowledge	Good knowledge in retrieving of projects data from database using SQL
+content	knowledge	Maintained database and scripted for the projects of windows and web based applications
+content	knowledge	Trained on soft skills(C#.Net, ADO.Net, ASP.Net and MS SQL) to project maker.
+header	knowledge	CERTIFICATES:
+content	knowledge	Certified Professional for Diploma in .NET from NIIT Bangalore with 80%
+content	knowledge	Got Microsoft Certification as a Technology Specialist with 93% (MC ID: 8075915)
+content	project	An energetic professional in the field of business operations and product management, leading teams to efficiently achieve their objectives. Seeking a position where these skills can be utilized while solving new challenges within an industry leading organization.
+content	project	Flixx IT Systems Private Limited - October 2016 – Till the date
+content	project	Responsibilities: Involved in requirements gathering for US healthcare business and estimates scope of change for product implementation, Good experience in analyzing the business requirements
+content	project	Analyze client’s business requirements and processes through document analysis, workflow analysis
+content	project	Defines, develop, test and documents customer business functions and processes, based on project documentation to achieve greater efficiency in customer relations
+content	project	Create and update business requirement documents and functional requirements documents
+content	project	Collaborate and provide business analysis support to the product owner, SMEs and testers during development
+content	project	Design business models using UML diagrams – Context, Use Case, Sequence, Activity diagrams
+content	project	Engage client to gather business rules/software requirements. Communicating effectively with upper management, developers, SMEs and QA
+content	project	Identify and reconcile errors in client data to ensure accurate business requirements
+content	project	Responsible for performing root cause analysis for issues and provide effective timely business resolution. Generating reports of US healthcare business for forms, sections, form lists, triggers
+content	project	Assisted in testing activities to ensure development work meets clients requirements
+content	project	Developed technical documents and captured all test cases to be tested and immense experience in defects handling, created business definition, forms, form lists and sections
+content	project	Identifies the errors or process problems in potential problem areas and recommends the appropriate solutions to the corresponding team
+content	project	Worked for different US healthcare states of projects involved from scratch to promotion on time project completion and also provides ongoing support for it projects to business clients post-deployment to ensure successful operation
+content	project	Product Development Analyst
+content	project	Responsibilities: Involved in various phases of software development life cycle (SDLC) as requirement gathering, analysis, architecture, design develop, test and implementation for US healthcare business
+content	project	Interacted with the clients for projects updates, performance, availability, scalability and maintainability
+content	project	Migrated existing forms from mainframe to oracle documaker studio & created new forms, images(FAPs),logos, group forms for the migrated states
+content	project	Involved in unit testing and testing support activities for each modules of projects
+content	project	Involved documaker development for both simple and complex electronic forms in standard & dynamic
+content	project	Creation of field on oracle documaker studio using XDD and reports are maintained for forms, form lists, fields, triggers, sections and Graphics
+content	project	Involved DAL scripting, Rule processing and Overflow Handling
+content	project	Designed forms, form lists, sections, paragraphs, graphics fields and created triggers wherever it is needed. Involved white space removal on project review by creating the proper triggers
+content	project	Performed testing, pre promotion and post promotion on projects before it goes on live
+content	project	Performed output generation using HODMOD after post promotion done & posted projects on live for the different states based on business needs
+content	project	Handled difficult projects and delivered the projects on or before the time.
+content	project	Processing Executive
+content	project	MMC InfoTech Services - April 2012 – November 2013
+content	project	Responsibilities: Rationalized name change in their profiles in Bank database by examining government proof
+content	project	Handled CASA accounts details
+content	project	Resolves banking data of SCB discrepancies by collecting and analyzing information
+content	project	Updates the client details like amendments, address change request by bank customer
+content	project	Statement registered for time based which members request
+content	project	Card issued for mobile banking and internet banking
+content	project	Handled critical task which was escalated from client side
+content	project	Reported team records to supervisor
+content	project	Trained about more than fifty employees in banking projects and on basic associate development program
+content	project	Handled pressurized cases in Address change request for SCB
+content	project	Moved to QA with short period.
+meta	project	Environment: eBBS, S2O, CEMS
+content	project	Responsibilities: As software programmer my responsibilities are to develop the software projects in .net environment. In that I have used windows and web applications to develop the projects by using IIS server
+content	project	Provided support to new project and maintenance project
+content	project	Worked on projects of Employee claims management system and Optimal service pricing for a cloud cache
+content	project	Environment: C#.net, ASP.Net, ADO.Net, Xml and MSSql
+meta	others	Environment: eBBS, S2O, CEMS
+meta	others	Date of Birth : 4th April 1989
+meta	others	Father’s name : Mr.G.Mani
+meta	others	Gender : Female
+meta	others	Address : North Street, Pakkam (Po), Sankarapuram-Tk,
+meta	others	Marital status : Married
+meta	others	Nationality : Indian
+meta	others	Languages : English & Tamil
+meta	others	Date: ……………. SHOBIA MANI

@@ -1,0 +1,32 @@
+content	experience	With Mphasis Pvt. Ltd.:
+content	education	A C A D E M I C D E T A I L S
+content	education	MCA from SNS College of Engineering, Coimbatore in 2013
+content	education	B.Sc.(Computer Science) from Hindusthan College of Arts & Science, Coimbatore in 2010
+content	education	I T S K I L L S
+content	knowledge	file imports
+content	knowledge	Working with projects of various lengths and complexities while achieving proficiency in exhaustive manual testing
+content	knowledge	Description: Supported QBE in the process of consolidating many of its automated systems due to recent acquisitions to improve services and rationalize the portfolio of applications
+header	knowledge	C E R T I F I C A T I O N
+content	knowledge	ISTQB certification from International Software Testing Qualifications Board
+content	knowledge	Products/Tools: JIRA, ALM 11.5, Guidewire 6.0, Eclipse, Selenium Web Driver
+meta	knowledge	Languages: Java
+content	project	Maintaining all test case documents within structured, clear and complete formats following their standard and quality of deliverables
+content	project	Collaborating with developers for resolution of testing issues and risks to project managers to achieve quality product
+content	project	With Pershing LLC (Subsidiary of BNY Mellon):
+content	project	Delivered JIRA tool for the ease of onshore employees which helped them to track all the projects beginning from INCS, Waterfall & Agile Process
+content	project	Received WOW Award for the exceptional management of the first implemented Agile process approach for a GBP project
+content	project	Won Summit Award for exceptional performance during the execution phase by identifying critical defects on one of the major priority changes in CMS
+content	project	Appreciated by the Client SME of the project for testing smoothly and on time project completion
+content	project	Projects Managed: With Mphasis Pvt. Ltd.:
+content	project	Project Name: Guidewire Claim Centre & QBE Internal Policy Centre
+content	project	Duration: Sep’13 to Oct’16
+content	project	Client: QBE Insurance Group
+content	project	With Pershing LLC (Subsidiary of BNY Mellon):
+content	project	Project Name: AMPS - Asset Movement Processing Service
+content	project	Description: Supported the verification of the accounts, funds & securities available while clearing the transaction
+content	project	Duration: Since Oct’16
+content	project	Client: Pershing LLC
+meta	others	Languages: Java
+meta	others	Date of Birth: 24th October 1989
+meta	others	Languages Known: English & Tamil
+meta	others	Address: Medavakkam, Chennai – 600126, Tamil Nadu

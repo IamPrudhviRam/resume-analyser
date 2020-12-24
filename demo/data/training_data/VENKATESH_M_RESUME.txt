@@ -1,0 +1,37 @@
+content	experience	Young,  energetic  and  result  oriented  professional  with  average  Academic  background  with  Deep
+content	experience	understanding  of  technology  with  focus  on  delivering  business  solutions,  Persuasive  communicator
+content	experience	  Friendly with an upbeat attitude.
+content	experience	to draft  3-D model.
+content	experience	different operations of thermal power plant.
+header	education	EDUCATIONAL QUALIFICATION
+content	education	  Bachelor of Engineering with specialization in Mechanical Engineering from Alagappa
+content	education	chettiar Govt College of Engineering and Technology (Anna university)-autonomous,
+content	education	karaikudi in 2019, secured 5.8 CGPA (CBCS) (Equivalent to 6.8 CGPA as per anna university
+content	education	  HSC from A.K.T academy matric Higher Secondary School, Kallakurichi 2015,
+content	education	Secured 95%.
+content	education	  SSLC from A.K.T memorial high School, Kallakurichi in 2013, secured 93%.
+content	knowledge	with  exceptional  relationship  management  skills  with  the  ability  to  relate  to  people  at  any  level  of
+content	knowledge	  Possessing excellent communication and collaboration skills to lead and work in concert with
+content	knowledge	  Adroit  at  learning  new  concepts  quickly,  working  well  under  pressure  and  communicating
+content	knowledge	  Excellent decision-making skills with a positive approach.
+header	knowledge	TECHNICAL SKILLS
+content	knowledge	  WEB TECHNOLOGIES     -   FRONT END - HTML, CSS, JAVASCRIPT, ANGULAR 8
+content	knowledge	BACK END   - NODE.js, MONGOdb
+content	knowledge	  OPERATING SYSTEM      -    Windows
+content	knowledge	grade system).
+content	knowledge	for turbine blades based on given input parameters of turbine ,that can be feed into modelling software
+content	knowledge	  Attended In-plant training in TUTICORIN THERMAL POWER station and learned about the
+content	project	Turbine blade design using MATLAB
+header	project	PROJECT DESCRIPTION
+content	project	Developed a MATLAB code for rapid designing of turbine blade, which will generate co-ordinates
+content	project	: Available on request
+content	project	operations.
+meta	others	Phone: +91 9944619114, +91 8838625178
+meta	others	Email: venkatesh.mani232@gmail.com
+meta	others	No.1/131, M.G.R Nagar ,7Th cross street,
+meta	others	Father’s Name
+meta	others	Date of Birth                                   :  11 Oct 1997
+meta	others	Marital status
+meta	others	Nationality
+meta	others	:  English, Tamil (R/W/S)
+meta	others	Represented my college in university cricket matches .Also represented College Volley ball team.

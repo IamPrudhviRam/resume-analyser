@@ -1,0 +1,223 @@
+header	experience	EXPERIENCE SUMMARY:
+content	experience	Technical/Delivery/Program Manager with over Fifteen years of hands-on experience spanning project planning, reporting, execution skills and ability to deliver objectives on-time, within budget and to the highest specification, in the field of Web/Full Stack/Bigdata in information technology.
+content	experience	Experienced in leading and handling large scale projects in multi-functional areas and global basis.
+content	experience	Overseeing project & resource planning and the implementation of Capgemini Agile Framework.
+content	experience	Hands on experience in DEVOPS CI/CD: Jenkins, DSL Deployment as code. Jenkins full CI/CD configuration, Github\Gitlab Management.
+content	experience	Hands-on experience on Architecting and securing the Infrastructure on AWS using IAM, API Gateway, Cloud Trail, Cloud Watch, Security Groups.
+content	experience	Experienced in designing cloud models for Infrastructure-as-a-service (IaaS), Platform-as-a-service (PaaS), and Software-as-a-Service(SaaS).
+content	experience	Extensive experience in developing web pages using HTML/HTML5, XML, DHTML CSS/CSS3, JavaScript, React JS, Redux, Flex, JQuery, JSON, Node.js, Ajax.
+content	experience	Experience in developing applications using ReactJS with Redux framework, and implemented reusable react-redux component.
+content	experience	Experienced in React JS and working with React Flux architecture.
+content	experience	Experience in upgrading different databases and also migration of data among multiple databases including MongoDB.
+content	experience	Experience in analyzing and visualizing the data along with data modeling in MongoDB.
+content	experience	Experience in managing life cycle of MongoDB including sizing, automation, monitoring and tuning.
+content	experience	Experience on working with MongoDB Ops Manager, Cloud Manager and Atlas Manager
+content	experience	Hands on experience in performing real time analytics on big data using Spark, Spark SQL and MongoDB.
+content	experience	Experience in converting Spark SQL queries into RDD transformations using.
+content	experience	Extensively worked on Spark Streaming and Apache Kafka to fetch live stream data.Drive and influence AWS revenue and strategize about business priorities.
+content	experience	Work estimation, job allocation, project planning & tracking, and regular progress reviews
+content	experience	Strong experience in Waterfall Model, Incremental Model and Confident and mature to comprehend, articulate, willing to learn & apply different software development life cycles quickly.
+header	experience	WORK EXPERIENCE:
+content	experience	Experience in developing applications using ReactJS with Redux framework, and implemented reusable react-redux component.
+content	experience	Experienced in React JS and working with React Flux architecture.
+content	experience	Experience in upgrading different databases and also migration of data among multiple databases including MongoDB.
+content	experience	Experience in analyzing and visualizing the data along with data modeling in MongoDB.
+content	experience	Experience in managing life cycle of MongoDB including sizing, automation, monitoring and tuning.
+content	experience	Experience on working with MongoDB Ops Manager, Cloud Manager and Atlas Manager.
+content	experience	Hands on experience in performing real time analytics on big data using Spark, Spark SQL, HDFS and MongoDB.
+content	experience	Experience in converting Spark SQL queries into RDD transformations using.
+content	experience	Extensively worked on Spark Streaming and Apache Kafka to fetch live stream data.Drive and influence AWS revenue and strategize about business priorities.
+content	experience	Hands on experience in DEVOPS CI/CD: Jenkins, DSL Deployment as code. Jenkins full CI/CD configuration,Github\Gitlab Management.
+content	experience	Hands-on experience on Architecting and securing the Infrastructure on AWS using IAM, API Gateway, Cloud Trail, Cloud Watch, Security Groups.
+content	experience	Experienced in designing cloud models for Infrastructure-as-a-service (IaaS), Platform-as-a-service (PaaS), and Software-as-a-Service(SaaS).
+content	experience	Good knowledge and experience in writing JUNIT test cases with Easy Mock, Mockito and Power Mock.
+content	experience	Overseeing project & resource planning and the implementation of Agile based execution.
+content	experience	Hands on experience in DEVOPS CI/CD: Jenkins, DSL Deployment as code. Jenkins full CI/CD configuration, Github\Gitlab Management.
+content	experience	Hands-on experience on Architecting and securing the Infrastructure on AWS using IAM, API Gateway, Cloud Trail, Cloud Watch, Security Groups.
+content	experience	Experienced in designing cloud models for Infrastructure-as-a-service(IaaS), Platform-as-a-service(PaaS), and Software-as-a-Service(SaaS).
+content	experience	Experience with web services and SOA related standards like RESTful/OAuth/JSON/XML and SOAP/WSDL.
+content	experience	Good knowledge and experience in writing JUNIT test cases with Easy Mock, Mockito and Power Mock.
+content	experience	4+ years with Amazon Web Services (AWS) with expertise in Amazon’s cloud computing offerings.
+content	experience	Experience in developing applications using ReactJS with Redux framework, and implemented reusable react-redux component.
+content	experience	Experienced in React JS and working with React Flux architecture.
+content	experience	Experience in upgrading different databases and also migration of data among multiple databases including MongoDB.
+content	experience	Experience in analyzing and visualizing the data along with data modeling in MongoDB.
+content	experience	Experience in managing life cycle of MongoDB including sizing, automation, monitoring and tuning.
+content	experience	Experience on working with MongoDB Ops Manager, Cloud Manager and Atlas Manager.
+content	experience	Hands on experience in performing real time analytics on big data using Spark, Spark SQL, HDFS and MongoDB.
+content	experience	Experience in converting Spark SQL queries into RDD transformations using.
+content	experience	Extensively worked on Spark Streaming and Apache Kafka to fetch live stream data.Drive and influence AWS revenue and strategize about business priorities.
+content	experience	Hands on experience in CI/CD: Jenkins, DSL Deployment as code. Jenkins full CI/CD configuration, Github\Gitlab Management.
+content	experience	Experience with web services and SOA related standards like RESTful/OAuth/JSON/XML and SOAP/WSDL.
+content	experience	Implemented SOAP & RESTful Web Services for communicating one application to another application using JAX-WS, JAX-RS.
+content	experience	Good testing experience using JUNIT server.
+header	education	EDUCATIONAL QUALIFICATION:
+content	knowledge	A diverse background in technical and managerial areas with experience in Software Development Life Cycle: software analysis, design, development, testing, Enhancement, Production Support, and maintenance operations using Project and program management, Java, JEE,EJB, JSP, JSR, WebServices, STRUTS, WebSphere , WebLogic , JBOSS, JDBC, Hibernate, Spring Framework, Spring Boot, Mean Stack, ReactJS, Big Data, NoSQL-MongoDB, Kafka, Oracle, SQL, JCL, LINUX, UNIX, Maven, Mule, Spring Security, JPA, MySQL, Kubernetes, OAUTH2, Docker,Git,Jenkins,DB2,CRM and DEVOPS..
+content	knowledge	Having STWP visa to Europe and worked in Europe for a years.
+content	knowledge	Expertise in DevOps, Release Engineering, Configuration Management, Cloud Infrastructure, Automation. It includes Amazon Web Services (AWS), Maven, Jenkins, Chef, SVN, GitHub, ClearCase, CVS, Tomcat, JBoss, LINUX etc.
+content	knowledge	Good knowledge on Application Migrations and Data migrations from On-premise to AWS Cloud.
+content	knowledge	Expertise in React JS framework to develop the SPA.
+content	knowledge	Took initiative in learning React native and went on to successfully develop various features under minimal supervision.
+content	knowledge	Good Experience in React JS for creating interactive UI's using One-way data flow, Virtual DOM, JSX, React Native concepts.
+content	knowledge	Experience in MongoDB installation, patching, troubleshooting, performance, tracking/tuning, back - up and recovery in dynamic environments.
+content	knowledge	Anticipate cloud computing and industry trends, align team accordingly.
+content	knowledge	Hands on-level knowledge and experience of services of the Amazon Web Services (AWS) family like Amazon EC2, Amazon S3, Amazon DynamoDB, Amazon RDS, Amazon Elastic Beanstalk, Amazon Elastic Search,Amazon Simple Workflow Service, Amazon Messaging(SQS , SNS), AWS Cloud Formation, AWS Identity and Access Management (IAM), Amazon Virtual Private Cloud (VPC).
+content	knowledge	Developing Ant and Maven scripts to automate the compilation, deployment and testing of Web and J2EE applications.
+content	knowledge	Excellent verbal and written communication skills with a strong focus on customer facing interaction, customer service, and presentation.
+header	knowledge	TECHNICAL SKILLS:
+content	knowledge	SOFTWARE COURSES/CERTIFICATION COMPLETED:
+content	knowledge	Task assignment and issue tracking using JIRA.
+content	knowledge	Developed project plans including scope, cost, schedule, quality, resourcing, risk identification & mitigation, training/communication and the implementation of Agile Framework based execution.
+content	knowledge	Managed operations with UNIX / Linux, FTP Tool File zilla.
+content	knowledge	Familiar with Shell script, putty tool, VI editor.
+content	knowledge	Expertise in React JS framework to develop the SPA.
+content	knowledge	Took initiative in learning React native and went on to successfully develop various features under minimal supervision.
+content	knowledge	Good Experience in React JS for creating interactive UI's using One-way data flow, Virtual DOM, JSX, React Native concepts.
+content	knowledge	Experience in MongoDB installation, patching, troubleshooting, performance, tracking/tuning, back - up and recovery in dynamic environments.
+content	knowledge	Developed and configured Jenkins, Docker, Kubernetes cluster for CI/CD development.
+content	knowledge	Expertise in DevOps, Release Engineering, Configuration Management, Cloud Infrastructure, Automation. It includes Amazon Web Services (AWS), Maven, Jenkins, Chef, SVN, GitHub, ClearCase, CVS, Tomcat, JBoss, LINUX etc.
+content	knowledge	Agile Source provides ECAPS (Economic Capital System) which gets feed from Bloomberg, Thompson Reuters and the input from the BA's and calculates the Economic capital for an Institution.
+content	knowledge	Developed project plans including scope, cost, schedule, quality, resourcing, risk identification & mitigation, training/communication and the implementation of Capgemini Agile Framework based execution.
+content	knowledge	Managed operations with UNIX / Linux , FTP Tools like WinSCP, File zilla etc.
+content	knowledge	Conduct planning and operational readiness assessments to provide an effective transition of Struts to Spring Boot and MySQL to NoSQL-MongoDB upgrade.
+content	knowledge	Developed and configured Jenkins, Docker, Kubernetes cluster for CI/CD development.
+content	knowledge	Expertise in DevOps, Release Engineering, Configuration Management, Cloud Infrastructure, Automation. It includes Amazon Web Services (AWS), Maven, Jenkins, Chef, SVN, GitHub, ClearCase, CVS, Tomcat, JBoss, LINUX etc.
+content	knowledge	Anticipate cloud computing and industry trends, align team accordingly.
+content	knowledge	Hands on-level knowledge and experience of services of the Amazon Web Services (AWS) family like Amazon EC2, Amazon S3, Amazon DynamoDB, Amazon RDS, Amazon Elastic Beanstalk, Amazon Simple Workflow Service, Amazon Messaging(SQS , SNS), AWS Cloud Formation, AWS Identity and Access Management (IAM), Amazon Virtual Private Cloud (VPC).
+content	knowledge	Familiar with Shell script, putty tool, VI editor.
+content	knowledge	Expertise in React JS framework to develop the SPA.
+content	knowledge	Took initiative in learning React native and went on to successfully develop various features under minimal supervision.
+content	knowledge	Good Experience in React JS for creating interactive UI's using One-way data flow, Virtual DOM, JSX, React Native concepts.
+content	knowledge	Experience in MongoDB installation, patching, troubleshooting, performance, tracking/tuning, back - up and recovery in dynamic environments.
+content	knowledge	Developed project plans including scope, cost, schedule, quality, resourcing, risk identification & mitigation, training/communication and the implementation of Capgemini Agile Framework based execution.
+content	knowledge	Involved in discussions with the business and preparing the BRD and then the FSD and TSD.
+content	knowledge	Responsible and accountable for the coordinated management of multiple related projects directed toward strategic business and other organizational objectives.
+content	knowledge	Involved in discussions with the business and preparing the BRD and then the FSD and TSD.
+content	knowledge	Good experience with UNIX / Linux commands, FTP Tools like WinSCP, File zilla etc.
+content	knowledge	Familiar with Shell script, putty tool, VI editor.
+content	knowledge	Effectively multitasked by Creating deployment strategies for integrating the Application with other sub-systems.
+content	knowledge	Involved in WebSphere MQ Series (WMQ) Administrator for Global Billing Systems.
+content	knowledge	Good experience with UNIX / Linux commands, FTP Tools like WinSCP, File zilla etc.
+content	knowledge	Familiar with Shell script, putty tool, VI editor.
+content	knowledge	Developed asynchronous messaging development skills using JMS and IBM MQSeries for routing financial messages.
+content	knowledge	Worked in designing and developing applications for WebSphere MQ 6.
+content	project	Involved in Delivery / Program Manager activities like Monthly Forecasting /invoicing, Status and Governance reports, Weekly and Monthly governance with client Qualitative and quantitative analysis of project metrics, Resource fulfillment, Competency Building trainings and DEVOPS.
+content	project	Having H1b visa to United States of America and worked in USA for 5 years.
+content	project	Implemented a Continuous Integration/Delivery pipeline with Jenkins and GitHub, Whenever a new github branch gets started, Jenkins our Continuous Integration server, automatically attempts to build a new Maven, Groovy and Shell Script based build from it.
+content	project	Hands-on experience on implementing Cloud Solutions using various AWS Services including EC2, VPC, S3, Glacier, EFS, AWS Kinesis, Lambda, Directory Services, Cloud Formation, Ops works, Code Pipeline, Code Build, Code Deploy, Elastic Beanstalk, RDS, Data Pipeline, DynamoDB, Redshift etc.
+content	project	Develop test framework using JUnit, TestNG Java framework and Selenium Webdriver. and Reporting defects.
+content	project	Implement the web application using MERN Stack technologies (MongoDB, Express, ReactJS, Node.js) along with HTML5, CSS3, JavaScript, jQuery, Bootstrap and other web technologies.
+content	project	Member of the AWS practice and involved with sales and business development leadership team.
+content	project	Designing and implementing fully automated server build, management, monitoring and deployment solutions spanning multiple platforms, tools, technologies, DevOps, Continuous Integration, Build Automation, using Jenkins.
+content	project	Design, integration, deployment and automation of J2EE Application servers – JBoss, Tomcat, WebSphere (Portal, BPM, MQ, ESB, and Application Server) and WebLogic Application Server across UNIX, Windows and Linux platforms.
+content	project	Project management skills to plan, prioritize and implement several tasks concurrently
+content	project	Working within a dynamic team environment through flexible and adaptable approach
+content	project	Preparation of project plan, resource planning, resource allocation, ensuring delivery timeline.
+content	project	Practiced in clarifying business requirements, performing gap analysis between goals and existing procedures and designing process and system improvements to increase productivity and reduce costs.
+content	project	Experienced in implementing Agile SCRUM and SPRINT using JIRA.
+content	project	Excellent interpersonal, team management, and client interaction.
+content	project	Used Microsoft Project & Clarity/Open Work Bench as Project Management Tools.
+content	project	Experienced in Estimation using Function points, Use Case/Story points and WBS.
+content	project	Manage activities in the following functions: Design/Architecture, Development, Defect, Issue, Change Management, Problem/Incident Management, and QA/Testing.
+content	project	Include reporting on Service Management, Incident Management, Change Management, and weekly initiatives as part of the Service Plan. Include discussions on business priorities and periodic maintenance planning as part of the service planning meetings.
+content	project	Execute the based Change and Release Management processes ensuring that there is no disruption or degradation of service during the lifecycle of the change.
+content	project	Evaluate all requests proposing change to established and supported platforms, identifying, analyzing and documenting potential risks or issues. Liaise with business and 3rd party vendors to capture, analyze and document requested changes against these platforms including the actions that will be taken to mitigate the risks identified.
+content	project	Work with Customer to plan and schedule tactical business and technology events, such as software patching, maintenance, or Minor Releases that impact the Managed Cloud Services, in a manner calculated to minimize disruption to Customer's business
+content	project	Proactively highlight opportunities to improve performance in all areas of operations including productivity, financial management, execution of processes and procedures, achievement of service levels and high levels of customer satisfaction
+content	project	Monitor compliance to existing Change Management process, ensure correct approval process is followed for both regular and emergency changes, follow up non-compliant changes made outside the change management process
+content	project	Knowledge of Release Management, Configuration Management, Identity and Access Management, affinity with Process Management.
+content	project	Create key metrics and identify opportunities to make tactical improvements to the Release Management process.
+content	project	Project management, design, requirements definition and specification, budgeting and project control with ability to support multiple simultaneous projects
+content	project	Principal point of contact for the executive steering committee, project managers / team leads & project sponsors.
+header	project	Project #1:
+content	project	Delivery/ Technical Manager: March 2017 – Till Date
+content	project	Description: RBM – Rating and Billing Management is used to Rate and Bill for anything from congestion charging to public transport usage and manage loyalty-based schemes such as air miles and hotel frequent stay rewards. Its ability to handle multiple parties is ideal to manage revenue sharing opportunities with complex settlement arrangements. RBM is so flexible with powerful discounting functionality than can encourage change in consumer behaviour.
+content	project	Involved in Strategic Growth Plans, Enterprise Implementations, Process Improvement, Risk Mitigation, Resource Management.
+content	project	Managing a team of 30 to 50+ consisting of: PL's, business analysts, QA’s, DBA's, architects and developers.
+content	project	Bridges the gap between Delivery, Management and Client by preparing metrics reports Weekly, Monthly and update the same to higher Management.
+content	project	Involved in Estimation using Use Case/Story points and WBS.
+content	project	Bridges the gap between Delivery, Management and Client by preparing metrics reports Weekly, Monthly and update the same to higher Management.
+content	project	Involved in creating Project Management Plan using Clarity OWB, WBS and Resource loading for every enhancement.
+content	project	Implement the web application using MERN Stack technologies (MongoDB, Express, ReactJS, Node.js) along with HTML5, CSS3, JavaScript, jQuery, Bootstrap and other web technologies.
+content	project	Build Spring Boot Microservices for the delivery of software products across the enterprise.
+content	project	Decompose existing monolithic code base into Spring Boot Microservices.
+content	project	Created Maven builds to build and deploy Spring Boot Microservices to internal enterprise Docker registry.
+content	project	Develop test framework using JUnit,TestNG Java framework and Selenium Webdriver. and Reporting defects.
+content	project	Hands-on AWS Technical Architect developing and Architecting enterprise level large scale multi-tier solutions that require complex Architectural decisions.
+content	project	Hands-on experience on implementing Cloud Solutions using various AWS Services including EC2, VPC, S3, Glacier, EFS, AWS Kinesis, Lambda, Directory Services, Cloud Formation, Ops works, Code Pipeline, Code Build, Code Deploy, Elastic Beanstalk, RDS, Data Pipeline, DynamoDB, Redshift etc.
+content	project	Experience in using Jenkins for Continuous Integration and Sonar jobs for java code quality.
+content	project	Managing multiple Delivery teams simultaneously.
+header	project	Project #2:
+content	project	Delivery/ Technical Manager: May 2013 – February 2017
+content	project	Description: Assurant Specialty Property – AgilSource is a sophisticated web-based System of Record for insurance tracking. AgilSource has been designed to provide user-friendly screens, quick and easy access to insurance information, and accurate tracking of insurance requirements. AgilSource is another example of Specialty Property's commitment to be your partner of choice.
+content	project	Agile Source provides Specialty Property clients and internal users with the most flexible, customer-centered insurance tracking tool in the industry. Easy to navigate screens, intuitive commands, and real-time information makes Agile Source easy and effective.
+content	project	Managing a team of 40+ consisting of: PL's, business analysts, QA’s, DBA's, architects and developers.
+content	project	Involved in Implementing the SDLC Lifecycle in the project discussions with the business during the preparation of BRD, FSD and TSD.
+content	project	Bridges the gap between Delivery, Management and Client by preparing metrics reports Weekly, Monthly and update the same to higher Management.
+content	project	Involved in creating Project Management Plan using Clarity OWB, WBS and Resource loading for every enhancement.
+content	project	Build Spring Boot Microservices for the delivery of software products across the enterprise.
+content	project	Decompose existing monolithic code base into Spring Boot Microservices.
+content	project	Created Maven builds to build and deploy Spring Boot Microservices to internal enterprise Docker registry.
+content	project	Hands-on AWS Technical Architect developing and Architecting enterprise level large scale multi-tier solutions that require complex Architectural decisions.
+content	project	Hands-on experience on implementing Cloud Solutions using various AWS Services including EC2, VPC, S3, Glacier, EFS, AWS Kinesis, Lambda, Directory Services, Cloud Formation, Ops works, Code Pipeline, Code Build, Code Deploy, Elastic Beanstalk, RDS, Data Pipeline, DynamoDB, Redshift etc.
+content	project	Develop test framework using JUnit,TestNG Java framework and Selenium Webdriver. and Reporting defects.
+content	project	Experienced in migrating Mainframe Jobs to Spring Batch.
+content	project	Experience in using Jenkins for Continuous Integration and Sonar jobs for java code quality.
+content	project	Drive and influence AWS revenue and strategize about business priorities.
+content	project	Member of the AWS practice and involved with sales and business development leadership team.
+content	project	Implemented Continuous Integration/Delivery pipeline with Jenkins, GitHub, Maven build, Groovy and Shell Script.
+content	project	Implement the web application using MERN Stack technologies ( MongoDB, Express, ReactJS, Node.js ) along with HTML5, CSS3, JavaScript, jQuery, Bootstrap and other web technologies.
+content	project	Experienced in implementing Agile SCRUM and SPRINT using JIRA.
+content	project	Work with project team and key stakeholders to devise SDLC and Change Management best practices and continuous improvement of project delivery across the enterprise.
+content	project	Involved in Estimation using Function points, Use Case/Story points and WBS.
+content	project	Involved in project deliverables for successful E&Y external Audit of the team.Performed variance analyses of schedule and cost on a formal and informal basis and present them to senior management (i.e.: earned value management system)
+content	project	Identified project current state and conducted a process and project management maturity gaps analysis
+content	project	Identified opportunities during the creation of the project governance and Management Plan.
+content	project	Direct and oversee Multiple tech leads on UI, Business Intelligence, Batch, Java and MYSQL DB in the project.
+content	project	Ensure integrity and delivery of multiple projects with respect to time, budget, scope, change, risk and resources.
+content	project	Assess project issues and identify solutions to meet productivity, quality, customer goals by Proactively prepared and monitored Risk, Issues, Query Log.
+content	project	Discussing, understanding and making decisions regarding a wide array of complex project management issues.
+content	project	Manage resource allocation across multiple projects including tracking resource bandwidth and forecasting future availability for scheduling new Enhancements and projects
+content	project	Principal point of contact for the executive steering committee, project managers / team leads & project sponsors
+header	project	Project #3:
+content	project	Delivery/ Technical Manager: June 2011 – April 2013
+content	project	Description: The Sunlife Digital Channel and CRM Application Services (DCCAS) project was initiated in an effort to improve its client relationship management capabilities. The project is developed to introduce a uniform platform for Sunlife Group Insurance and Benefits information for customers
+content	project	Work with project team and key stakeholders to devise SDLC and Change Management best practices and continuous improvement of project delivery across the enterprise.
+content	project	Involved in Estimation using Function points, Use Case/Story points and WBS.
+content	project	Involved in Implementing the SDLC Lifecycle in the project discussions with the business during the preparation of BRD, FSD and TSD.
+content	project	Lead and Developed Cloud and Bigdata Web Applications using Java 8 and NoSQL-MongoDB.
+content	project	Bridges the gap between Delivery, Management and Client by preparing metrics reports Weekly, Monthly and update the same to higher Management.
+content	project	Involved in creating Project Management Plan using Clarity OWB, WBS and Resource loading for every enhancement.
+content	project	Proactively prepared and monitored Risk, Issues, Query Log etc.
+content	project	Involved in the SOAP and RESTFUL Webservices enhancements in the project.
+content	project	Experienced in implementing Agile SCRUM and SPRINT using JIRA.
+content	project	Involved in the SDLC Change Process, developing and building the deliverables and raising and monitoring deployment requests in the project.
+content	project	Build credibility, establish rapport, and maintain communication with stakeholders at multiple levels, including those external to the organization.
+content	project	Define and initiate projects, and manage cost, schedule, and performance of component projects, while working to ensure the ultimate success and acceptance of the program.
+header	project	Project #4:
+content	project	Project Lead: August 2009 – May 2011
+content	project	The WGC (Wachovia Global Connect) is an on-line interface which allows users to perform the Core Banking Functionality:
+content	project	Bridges the gap between Delivery, Management and Client by preparing metrics reports Weekly, Monthly and update the same to higher Management.
+content	project	Involved in creating Project Management Plan using MPP, WBS and Resource loading for every enhancement.
+content	project	Successfully executed the entire test cases and fixed any bugs/issues identified during the test cycles.
+content	project	Worked with Log4J for logging purpose in the project.
+content	project	Involved in building and deploying scripts using Maven to generate WAR, EAR and JAR files.
+header	project	Project #5:
+content	project	Team Lead and Sr. Developer Dec 2003 – July 2009
+content	project	Metlife’s existing LTC legacy system was being replaced to the new LTC J2EE System. The new LTC J2EE system should have all the rules of a Healthcare and Insurance sector.
+content	project	This is a multi-tier JEE application.
+content	project	Designed the navigation and functionality of the Application using Object-oriented analysis and design (OOAD).
+content	project	Implemented the Data Access Object (DAO) design pattern.
+content	project	Gathered requirements from the Clients, consolidating them and assigning to the team.
+content	project	Involved in deployments using WebSphere Application Server on IBM WebSphere Portal.
+content	project	Designed and developed the .JAVA classes, modules and business components with IBM WebSphere Portal .
+content	project	Designed, developed, and deployed server side Java, servlets, and Java server pages (JSPs) for browser based Call Center Administrator User Interface with IBM WebSphere Portal .
+content	project	Verified/investigated/trouble-shot issues with processesList personal accomplishments & metrics.
+content	project	Designed the database schema for the application and wrote stored procedures.
+content	project	Developed a proof of concept for the Underwriting business logic and involved in updating from IBM Websphere 5.2.1 to IBM Websphere 6.xx version.
+content	project	Worked Extensively in designing and developing Portal Applications, Portlets and deploying them to WebSphere Portal Server 6.0, 5.1.
+content	project	Experienced in using CVS to track changes to source code, and to maintain several different concurrent versions, Used Ant for builds, create JAR & EAR files, automatically and also taken care of project builds.
+content	project	Worked Extensively in using the JSR 168 Portlet API and developing Portal Applications
+meta	others	Name : Sundeep Daliparthy
+meta	others	Contact Info : Ph. 9000446433 (Hyderabad Mobile Number),
+meta	others	Email: sundeep.daliparthy@netcracker.com

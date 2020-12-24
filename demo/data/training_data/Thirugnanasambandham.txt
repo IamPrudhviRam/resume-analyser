@@ -1,0 +1,20 @@
+content	experience	Work effectively with diverse groups of people
+content	experience	Very good leadership qualities.
+content	education	Active member of Rotary club from the year 2013 to 2015.
+content	knowledge	TECHNICAL KNOWLEDGE
+content	knowledge	PROGAMMING LANGUAGES : Java ,sql,asp.net.
+content	knowledge	WEB DESIGNING TOOLS : Php, JavaScript.
+content	knowledge	SUBJECT OF INTEREST : operating system.
+content	knowledge	Good analytical skill.
+content	knowledge	INPLANT TRAINING:
+content	knowledge	Underwent an inplant training at Codebind technologies, Chennai.
+content	project	STATEMENT OF PURPOSE:
+content	project	ACADEMIC RECORDS:
+meta	others	Candidate Name : Thirugnanasambandam .A
+meta	others	MOBILE : 6382883041
+meta	others	E-MAIL :thiru471999@gmail.com
+meta	others	ADDRESS : No.485 ,Middle street, Dhadhapuram(village),
+meta	others	FATHER’S NAME : D. Arulmozhi
+meta	others	DATE OF BIRTH : 04-07-1999
+meta	others	NATIONALITY : INDIAN
+meta	others	LANGUAGES KNOWN : Tamil, English

@@ -1,0 +1,65 @@
+meta	others	ANTONY SANTHIYA STARWIN. S
+meta	others	Email Id: starwin1998@gmail.com
+meta	others	Contact No: +91-9941889847
+header	knowledge	Career Objective:
+content	knowledge	I  aspire  for  challenging  and  healthy  work  environment  where  I  can  utilize  my  skills  and
+content	knowledge	knowledge eﬃciently for the organizational growth.
+header	education	Education Pro(cid:31)le:
+content	education	Degree
+content	education	Name of the Institution   University/Board
+content	education	B.TECH (IT)
+content	education	St. Joseph College Of
+content	education	Anna University
+content	education	Engineering
+content	education	Year of
+content	education	passing
+content	education	2019
+content	education	Percentage/
+content	education	CGPA
+content	education	6.1
+content	education	HSC
+content	education	SSLC
+content	education	Government Higher
+content	education	Secondary School,
+content	education	Thangachimadam.
+content	education	Punitha Yagappar Higher
+content	education	Secondary School,
+content	education	Thangachimadam.
+content	education	State Board
+content	education	2015
+content	education	71%
+content	education	State Board
+content	education	2013
+content	education	87%
+header	knowledge	Skills Known:
+content	knowledge	: HTML, CSS
+content	knowledge	(cid:31)  GUI
+content	knowledge	(cid:31)  Scripting Language                : Type Script, NodeJS
+content	knowledge	(cid:31)  Scripting Framework
+content	knowledge	(cid:31)  Operating Systems               : Windows Versions/Linux
+content	knowledge	: Angular7
+content	knowledge	: Angular7, Basic of Ionic/Cordova
+header	knowledge	Area of Interest :
+content	knowledge	(cid:31)  Willing to work with Java
+content	knowledge	(cid:31)  Web app development
+header	knowledge	Co-curricular Activities:
+content	knowledge	(cid:31)  Participated workshop on Ethical Hacking.
+content	knowledge	(cid:31)  Participated workshop on Data Science Using R.
+content	knowledge	(cid:31)  Participated workshop on Internet of Things.
+content	knowledge	(cid:31)
+content	others	Industrial visit to BSNL, Chennai.
+header	others	Hobbies:
+content	others	Listening to music
+content	others	
+content	others	  Playing cricket
+header	others	Personal Profile:
+meta	others	  Father’s Name           :  J. Stephen
+meta	others	  D.O.B                           :  06-03-1998
+meta	others	  Address                       :  No 3, Saravana Nagar,
+meta	others	Poonamalle, Chennai – 600 056
+meta	others	Landmark – Nearby Kottai Mariamman Kovil
+meta	others	
+meta	others	Languages Known     :  English, Tamil
+meta	others	.
+header	others	Declaration:
+meta	others	I hereby declare that all the details furnished here are true to the best of my Knowledge.

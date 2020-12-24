@@ -1,0 +1,33 @@
+header	education	ACADEMIC PROFILE:
+content	education	INSTITUTION
+content	education	UNIVERSITY/
+content	education	Sona College Of
+content	education	Anna University
+content	education	Vysya College,
+content	education	Periyar University
+content	education	Higher Secondary
+content	education	Higher Secondary
+content	education	State Board
+content	education	State Board
+header	knowledge	TECHNICAL SKILLS:
+content	knowledge	  Markup & Scripting  : HTML, Javascript.
+header	knowledge	AREA OF INTEREST:
+content	knowledge	  Project done on Robust face name matching character identification at Sona College
+content	knowledge	  Back End : MYSQL
+header	knowledge	CO-CURRICULAR ACTIVITES:
+content	knowledge	  Have participated In the DEBUGGING event at MGR  Institute of Technology, Hosur.
+content	knowledge	I am Completed Angular8 Certification Course.
+content	project	  To be a successful professional in a globally respected company and to help the company
+content	project	  Languages                 : Angular, Node JS, Express JS.
+content	project	  Database                    : MongoDB.
+content	project	  Software Developer
+header	project	PROJECT WORK:
+content	project	  Front End : .Net
+meta	project	Telugu (Speak Only)
+meta	others	kavinraj1996@gmail.com
+meta	others	  TypeWriting  both higher (English,Tamil).
+meta	others	Date of Birth          : 24-09-1996
+meta	others	Father’s Name       : Shanmugam .C
+meta	others	Marital Status        : Single
+meta	others	Language known    : Tamil, English (Read, Write and Speak)
+meta	others	Telugu (Speak Only)

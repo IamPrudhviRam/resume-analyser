@@ -1,0 +1,74 @@
+content	experience	Senior Software Engineer
+content	experience	Experience with Web APIs - Canvas, DOM, DOM Events, Fetch, Ajax, Geolocation, SVG,
+content	experience	Scope and Closure,
+content	experience	BUILD TASK AUTOMATION        Gulp
+content	experience	WORK EXPERIENCE  [21-Nov-11 to Present]
+content	experience	19-Feb-14 to Present
+content	experience	Consumer Experience Platform (CXP)
+content	experience	WORK EXPERIENCE  [21-Nov-11 to Present]
+content	experience	19-Feb-14 to Present
+content	experience	19-Feb-14 to Present
+content	experience	Merchant Optimization (MO)
+content	education	Higher Order Components
+content	education	STATE MANAGEMENT
+content	education	Institution
+meta	education	Sri Ramakrishna Engg College, CBE
+meta	education	8.55 [CGPA]
+content	knowledge	7 Years 8 Months
+header	knowledge	Technologies
+header	knowledge	Technologies
+header	knowledge	Technologies
+content	knowledge	Shell scripting,
+content	knowledge	New CSS features (flex and grid), Bootstrap 4, Processors - LESS
+content	knowledge	Server Sent Events (SSE), Localstorage, Sessionstorage, Web Worker
+content	knowledge	Spread, Rest
+content	knowledge	Refs, Context API,
+content	knowledge	Basic actions, reducer, store
+content	knowledge	TDD        Mocha, Jest
+content	knowledge	AWS - EC2 instances, IAM, SSM Parameter store, Run Commands
+content	knowledge	Ness Technologies
+meta	knowledge	Ness Technologies  [CONTINUED]
+content	knowledge	Ness Technologies
+content	knowledge	Flow and API Errors.
+content	knowledge	- Create Mocks based on Merchant’s website in Photoshop and Design Optimization
+content	knowledge	SRM Technologies
+content	knowledge	Accugile Technologies
+content	knowledge	into HTML, CSS.
+content	knowledge	- Support PHP Developers to Create Landing Pages and customized UI Components for the Website.
+content	knowledge	Validity - 10 Yrs
+meta	knowledge	GRAPH QL, SOCKET IO
+header	project	Development,
+content	project	New HTML 5 Elements & CSS 3 Attributes
+content	project	LINT        ESLint
+content	project	Automated Deployment using AWS SDK with Node JS
+content	project	- Create PayPal Consumer pages as per requirements & Design with usability and optimized
+content	project	- Develop Web pages for Marketing Campaigns targeted for User Profiles.
+content	project	- Develop Modular and Reusable UI React Components for the Project.
+content	project	- Javascript Unit Testing using Mocha and JS Automation by Gulp.js
+content	project	- Handling Backend processing and Data Storage for the User Campaigns.
+content	project	- Analysis of Merchant Profiles, who use PayPal and provide Optimization Recommendations for User
+content	project	- Suggest User Optimization Flows and wireframe Models that can be presented to the Merchants.
+header	project	E-Cihan Education Management Project
+content	project	- Create and Implement Application’s Core UI Pages and Components
+content	project	- Rapid Prototyping of various designs using Jquery as per the Application Requirements.
+content	project	- Create, Develop and Implement Modular UI Components, that can be shared across the
+content	project	Application.
+content	project	- Integrate & Customize Jquery UI components as per Application needs
+content	project	- Develop custom Jquery Plugins for the UI Pages.
+content	project	- Support the Backend .NET and PHP Developers to integrate the UI Components into the Application.
+content	project	- Design Web pages for projects, as per Client’s requirements in Photoshop and Convert the Design
+content	project	- Add Interactivity to the Web Pages by using Javascript, Jquery and Jquery UI Components.
+content	project	- Design Responsive Websites with Mobile First Approach using Custom Media Queries.
+content	project	Multiple Entry
+meta	others	SENDHURAAN967 @GMAIL.COM
+meta	others	Ness Technologies  [CONTINUED]
+meta	others	Sri Ramakrishna Engg College, CBE
+meta	others	PERSONAL INFO
+meta	others	Date of Birth
+meta	others	Marital Status
+meta	others	Nationality
+meta	others	Reading Books, Traveling, Guitar
+meta	others	English, Hindi, Tamil, Sourastra
+meta	others	8.55 [CGPA]
+meta	others	CURRENTLY LEARNING
+meta	others	GRAPH QL, SOCKET IO

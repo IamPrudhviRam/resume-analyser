@@ -1,0 +1,45 @@
+header	education	Educational Qualification:
+content	education	Year  Course
+content	education	Institution
+content	education	Sri Sairam Engineering
+content	education	(Anna University,
+content	education	Layola  College of Arts and
+content	education	Science,Vettavalam.
+content	education	( Tiruvalluvar University )
+header	education	Academic Group
+content	education	Government Higher
+content	education	Secondary School,
+content	education	(State Board)
+content	education	Government Higher
+content	education	Secondary School,
+content	education	(State Board)
+content	education	(S.SATHEESH)
+content	knowledge	the  objectives  of  the  company  with  Honesty  and  Fairness  in  the  company
+content	knowledge	environment and to continuously upgrade my knowledge and Skills.
+header	knowledge	Technical Skills:
+content	knowledge	  Having good knowledge in java fundamentals.
+content	knowledge	  Having clear idea in object oriented programing.
+meta	knowledge	Ex:Constructor, Inheritance, Method overloading, Polymorphism.
+content	knowledge	  Familiar In Core Java Libraries.
+content	knowledge	Ex:String Class, Wrapper Classes, Exception Handling , Multitherding.
+content	knowledge	most important for good cultivation.
+content	project	Application
+content	project	Application
+meta	project	  BATA-CG Better Agriculture Technique Adviser for Current Generation
+content	project	  BATA-CG  app is  most  essential  for the today's    trend since  agriculture   is
+content	project	  This is useful for the farmers for good cultivation. Through this app the user
+content	project	can  select  any  cultivation  and  gain  the  knowledge    about  that  cultivation
+content	project	Other Activities:
+content	project	Technique Adviser for Current Generation).
+meta	others	No-5/657 Perumalkovil street,              Mailid:Satheeshsettu1993@gmail.com
+meta	others	Veerapandi post,                                   Contact no:6369666045
+meta	others	Kandachipuram tk,
+meta	others	Villupuram Dist-605758.
+meta	others	Ex:Constructor, Inheritance, Method overloading, Polymorphism.
+meta	others	  BATA-CG Better Agriculture Technique Adviser for Current Generation
+meta	others	Father Name        : A.Settu.
+meta	others	D.O.B                  : 16-08-1993.
+meta	others	Religion               : Hindu.
+meta	others	Nationality           : Indian.
+meta	others	Languages known: English and Tamil.
+meta	others	I hereby declare that the above information are true to the best of my knowledge.

@@ -1,0 +1,134 @@
+meta	others	Shalaka
+meta	others	[Java Developer]
+header	knowledge	Professional Summary
+meta	others	Mobile No: +91 8328496008
+meta	others	Email-id: jainshalaka16@gmail.com
+content	experience	Having 3.9 years of extensive working experience in Development.
+content	experience	 Experience in Design and Development web applications in Spring Boot. Design
+content	experience	with JAVA(Collection, Swings and Exception Handling) and J2EE Technologies.
+content	experience	 Working experience on XML (SAX,DOM) parser and JAXB technologies.
+content	experience	 Experience in developing web services using Restful Web Services.
+content	experience	 Working experience in services Third Party Service Integration.
+content	experience	 Working knowledge on GIT, YouTrack and SVN.
+content	experience	 Working experience in Spring framework (Spring Core, Spring MVC, Spring
+content	experience	Transactions, and Aspect Oriented Programming) along with Spring JDBC.
+content	experience	 Worked on MAVEN Tools.
+content	experience	 Experience in design patterns like Design Pattern(Factory, Singleton , Builder).
+content	experience	 Experience in working with database MySQL.
+content	experience	 Experience in developing applications using IDE’s like Eclipse Oxygen, Spring
+content	experience	Suite Tool.
+content	experience	 Experience in web server like Apache Tomcat.
+content	knowledge	 Knowledge in ORM tool such as Hibernate.
+content	knowledge	 Knowledge in web services using SOAP.
+content	knowledge	 Knowledge in database Oracle.
+content	knowledge	 Knowledge in Angular JS.
+content	knowledge	 Having experience in Linux deployment.
+content	knowledge	 Having good knowledge on MicroServices.
+content	experience	 Good team member, positive attitude and result oriented self-motivated, quick learner,
+content	experience	willing to adapt to new challenges and opportunity.
+header	experience	Professional Experience
+content	experience	 Working as Software Engineer in Jocata Financial Advisory Technology , Hyderabad
+content	experience	from Mar-2018 to till date.
+content	experience	 Worked as Associate Software Engineer in Imedx Information Services Pvt. Ltd,
+content	experience	Hyderabad from Dec-2015 to Jan-2018.
+header	education	Educational Qualifications
+content	education	 MCA (Masters in Computer Application) from Priyadarshani Bhagwati College ,
+content	education	 BCA (Bachelor of Computer Application)from Kamla Nehru College, Nagpur in
+content	education	Nagpur in year 2015 with 68%.
+content	education	year 2012 with 52%.
+content	education	Core Java/J2EE
+content	knowledge	OOPs, Multithreading,Generics, Collection, Exception
+content	knowledge	Handling
+content	knowledge	JDBC, Servlet, JSP, JSTL
+content	knowledge	Spring Boot and Spring(JDBC,TX ,AOPandMVC), Hibernate
+content	knowledge	Restful ,Web Services ,SOAP, WSDL, JAX-B, JAX-WS
+content	knowledge	XML (DTD, XSD, SAX, DOM)
+content	knowledge	Apache Tomcat
+content	knowledge	WebLogic
+content	knowledge	MySQL
+content	knowledge	Eclipse, STS
+content	knowledge	JSP, Html, Javascript , Angular JS
+header	knowledge	Skill Set
+header	knowledge	Languages
+content	knowledge	J2SE Technologies
+content	knowledge	J2EE Technologies
+content	knowledge	Frameworks
+content	knowledge	Web Service
+content	knowledge	Xml Technologies
+content	knowledge	Web Server
+content	knowledge	Application Server
+content	knowledge	Database
+content	knowledge	IDE
+content	knowledge	View Technologies
+header	project	Project Undertaken
+content	project	Project #1 : IndusInd (BL-DLP)
+content	project	Duration: May 2018 – till date
+header	project	Project Description:
+content	project	This is a comprehensive solution to address Business Loan requirements through Digital Lending
+content	project	Platform (DLP) and offer its platform of loan products to their existing as well as new customers.
+content	project	loan eligibility and
+content	project	The Digital Lending Platform allows real
+content	project	disbursement with integrated underwriting process. The platform facilitates to disburse instant loan
+content	project	based on the organization’s profile and risk assessment. The platform will be integrated with various
+content	project	internal systems as well as with external data using Jocata GRID.
+content	project	time loan application process,
+content	project	Technologies: Spring Boot , Restful , JAXB , MySQL , Angular
+header	others	Responsibilities:
+content	project	Involved in design and requirement gathering from Business Analyst.
+content	project	Involved in third part service integrations
+content	project	o Involved to write business logic efficiently.
+content	project	Involved in developing restful web services.
+content	project	Involved in Coding Controller , Service and Dao
+content	project	 Resolved assigned bugs of QA ,UAT and Production.
+content	project	Involved in Deployments.
+content	project	Project #2 : iMedX ExpressAdmin
+content	project	Duration: Mar 2017– Jan 2018
+header	project	Project Description:
+content	project	Imedx Express Admin is web application. Express Adminis a Medical Transcription Monitoring and
+content	project	Administration System that enables Mangers and vendors to monitor the processing of Transcribed
+content	project	documents. It provides the facility to manage and create users and vendors. It provides the Job Lister
+content	project	that list outs jobs in a system that allows allocating jobs to users. This application maintains summary
+content	project	reports.
+content	project	Technologies: J2SE,Spring (MVC, Transaction, Aop, Jdbc ) ,Web Services (Restful Client and
+content	project	resource),MySQL, Apache tomcat, javascript, Jsp
+content	project	Responsibilities:
+content	project	Involved in architecture design of Spring MVC modules.
+content	project	Involved in generating feedback reports.
+content	project	Involved to write business logic efficiently.
+content	project	Involved in Coding, Integration and Testing.
+content	project	 CRUD operations on MySQL database using Spring Jdbc.
+content	project	 Resolved assigned bugs .
+content	project	Project #3:iMedX Express Editor
+content	project	Duration:Mar2016 – Jan 2018
+header	project	Project Description:
+content	project	Imedx Express Editor is a desktop application from which users transcribe the jobs by hearing the
+content	project	audio files by using third party player and operate the audio file through foot-pedal , transcriptionists
+content	project	prepares the transcription by adding patient details, provider details , recipient details, exception,
+content	project	pharmaceutical spelling verification and correction, text expanders, pre-defined document templates
+content	project	and normal, patient lookup, referring doctor lookup, multi-editor workflows and random QA sampling.
+content	project	Uploadthe jobs to other various levels and at the last delivers to physicians.
+content	project	Technologies: J2SE, Swings , Servlet, JDBC
+header	project	Responsibilities
+content	project	 CRUD operations on MySQL database using Jdbc.
+content	project	 Developed the audio player for the organization and integrated it with hardware
+content	project	Involved in analysis of shortcuts in the whole application and provided easy way to access.
+content	project	Involved in Coding and Testing.
+content	project	Participation in releases
+content	project	Planned to increase productivity.
+content	project	device(foot-pedal).
+meta	others	: ShalakaJain
+meta	others	: 24-01-1992
+meta	others	: Female
+meta	others	: English, Hindi, Marathi
+meta	others	: Indian
+header	others	Personnel Details
+header	others	Name
+header	others	Date of Birth
+header	others	Gender
+header	others	Language Known
+header	others	Nationality
+header	others	Declaration:
+header	others	Place: Hyderabad
+meta	knowledge	Date:
+content	others	I here by declared that the above information is true and correct to the best of my knowledge.
+meta	others	Shalaka

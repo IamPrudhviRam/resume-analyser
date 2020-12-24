@@ -1,0 +1,192 @@
+content	experience	Quick learner.
+content	experience	Determination, Dedication and
+content	experience	I have around 5 years 6 months of experience in the Information
+content	experience	Technology  industry  with  solid  expertise  in  JAVA  and  J2EE
+content	experience	(December 2018 – till date)
+content	experience	Software Engineer at International Business Machine Corp
+content	experience	Internship trainee at Face-IT Services Pvt Ltd
+content	experience	Nov 2017- till date
+content	experience	and engineer internet routing and addressing.
+content	experience	fragmentation,  assignments,  reassignments  and  de  allocation  of  ip
+content	experience	IP pool management
+content	experience	leaves details and permission details, Task Updating and other one is
+header	education	PROFESSIONAL PROFILE
+content	education	(April 2014 – December 2014)
+header	education	Qualification
+content	education	 Master of Computer Application (MCA)
+content	education	Passed out in 2014 with 8.3 cgpa from Pondicherry Uni.
+content	education	 Bachelor of Computer Application (BCA)
+content	education	Passed out in 2010 with 77 % from Patna Uni.
+content	education	Intermediate of Science with Maths (12th)
+content	education	Passed out in 2006 with 67% from BIEC
+content	education	 Matriculation (10th)
+content	education	Passed out in 2004 with 69% from BSEB
+content	knowledge	Chess, Badminton, Technologies
+content	knowledge	SL4j,  Java  mail,  Java  messaging,  Struts,  Spring,  Spring  boot,
+content	knowledge	Micro services, Stripes, JPA, Hibernate, WS, Restful and SQLs.
+content	knowledge	Specialist System Dev at Infosys Ltd
+header	knowledge	Technical Skills
+content	knowledge	Windows XP/7/8/10, Linux/Unix
+content	knowledge	Java, Python, SQL, HQL, HTML, JavaScript, XML, C
+content	knowledge	 Application/Web Servers:
+content	knowledge	WebLogic, Tomcat, JBoss
+content	knowledge	Struts,  Spring,  Spring  boot,  Micro-services,  Stripes,
+content	knowledge	jenkins, stash, confluence)
+content	knowledge	ANT,  Maven,  MKS,  Log4j,  Sl4j,  Devops  (git,  jira,
+content	knowledge	Oracle, MySQL
+content	knowledge	JSE, Spring boot, Spring rest,
+content	knowledge	Spring JPA, JSTL, SL4j, Dev
+content	knowledge	Container: Unix box
+content	knowledge	Verizon Data Services
+content	knowledge	JSE, J2EE, Struts, Hibernate,
+content	knowledge	WS, EJB 2/3, JSTL, Log4j,
+content	knowledge	CORBA, SOAP WS, Restful,
+content	knowledge	Java script, HTML, Dev Ops
+content	knowledge	tools and Unix environment.
+content	knowledge	Verizon Data Services
+content	knowledge	downtime and fine tune the performance.
+content	knowledge	Subnet  Manager  is  Verizon  layer2,  layer3  provisioning
+content	knowledge	Working on NG/MMT tool for writing business classes.
+content	knowledge	Responsible for writing Session Beans and Business Delegate.
+meta	knowledge	Stripes, Stripes tag-lib, JSE,
+content	knowledge	J2EE, Bootstrap, web services,
+content	knowledge	Restful API, Hibernate, Eclipse,
+content	knowledge	Ant, Log4j, Unix.
+content	knowledge	Verizon Data Services
+content	knowledge	Responsible for writing Session Beans and Business Delegate.
+header	knowledge	Environtment &Tools:
+content	knowledge	Java, JDBC, JSP, Spring, EJB,
+content	knowledge	Log4j, Java script, HTML and
+content	knowledge	Web Server: WebLogic
+content	knowledge	Verizon Data Services
+content	knowledge	It supports IPv4 and IPv6 CIDR based internet addressing schema. It is
+content	knowledge	Web Server: Tomcat
+content	knowledge	Java, JSP, Servlet, JDBC,
+content	knowledge	HTML and Java script.
+content	knowledge	Database: MySQL
+content	knowledge	Responsible for writing Controllers and JSP’s.
+content	knowledge	Responsible for writing DTO, VO, JAVA Beans.
+header	project	Passport Details
+content	project	applications  using  WebLogic,  Tomcat,  ANT,  MKS,  Maven,  Log4J,
+content	project	  Analyst and Specialist System Dev at Verizon India Pvt Ltd
+content	project	(November 2013 – March 2014)
+content	project	 OS/Development Platforms:
+header	project	Page 1 of 4
+content	project	1. Subnet Manager Modernization
+content	project	Team Member
+header	project	Environment &Tools:
+content	project	Ops, Unix environment.
+content	project	Data Base:   Oracle
+header	project	Team size:  4
+content	project	2. Subnet Manager
+content	project	Team Member
+header	project	Environment &Tools:
+content	project	App Server: WebLogic
+content	project	Data Base:   Oracle
+content	project	Team size:  10
+content	project	April 2017- till date
+header	project	Description:
+content	project	The  intend  of  this  project  is  to  modernize  the  legacy
+content	project	SNM  application  by  refactoring  into  micro  services  to  minimize  the
+content	project	Important modules are:
+content	project	  Entities
+content	project	Owning multiple entities – Node, Switch-prototype, Circuit-Info.
+content	project	Owning multiple micro services – Inventory-Utils, Layer2-Info.
+content	project	Responsible to bring up to speed new joiner in micro services.
+content	project	Wrote base template micro service to extend it into all services.
+content	project	Integrated SL4j to optimize the logs.
+header	project	Description:
+content	project	system that takes  care of configuring  ports,  pvcs and troubleshoots
+content	project	the network devices such as routers and switches.
+content	project	Important modules are:
+content	project	  Access over subscription,
+content	project	Involved in writing DTOs, VOs, DAOs, Controllers.
+content	project	Responsible to write new APIs for network groom.
+content	project	Device POC for device related configuration
+content	project	Handled E2E of CTE auto-approval (type 1 to 5)
+header	project	Page 2 of 4
+content	project	3. Internet Routing Registry
+header	project	Description:
+content	project	The IRR  is  a distributed  database development  effort.
+content	project	Team Member
+header	project	Environment &Tools:
+content	project	The  IRR  provides  a  mechanism  for  validating  the
+content	project	Important modules:
+content	project	App Server: WebLogic
+content	project	Data Base:  Oracle
+content	project	Team size:  7
+content	project	April 2016– March 2017
+content	project	  Network inventory.
+content	project	  Validation engine.
+content	project	  Advanced search etc.
+content	project	  External interfacing system.
+content	project	Designed JSPs as per the requirements.
+content	project	IRR Admin GUI.
+content	project	Involved in writing stripes controllers and service Classes.
+content	project	Implemented mapping Documents and persistence class.
+content	project	Involved in code review.
+content	project	4. IP Manager
+content	project	Team Member
+content	project	Data Base: Oracle
+content	project	Team size: 6
+content	project	Jan 2015 – March 2016
+header	project	Description:
+content	project	IP Manager is a layer3 provisioning and inventory system.
+content	project	offered  as  a  product  by  Verizon  to  manage  ip  pool  creations,
+content	project	Important modules:
+content	project	  DNS services
+content	project	IPM admin GUI
+content	project	  External interfacing system
+content	project	Developed JSP pages for various modules in the application.
+content	project	Developed Java Beans for various modules in the application.
+content	project	Used JDBC to connect and retrieve data from the data base.
+header	project	Page 3 of 4
+content	project	Team Member
+header	project	Environment &Tools:
+content	project	Java, Spring IOC, Spring JDBC
+content	project	Data Base: Oracle
+content	project	Team size: 6
+content	project	April 2014 – Dec 2014
+content	project	6. E-Service Request
+content	project	Team Member
+header	project	Environment &Tools:
+content	project	App Server:  Tomcat
+content	project	Team size: 6
+content	project	Nov 2013- March 2014
+content	project	Company,  CA
+content	project	This  application
+header	project	Description:
+content	project	design  is  mainly  categorized  into  two  Modules,  one  is  Activities  the
+content	project	activities  like  maintaining  the  incoming,  outgoing  time,  type  of
+content	project	Reports  to  generate  the  Report  of  particular  employ  or  employees
+content	project	Consolidated Reports.
+content	project	to  maintain
+content	project	Developed JSP pages for various modules in the application.
+content	project	Responsible for writing the Struts Validation.
+content	project	Developed Java Beans for various modules in the application.
+content	project	Used JDBC to connect and retrieve data from the data base.
+content	project	this  Module
+header	project	Description:
+content	project	This  application  allows  logging  and  maintaining  service
+meta	project	four  main  Roles-Customer,
+content	project	Dispatcher,  Engineer  and  Administrator.  The  customer  logs  a  request
+content	project	an appropriate engineer.
+content	project	Engineer,  then,  would  pick  the  request,  investigate  the
+content	project	cause  of  the  problem  provided  all  appropriate  solutions  and  then  puts
+content	project	the  request  to  solved.  If  the  customer  satisfied  with  the  solution  then
+content	project	the  request  will  be  accepted,  else  the  request  will  be  re-opened  for
+content	project	further investigation. If Re-Opened, the request is assigned back to the
+content	project	engineer.  An  administrator  is  authorized  to  create  all  the  required
+content	project	Users, Roles Organizations and Products.
+content	project	Developed Persistence Classes.
+header	project	Page 4 of 4
+meta	others	mailtochandrapratap@gmail.com
+meta	others	best from me in a productive and efficient manner.
+meta	others	Date of Birth
+meta	others	Contact Address
+meta	others	Flat No. – 205,
+meta	others	Hanuman Nagar, Kondapur,
+meta	others	Hibernate,  JPA,  Display  tag-lib,  Stripes  tag-lib,  JSTL,  Suds,
+meta	others	Stripes, Stripes tag-lib, JSE,
+meta	others	IP address allocation mgmt
+meta	others	four  main  Roles-Customer,

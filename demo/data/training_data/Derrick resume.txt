@@ -1,0 +1,100 @@
+meta	others	DERRICK THOMSON
+meta	others	Contact #: +91-7358011658
+meta	others	Email-id: derrickthomson260@gmail.com
+header	knowledge	CAREER OBJECTIVE:-
+content	knowledge	To utilize my technical skills for achieving the target and delivering the best
+content	knowledge	performance in the esteemed organization. I would like to implement my innovative
+content	knowledge	ideas, skills and creativity for accomplishing the projects.
+header	education	ACADEMIC PROFILE:-
+content	education	QUALIFICATION  NAME OF
+content	education	SCHOOL
+content	education	/COLLEGE
+content	education	BOARD
+content	education	/UNIVERSITY
+content	education	YEAR OF
+content	education	PASSING
+content	education	PERCENTAGE/
+content	education	CGPA
+content	education	B.E  Computer
+content	education	Science And
+content	education	Engineering
+content	education	HSC
+content	education	SSC
+content	education	Sathyabama
+content	education	Institute Of
+content	education	Science And
+content	education	Technology,
+content	education	Chennai
+content	education	St. Xavier’ s
+content	education	Junior College,
+content	education	Mumbai
+content	education	St.  Xavier’  s
+content	education	High School,
+content	education	Mumbai
+content	education	Deemed to be
+content	education	University,
+content	education	Chennai
+content	education	Maharashtra
+content	education	State Board
+content	education	Maharashtra
+content	education	State Board
+content	education	2019
+content	education	7.79(CGPA)
+content	education	2015
+content	education	57.54%
+content	education	2013
+header	knowledge	71.09%
+content	knowledge	TECHNICAL SKILLS:-
+content	knowledge	▪  Operating System
+content	knowledge	▪  Programming Languages
+content	knowledge	:  Window’ s Operating System
+content	knowledge	:  C, Angular JS, SQL
+header	knowledge	TRAININGS:-
+content	knowledge	▪  Undergoing course on “ Angular JS with Node JS ” in Credo Systemz,
+content	knowledge	Velachery, Chennai
+content	knowledge	▪  Completed course on “ Web Technologies” in Chennai IT Training
+content	knowledge	Solutions(CITS), Vadapalani, Chennai
+header	knowledge	INTERNSHIP TRAINING UNDERTAKEN:-
+content	knowledge	▪  Attended internship training for eleven days on Web Technologies at Chennai IT
+content	knowledge	Training Solutions, Chennai
+header	project	ACADEMIC PROJECT PROFILE:-
+content	project	▪  Title: A Normal Approach Of Online Signature Using Stroke Point Warping
+header	knowledge	CERTIFICATES OBTAINED:-
+content	knowledge	▪  Oracle Certified Professional, SQL
+content	knowledge	▪  Chennai IT Training Solutions, Web Technologies
+content	knowledge	▪  Paper Presentation on “A Normal Approach Of Online Signature Using Stroke
+content	knowledge	Point Warping” in ISMAC-CVB 2019
+header	knowledge	AREAS OF INTEREST:-
+content	knowledge	▪  Web Development
+header	others	HOBBIES:-
+content	others	▪  Keeping everything neat and tidy, Spending time with my family, Watching
+content	others	movies, Being proactive on social network.
+header	others	PERSONAL DETAILS:-
+content	others	▪  Father’  s Name
+content	others	▪  Mother’  s Name
+content	others	▪  Date of birth
+content	others	▪  Sex
+content	others	▪  Nationality
+content	others	▪  Religion
+content	others	▪  Languages Known
+content	others	▪  Permanent Address   :  No.19/20, First Floor, St. Anthony’s Street,
+content	others	:  Male
+content	others	:  Christianity.
+content	others	:  English, Hindi, Tamil
+content	others	P. Babu Thomson
+content	others	Joanna Thomson
+content	others	27th May 1997.
+content	others	Indian.
+content	others	Opposite Christ King School, East Tambaram,
+content	others	Chennai - 600059
+header	others	REFERENCE:-
+content	others	▪  Mr. Eric Nathaniel Thomson
+content	others	Programmer Analyst II
+content	others	FIS Global Solutions India,
+content	others	Guindy, Chennai
+content	others	Contact#: +91-9840683427
+header	others	DECLARATION:-
+content	others	I hereby declare that all the information specified above is true to the best of my
+content	others	knowledge.
+content	others	Place:
+content	others	Date:

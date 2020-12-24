@@ -1,0 +1,27 @@
+header	education	ACADEMIC PROFILE
+content	education	Passed Bachelor of Engineering in the Stream of Information Technology from Mailam Engineering College with a CGPA of 6.8.
+content	education	Passed Higher Secondary Examination in Government Girls Higher Secondary School, Villupuram with an aggregate of 71.4%.
+content	education	Passed High School Examination in Government Girls Higher Secondary School, Villupuram with an aggregate of 77.8%.
+header	knowledge	CAREER OBJECTIVE
+header	knowledge	TECHNICAL SKILLS
+content	knowledge	Programming Languages : C, C++, Java, Java script.
+header	knowledge	AREAS OF INTEREST
+content	knowledge	JavaScript Programming
+content	knowledge	PAPER PRESENTATION
+content	knowledge	Presented a paper under the topic of ”Preserving Public Security in Cloud Computing” held at University College of Engineering, Villupuram
+content	knowledge	Attended workshop on “Netsware Conferral’12” at Sri Ganesh College of Engineering, Puducherry
+content	knowledge	Attended workshop on “Cloud Computing” at University College of Engineering, Villupuram
+meta	knowledge	[S.SORNAMANJULA]
+header	project	MINI PROJECT
+content	project	Title : Moving Object Detection Using Webcam In Night Vision
+content	project	Team Size : Three members
+content	project	Scope : The novel system has to remove the drawbacks faced in the previous system such as large storage space, time taking, etc. To enable a new method to capture images based on the changes of each frame.
+meta	others	Plot no:30, Muthunagar,
+meta	others	Paraniputhur, Near porur Mobile no:8056557791
+meta	others	Chennai-122 E-mail id:sornamanjula@gmail.com
+meta	others	Date of birth : 04.10.1991
+meta	others	Gender : Female
+meta	others	Hobbies : Reading novels
+meta	others	Languages Known :Tamil, Telugu and English
+meta	others	I hereby declare that all the details furnished above are true to the best of my knowledge and belief.
+meta	others	[S.SORNAMANJULA]

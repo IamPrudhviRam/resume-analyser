@@ -1,0 +1,70 @@
+content	experience	Experienced Software Programmer with 8 years experience in developing robust
+content	experience	Broadcom/ CA Technologies (2016 – Present)
+content	experience	R&D Engineer Software 3 / Senior Software Engineer (2016/09 – Present)
+content	experience	MX Security and SD-WAN Appliances in CA VNA and CA NetOps using Apache
+content	experience	multimillion dollars deal with Verizon.
+content	experience	Tata Consultancy Services (2011 – 2016)
+content	experience	Systems Engineer (2013 – 2015)
+content	experience	Assistant Systems Engineer (2011 – 2013)
+content	education	(Hibernate/JPA)
+content	education	(Debian/Ubuntu/RHEL)
+content	education	(Docker/LXC/LXD)
+content	education	Electronics and
+content	education	Engineering
+content	education	Higher Secondary
+content	education	University/ Board
+content	education	Grade Percentage
+content	education	University of
+content	education	of Higher Secondary
+content	education	West Bengal Board
+content	education	of Secondary
+header	education	Certifications
+content	knowledge	Programming Skills
+content	knowledge	Programming Practices
+content	knowledge	Other Skills
+content	knowledge	• Java Framework (Spring
+content	knowledge	• Functional programming
+content	knowledge	(Spring MVC)
+content	knowledge	• ORM Framework
+content	knowledge	• Application server (Wildfly)
+content	knowledge	• SQL (Mysql)
+content	knowledge	Hibernate, JPA, Concurrency.
+content	knowledge	of devices.
+content	knowledge	• Developed and maintained internal lab for Versa SD-WAN using VMWare. Added
+content	knowledge	support for monitoring Versa SDWAN network in CA VNA using the Versa Director
+content	knowledge	• Developed data collection support for Verizon PE routers in CA Mediation
+content	knowledge	• Developed HTML and rich text support in report for CitiRisk Commercial 1.0
+content	knowledge	• Developed automated testing tool for testing end-to-end flow of a Credit Approval
+header	knowledge	Certification
+content	knowledge	• Oracle Certified Java Professional 6
+content	knowledge	• Wireless Networking Basics
+content	knowledge	• Microservices with Spring Boot and Spring Cloud
+header	knowledge	Areas of Interest
+content	project	code for market-leading products. Taken initiatives to automate mundane daily
+content	project	tasks, established strong development practices for reliable and quality code.
+content	project	Honest team player, adept in working in an Agile scrum environment, ensuring
+content	project	participation of all team members. Like to spend time participating in hackathons,
+content	project	source contributions.
+content	project	and Design Patterns
+content	project	• Unit testing (Junit/Mockito)
+content	project	SDN and SDWAN sources for CA Virtual Network Assurance (VNA) using EJB 3.1,
+content	project	using Java, syslog4j, multi-threading. This solution is used for Cisco Meraki ranges
+content	project	and Analytics REST APIs. This helped with multiple MSP customers adopting CA
+content	project	• Designed automation testing framework for CA Mediation Manager using TestNG
+content	project	Manager via non-SNMP sources using Groovy, file handling, helped bringing in
+content	project	• Developed report generation module of CitiRisk Commercial 2.0 application for
+content	project	Citi Bank client using Java, Google Guice, Hibernate.
+content	project	• Developed different document management capabilities of CitiRisk Commercial
+content	project	2.0 application for Citi Bank using Java, MongoDB, SQL.
+content	project	application for Citi Bank using Spring framework, Java, Adobe Livecycle, Apache
+content	project	Request in CitiRisk Commercial application using Java
+meta	others	R&D Engineer Software 3 @ Broadcom (Hyderabad)
+meta	others	Phone: +91 9088 392 300
+meta	others	Email: subhadipghosh11@gmail.com
+meta	others	• Containers
+meta	others	• Cisco Meraki
+meta	others	Camel, Java, Groovy. Helped in adoption of VNA by customer AIG.
+meta	others	West Bengal
+meta	others	West Bengal Council
+meta	others	• Writing on my personal blog – https://subhadipsblog.wordpress.com
+meta	others	• ILP Kudos (2012)

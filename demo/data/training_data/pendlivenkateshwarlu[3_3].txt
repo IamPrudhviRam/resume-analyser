@@ -1,0 +1,63 @@
+header	others	Pendli Venkateshwarlu
+meta	others	Email:venkatpendli9@gmail.com
+meta	others	Contact No: +91-8142173481
+header	experience	Summary of Experience
+meta	others	`
+content	experience	Having around 3.3years of professional experience in software development and business logic implementation using Java and J2EE based technologies.
+content	experience	Hands on experience on technologies like JDBC, Servlets, JSP,Restful Web services.
+content	experience	Hands on experience on frameworks like Spring and Spring Boot.
+content	experience	Hands on experience Spring modules likeIOC,JDBC,ORM,MVC,REST.
+content	experience	Hands on experience on tools like Log4j, SVN and Maven.
+content	experience	Hands on experience on tools like Junit, Jira.
+content	knowledge	Having good knowledge on Agile methodology.
+content	knowledge	Having knowledge on UI technologies like JavaScript, JQuery and Ajax.
+content	knowledge	Having knowledge on UI technologies like HTML, CSS,XML and JSON.
+content	experience	Worked on IDE such as Eclipse and STS.
+content	project	Understanding Business Requirements, flow of application and Capable of fixing the defects in the application.
+content	others	Ability to adapt to new environments.
+header	knowledge	Technical Expertise
+header	experience	Experience Profile
+header	education	Educational Qualification
+content	education	B.Sc Computers from Kakatiya University in 2015.
+header	project	Projects Profile
+header	project	Project# 1
+content	project	Title : Laboratory Asset Relocation Tracking (LART)
+content	project	Client : Amgen
+content	project	Role : Team Member.
+content	project	Team : 5
+content	project	Duration : Aug 2018 to till date
+content	project	Environment :Spring MVC, Spring ORM, Spring IOC, RESTful WebServices,SpringBoot, LOG4J, MAVEN, SVN, SQL Developer, Junit, Mockito, ApaheTomcat, Oracle, HTML5,CSS3, JavaScript, JQuery, Ajax.
+content	project	LART will be used to automate the process of asset management in the chemical laboratory. It is to track all the asset moving requests information. By using this application we can submit electronic request for moving assets. Once we submit the request, so many numbers of approvals required to move assets. After completion of these all approvals, we can say our request is completed.
+content	project	Writing the front end validation using JavaScript
+content	project	Writing the Ajax function calls as per requirement.
+content	project	Involved in coding for Web-based Application using Spring Framework.
+content	project	DAO layer development with Spring ORM.
+content	project	Writing JavaScript’s for application requirement.
+content	project	Consuming RESTful web services.
+content	project	Developed JSP’s as per the requirement.
+content	project	Involved in writing Unit Test cases.
+header	project	Project# 2
+content	project	Title : Component Analytical Analysis (CAA)
+content	project	Client : Amgen
+content	project	Role : Software Developer
+content	project	Team : 4
+content	project	Duration : Nov 2016 to Jul 2018
+content	project	Environment : Spring MVC, Spring DAO, Spring IOC, LOG4J, MAVEN, SVN,SQL
+content	knowledge	Developer,Junit, ApacheTomcat, Oracle, HTML5, CSS3,
+content	knowledge	XML/XSD, JAXB framework and SOAP web services
+content	project	Component Analytical Analysis will be used to submit electronic requests for analytical assays at VingSpan Scitech Consultancy Pvt Ltd. The requests are submitted by Chemists and the analysis is performed by analytical scientists. Each request can have multiple techniques requested and techniques are performed by different groups of analysts. Analysts perform the assays and send the results back to the chemist(requester). The system will track the status of the request and enable users to generate metrics.
+content	project	Involved in Spring Controllers development.
+content	project	Calling AJAX function calls depends on requests.
+content	project	Worked on DB related activities.
+content	project	DAO layer development with Spring DAO.
+content	project	Developed JSP’s as per the requirement.
+content	project	Involved in writing Unit Test cases.
+content	project	Implemented frontend validations.
+header	others	Personal Details
+meta	others	Name : P Venkateshwarlu
+meta	others	Father Name : P Karunam
+meta	others	Marital Status : Single
+meta	others	Nationality : Indian
+meta	others	Date of birth : 04-12-1994.
+meta	project	Languages known : English ,Hindi and Telugu.
+header	others	Declaration

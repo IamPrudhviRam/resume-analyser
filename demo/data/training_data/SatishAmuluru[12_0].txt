@@ -1,0 +1,62 @@
+content	experience	Overall 13+ Years of experience in the field of Software Product development and Management for IT Applications and Web based Applications.
+content	experience	Having Good Experience in handling all type of Card Products (MagStrip, EMV, Instacard, Virtual Cards, GiftCards).
+content	experience	Experience in Nostro/Vostro Reconciliation, Exposure on Forex Reconciliation, cash and Trade Reconciliation.
+content	experience	Good experience in Oracle Stored Procedures, functions, performance tuning.
+content	experience	Expertise in configuration of different Application Servers and Web Servers.
+content	experience	Experience in Product Architecture, Design, Development, Implementation and Support.
+content	experience	Experience in Presales and writing technical, functional RFPs and Responses.
+content	experience	Hands-on competence in Pre-sales Support through Study & Analysis of RFI/RFP, Solution Design & Proposal Development, Proof of Concept Presentation, Defence of Proposals, Technical Negotiation & Gap Resolution, Client Interaction
+content	experience	Experience over ISO Audits (EXTERNAL & INTERNAL)
+content	experience	Efforts Estimation Techniques: Cosmic Estimation
+header	experience	Work Experience
+content	experience	Working with IBaseIT Software solutions pvt ltd from Oct 2018 to till date as Product Owner
+content	experience	Worked with Financial Software & Systems Ltd from Nov 2008 to Oct 2015 as a Product Development Manager
+content	experience	Diploma in Software Technology from CMC
+content	education	Master of Computer Applications from Bharathidasan University, 2003.
+content	knowledge	Collect and prioritize Product requirements (from customers, competitors, partners, industry analysts, Sales, Business Development, Global Services, Customer Services, R&D and Program Managers)
+content	knowledge	Experience in Receivable and Payable Reconciliation of Manufacturing, Oil and Gas Business areas.
+content	knowledge	Carrying Technical and Functional Product owner skills.
+content	knowledge	Good work experience on the Transaction Reconciliation products which involve on various Networks like UPI, Rupay, AEPS, BHIM,NFS, Visa, Master Card, Cashtree, RMA Bhuran , NAPS, CUP and Switches like Base24, Opus.
+content	knowledge	Experience in Deployment of the application in weblogic and JBOSS
+content	knowledge	Cohesive Team Player with fast learning curve along with strong analytical, problem solving, innovation, planning, organizational, communication & interpersonal skills
+header	knowledge	Software Skills
+content	knowledge	Frameworks : Struts 1.3, STEP, Hibernate, Spring 4.0, Spring Boot, Micro Services, RESTAPI, Smart Client, Prime Faces
+content	knowledge	Tools : Eclipse Mars, FAST, Goal Builder, Capture1.12, Junit and
+content	knowledge	Ant script, QARUN 9.0, OpenSTA, BurpSuite, Swagger UI , PostMan
+content	knowledge	Scripting/Markup Languages : Html, Xml, XPATH, XQuery, Java Script, Python2.1, JQuery
+content	knowledge	Language : Java, C, C++
+content	knowledge	Application/Web Servers : Web Logic 12c,11g, Tomcat 8 , Jrun4.0, Pramathi6.0
+content	knowledge	Time Management Tools : iPlan and Adrenalin, Elementool and JIRA
+content	knowledge	AI & ML: Learner stage
+meta	knowledge	[Satish Amuluru]
+content	project	Extensively worked on the BFSI sectors, with Product development and Project implementations.
+content	project	Designed Multiple Products on Banking, Escrow Account Management, Business Continuity Management and Insurance Domains.
+content	project	Having good understanding of Product Life Cycle(Identify Features, Roadmap, Requirements Analysis, Business Benefits, prototyping, Development , Testing, Release Management)
+content	project	Having good knowledge on all type of Payment channels such as Swift Messages, UPI, IMPS, RUPAY, AEPS, Visa, Master card, POS and ATM/BNA cash recycler.
+content	project	Having experience in integrating the Multiple Payment Gateways with Different Payment Modes.
+content	project	Experience in handling Reconciliation of Telecom products like Prepaid Reconciliation, Postpaid Reconciliation, GL Recon
+content	project	Experience in handling the insurance products such as ICICI Health Active, Assurity Life, Milliman USA, ICICI Prudential PayPlus, LTC Claims, Harleysville Group with third party integrations like MIB, Ingenix, IIX, and AUTTUS
+content	project	Strong Analytical Skills on the Banking Data and Trends of the Banking Customers.
+content	project	Work Experience as a Product Manager and Experience in Defining the Product Road Map, converting into Business Benefits, implementing the solutions.
+content	project	As a Product Manager, I am managing multiple teams, such as Business Analysts, Pre-Sales team, CoE Team, Product Development Team, POC team, Implementation Team and Support Team.
+content	project	Extensively worked on web-based applications on development environments using J2EE,Spring Boot, Micro Servies APIs, Angular, Oracle, MS SQL Server, Web logic and Web Services.
+content	project	As a Product Manager, I have experience in all levels of Product Management, such as Defining the Roadmaps, Identifying Innovative Features, Converting into Component Development, Guiding the Development team in implementing these features, Experience in Pre-Sales and writing winning RFPs.
+content	project	Expertise on the Transaction Chargeback functionality of various networks like NFS, Visa, Master Card, Rupay, IMPS.
+content	project	Expert in implementing the UPI Payment , AEPS, Rupay, Visa, Master card,CUP, Central Bank Reconciliation.
+content	project	Designed configurable Products in Banking Reconciliation, which will have Configurable ETL, Configurable Rule Engine, configurable Dashboard and Reports.
+content	project	Designed Ascent AutoRecon product with all configurable components required for Transaction Reconciliation.
+content	project	Architecture the FSS Recon Product and provided solution as a Generic Recon which can be highly configurable as per the customer Requirements.
+content	project	Expertise Project Management from the scratch of the Product to implementation/delivery.
+content	project	Gathering the Business Requirement Documents, Functional/System Requirement Documents, Use Cases, and Design Specifications in each phase of the application
+content	project	Building Client Satisfaction through formulation, development, implementation, and delivery of application, technical, and business solutions, responding to client requirements as specified in the contract
+content	project	Passionate about Quality Management through Software Quality Assurance, Quality Planning and Quality Control as well as Process Improvement following and based on ISO Standards
+content	project	Expertise in Security testing using manual and Automation and Penetration Test reporting
+content	project	Technologies : J2EE
+content	project	Database : Oracle 10g, Oracle 12c, MySql, MSSql Server, PostgresSQL
+content	project	Version Controls : Star Team, SVN, CVS, Maven and JIRA
+content	project	Worked with Ascent Resilience Solutions pvt ltd from Oct 2015 to Jan 2018 as Product Head
+content	project	Worked with Patni computer Systems from Jan 2007 to Oct 2008 as a Team Lead
+content	project	Worked in Patni Computer Systems as a consultant through Computech Enterprise Solutions from Feb 2005 to Dec 2006.
+content	project	Software Product Management & Delivery
+content	project	Software Projects/Products History
+meta	others	[Satish Amuluru]

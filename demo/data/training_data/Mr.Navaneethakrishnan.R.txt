@@ -1,0 +1,39 @@
+header	education	EDUCATIONAL QUALIFICATION:
+header	education	Qualification
+content	education	University/Board
+content	education	Institution
+content	education	Anna University
+content	education	Bharathidasan
+content	education	State Board
+content	education	State Board
+content	education	Sona  college of technology.
+content	education	A.V.C college of Arts &
+meta	knowledge	274 pachai udayar kadu,hasstampatti, salem 07.
+header	knowledge	TECHNICAL SKILLS:
+content	knowledge	•  Languages                    :   Angular8, NodeJS, ExpressJS.
+content	knowledge	•  Markup & Scripting     :   HTML5, Javascript.
+content	knowledge	•  Database                       :   MongoDB.
+content	knowledge	AREA OF INTREREST:
+content	knowledge	FORUMS USING DATA MINING at Sona college of technology.
+content	knowledge	•  Front End: HTML, PHP,
+content	knowledge	•  Back End: MYSQL.
+header	knowledge	CERTIFICATION:
+content	knowledge	•  Completed ANGULAR Course at CREDO SYSTEMZ, CHENNAI.
+content	knowledge	•  Front End: Angular8
+content	knowledge	•  Back End: Express JS, Node JS.
+content	project	Presently I am a fresher so I need a platform that showcases innovative performance.
+content	project	•  Angular Developer.
+header	project	PROJECT WORK:
+content	project	•  Project done on MONITORING SUSPICIOUS DISSCUSSION ON EDUCATION
+content	project	•  Project done on SHOPPING CART(ECOM)  at CREDO SYSTEMZ
+meta	others	navanikrish376@gmail.com .
+meta	others	274 pachai udayar kadu,hasstampatti, salem 07.
+meta	others	•  Cooperative:  Work well with others.
+meta	others	•  Alert:  Watchful.
+meta	others	I  am completed English lower typewriting class.
+meta	others	Father`s Name             :  Rajan.K.P
+meta	others	Date of  Birth               : 17.10.1996 .
+meta	others	Gender                          :  Male.
+meta	others	Languages Known        :  English and Tamil (read ,write and speak) .
+meta	others	Martial Status               :  Single .
+meta	others	DATE   :                                                                                                              yourfaithfully.

@@ -1,0 +1,93 @@
+meta	others	VENKATA SWAMY
+meta	others	mail2venkataswamy@gmail.com
+meta	others	Phone: 7981705002
+header	knowledge	SUMMARY
+content	experience	5 years of experience as full stack developer using ReactJS, Java (Spring boot REST API, Spring JDBC), SQL
+content	experience	Server and oracle.
+content	experience	Good hands on experience in building efficient, robust and reusable ReactJS state less/full components using
+content	knowledge	ReactJS.
+content	knowledge	  Developed re-usable components for generic Button, Checkbox, Toggle Button, Dropdown, Select and Multi
+content	knowledge	Select and many more.
+content	knowledge	Good exposure on React JS, Node JS, JavaScript, HTML5, CSS, Java, Spring MVC, Spring REST API, Spring JDBC,
+content	knowledge	Microservices using Spring Boot and SQL Server.
+content	experience	Experienced in all phase of SDLC like Requirement Analysis, Implementation and Maintenance and extensive
+content	experience	experience in Agile and SCRUM.
+content	knowledge	Agile Professional Certified.
+content	knowledge	Very good in writing complex SQL Queries.
+content	experience	Experience in Jenkins, Maven and GIT.
+content	experience	Experience with front-end development with back-end system integration.
+content	experience	Experience in version control tools like GIT, SVN and GIT Lab, Inner source for source code version management.
+content	knowledge	Ability to work efficiently while working as team member as well as individually.
+content	knowledge	Excellent communication and inter-personal skills and well organized.
+header	experience	PROFESSIONAL EXPERINECE
+content	experience	  Working with Accenture, Hyderabad, as Application Development Senior Analyst from June-2014 till date.
+header	knowledge	SKILLS
+content	knowledge	Front End: React JS, HTML, JavaScript & CSS
+content	knowledge	  Application Server: Apache Tomcat.
+content	knowledge	  Back End: SQL Server, Oracle
+content	knowledge	Programming Languages:  Core Java, MySQL
+content	knowledge	Java Frameworks: Spring (MVC, Spring Boot REST API, Spring JDBC)
+content	knowledge	IDE: Eclipse, VS Code
+content	knowledge	  DevOps: Jenkins, Jira and Test Rail.
+content	knowledge	Agile
+content	knowledge	JSON
+content	knowledge	Package Managers: NPM, Yarn.
+meta	others	VENKATA SWAMY
+meta	others	mail2venkataswamy@gmail.com
+meta	others	Phone: 7981705002
+header	project	PROJECT PROFILE
+content	project	Company                :  Accenture Pvt. Ltd.
+content	project	Project Title          : RadixOne.
+header	project	Technology
+content	knowledge	Axios.
+content	knowledge	: React JS, JavaScript, Node JS, Spring Boot, Spring Boot REST API, HTML, CSS and SQL Server, Maven,
+content	project	Description:  RadixOne  is  supply  chain  management  web application  which  is  used  in  procurement.  The main  aim  of  this
+content	project	application to maintain the projects and related data, related work types and activities. RadixOne(Developed using React JS)
+content	project	is migration  of  legacy application called RADIX which is developed using Oracle Apex originally.
+header	others	Roles & Responsibilities:
+content	others	  Designing rich re-usable state less components using React JS.
+content	others	  Developed Drag and Drop components using React-Draggable.
+content	knowledge	  Developed AI recommendation of Projects, Supplier and Categorization functionality from scratch.
+content	knowledge	  Developed REST APIs using spring boot REST.
+content	knowledge	  New library development with micro services architecture using Rest APIs, spring boot.
+content	knowledge	  Developed  complex  modules  like  Activities,  Work  types,  activities,  supplier,  checklist  and  user  configuration  in
+content	experience	Experience in integrating Front-End with REST APIs through Axios request mapping.
+content	knowledge	Spring boot REST application configuration.
+content	experience	Strong experience in CSS.
+content	knowledge	Project.
+content	experience	Experienced in running scrum/stand up calls with team, business and stake holders.
+content	others	Responsible for estimation and sub tasking stories on basis of resource capability and capacity.
+content	knowledge	Interacting with Business Analyst and business users to understand requirements to design and develop application
+content	knowledge	to meet Business and end user expectations.
+header	education	EDUCATIONAL QUALIFICATION
+content	education	  MCA from RITM, Bangalore under VTU, Belgaum secured 72%, Year 2011.
+content	education	  BSC from SKU, Anantapur, Secured 70%, Year 2007.
+header	others	AWARDS & RECOGNITION
+content	others	Received Accenture Prime Award called ACE(Accenture Celebrates Excellence) – FY17 Award.
+content	others	  Avanade Orange Award – FY16.
+content	knowledge	  High Performance delivered Award for FY14
+meta	others	VENKATA SWAMY
+meta	others	mail2venkataswamy@gmail.com
+meta	others	Phone: 7981705002
+header	others	PERSONAL INFORMATION
+meta	others	Name
+meta	others	Father’s name
+meta	others	Date of Birth
+meta	others	Nationality
+meta	others	: B VENKATASWAMY
+meta	others	: B  VENKATARAMAPPA
+meta	others	: 6 April 1985
+meta	others	: Indian
+meta	others	Proficiency in Languages
+meta	others	: English and Hindi.
+meta	others	Address
+meta	others	: 7-2-1793/94, Door 119,
+meta	others	CZECH Colony, Sanathnagar,
+meta	others	Hyderabad- 500018
+meta	others	OUTLINE
+meta	experience	Total Experience – 5 Years
+meta	others	Current CTC – 9.63
+meta	others	Current Company – Accenture Pvt Ltd.
+meta	others	Employment Type - Permanent
+meta	others	Notice Period - 3 Months
+meta	others	Reason for Job Change - For Better Prospects and Career Exposure

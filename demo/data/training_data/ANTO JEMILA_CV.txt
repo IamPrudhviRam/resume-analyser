@@ -1,0 +1,21 @@
+content	knowledge	Designing and developing dynamic User Interface for the web application using HTML5, Angular8, Javascript, CSS3 and Bootstrap.
+content	knowledge	Created custom Pipe for ordering array of objects.
+content	knowledge	Computer language known : C, C++, Java.
+content	knowledge	Database : SQL.
+content	knowledge	Attended a certification course of 3 months on “JAVASCRIPT & ANGULAR 8”
+content	knowledge	at CREDO SYSTEMZ, Velachery.
+content	project	Title: Key aggregate cryptosystem for scalable data sharing in cloud storage
+content	project	Domain: Cloud Computing
+content	project	During M. E
+content	project	Domain: Network Security
+content	project	Description: The objective of this work is to find the dishonest users by checking their reviews about that product, the companies opinion about the product and rating from other users for that product.
+content	project	E-Commerce Application
+content	project	Created custom Components, Directives and Pipes/Filters for reuse.
+content	project	Created Routing file for the entire application using angular router.
+content	project	Created custom attribute directives for input validations.
+content	project	Web technologies : HTML 5, CSS 3, Javascript, Angular 8, BOOTSTRAP.
+content	project	Capability of working in team.
+meta	others	Telephone Nagar ,
+meta	others	E-mail id: jemilt93@gmail.com
+meta	others	Contact No.: +91-9361229841
+meta	others	Hard working.

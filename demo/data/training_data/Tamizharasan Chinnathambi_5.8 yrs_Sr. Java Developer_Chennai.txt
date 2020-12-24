@@ -1,0 +1,43 @@
+meta	others	tamizharasancseslm@gmail.com
+meta	others	8089735955
+meta	others	Chennai
+content	knowledge	Spring
+content	knowledge	SKILLS
+content	knowledge	Java 1.8
+content	knowledge	Web services
+content	knowledge	ElasticSearch
+content	knowledge	Hibernate
+content	knowledge	Node.js
+content	knowledge	Microservice
+content	knowledge	SpringBoot 2.0
+content	knowledge	Cucumber/Junit
+meta	others	Tamizharasan C
+meta	others	Senior Software Engineer
+content	experience	5.5 Years of Experience in Java related
+content	experience	technologies. Quick Learner. Deliver quality
+content	experience	deliverables under tight deadlines.
+header	experience	WORK EXPERIENCE
+content	experience	Senior Software Engineer
+content	experience	Photon Infotech
+content	experience	08/2016 – Present
+content	experience	Tasks
+content	experience	Created RESTful web services for retail domain.
+content	experience	Migrated I/O bound java applications to node.js
+content	experience	Sprint planning, task estimation and allocation.
+content	experience	Code review.
+content	experience	Software Developer
+content	experience	UST Global
+content	experience	01/2014 – 08/2016
+content	experience	Tasks
+content	experience	Created RESTFul web services.
+content	experience	Guided junior team members.
+content	experience	Trivandrum
+header	project	PROJECTS
+content	project	Product Search (12/2016 – Present)
+content	project	Retail website to purchase products from online.
+content	project	Technology Used : Java 1.8, Spring Boot, Web services, Elastic
+content	project	Search, node, Redis, Kubernetes
+content	project	Client : Walgreens, US Retailer
+content	project	Technology Used : Java 1.8, Spring Boot, Web services,
+content	project	Hibernate
+content	project	Client : Boots, UK

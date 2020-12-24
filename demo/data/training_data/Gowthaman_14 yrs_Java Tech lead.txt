@@ -1,0 +1,140 @@
+meta	others	Gowthaman
+meta	others	+91 9743890006
+meta	others	togowthamblr@gmail.com
+header	others	Carrier abstract
+content	experience	-  14.10 Years strong IT experience in java, microservices, spring, srpingboot, biodata , ML and AWS, AZURE focus to play end to end
+content	knowledge	implementation used spring boot and microservices.
+content	knowledge	Expertise in Big data architecture with Hadoop and its eco system tools HBase, Hive, Pig, Zookeeper, Oozie, Flume, Avro, Apache spark and
+content	knowledge	Spark Streaming and Spark SQL.
+content	knowledge	-    Foundational knowledge of algorithms, statistics, and data processing
+content	knowledge	-    Background in NLP and deep learning, and their corresponding tools and techniques
+content	knowledge	-  Knowledge of open source ML framework and work with Data Scientist and Product Managers and ensure integration of ML Models.
+content	knowledge	-  Develop new ML and Deep learning model to detect the malicious activity with different devices.
+content	knowledge	-  Understanding of Cloud concepts ALB , NLB , CLB, AutoScaling, Bluegreen Deplyments .
+content	knowledge	Efficient in working with Hive data warehouse tool creating tables, data distributing by implementing Partitioning and Bucketing strategy, writing
+content	knowledge	and optimizing the HiveQL queries.
+content	knowledge	-  Strong hands-on experience in Microservices architectural patterns application pattern, application infrastructure pattern and infrastructure
+content	knowledge	-  Used srpingboot auto configuration for built in classes and added spring boot starter dependencies in maven config file. Used embedded tomcat
+content	knowledge	patterns
+content	knowledge	server and actuator end points.
+content	knowledge	-  Developed Model Layer using Jpa Repository in Spring Data Jpa, Designed and Implemented Micro services using Spring Boot and created a
+content	knowledge	separate schema per every micro service in database design.
+content	knowledge	-  Added both REST and Messaging End points to communicate micro services through HTTP and AMQP protocols using RabbitMQ Server.
+content	knowledge	Implemented Cloud capabilities like Centralized Configuration, Load Balancing, and Service-to-Service call using Feign, Service Registry and
+content	knowledge	Discovery using Eureka in Spring Cloud.
+content	knowledge	-  Worked on Amazon Web Services ( EC2, ELB, VPC, S3, Cloud Front, IAM, RDS, Route 53, Cloud Watch, SNS,SQS)
+content	knowledge	-  Major domains a like Retail, mCommerce, Insurance, Telecom, Shipping and Transportation and Healthcare.
+content	knowledge	Implemented Kafka Security Features using SSL and without Kerberos. Further with more grain-fines Security I set up Kerberos to have users and
+content	knowledge	groups this will enable more advanced security features.
+content	others	Certifications
+content	others	AWS – Solution Architect Associate
+content	others	Core Competencies:
+content	others	Teamwork, Communication, Adaptability, Reliability, Motivation, Integrity, Decision making, Initiative, work standards, problem-solving, stress
+content	others	tolerance and organizing.
+content	others	Accomplishment
+content	others	-  Best Team awards from Adithyabirla Minacs
+content	others	-
+content	others	Innovation award from HP Bangalore
+content	others	Academics
+content	education	Master of Computer Application from Bharathidasan University Tamilnadu.
+content	education	Bachelor of Mathematics from Bharathidasan University Tamilnadu.
+content	project	Employment History
+content	project	Company: Kerastech Analytics Chennai
+content	project	Project : POS-MAKER
+content	project	Description & Duration: Jun’16 to till
+content	project	POS-MAKER is Cloud-based pos-maker is generally on a tablet POS that’s used on-premise. mPOSMAKER is a subcategory of cloud-based pos-
+content	project	maker and is usually an App on mobile devices like an iPad or Android tablet, and even on smartphones to manage Credit card processing, Inventory
+content	project	tracking,Multi-store scalability (if you have or plan on having multiple locations). Color and size matrixing,Product variants, Employee commissions,
+content	project	Customer database, Gift registry and layaways Purchase orders, Sales reporting, Hardware integrations like barcode scanners and digital scales
+content	project	Software customization, Software/hardware support, Mobile and cloud-based technology to find the best POS solution for your business. It needs to
+content	project	have all the features and functions you need to grow your customer base and increase profit.
+header	others	Roles & Responsibilities:
+content	knowledge	- Worked on Hadoop cluster and different big data analytic tools including Hive, Spark, Sqoop, flume, Oozie and Kafka.
+content	knowledge	- Involved in importing and exporting data (Oracle, db2, Mongo to HDFS SQL Server, XML, csv and text file) from local and external file system
+content	knowledge	- implemented on Cloud concepts ALB , NLB , CLB, AutoScaling, Bluegreen Deplyments
+content	knowledge	- Worked extensively with HIVE DDLs and Hive Query language (HQL).
+content	knowledge	- Applied in NLP and deep learning, and their corresponding tools and techniques with Python, big data technologies, tensor flow,
+content	knowledge	and other machine learning platforms.
+content	knowledge	- Understanding of Cloud concepts ALB , NLB , CLB, AutoScaling, Bluegreen Deplyments
+content	knowledge	- Strong understanding of statistical modeling and its application to solving business problems.
+content	knowledge	- Created Service Layer  NewCreatePurchaseContext parses the incoming request URL and body, performs validations and creates the context
+content	knowledge	used by the Purchase controller create action.
+content	knowledge	- Created command object services endpoints CreatePurchaseCommand, ShowPurchaseCommand, Download Command, Register Commands
+content	knowledge	- Created CreatePurchasePath computes a request path to the create action of Purchase.
+content	knowledge	- Created Controler layer with CreatePurchaseBadRequest runs the method Create of the given controller with the given parameters and payload.
+content	knowledge	Skills: Java , Spring , SpringBoot , Microservices , REST , DevOps , AWS Services , Docker , Kuberneties, Kafka , ML
+content	knowledge	Company: HP Bangalore
+header	project	Project : Symantec - Verisign
+header	project	Description & Duration: Aug ’12-may’16
+content	project	VIP consists of three products – Authentication, Fraud Detection Services and Identity Proofing. In addition to these software applications and services,
+content	project	VIP will offer its customers a portal where they can purchase a VIP branded token and get online help. VIP Quote to Order process would be using
+content	project	many of the processes and extensions developed for Token inventory Management (TIM) project as most of the process is similar the MSL address
+content	project	validation service.
+content	knowledge	Roles & Responsibilities:
+content	knowledge	-  Programmed with clean, modular, robust code using Java and XML with Android SDK platform.
+content	knowledge	-  All phases of the project including design, development, testing and deployment.
+content	knowledge	-  Worked with audio video file programs to enhance, splice, and edit the sound library for applications.
+content	knowledge	-  Testing on Physical device and the android emulator.
+content	knowledge	-  Involved in MSL, order Management, address validation and FPE modules.
+content	knowledge	-  Sustain activity for the MSL, FPE and address validation and related servers.
+content	knowledge	-  Deployment with application servers – weblogic. Regular monitoring production environments.
+content	knowledge	-  Fixing issues with environment issues from app servers using scripts. Symantec token order management activity
+content	knowledge	Skills: JAVA, J2EE, REST API, Hive, Hadoop eco systems, spring, HBase, Hive, Pig, Zookeeper, Oozie, Flume, Avro, Impala,
+content	knowledge	Apache spark and Spark - -Streaming and Spark SQL.
+content	knowledge	Company: Minacs Bangalore
+content	knowledge	Project Description & Duration: Nov’11-Aug ’12
+content	knowledge	Sybase365 is a leading provider of mBanking services; Sybase provides mBanking, mPayment, mRemitance    opportunities, developed and
+content	knowledge	emerging markets enabling everybody to pay buy and remit money with a mobile device. Developed for codebase for WANDA, MEXICO,
+content	knowledge	PERU and ARGENTINA maven implementation for all the countries. State development and complete flow for sends MS, check identification,
+content	knowledge	Custom List management.
+meta	others	Roles & Responsibilities:
+content	others	-  Webservices and developed code for handlers and open – api.
+content	others	-  Developed for code base for WANDA, MEXICO, PERU and ARGENTINA maven implementation for all the countries.
+content	others	-  State development and complete flow for sendSMS, Check Identification, Custom List Management, Taken ownership for B2B OTRS ticket fixing,
+content	others	and estimation.
+content	others	WANDA and B2B developments
+content	knowledge	-  ISO integration for HISOCK implementation for package and handler creation SOAP UI  test for necessary WSDL Involved in SQL quires for
+content	knowledge	Skills: Java, Strips, Spring, Hibernate, REST, SOAP, Oracle , Strips , OpenAPI , JavaScript, CSS, HTML
+content	knowledge	Company: Prodapt SouthAfrica
+content	project	Project : Discovery - PrupProtect
+content	project	Description & Duration: Sep ’10-Jun ’11
+content	project	Discovery and Prudential, the largest insurance provider in the UK, has launched PruProtect, the first integrated, consumer engaged life insurance
+content	project	company in UK as part of a new joint venture Implementing the command pattern and delegate, DAO, VO, Delegate Query, Written code for session
+content	project	bean for domain layer. Generating pdf and using notification engine citrix using xml Involved in locking policy and unlocking policy.
+header	others	Roles & Responsibilities:
+content	knowledge	-  Implementing the command pattern and delegate, DAO, VO, Delegate Query,
+content	knowledge	-  Written code for session bean for domain layer.
+content	knowledge	-  Generating pdf and using notification engine citrix using xml
+content	knowledge	-  Involved in locking policy and unlocking policy.
+content	knowledge	Skills: java, jsp, servlet, struts, ejb, web services, oracle, JavaScript, weblogic, maven, citrix, tibco, spring, hibernate.
+content	knowledge	Company: Mphasis Chennai
+content	project	Project : Telstra
+content	project	Description & Duration: Jan’10-apr’10
+content	knowledge	OSCA system has been developed as an interface that sales consultants and other Telstra staff will use to provide support for customers using the
+content	knowledge	online services of Telstra Corporation. This system allows the sales consultants to provide a first - level support for inbound customer calls. R & E for
+content	knowledge	Siebel registration & security Q&A, implementing business logic code for DAL for DTO to VO, implementing hibernate and web services for R & E.
+header	knowledge	Roles & Responsibilities:
+content	knowledge	-  R & E for Siebel registration & security Q&A,
+content	knowledge	-  Implementing business logic code for DAL for DTO to VO,
+content	knowledge	-  Implementing hibernate and webservices for R & E.
+content	knowledge	Skills: Java, jsp, servlet, struts, oracle, JavaScript, hibernate, spring, sun server, web services.
+content	experience	Company: Vigna technologies Chennai
+content	project	Project Description & Duration: Apr’08-Jan’10
+content	knowledge	G-MEET is a solution multi-tier support system for a more efficient handling of inbound / outbound calls in BPO operations. The GMEET can use to
+content	knowledge	store voice data and send it to clients , The call status is accept, reject, pending, decline Designing in User AccountMaintance module, used LDAP,
+content	knowledge	Hibernate with oracle database tables, and developing the code for to handle.
+header	others	Roles & Responsibilities:
+content	knowledge	-  Designing in User AccountMaintance module and used LDAP,
+content	knowledge	-  Hibernate with oracle database tables and developing the code for to handle.
+content	knowledge	-  Implementation of XML, webservices with apache-axis
+content	knowledge	Skills: Java, jsp, servlet, struts, oracle, ant, html, css, JavaScript, ejb, spring, hibernate, web services.
+content	knowledge	Company: Ardor technologies Chennai
+content	project	Project Description & Duration: Nov’04-Mar’08
+content	project	A Port has several contractors provide services in the movement of containers in and out of the port premises to do submission, verification, approval
+content	project	and tracking processes. Test cases, Implementation with web services, database changes in sql queries and stored procedures.
+header	experience	Roles & Responsibilities:
+content	others	-  Created test cases,
+content	others	-  Implementation with webservices,
+content	others	-  database changes in sql queries and stored procedures,
+content	others	-  documentation & code review
+content	knowledge	Skills: Java, servlet, struts, oracle, JavaScript, html, WebLogic

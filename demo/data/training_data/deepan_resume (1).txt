@@ -1,0 +1,65 @@
+meta	others	DEEPANCHAKARAVARTHI N
+meta	others	No 331/2 pudhur main road,
+meta	others	Pagandai kootu road, Sankarapuram(tk),
+meta	others	Villupuram district
+meta	others	Tamil nadu - 605801
+meta	others	Email ID: deepanrajan4565@gmail.com
+meta	others	Mobile    : 9597634528
+header	knowledge	OBJECTIVE:
+content	knowledge	To pursue a career in the software industry as an efficient and dependable Employee being
+content	knowledge	resourceful to the organization and affable towards my colleagues.
+header	education	ACADEMIC PROFILE:
+content	education	  Master of Computer Application (2015-2018) from Sri Sairam Engineering College, Chennai
+content	education	with 72%.
+content	education	
+content	education	  Bachelor of Computer Application (2013-2016) from Dr. RKS College of Arts and Science,
+content	education	Kallakurichi with 67%.
+content	education	
+content	education	  XIIth Standard from AKT Academy Hr. Sec School, kallakurichi with 56% aggregate in 2013.
+content	education	
+content	education	  Xth Standard from Oxford Matric Hr. Sec School, Sankarapuram with 69% aggregate in 2011.
+header	project	ACADEMIC PROJECTS:
+content	project	  Main Project: Cloud Trust - a security assessment model for IAAS.
+content	project	Duration: Dec-2017 to May-2018.
+content	project	The proposed concept  mainly  focuses  is to  protect  files  from  internal and external  attacks in a
+content	project	cloud server and also recover the original files from the attacked files with the help of trust manager
+content	project	using IAAS cloud service.
+header	knowledge	COURSE COMPLETION:
+content	knowledge	  JavaScript and Angular 7 Course completed from CREDO SYSTEMZ, Velachery, Chennai.
+header	project	MINI PROJECT:
+content	project	  ONLINE SHOPPING CART using Angular 7 and JavaScript.
+header	others	STRENGTHS:
+content	others	  Good leadership quality and comprehensive Problem solving abilities
+content	others	  Good communication and inter-personal skills
+content	others	  Adaptable to any environment.
+content	others	  Innovative thinking.
+header	others	PERSONAL DETAILS :
+meta	others	NAME
+meta	others	: DEEPANCHAKARAVARTHI N
+meta	others	FATHER’S NAME
+meta	others	: NAGARAJAN S
+meta	others	D.O.B
+meta	others	NATIONALITY
+meta	others	RELIGION
+meta	others	SEX
+meta	others	MARITAL STATUS
+meta	others	PERMANENT ADDRESS
+meta	others	: 06.07.1996
+meta	others	: Indian
+meta	others	: Hindu
+meta	others	: Male
+meta	others	: Single
+meta	others	: No 331/2 Pudhur Main Road,
+meta	others	Pagandai Kootu Road,Sankarapuram(tk),
+meta	others	Villupuram district
+meta	others	Tamil nadu - 605801
+meta	others	LANGUAGES KNOWN
+meta	others	: English, Tamil
+header	others	HOBBIES
+content	others	: Playing cricket, Listening songs
+header	others	DECLARATION:
+content	others	I hereby declare that the information furnished above is true to the best of my knowledge.
+content	others	Place
+content	others	Date
+content	others	:
+content	others	:

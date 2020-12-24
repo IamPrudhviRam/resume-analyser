@@ -1,0 +1,31 @@
+content	experience	I am a self-motivated, passionate and dedicated developer with 3.3 years of experience and proven
+content	education	DXC Technology (2016-2019)
+content	education	R M K Engineering College
+content	education	•  Himaja High School
+content	education	Course – BE (ECE), CGPA – 7.98, Year of Completion – 2016
+content	education	Core Java/J2EE
+content	knowledge	skills in various technologies. I have the drive to learn and explore new technologies. Recognized by
+content	knowledge	•  Worked as an Associate Professional - Product Developer in PatientCentre HealthCare Product.
+content	knowledge	•  Worked in Agile methodology.
+content	knowledge	•  Worked in Agile methodology.
+content	knowledge	Skills Used: Core Java, Servlets, JSP, EJB and JavaScript
+content	knowledge	Enterprise Legal Management System (Passport):
+content	knowledge	Course – 10th Standard, Percentage – 87.9%, Year of Completion - 2010
+content	knowledge	•  Hibernate
+content	project	my organization for helping in the digital transformation of our product.
+content	project	•  Worked in multiple products for providing FHIR REST Web API services.
+content	project	•  Worked as a Product Software Engineer in Passport Product.
+content	project	Client: NHS Hospitals, UK
+content	project	Role: Product Software Engineer
+content	project	Client: US - Law firms
+content	project	Role: Associate Professional Product Developer
+content	project	Project Overview: The PatientCentre System is at the heart of a Hospital’s Information System and provides the
+content	project	fundamental building blocks for the Electronic Patient Record (EPR). It includes various modules like Appointments,
+content	project	Inpatients,  Outpatients,  Community,  Order  Communication,  HPS,  etc.  This  product  is  fully  based  on  the  United
+content	project	Kingdom’s trust and hospitals requirements.
+content	project	Skills Used: Java, J2EE, Spring, Hibernate, SQL Server, Apache Tomcat, HTML, CSS, Javascript, Rest Web services,
+content	project	Project  Overview: Enterprise Legal Management System (ELMS) works as a browser-based application, to setup
+meta	project	Advanced JAVA
+meta	others	•  Narayana Intermediate College
+meta	others	•  Hard Working
+meta	others	Advanced JAVA

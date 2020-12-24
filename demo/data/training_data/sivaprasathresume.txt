@@ -1,0 +1,79 @@
+meta	others	SIVA PRASATH R
+meta	others	B.Tech Computer Science and Engineering
+meta	others	Mail: sivaprasath0610@gmail.com
+meta	others	Contact No: 9500761153
+header	others	OBJECTIVES:
+content	others	I  am  looking  for  an  opportunity  in  an  organization  which  will  help  me  to  deliver  my  best  and
+content	others	upgrade  my  skills  in  engineering  and  meet  the  demand  of  the  organization.  I  would  like  to
+content	others	implement my innovative ideas, skills and creativity for accomplishing the projects.
+header	education	EDUCATIONAL BACKGROUND:
+header	education	Qualification
+header	education	Institution
+header	education	Year
+header	education	Passing
+header	education	of
+header	education	CGPA/
+header	education	Percentage
+content	education	B.TECH(CSE)
+content	education	Kalasalingam  Academy
+content	education	Research and Education
+content	education	of
+content	education	2019
+content	education	6.79
+content	education	HSC
+content	education	SSLC
+content	education	N.S. Higher secondary
+content	education	school,Theni.
+content	education	2015
+content	education	62%
+content	education	N.S. Higher secondary
+content	education	school,Theni.
+content	education	2013
+content	education	82.4%
+header	knowledge	TECHNICAL SKILLS:
+content	knowledge	Programming Skills: JavaScript, Python.
+content	knowledge	Web Development: HTML, CSS, Angular.
+content	knowledge	Operating Systems: Windows, Linux.
+header	project	PROJECT DETAILS:
+content	project	USING IOT”.
+content	project	•  Done community service project” SMART PIPELINE SYSTEM
+content	project	•  Done final year project” ANALYZING CHRONIC DISEASES
+content	project	AND PROVIDING SOLUTIONS USING HEALTH MONITORING
+content	project	SYSTEM BY THE CONCEPT OF BIG DATA”.
+content	project	•  Done mini project” MONTHLY BUDGET CALCULATOR” using
+content	project	Angular.
+header	knowledge	AREA OF INTERESTS:
+content	knowledge	•  Web development.
+header	knowledge	WORKSHOPS:
+content	knowledge	•
+content	knowledge	Attended “cloud-based robots’ workshop “in Anna university (CEG) in association with
+content	knowledge	innovation cell, IIT Bombay.
+content	knowledge	•  Attended “java workshop” conducted by campus connection.
+content	knowledge	•  Attended “ethical hacking & cyber security” conducted by i3indya technologies.
+header	knowledge	CERTIFICATION:
+content	knowledge	•  Attended 15 days in-plant training in the field of web development at haso technology,
+content	knowledge	•  Completed “data science & big data analytics” conducted by ICT academy.
+content	knowledge	•  Completed “Angular certification course” in Credo systemz, OMR.
+header	others	EXTRA CURRICULAR ACTIVITIES:
+content	others	•  Attended 7 days NSS Camp program on the theme “VIBRANT YOUTH
+content	others	FOR WEALTHY INDIA” organized at RAMAKRISHNAPURAM.
+content	others	•  Also voluntarily participated in many club and cultural activities.
+header	others	INTERPERSONAL SKILLS:
+content	others	•  Ability to rapidly build relationship and set up trust.
+content	others	•  Confident and Focused.
+content	others	•  Ability to adopt with different situations.
+content	others	•  An effective communicator.
+header	others	PERSONAL DETAILS:
+header	others	Father’s Name
+header	others	Permanent Address
+header	others	Date of Birth
+header	others	Language Known
+header	others	Nationality
+header	others	Hobbies
+meta	others	:- Ravi Chandran
+meta	others	:- 17,Nethaji road, N.R.T nagar, Theni 625531
+meta	others	:- 06.10.1997
+meta	others	:- English, Tamil.
+meta	others	:- Indian
+meta	others	:- web surfing, watching English series.
+meta	others	Siva Prasath R

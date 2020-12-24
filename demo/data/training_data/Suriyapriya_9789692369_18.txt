@@ -1,0 +1,54 @@
+header	experience	WORK EXPERIENCE:
+content	experience	ALCATEL 7750, Cisco 7200 and Redback SE-800
+content	experience	Knowledge of applications BMC Remedy, ITSM Application.
+header	education	ACADEMIC PROFILE:
+content	education	2018 - B.E in Electronics and communication Engineering
+content	education	St. Peter’s college of Technology, Chennai
+content	education	Anna University affiliated -75%
+content	education	State board - 77%
+content	education	State board - 92%
+header	knowledge	CAREER OBJECTIVE:
+content	knowledge	To be a part of work culture, which sets me in the path of continuous learning to become a professional with good technical and management skills, and thereby contributing to organization success.
+content	knowledge	AMAZON WEB SERVICES (AWS) Solution Architect-Associate Level training.
+content	knowledge	Undergoing training in JAVASCRIPT and ANGULAR JS.
+header	knowledge	CERTIFICATION :
+header	knowledge	SOFTWARE PROFICIENCY:
+content	knowledge	Operating System : MS-WINDOWSXP, 7, 8
+content	knowledge	Languages : Basics of - C,C++, Java
+content	knowledge	: Basics of HTML , CSS
+content	knowledge	: Basics of Javascript , Angular
+content	knowledge	Tools : BMC remedy, ITSM, Spark, Salesforce, CRM
+content	knowledge	Participated in workshop on Android development in Uniq Technologies.
+content	knowledge	Participated in WORLD’S BIGGEST INTERNATONAL HANDS-ON ETHICAL HACKING.
+content	knowledge	Participated in workshop on FUNDAMENTALS OF PYTHON PROGRAMMING.
+content	knowledge	Undergone training in UNIQ Technologies Pvt Ltd for 3 days.
+content	knowledge	Undergone internship In IOT BASED APPLICATION DEVELOPMENT in Uniq Technologies.
+content	knowledge	PRACTICAL KNOWLEDGE :
+content	knowledge	Customer provisioning in DSLAMs like, Alcatel, Adtran-TA5000,
+meta	knowledge	Adtran TA1248V, Calix C7, E7, E5, Motorola Nexus, Occam, Paradyne 88xx series.
+content	knowledge	Troubleshooting of Broadband related issues like Packet loss, Bandwidth issues, No browsing issues.
+content	knowledge	Good knowledge in both card and port level commissioning in Alcatel,
+content	knowledge	Knowledge of Troubleshooting customer related complaints and Knowledge of Network connectivity.
+content	project	CCNA R&S – Technology training with projects: NETWORK ADMINISTRATION
+header	project	PROJECTS HANDLED:
+content	project	MAIN PROJECT: “IOT BASED SMART SECURITY AND HOME AUTOMATION SYSTEM”
+content	project	Description: This project describes about controlling home appliances through smart phones and providing home safety. Here the project works under NODE-MCU controller(built-in wifi module).
+content	project	PIR sensor and IR sensor for security alerts. Performed under BLYNK-PLATFORM.
+meta	others	SURIYAPRIYA.J ADDRESS FOR COMMUNICATION:
+meta	others	Email: suriyapriya0802@gmail.com
+meta	others	Phone No: (+91) 9789692369
+meta	others	2014 - H.S.S from Sacred Heart Convent Anglo Indian Hr. Sec. School,Villupuram.
+meta	others	2012 - S.S.L.C from Sacred Heart Convent Anglo Indian Hr. Sec. School,Villupuram.
+meta	others	CCNA ROUTING & SWITCHING certified @ TCS-ION , Chennai.
+meta	others	CERTIFICATE ID: ICMP1871S1D44E1-910251
+meta	others	Adtran TA1248V, Calix C7, E7, E5, Motorola Nexus, Occam, Paradyne 88xx series.
+meta	others	Name :J.SURIYAPRIYA
+meta	others	DOB :08-FEB-1997
+meta	others	Father’s Name : K.JOTHIRAMALINGAM
+meta	others	Religion :Hindu
+meta	others	Gender :Female
+meta	others	Date of Birth : 08-02-1997
+meta	others	Language Known : Tamil, English(To Read And Write)
+meta	others	Marital Status : Single
+meta	others	Nationality : Indian
+meta	others	Date: Yours Faithfully,

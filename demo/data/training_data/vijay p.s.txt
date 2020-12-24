@@ -1,0 +1,42 @@
+content	experience	Field working
+content	experience	Problem Understanding and solving
+content	experience	CORE JAVA(Intermediate)
+content	experience	National Apprenticeship Training Scheme (NATS)
+content	experience	The Institution of Electronic and Telecommunication Engineers (IETE)
+header	education	Qualification Credentials:
+content	education	Indian Society for Technical Education (ISTE)
+header	knowledge	Career Objective:
+content	knowledge	To pursue a challenging career and to be the part of progressive organisation that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organization.
+header	knowledge	Preferable Career Interest IT:
+content	knowledge	Description : DC bus & switching voltage stress is limited to peak of line voltage.
+content	knowledge	ETAP Automation for two days by RMK College of Engineering & Technology
+content	knowledge	Image Sensing satellite development for three days by SSN College of Engineering.
+content	knowledge	Implant Training:
+meta	knowledge	North Chennai Thermal Power Station TANGEDCO (TNEB) Chennai.
+header	knowledge	Technical Skills:
+content	knowledge	HTML5(Intermediate)
+content	knowledge	CSS (Intermediate)
+content	knowledge	JAVASCRIPT(Intermediate)
+content	knowledge	MYSQL(Begineer)
+content	knowledge	ANGULAR JS (Beginner)
+content	knowledge	Membership in Technical Organization :
+content	project	Professional Attributes:
+content	project	Logical thinking
+content	project	Team working
+content	project	Frontend Developer
+content	project	Java developer
+content	project	Mini Project : Free Energy Generator
+content	project	Description : Device to generate electrical energy by neodymium magnet
+meta	project	Final Year Project : LED Drive Circuit used a single stage soft switching device
+content	project	Good Team leader
+content	project	Online Surveying
+content	project	Hearing development motivational speeches
+meta	project	English (Both read & write)
+meta	others	1, Old Dharmaraja Koil Street,
+meta	others	Thiruvallur district, Tamil Nadu
+meta	others	DOB: 02-10-1996 AGE: 22Male |INDIAN
+meta	others	Final Year Project : LED Drive Circuit used a single stage soft switching device
+meta	others	North Chennai Thermal Power Station TANGEDCO (TNEB) Chennai.
+meta	others	English (Both read & write)
+meta	others	I hereby acknowledge that the above furnished information is true to the best of my knowledge
+meta	others	Date: Yours Sincerely,

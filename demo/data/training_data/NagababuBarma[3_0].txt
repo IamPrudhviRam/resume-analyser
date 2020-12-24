@@ -1,0 +1,69 @@
+header	others	Naga Babu Barma
+content	knowledge	Java Developer
+meta	others	Contact: +91 9952025542
+header	others	Email:
+header	others	Experience Summary
+content	experience	3 years of Information Technology of experience in the field of Software development of JAVA based web applications with Spring Framework.
+content	experience	Good experience in design & development of web based applications using JAVA & J2EE technologies.
+content	knowledge	Good Knowledge in development of Micro services.
+content	knowledge	Developed applications by using Spring framework , Spring Boot.
+content	experience	Experienced in developing web applications using MVC Architecture and Restful Web Services.
+content	experience	Expertise at using frameworks Spring , Hibernate and Restful web services.
+content	experience	Having hands on experience with Spring Boot.
+content	knowledge	Proficiency in programming with IDE ’s like Eclipse, Spring Tool Suite.
+content	others	Having ability to quickly learn new technologies and apply them in business solutions.
+content	project	Implemented Data Access Layer with the JPA and Hibernate.
+content	project	Worked on project build tools like as Maven .
+header	others	Technical Skills
+content	knowledge	Programming Language Java
+content	knowledge	Frameworks Spring ,Hibernate,Restful web services
+content	knowledge	Spring Extension module Spring Data JPA ,Spring Boot
+content	knowledge	Database Oracle
+content	knowledge	Developer Tools Jenkins ,Docker
+content	knowledge	Tools Maven,STS,Eclipse,SQL Developer,Postman
+content	knowledge	Operating System Windows
+content	knowledge	Version-Control System Git
+header	education	Educational Qualifications
+meta	education	● B.Tech (Electronics) from Anurag Group of Institutions of JNTU - Hyderabad
+header	experience	Work Experience
+content	experience	● Worked as Software Engineer in Maveric System Ltd from Dec 2016 to till Date
+header	experience	Work Summary:
+content	project	Project Title : Offender management system
+content	project	Client : Elite-Syscon Offender Management System
+content	project	Team Size : 15
+content	project	Environment : Java 8 ,Spring , Spring Data,Oracle 11g, Apache Tomcat 9,JSP,Spring Security
+content	project	Duration : Feb 2019 to till Date.
+content	project	Role : Developer
+header	project	Project Description:
+content	project	Offender management system deals with Offender activities which involves creation of the offender, creating admission, alerts and creating incident details for an Offender, Allotting the Cell and Bed Locations. It also maintains the hearings/Schedule Notifications/Evidence activities of the Offender and registers the Properties(items) of the Offender.
+header	project	Responsibilities:
+content	project	Developing the Code as per the requirements.
+content	project	Writing UI/Business validations for the owned use cases.
+content	project	Unit testing and integration testing of owned use cases.
+content	project	Involved in resolution of issues.
+header	project	Project
+header	project	Project Title : Hospital Information System
+content	project	Client : IMC(International Medical Centre)
+content	education	Team Size : 05
+content	project	Environment : Java , Spring4.3.3, Hibernate4, Oracle, JSP and Spring Rest.
+content	project	Server : Apache Tomcat 8.5
+content	project	Duration : July 2017 -Aug 2018 .
+content	project	Other tools : Postman,maven,Sql Developer
+content	project	Database : Oracle
+content	project	Role : Developer
+header	project	Project Description:
+content	project	HIS it's completely about a hospitality project client from Dubai,so it includes different screens like pharmacy dispensing,unified template,inpatient and outpatient, emergency and adtbedplan etc.
+header	project	Responsibilities:
+content	project	Working as Developer for enhancements for the application.
+content	project	Developed e-Payment functionality for direct payment for pension and Pay bills, so Cheque ’s can be reduced.
+content	project	Web-Service development for Payment and receipt integration with bank..
+content	project	Involved in Incident management and Problem management.
+content	project	Unit testing and integration testing of owned use cases.
+content	experience	Training of new team members into the project.
+header	others	Personal Details:
+meta	others	Name : Barma Naga babu
+meta	others	Gender : Male
+meta	others	Father’s Name : Jagannadha Rao
+meta	others	Date of Birth : Aug-08-1995
+meta	others	Nationality : Indian
+meta	others	I hereby to declare that the information furnished above is true the best of my knowledge.

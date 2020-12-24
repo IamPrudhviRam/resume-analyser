@@ -1,0 +1,61 @@
+content	experience	✔ Extensive experience in the design and development of applications using Web technologies like
+header	experience	PROFESSIONAL EXPERIENCE
+header	education	ACADEMIC VALUES
+content	education	✔ B.Sc. in Software Engineer (2015 – 2018) from Kongu Engineering college aff.Anna University.
+content	knowledge	HTML5, CSS3, Bootstrap, JavaScript and JQUERY.
+content	knowledge	✔ Excellent verbal, written and interpersonal communication and collaboration skills.
+content	knowledge	✔ Ability to learn & develop using new technologies.
+content	knowledge	✔ Excellent in Code debugging skills.
+header	knowledge	TECHNICAL SKILLS
+content	knowledge	Programming Languages
+content	knowledge	Scripting Languages
+content	knowledge	Debugging tools
+content	knowledge	: HTML5, CSS3, JavaScript and JQuery
+content	knowledge	: HTML5, CSS3, JavaScript and JQuery
+content	project	✔ Extensively having experience in working with Angular 7 modules, services, templates, directives,
+content	project	services and dependency injection to create a SPA. Hands on Experience on Angular CLI.
+content	project	Domain Knowledge
+content	project	: HTML 5, CSS 3,​ ​Bootstrap and Angular 5+
+content	project	: JavaScript, JQuery, TypeScript
+content	project	: Visual Studio Code, Notepad++
+content	project	: Firebug, Chrome Developer Tools.
+content	project	: E-Learning, E-Publishing, E-Commerce
+content	project	✔ Presently associated with TNQ Technologies  From Jan’2019 to Till Date
+content	project	✔ Worked as Intern​ ​at CloudAxis Tech from July’2018 to Dec‘2016
+header	project	PROJECT SUMMARY
+content	project	Project Name : E-Commerce Application
+content	project	: Angular 7, Node JS, Typescript, Express JS, MongoDB
+content	project	Environment
+content	project	Description     :​ ​E-commerce Application with payment gateway Integration. The Application has the admin
+content	project	functionalities. Admin can upload products from the admin panel with categories. He can make the entire
+content	project	application from the admin panel. In frontend, the products will be displayed with short description and
+content	project	other details. Users can Search, Add products in their cart Update their cart and purchase through PayPal
+content	project	✔ Involved in analysing, designing and developing the solution for the project
+content	project	✔ Responsible for the partial development of the application which is based on
+content	project	✔ Involved in defect fixing
+content	project	Involved in designing and create store procedures with respect to requirement
+content	project	Project Name : Guatemala
+content	project	Environment
+content	project	: ​This project is about creating an online tutorial for the School Kids. It contains four
+content	project	screens and eight activities. Each ​activity contains learning modules. We have implemented various
+content	project	Drag and Drop and Click events which developed using HTML5, CSS3, JavaScript and JQuery used for
+content	project	input validation process.
+content	project	✔ Participated in the System Study and preparation of Software Requirement Specifications design
+content	project	✔ Developed front-end Design
+content	project	✔ Developed and merged the completed forms to make the file into a single form
+content	project	✔ Created various input validation using JQuery
+content	project	Project Name : Smile Education
+content	project	Environment
+content	project	project that we do is about creating LKG, UKG book for interactivity and learning. This book contains 4
+content	project	Major parts and we use a lot of animation and SVG elements in this project
+content	project	✔ Participated in the system study and preparation of software requirement specifications design
+content	project	✔ Developed front-end Design
+content	project	✔ Implemented various user input validations
+content	project	✔ Maintained close communication with UI/UX team to enhance product quality
+meta	others	Email ID :​saravanamuthu209@gmail.com​                                                                      ​Mobile : ​+91-8248790849
+meta	others	Name: K.Saravana Muthu
+meta	others	: ​Smile Education is an Indian company that offers primary education in India. The
+meta	others	Date of Birth
+meta	others	Marital Status
+meta	others	: 6/684,Sirumugai,Coimbatore,Tamil nadu.
+meta	others	: Tamil, English

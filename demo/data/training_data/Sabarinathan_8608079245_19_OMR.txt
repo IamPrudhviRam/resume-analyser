@@ -1,0 +1,38 @@
+content	experience	Planning and implementation.
+meta	experience	Enjoy working with people-build strong relationships easily.
+content	experience	Participated in Debugging at Thiyagarajar College.
+header	education	EDUCATIONAL QUALIFICATION:
+content	education	BSC (Information Technology)2016-2019: passed out with 65% from
+content	education	Thiagarajar College.
+meta	knowledge	B. SABARI NATHAN.
+header	knowledge	CAREER OBJECTIVE:
+content	knowledge	Intend to build a career with the leading corporate of hi-tech environment with committed and dedicated people,which will help me to explore myself fully and realize my potential.I am willing to work as a key player in the challenging environment.
+content	knowledge	Organization :Blood Donation and Orphanages.
+content	knowledge	Platform Used :PHP as front end, MY SQL as back end.
+header	knowledge	TECHNICAL SKILLS:
+content	knowledge	Oops concepts in java
+header	knowledge	AREA OF INTEREST:
+content	knowledge	Possess good comunication skills.
+content	knowledge	Risk assesment.
+content	knowledge	Participated in Whatsapp event by Tick Club of department on CA & IT in
+header	project	ACADEMIC PROJECT:
+content	project	Project Title :Social service.
+content	project	Description :This project is to make a website providing information on a Blood
+content	project	Donor to its user and even making an helping mind to Orphanages.
+content	project	Time management.
+content	project	ACTIVITIES INVOLVED:
+meta	others	B. SABARI NATHAN.
+meta	others	Mobile : 7448662524.
+meta	others	Email : bsabari24@gmail.com
+meta	others	Learning Typewritting (English) in lower.
+meta	others	Enjoy working with people-build strong relationships easily.
+meta	others	Highly motivated and eager to learn new.
+meta	others	Playing and watching Cricket.
+meta	others	Father name :K.J. BALU.
+meta	others	Mother Name :B. AMUTHA.
+meta	others	Date of Birth :24.03.1999.
+meta	others	Language known :Tamil, English,Sowrastra.
+meta	others	Address for Communication :110/41 East Bharathipuram, Nagal Nagar, Dindigul.
+meta	others	Pin code-624 003.
+meta	others	Hereby I assure that the above mentioned details are true to the best of my knowledge.
+meta	others	Date : (B.SABARI NATHAN)

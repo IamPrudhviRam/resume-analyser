@@ -1,0 +1,184 @@
+content	experience	Overall 8+ years of IT experience with 4+ years of experience as a software developer in comprehensive analysis, design, coding, testing in Java/J2EE development and developed various Web Applications and Enterprise applications using Java/J2EE platform.
+content	experience	Experienced in building web and enterprise applications in various domains like Banking (Capital One), Finance (Freddie Mac), Healthcare (United Health Group) & Communication (Charter Communication)
+content	experience	Involved in different phases of Software Development Life Cycle(SDLC) like analysis, design, development and testing
+content	experience	Extensive experience in design, development and implementation of Model View Controller(MVC) using Spring and Angular frameworks
+content	experience	Experienced in using Micro services framework through Spring Boot, Jersey and Swagger
+content	experience	Developed web tier components of web stores using Spring Web MVC framework that leverages Model View Controller (MVC) architecture using STS
+content	experience	Developed Internet/Intranet and Client/Server applications using Java and J2EE technologies like JSP, Servlets, JavaBeans, JavaScript, HTML, CSS, JQuery, Bootstrap, and XML. etc.,
+content	experience	Strong database experience in DB2 9.0/10.0, Oracle 12c/11g/10g/9i/8i, SQL Server and MySQL with good programming skills in SQL and PL/SQL functions, views, Stored Procedures and database triggers with comprehensive knowledge on Performance Tuning and Query Optimization in Stored Procedures.
+content	experience	Fair experience in implementing Java & J2EE Design Patterns and Architecture Patterns.
+content	experience	Experience with Ant/Maven for project build/test/deployment, Log4j for error logging and Debugging, JUnit for unit and integration testing Test Driven Development (TDD) and XMLSpy for XML validation
+content	experience	Proficiency in working with different Java IDE’s like IntelliJ, Eclipse, NetBeans and database IDE’s like Toad, MySQL Front and SQL Developer
+content	experience	Experience with Version Control Systems like Git, CVS and SVN (Subversion).
+content	experience	Experience with UML modeling like Class Diagrams, Case Diagrams and Sequential Diagrams
+content	experience	Experienced in deploying Web Application and configuring data source to IBM WebSphere, JBoss and servers like Tomcat
+content	experience	Experienced in Application Software Development and Design, Object Oriented Design and Analysis(OOAD), technical documentation, debugging
+header	experience	PROFESSIONAL EXPERIENCE
+content	experience	Developed BDD and TDD script with Cucumber and written step definition for Gherkin based features
+content	experience	CAPITAL ONE – Richmond, Virginia May 2018 – Dec 2018
+content	experience	Used Microservice with Spring Boot interacting through a combination of REST and Apache Kafka message brokers
+content	experience	Created AWS Route53 to route traffic between different regions.
+content	experience	Utilized Amazon Route53 to manage DNS zones and assign public DNS names to elastic load balancers IP's.
+content	experience	Environment: JDK 1.8, Spring Boot 2, RESTFUL API 1.1.1, JUnit, Angular JS 6, CSS, HTML5, SQL/PL-SQL, pgAdmin4, IBM DB2, PostGreSQL, Amazon Web Services(AWS), Maven 4.0, Apache Tomcat Server, IntelliJ 2015, Windows 10, Agile
+content	experience	Tested REST web services using Swagger
+content	experience	Experienced in PL/SQL programming including complex SQL queries using stored procedures in MS-SQL
+content	experience	Experienced in Data Driven testing using frameworks like Junit
+content	experience	Experienced in writing automated tests using Selenium WebDriver with Java
+content	experience	Developed front-end code with Ajax call in AngularJS to retrieve data as JSON Object from controllers in back-end RESTful server
+content	experience	Developed BDD and TDD script with Cucumber and written step definition for Gherkin based features.
+content	experience	Assisted the internal teams in all the phases of SDLC including requirements collection, design and analysis of the customer specifications, development and customization of the application
+content	experience	Tata Teleservices Private Limited – Hyderabad, India June 2008 – June 2012
+content	experience	Performed User Acceptance Testing (UAT) in EVD (Electronic Voucher Distribution) system after development of Business Requests to eliminate any drawbacks in production. It increased prepaid market revenue significantly.
+content	experience	Analyzed the CCMs (Complaint tickets) related to post-paid billing issues and reduced the count of overall CCMs by greater than 30% annually by identifying the technical faults in the system.
+content	experience	Attended business conference calls with Business Owners, Tata Consultancy services and internal Tata Teleservices teams for necessary discussion and closure of gaps related to smooth rollout of Business Requests.
+content	experience	Conducted instant escalation and interaction with vendors post observation of any alarm in IN (Intelligence Network) and ensured proper resolution to prevent revenue leakage.
+content	education	Executive Master of Science in Information Technology from University of the Cumberlands (2019) – CGPA 8.32 / 10
+content	education	Master of Science in Electrical and Computer Engineering from University of Illinois at Chicago (2015) – CGPA 3.2 / 4
+content	education	Bachelor of Technology in Electronics and Communication Engineering from West Bengal University of Technology (2008) – CGPA 4.0 / 4.0
+content	knowledge	Expertise in implementing RESTful Web Services, JAX-RS, JAX-WS, WSDL and SOAP
+header	knowledge	TECHNICAL SUMMARY
+content	knowledge	Developed API’s using Spring JDBC, ORM for accessing Oracle database
+content	knowledge	Used GIT as a version control tool for merging branches
+content	knowledge	Developed the API endpoint based on the RESTful Webservices.
+content	knowledge	Additionally, conducted testing of the SDSS Application whenever required.
+content	knowledge	Created security groups, auto-scaling, load balancers (ELBs) in the defined virtual private connection.
+content	knowledge	Developed the REST web services API to consume and produce the JSON data.
+content	knowledge	Followed Spring MVC pattern and used View Resolver to map web pages
+content	knowledge	Used RapidSQL to run the SQL queries for extraction of data from DB2 database
+content	knowledge	Used HTTP request to extract JSON format data
+content	knowledge	Environment: JDK 1.8, Spring MVC 4, RESTFUL API 1.1.1, JUnit, Angular JS 4, Angular JS 1.5, Bootstrap, CSS, HTML5, SQL/PL-SQL, RapidSQL, IBM DB2, Log4J, SQL Server, Maven 4.0, Oracle WebLogic server, Eclipse Neon, Windows 7, Agile
+content	knowledge	Developed REST service documentation using Swagger UI
+content	knowledge	Performed exception handling for REST web services
+content	knowledge	Environment: JDK 1.8, Spring Boot 1.5.6, Spring Batch, Hibernate 4.3.11 Final, RESTful API 1.1.1, JUnit, Angular JS 1.5.5, Flex components, Bootstrap, SCSS, Log4J, HTML5, SQL/PL-SQL, Stored Procedures, SQL Server, Maven 4.0, IntelliJ 2016, GitHub, WebSphere, Windows 7, Agile
+content	knowledge	Assisted in implementation of MVC pattern using Angular JS, JSF and Spring Controller
+content	knowledge	Assisted in designing, building and maintaining database to analyze new order installation and processing
+content	knowledge	Automated testing using Selenium Web driver / TestNG frameworks
+content	knowledge	Developed the complete implementation of the web service to fetch transaction service details
+content	knowledge	Implemented SQL queries for database interaction
+content	knowledge	Environment: Java, JSP, EJB, Spring, WebServices, SQL, PL/SQL, Oracle, Eclipse
+content	project	Experience in an Agile Software Development using AGILE methodology including SCRUM.
+content	project	Designed and developed user-friendly GUI interface and web pages using HTML, HTML5, CSS3, AJAX, Angular JS, JQuery, NodeJs and JavaScript
+content	project	Efficient knowledge about UI development using HTML/HTML 5, JavaScript, CSS, AJAX and Angular JS
+content	project	Expertise in automating test cases with Selenium, Java, Cucumber, for web applications on both mobile and desktop
+content	project	CHARTER COMMUNICATIONS – St. Louis, Missouri Jan 2019 – Jan 2020
+content	project	Mid-level Java/J2EE Developer
+content	project	Retail POS Operational Application is a web application. The benefit of this tool is it reprocesses the failed Retail device sales transactions and updates the failed ASN records. Additionally the tool helps to obtain devices sale live report. Based on the assigned role admin access has been provided for addition and edition of any new user.
+content	project	Utilized Spring Boot to develop the backend RESTful web services for the entire application.
+content	project	Involved in the creation of REST API in Java/J2EE using Spring boot
+content	project	Used REST Controller in Spring framework for creating and updating the list of users
+content	project	Used Postman and SOAPUI to test the RESTful API for HTTP requests such as GET, POST , PUT etc.
+content	project	Developed different types of business validations to restrict the user inputs from frontend
+content	project	Developed validation to restrict the roles to only 3 categories and throwing exception in rest all entries
+content	project	Performed unit testing using JUNIT, Mockito and Spring Unit Testing framework
+content	project	Demo Application is a web based application for creating and checking the availability of a device in the market based on the SKU Number. User has the feasibility to visualize and download the Inventory and Sales reports if necessary.
+content	project	Created connections to database using Hibernate Session Factory
+content	project	Configured the Hibernate entity files to persist the data to MySQL database
+content	project	Implemented and designed webservices based on RESTful webservices
+content	project	Used Spring Boot framework to develop the application architecture
+content	project	Worked with the team to develop the Admin, Inventory, Sale and Report pages using Angular 5
+content	project	Used POSTMAN to test the RESTFUL API endpoints
+content	project	Used MySQL database for storing the created records
+content	project	Environment: JDK 1.8, Spring Boot 2, Spring Restful API, JUnit5, Angular 5, CSS, HTML5, Oracle SQL Developer, Oracle DB, Postman, SOAPUI, Maven 4.0, Apache Tomcat Server, STS 4.0, Visual Studio Code, Windows 10, Agile
+content	project	Mid-level Java/J2EE Developer
+content	project	Worked with the US card recovery team in estates service project. Developed the API endpoint to trigger the balance letters only to the eligible customers. Additionally, developed the Sonar Qube coverage for better coverage of higher than 95%.
+content	project	Used Postman to test the REST API end points
+content	project	Utilized Spring Boot framework to developed the controller and service classes for interacting with the database
+content	project	Developed and executed the JUnit test plan and unit testing with JUnit
+content	project	Developed SONAR scripts against the source code to identify code quality validations and fixed them
+content	project	Utilized Angular 6 to develop the User Interface in order to trigger the API call to connect with the backend controller
+content	project	Worked with team to build Spring Boot microservices for the delivery of software products across the enterprise
+content	project	Used PostgreSql for maintain the database records
+content	project	Worked with the team in the testing and maintenance of dashboard application. Dashboard aims to provide a portal for tracking the work done by Capital One in various line of businesses. In its home page, it provides the status of Work completed, In progress and Outstanding in table migration work of various line of businesses.
+content	project	It also helps the user to get connected to HPSM and nebula to track the Incident Requests and tables.
+content	project	Through dashboard development user can create tables and issues. It is also possible to track them as well as update them if required.
+content	project	Modified the dashboard code as per the business request in order to restrict the creation of new incidents.
+content	project	Migrated the modified dashboard war file into production and ensured the smooth operation of the application
+content	project	Deployed the dashboard war file into West region apart from East through creation of new EC2 instance.
+content	project	Involved in the creation, Management and Configuration of EC2 instances, AMIs and Elastic Bean template
+content	project	Designed high availability environment for Application servers and database servers on EC2 by using ELB and Auto-scaling
+content	project	Managed AWS S3 account, redshift and RDS cluster creation
+content	project	Used the Curl command to generate the necessary tokens for testing the tokenized API's using different scopes like PAN, BAN, USTAXIDPARTIAL etc.
+content	project	Conducted testing of shell scripts by connecting to the AWS server through unix environment and loading the corresponding test data into S3 bucket
+content	project	Full-Stack Developer
+content	project	Developed Correspondent Assignment Center (CAC) which is a loan advisor suite product. It assists with Freddie Mac mortgage loans assignment, buyer of mortgages on the secondary market, pools them, and sells them as a mortgage-backed security to investors on the open market in companion with Federal Home Loan Bank System in USA. CAC product helps correspondents in assigning loans to various other sellers and aggregators who purchases at low interest rates.
+content	project	Built REST APIs to provide JSON objects for communication with Client-Side application
+content	project	Used REST controller in Spring framework to create RESTFUL Web Services and JSON objects for communication
+content	project	Used POSTMAN for Web Service testing and solid understanding of HTTP Status codes
+content	project	Used Spring MVC to develop application architecture
+content	project	Developed Spring JDBC to interact with database. Used AJAX to communicate with database for certain functionalities
+content	project	Implemented database connectivity using Spring JDBC framework
+content	project	Created DAO classes to implement CRUD operations by using JDBC transactions
+content	project	Wrote DAO layer, required SQL queries and Spring Controller to handle data and request to Spring application
+content	project	Developed SQL queries for table and data creation for the application
+content	project	Integrated the Angular JS application with the RESTFUL Web Services
+content	project	Implemented Angular JS 1 routing and filters
+content	project	Involved in improving the performance of the application using Sonarqube
+content	project	Analyzed Sonarqube performance and created JUnit test suites with mockito framework
+content	project	Worked on JUnit code coverage and made progress status to 80% coverage
+content	project	Utilized Power BI tool to generate monthly loan assignment status reports by developing necessary SQL queries
+content	project	Played a key role on fixing the high severity defects
+content	project	Designed Employer Application (EmpApp) portal which was a dashboard for environment status management tool. It retrieves status of the middleware. Angular 4 navigation has been provided. This web application in parallel manage all the database, servers, web services availabilities in Freddie Mac
+content	project	Created Typescript reusable components and services to consume REST API’s using component based architecture provided by Angular 4
+content	project	Created reusable templates using Angular directives and worked with Node package manager
+content	project	Implemented Angular Router to enable navigation from one view to the next as agent performs application tasks
+content	project	Implemented major business flows in REST web services along with JUnits using Mockito framework
+content	project	Used Spring MVC 4 for the application development
+content	project	Integrated the application with Spring MVC using Spring Dependency Injection (DI) and Spring annotations
+content	project	OPTUM (UNITED HEALTH GROUP) - Southfield, Michigan Oct 2016 – Oct 2017
+content	project	Full-Stack Developer
+content	project	Designed Premium Development Application (PdaApp) which is intended to manage and update the requests, cases, and information and authorization roles for both the physicians as well as for the patients. The project involves extensive work on the web development using Angular JS as well as on REST framework. As a part of this project the user can quickly visualize and navigate through the list of cases, requests, physicians and groups available in the application. Additionally physician has the feasibility to take a deep dive in order to analyze each individual case-summary as well as case-request detail. Rich graphs are used to represent the aging and status of case completion. This application is designed to become fully compatible with most of the electronic gadgets.
+content	project	Developed and designed web pages using Angular JS, HTML5, CSS3, Bootstrap, Flex components.
+content	project	Migrated the application from Bootstrap to Flex components to support for cross platforms
+content	project	Involved in development of Spring Boot, Hibernate, Stored procs and RESTful web services components.
+content	project	Extensively worked on creating the custom directives in Angular JS and applied the same across the application
+content	project	Used Angular two-way binding and implemented the search functionality for PDA Application
+content	project	Used AngularJS factories and services to make Restful calls to get data in JSON format
+content	project	Developed REST web services using Spring Boot framework
+content	project	Created RESTful APIs in express and returned logic through AngularJS data binding
+content	project	Worked as part of Microservices team to develop and deliver maven projects
+content	project	Core service is developed as maven jar that can be included by other Microservices as their maven dependency
+content	project	Developed various batch jobs which process bulk of data received from business partners in the XML format and flat files
+content	project	Used stored procedures to get appropriate data from database filtered based on the business logic for each of the designs
+content	project	Extensively used HTML5, Angular JS and AJAX for client side development and validations
+content	project	Worked on writing the Junit test case to test the RESTful APIs
+content	project	Successfully analyzed the root cause of the high severity defects and provided suitable fix
+content	project	Identified and documented the defects in rally
+content	project	Java/J2EE Developer
+content	project	Developed Elecsys e-commerce web based application to offer quick access to the most commonly used features for internal members. Members can also check the compatibility of the electronic products with their devices. Members can sign up with the member portal and can manage their accounts effectively and get latest updates on numerous gadgets.
+content	project	Used Spring Security for authorization of users and implemented Spring Web-Services
+content	project	Developed the DAO layer for the application using Spring, Hibernate and developed various business logics and reports using HQL and Hibernate criteria
+content	project	Involved in handling Hibernate as part of DB connectivity and persistence as ORM tool and writing HQL queries
+content	project	Collaborated with the team for developing enterprise inter-process communication framework using Spring RESTful web service
+content	project	Used ng-resource module to consume backend RESTFUL API
+content	project	Used Struts Validation to validate various form entities
+content	project	Contributed as a part of the team member in the design and development of XML presentation using XSLT
+content	project	Developed the server side validations using struts validation XML
+content	project	Develop GUI related changes using JSP, HTML and client validations using Angular validations
+content	project	Developed application using Spring MVC, JSP, Angular services on the presentation layer, the business layer is built using spring and the persistent layer uses Hibernate
+content	project	Extensively used Spring Batch is migrating data from MySQL database to Oracle database
+content	project	Fixed bugs and taken care of maintenance of the product
+content	project	Used Cucumber to reveal and document, as well as drive development of, behavior in a large legacy code base
+content	project	Involved in writing test scripts using java and executed it through selenium cucumber
+content	project	Work closely with business teams and external partners to define testing scenarios and progress application testing through UAT and SIT
+content	project	Automated web application using Selenium WebDriver and Junit
+content	project	Implemented the online application by using Core Java (OOPS), JDBC, JSP, Servlets, Web Services
+content	project	Managed projects in both Agile and Waterfall development environments
+content	project	Environment: Java 1.7, Spring 3.X/4.X, Spring Batch, JSP, JSON, MVC, Java Script, XML, XSLT, Web Sphere Application Server, PL/SQL, Oracle 10.x, MS Office 2010, AJAX, Hibernate 4.x, JDBC, Angular JS 1.x, JQuery and NodeJs
+content	project	Assistant Manager
+content	project	Involved in implementation and coding of front-end screens using JavaScript, JSP, JSTL and Custom tags
+content	project	Used Servlets and EJB to develop the server side components in Java
+content	project	Designed different tables required for the project in Oracle database and used the stored projects in the application
+content	project	Involved in database testing for the application in SQL server
+content	project	Tested WebServices, providing required input data to request XML and validated response XML
+content	project	Validated WebServices request and response xml using SOAPUI tool
+content	project	Developed applications using J2EE design patterns and technologies based on MVC architecture
+content	project	Carried out the task of reviewing documents by coordinating with the application developers
+content	project	Identified and executed the test cases as per the client’s requirement specifications
+content	project	Prepared the user training materials and reduced the number of complaints significantly
+content	project	Prepared test cases and analyzed test date to ensure high customer satisfaction in post-production of prepaid products.
+content	project	Resolved post production billing issues and addressed complaints by co-ordination with internal teams.
+content	project	Utilized Oracle while performing UAT to ensure accuracy.
+content	project	Prepared relevant documentation related to product testing for the internal teams
+content	project	Prepared relevant training materials to train users for reduction of user training-related complaints. Organized workflow and prioritized multiple responsibilities to increase productivity.
+meta	others	Full Stack Developer Email:
+meta	others	PH No: +91 70440 94538 LinkedIn: -sarkar-career

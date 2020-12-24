@@ -1,0 +1,115 @@
+meta	others	Kiran Kumar G
+meta	others	Hyderabad
+meta	others	Mobile No: +91 9052422122
+meta	others	Email:kiranshal@gmail.com
+header	experience	Professional Experience
+content	experience	Over 10 years of experience in software industry with specific focus on Spring
+content	experience	framework. I intend to boost my career in the organization to create a niche for
+content	experience	myself through my passion, dedication and perseverance.
+header	experience	Technical Expertise
+header	knowledge	Skills Overview:
+content	knowledge	▪  Familiar in developing the web applications using the spring framework technologies,
+content	knowledge	micro services and deploying on cloud.
+content	knowledge	▪  Proficient in Object Oriented Programming Technologies.
+content	experience	▪  A  self-motivated  professional  possessing  good
+content	experience	problem-solving skills and proven to be a good team player.
+content	knowledge	technical,
+content	experience	leadership  and
+content	experience	▪  Spring Framework
+content	experience	▪  Java & J2EE
+content	experience	▪  AWS Cloud
+content	experience	▪  Micro services
+content	experience	▪  JSP, HTML
+content	experience	▪  Spring boot
+content	experience	▪  Java Script
+content	experience	▪  Oracle
+content	experience	▪  MySQL
+content	experience	▪  Web Services
+content	experience	▪  Groovy
+header	experience	Working Experience:
+content	experience	▪  Currently working as a Senior Consultant  in Virtusa Consulting Services Pvt.
+content	experience	Ltd, Hyderabad since Oct 2008  to till date
+content	education	▪  M.S Program from International Institute of Information Technology, Pune.
+content	education	▪  B.E (C.S.E) from Vasavi College of Engineering, Hyderabad.
+header	education	Academic Profile
+header	project	Key Projects Summary
+content	project	Client                     :  Vodafone (Jan 2017 – June 2019)
+content	project	Project                   :  Vodafone Hungry
+content	project	Description          :
+content	project	Vodafone  is  a  provider  of  telecommunications  services  in  the  United  Kingdom,  and  a
+content	project	part  of  the  Vodafone  Group,  the  world's  second-largest  mobile  phone  company.
+content	project	Vodafone  provides  services  including  Mobile  payments,  IoT,  enterprise  offerings  and
+content	project	entertainment,  accessible  via  both  digital  channels  as  well  as  on-ground  touch  points,
+content	project	centers across the country
+content	project	Roles and Responsibilities:
+content	project	➢  Part of technical design team
+content	project	➢  Analyze the requirements and provide the estimates.
+content	project	➢  Team lead activities
+content	project	➢  Develop and deliver the requirements
+content	project	Technologies:  Java/J2EE, Spring boot, Micro services, AWS Cloud, Oracle 12c
+content	project	Client                     :  Vodafone (Sep 2012 – Dec 2016)
+content	project	Project                   :  Vodafone One Portal UK
+content	project	Description           :
+content	project	Vodafone  is  a  provider  of  telecommunications  services  in  the  United  Kingdom,  and  a
+content	project	part  of  the  Vodafone  Group,  the  world's  second-largest  mobile  phone  company.
+content	project	Vodafone  provides  services  including  Mobile  payments,  IoT,  enterprise  offerings  and
+content	project	entertainment,  accessible  via  both  digital  channels  as  well  as  on-ground  touch  points,
+content	project	centers across the country
+content	project	Roles and Responsibilities:
+content	project	➢  Part of technical design team
+content	project	➢  Analyze the requirements and provide the estimates.
+content	project	➢  Team lead activities
+content	project	➢  Develop and deliver the requirements
+content	project	Technologies:  Java/J2EE, Spring boot, Micro services, AWS Cloud, Oracle 12c
+content	project	Client                     :  FIS (Aug 2010 – Sep 2012)
+content	project	Project                   :  e-payments
+content	project	Description          :
+content	project	Metavante  is  banking  and  payment  technology  solutions  provider  offering  services  to
+content	project	financial  firms.  Metavante’s  Bill  Payment  Manager  offers  comprehensive  bill  payment
+content	project	functionality, quickly and cost-effectively. BPM is a Metavante-hosted service that allows
+content	project	customers  to  receive,  view,  manage,  and  pay  all  of  their  bills,  whether  paper  or
+content	project	electronic,  from  a  single  website.  With  exceptional,  easy  to  use  technology  such  as
+content	project	single sign-on and context sensitive menus.
+content	project	Module:  Worked  on  Bill  Process  Manager,  Bill  Distribution  Engine  application  which
+content	project	communicates using web services.
+content	project	Roles and Responsibilities:
+content	project	➢  Developed and consumed web services Java, Axis2, Jquery and Ajax.
+content	project	Integrated team members work.
+content	project	➢  Coordinated the team and assigned the tasks.
+content	project	➢
+content	project	➢  Prepared the Unit test cases.
+content	project	➢  Actively involved in Code Reviews.
+content	project	Technologies: Java, Web Services, JQuery, Ajax, Oracle, WAS7.
+header	project	Client
+header	project	Project
+header	project	Description
+content	project	Thomson Innovation is a single, integrated solution that combines intellectual
+content	project	property, scientific literature, business data and news with analytic, collaboration and
+content	project	alerting tools in a robust platform.
+content	project	Technologies: Java, J2EE, Spring Framework 2.0.
+content	project	: Thomson Reuters (April 2009 – August 2010)
+content	project	:
+content	project	: Thomson Innovation
+content	project	: Fallon
+content	project	: Case Net (October 2008 to March 2009)
+content	project	:
+header	project	Client
+header	project	Project
+header	project	Description
+content	project	Case NET is a Java based client-server software platform supporting the entire
+content	project	spectrum of care management.  The software is tailor able to rapidly fit to any care
+content	project	management workflow of the industry.  The system has even been designed in a very
+content	project	generic way to accommodate future moves into different industries.
+header	project	Technologies: Java, Mysql, JavaScript, HTML
+header	project	Client
+header	project	Project
+header	project	Description
+content	project	Reporting System of Record Center comprises of three scenarios namely report request,
+content	project	report generation and report access. Reporting System of SKP comprises of two
+content	project	scenarios namely report request and report generation.
+content	project	Technologies: Java, J2EE, Struts, Progress, XML, Oracle
+content	project	: Iron Mountain (March 2008 to October 2008)
+content	project	: Record Center
+meta	others	:
+meta	others	D ATE OF  BIRTH
+meta	others	August 21st 1984

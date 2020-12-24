@@ -1,0 +1,56 @@
+content	experience	6+ years of experience in Software Testing in which 3+ years in Automation with selenium, Test complete and 3+ years of experience in Mobile, Functional & Database Testing. Experience as a tester with Agile software development process and good knowledge in SCRUM. Currently associated with G10X India Pvt ltd from Nov’2018 - Till date as Senior Software engineer. Experience in facilitating complex and large-scale IT projects within a wide range of industries, including Fuel rewards Window and Mobile testing, Medical and insurance, Human resources Management services (HRMS) backend PeopleSoft, CIEE (Children in Employment, Banking, Adept in managing top-performing project teams and supporting organizational goals.
+content	experience	Extensive experience in Black box testing, User Acceptance, Regression, Usability & Browser Compatibility Testing of Client Server.
+content	experience	Work experience in Speck flow (cucumber) Page object frame work
+content	experience	Good in Selenium with Java,C#.
+content	experience	Having good experience in Source tree and GIT EXT.
+content	experience	Having good experience in build tool like TeamCity.
+content	experience	Experience in POM (Page Object Model).
+content	experience	Well acquainted with Software Development Life Cycle (SDLC) and Software Testing Life Cycle (STLC). Strong skills in agile development methodologies.
+content	experience	Work experience in Test Management tool- JIRA and Test Case Management using Zephyr
+content	experience	Updating Test Result in TFS, HPQA ALM, and JIRA.
+header	education	Educational Qualification:
+content	education	Bachelor of Computer Science- 2009 passed out from Alpha Arts & Science College.
+content	education	Completed MBA System Management -2019 passed out from Madras University.
+content	knowledge	Testing Skills:
+content	knowledge	Experience with NUnit, Tools & Achieved Multi Browser Execution.
+content	knowledge	Good knowledge in validating data from the database (SQL, Oracle) using DML, DDL statements.
+content	knowledge	Performed Bash, Smoke, Functional, Integration, System, Regression and Compatibility Testing.
+content	knowledge	Certification Completed in ISTQB UK board.
+content	knowledge	Completed CSTP- (Certification in Software Testing Professional) in STC Technologies
+header	knowledge	Technical Skills
+content	knowledge	Testing Tools : Selenium with C#, Test Complete, Charles, Jenkins.
+content	knowledge	Defect Tracking Tool: : Rally, TFS, HPQC, JIRA
+content	knowledge	Languages : HTML, C#, Java,Json
+content	knowledge	Operating System : Windows 9X/NT/2000/XP/7/8/10
+content	knowledge	Coordinate with the developers and Business Analysts for the Issues.
+content	knowledge	Tested for Regional specific languages.
+content	project	Mobile app design using Content Developer tool. Testing will be done both Content Developer tool Window platform and Mobile device testing for different client.
+content	project	Extensively involved in Mobile Application Testing. API testing and Automation involved in Test Complete Tool.
+content	project	Involve in Sprint Planning, Scrum meetings, Sprint Review, Sprint Retrospective.
+content	project	Experience in analyzing functional requirements and translate them to test cases.
+content	project	Reviewed test cases for peers and given valuable comments about test case coverage.
+content	project	Proficient in developing, maintaining and executing test cases.
+content	project	Prepared Traceability Matrix to ensure the functional coverage for all requirements.
+content	project	Hi-flyer award for the Quarter JAS 2016 based on the performance.
+content	project	CAT award for Best performance in team on year 2016.
+content	project	Got Appreciation from client in onsite team.
+content	project	Got Appreciation from Project Manager and Team lead.
+content	project	Got Appreciation from Excentus client founder
+content	project	Database : Oracle, SQL server, MS Access2000.
+content	project	Analyzing the BRD and FRD document to prepare the Test Case and upload TFS (Team Foundation Server 2015),JIRA 5.2,QC ALM (Quality Center 11.0)
+content	project	Participated in Daily Stand up, Grooming, Sprint planning and Retrospective meeting with onsite team.
+content	project	Branch Creation and Pull request manage in Source Tree, GIT EXT.
+content	project	Build and deploy using Team city.
+content	project	Participated in Daily Stand up, Grooming, Sprint planning and Retrospective meeting with onsite team.
+content	project	Involved in Database testing.
+content	project	Preparing the Client specific document, FUD document
+content	project	Queries follow up from Client.
+content	project	Testing included DB testing, Functional System Testing, Regression testing, Ad hoc testing, Siebel Testing.
+content	project	Completed the tasks within the deadlines specified.
+meta	others	Vijaya Kumar .M
+meta	others	Mobile No: 9791126113,
+meta	others	Date of birth : 1st May 1989
+meta	others	Marital Status : Single
+meta	others	Language Known : English and Tamil
+meta	others	Yours Truly,
+meta	others	(M. Vijaya Kumar)

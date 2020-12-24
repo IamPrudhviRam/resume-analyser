@@ -1,0 +1,261 @@
+meta	others	ANKAMMA RAO KADIYAM
+meta	others	Software Engineering Lead
+meta	others	Phone: 9550568153 | Email: kadiyamrao@gmail.com
+header	experience	Professional Summary
+content	experience	 14+  years  of  extensive  working  experience  in  Architecture,  Design,  Development  and
+content	experience	support of Software applications using JAVA, J2EE and SOA and UML Design Patterns in
+content	experience	Financial, Investment, Insurance Domains and its Billing Systems.
+content	experience	 Experience in developing Micro Services with DevOps architecture by utilizing Docker.
+content	experience	 Extensive experience with Service Oriented Architecture (SOA), systems design, development,
+content	experience	integration and executing n-Tier applications with SOAP over JMS and Rest Services.
+content	experience	 Experience  in  designing  and  developing  applications  with  Proven  Design  Patterns  and
+content	experience	Principles.
+content	experience	 Experience includes working with all levels of the organization such as developer, leads as well
+content	experience	as management.
+content	experience	 Excellent  project  life  cycle  experience  (SDLC)  in  all  aspects  of  requirements  specifications,
+content	experience	design,  code,  test,  deploy,  maintaining  and  also  have  implemented  projects  in  Waterfall,
+content	experience	AGILE/SCRUM and SAFe Agile methodologies.
+content	experience	 Has  extensive  experience  in  preparing  HLD,  LLD.  Strong      in      the      complete      Software
+content	experience	Development   Life   Cycle (SDLC) including   requirements   definition, design, programming /
+content	experience	testing and implementation of major systems.
+content	experience	 Experience in User Experience (UX) design and development, User Interactive (UI) Web Pages
+content	experience	and  visually  appealing  User  Interfaces  using  HTML  5,  CSS3,  Bootstrap,  SASS,  JavaScript,
+content	experience	JQuery, Redux and React-JS.
+content	experience	 Expertise in development and deployment of multi-tiered web based enterprise applications using
+content	experience	J2EE  technologies  like  Servlets  3.0/2.5,  JSP  1.1/2.0,  JDBC,  JNDI,  Java  Beans  and  Web
+content	experience	services (SOAP, Rest).
+content	experience	 Experience  in  configuring  and  deploying  the  web  applications  on  WebLogic,  WebSphere  and
+content	experience	JBoss Application Servers including hands on experience in using Tomcat web Server.
+content	experience	 Expertise  in  using  Java  IDE  tools  of  Rational  Application  Developer  (RAD),  Web  Sphere
+content	experience	Application Developer (WSAD), Eclipse EE 3.0/3.2, RSA 7.0 and Netbeans to develop dynamic
+content	experience	web applications..
+content	experience	 Hands-on experience working with source control tools such as CVS, Clear Case, SVN, Git and
+content	experience	Surround SCM.
+content	experience	 Work  Experience  with  testing  tools  and  applications  such  as  JUnit,  Mockito,  FireBug,
+content	experience	FirePoster, SoapUI and performed Unit testing, integrated testing, and closely worked with QA
+content	experience	team in preparation of Test plans.
+content	experience	 Good  exposure  in  interacting  with  clients  and  solving  application  environment  issues  and  can
+content	experience	communicate effectively with people at different levels including stakeholders, internal teams and
+content	experience	the senior management.
+content	experience	 Driven by new challenges and adept at adapting to any cultural and business environments.
+content	experience	 Experienced in Onsite - Near shore - Offshore model and Pair Programming.
+header	knowledge	Skills Profile
+header	knowledge	Languages
+content	knowledge	DevOps
+content	knowledge	SOA
+content	knowledge	Data Formats
+content	knowledge	Frameworks
+content	knowledge	JavaScript & Front End
+content	knowledge	Frameworks
+content	knowledge	Database
+content	knowledge	Java J2EE (Servlets, JPA, JAX-RPC/WS/RS, JAXB), SQL, PL/SQL
+content	knowledge	Docker, Jenkins, Dyna Trace, GIT, Gradle, Ready API, Kubernetes,
+content	knowledge	Grafana, Kibana, Prometheus
+content	knowledge	Micro Services, Web services (SOAP, REST), JMS
+content	knowledge	JSON, XML, XSD
+content	knowledge	Spring, Hibernate, JPA, Struts, Wicket, Selenium, Internet Portal
+content	knowledge	Framework (IPF), Business Services Framework and Presentation
+content	knowledge	Services Framework
+content	knowledge	HTML 4.01/5, JavaScript, ES6, AJAX, React, Redux, Node JS.
+content	knowledge	DB2, Oracle, UDB, MySQL
+content	knowledge	Testing Frameworks
+content	knowledge	Junit, Mockito, Power Mockito, Mocha, Chai,
+content	knowledge	Application  Servers
+header	knowledge	Tools
+content	knowledge	Versioning
+content	knowledge	IBM-WebSphere, Apache Tomcat, JBoss
+content	knowledge	IBM-RSA, Eclipse, VSCode, Visio, Putty, SQL Squirrel, Webstorm, SQL
+content	knowledge	Developer, Maven, Ant, IntelliJ
+content	knowledge	GIT, SVN, IBM-Clear Case, Borland StarTeam
+content	knowledge	Management
+content	knowledge	Project Methodologies
+content	knowledge	IBM-Clear Quest, RTC, JIRA
+content	knowledge	AGILE/SCRUM, Waterfall, Lean (Iterative) Agile, Lab Agile, SAFe Agile
+header	education	Education
+content	education	Course
+content	education	Master of Computer Applications
+content	education	Career Profile
+content	education	Dates
+content	education	May 2007 - till date
+content	education	Feb 2005 - May 2007
+content	education	Professional Experience
+content	education	University / Institution
+content	education	Madras University, Chennai
+content	education	Year of Passing
+content	education	2004
+content	education	Organization
+header	experience	Tata Consultancy Services
+header	project	TWWI
+header	project	Designation
+header	project	Associate Consultant
+header	project	Software Engineer
+content	project	Project Title: Property and Casualty Billing Transformation System
+content	project	Period:From August 2015 to till date
+content	project	Client: United Services Automobile Association (USAA)
+header	project	Position:
+header	project	About the project:
+content	project	Tech Lead
+content	project	Building an enterprise billing system that can be utilized across USAA (all Line of
+content	project	Business’s whenever needed).Currently targeted to Property and Casualty Product billing. We
+content	project	are modernizing the billing system and taking advantage of integration opportunities between
+content	project	billing capabilities and enterprise Money movement payment capabilities to bring the billing
+content	project	system real time.
+content	project	Executing this project will enhance the capabilities of CAS Payment System
+content	project	Integration of Billing capabilities and enterprise money movement system.
+content	project	a. Enterprise Billing Capabilities
+content	project	b. Reduce Complexity to help business users
+content	project	d. Define Billing Plan/Dates that includes recipient of the bill
+content	project	e. Post Overpayment, Underpayment information and determine due amount
+content	project	f. Mortgagee billing and payments
+header	project	Responsibilities and accomplishments:
+content	project	 Received appreciation from customer for creation of dashboard using Splunk
+content	project	 Developed test data preparation tool as part of ideathon reduce 70% time in preparing
+content	project	test data.
+content	project	 Came up with guidelines and approach for high available test environment to support
+content	project	quality assurance team
+content	project	 Established environment support team as systems team while team migrating from
+content	project	scrum to SAFe execution
+content	project	 Design of Rest APIs using RESTFull API guidelines.
+content	project	Project Title: Digital Parity – Money Movement
+content	project	Period:From Feb 2014 to July 2015
+content	project	Client: United Services Automobile Association (USAA)
+content	project	Position:
+header	project	About the project:
+content	project	Scrum Master
+content	project	Accelerate providing members more capabilities for Money Movement on mobile to
+content	project	better serve our members on mobile, improve member satisfaction and reduce impact to contact
+content	project	center by enabling more self-service capabilities. Provide members the following capabilities on
+content	project	iphone app, Android app, Ipad app and mobile web site. Setup, view and cancel automatic
+content	project	payment plan for internal bills
+header	project	Accomplishments:
+content	project	 Received accolated on achieving more than 75% of junit code coverage of all the
+content	project	components delivered.
+content	project	 Provided guidance in implementing publish and subscribe mechanism using standard
+content	project	IBM facilities.
+content	project	 Conducted trainings on Scrum training for the entire portfolio of 200+ associates
+content	project	 Conducted knowledge sharing sessions on new age technologies and SAFe.
+content	project	Project Title: Knowledge Delivery
+content	project	Period:From April 2013 to Jan 2014
+content	project	Client: United Services Automobile Association (USAA)
+header	project	Position:
+header	project	About the project:
+content	project	Lead and Scrum master
+content	project	Empower Member Service Representatives (MSRs) with contextual, relevant accurate
+content	project	and intuitively organized content at the right time enabling them to provide consistent
+content	project	experiences to members in each and every interaction. Reduce MSR handle time and improve
+content	project	member experience. Continue the of Knowledge Delivery system to all MSRs that are skilled to
+content	project	handle the following bank products: Deposits, Credit Cards, Home Equity and Mortgage
+content	project	Originations
+header	project	Accomplishments:
+content	project	Learned XSLT to migrate html content and built the team to migrate html content.
+content	project	
+content	project	 Received customer accolades on migrating content before planned date.
+content	project	 Sprint demo is done from offshore to showcase offshore team capability.
+content	project	Project Lead
+content	project	Project Title: Modular Eligibility and Personal information
+content	project	Period:From Sep 2012 to March 2013
+content	project	Client: United Services Automobile Association (USAA)
+header	project	Position:
+header	project	About the project:
+content	project	Create a reusable application to collect personal and eligibility information for acquisition. Make
+content	project	eligibility and personal information rules re-usable across channels. Widgets must meet each
+content	project	product application requirements for prospects and members. Establish process for relationship
+content	project	deepening for probable members Implement the widget for identified public and service side
+content	project	applications. Pre-fill personal information application with previously gathered data. Provide
+content	project	capability to personalize content and market to probable members. Incorporate registration into
+content	project	the reusable personal information widget.
+header	project	Accomplishments:
+content	project	Lead the effort of creating prototype using wicket while help us gaining the UI effort.
+content	project	
+content	project	 Conducted KT sessions for new joiners into the project.
+content	project	
+content	project	Involved in installing the application in development environment.
+content	project	Module Lead
+content	project	Project Name   : Prospect Registration
+content	project	Period:From Oct 2010 to Aug 2012
+content	project	Client: United Services Automobile Association (USAA)
+header	project	Position:
+header	project	About the project:
+content	project	Creating a rich and repeatable shopping experience by allowing Prospects to review and update
+content	project	Saved items, Quotes and Calculators and for easy transition from Prospects to Members. This
+content	project	project modifies the existing member eligibility application facilitating the conversion of
+content	project	Prospects to Member. This increases the business by increasing the number of members and
+content	project	improving the member experience
+header	project	Accomplishments:
+content	project	 Migration of Star team to RTC
+content	project	 Selenium script for automatic build and deploy to web sphere application server
+content	project	
+content	project	Implemented first ever scrum team with anyone can play developer / tester.
+content	project	Module Lead
+content	project	Project Title: BD – Establish Marketing Leads Repository
+content	project	Period:From March 2009 to Sep 2010
+content	project	Client: United Services Automobile Association (USAA)
+header	project	Position:
+header	project	About the project:
+content	project	Implement salesforce.com software solution to meet customer marketing and Member Delivery
+content	project	& Partnership for collecting, refining and gathering non member sales leads. Integrated
+content	project	Salesforce.com and supporting software with customer marketing processes to provide the
+content	project	capability to: Communicate via multi-channel. i.e.phone, mail, email. Generate follow-up
+content	project	communications via time-released multi-wave contacts. Support multiple prospect lead type
+content	project	capture and scoring. Determine campaign type by scoring/ranking. Exclude leads from
+content	project	campaigns through exclusion rules. Import purchased lists of new prospects leads
+header	project	Accomplishments:
+content	project	Integration of marketing leads with Salesforce using SOAP services.
+content	project	
+content	project	 Co-ordination with the quality assurance team.
+header	project	Senior Developer
+content	project	Project Name   : Annuity Agency Reporting
+content	project	Period:From Aug 2008 to Feb 2009
+content	project	Client: United Services Automobile Association (USAA)
+header	project	Position:
+header	project	About the project:
+content	project	This project helps the USAA Life insurance company to adopt the Agency modeling company
+content	project	from the direct response company. Also it adds the functionality to collect necessary information
+content	project	of the contract which contains the replacement contracts during the acquisition flow. Modify
+content	project	annuity acquisition processes on USAA.com/PORTAL and Green Screens for Agency
+content	project	requirements. Collect member’s responses to replacement questions and populate responses
+content	project	on replacement form. Ability to capture agency replacement requirements for applications
+content	project	created or modified in green screens
+header	project	Accomplishments:
+content	project	
+content	project	Implemented zero defects through shift left approach
+content	project	Project Title: ROAAP Dual facing
+content	project	Period:From Jan 2008 to July 2008
+content	project	Client: United Services Automobile Association (USAA)
+header	project	Position:
+header	project	About the project:
+content	project	Annuity acquisition and fulfillment systems to be dual-facing for the member and MSA. Initiate
+content	project	the first phase of building one annuity acquisition toll with the ability to identify the MSA
+content	project	generating an application to support compliance in annuity acquisition. Update acquisition and
+content	project	Developer
+content	project	fulfilment systems and tools (ROAAP) to enable the saving and income annuity acquisition flow
+content	project	to be used by both the member and the MSA (dual-facing). Turn off save functionality in
+content	project	Shadow. Keep MSA partial save functionality for MSA ROAAP. Updating disclosures and
+content	project	education (IOP) for LIIS. FPS and SELECT annuities areas
+header	project	Accomplishments:
+content	project	
+content	project	
+content	project	Implemented role bases authentication and content generation using web content
+content	project	manager.
+content	project	Lead the configuration team at offshore and streamlined the process by framing
+content	project	objectives of the team.
+content	project	Developer
+content	project	Project Title   : External Account Verification
+content	project	Period:From May 2007 to Dec 2007
+content	project	Client: United Services Automobile Association (USAA)
+header	project	Position:
+header	project	About the project:
+content	project	Validate that the member owns the external financial institution account they are adding to the
+content	project	external account database, to protect USAA against deposit fraud losses. Modify the current
+content	project	Add External Account and Manage Accounts applications to incorporate the use of instant
+content	project	verification and trial-deposit verification services by CashEdge, Inc. Convert the Add External
+content	project	Account and Manage Accounts MSR Portal applications to dual-facing applications.
+header	project	Accomplishments:
+content	project	 Proposed and implemented externalization business rules using Ilog Jrules
+content	project	 Established configuration management team to support web sphere application server
+content	project	for development team.
+meta	others	Personal Details
+meta	others	Sex
+meta	others	Nationality
+meta	others	Marital Status
+meta	others	Male

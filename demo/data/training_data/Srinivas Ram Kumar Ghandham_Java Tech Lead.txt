@@ -1,0 +1,466 @@
+content	experience	Sr. Software Engineer an IT professional with 15 years of professional experience in
+content	experience	Current Experience (2-1/2 Years) : Full-Stack Development, Pivotal Cloud Foundry, RabbitMQ
+content	experience	Experience in DBS
+content	experience	services (microservice).
+content	experience	Experience at Virtusa
+content	experience	Configuration of AWS to install Dockers
+content	experience	Developing the java programs (Core java with multi-threading, Caching etc.)
+content	experience	CPS (Carrier Pre Select)
+content	experience	Dozer,   Web   Services   (SOAP   and   REST)   with   CXF,   My-SQL,   Apache   web   server,
+content	experience	Business Problem: JPMAccess Global ACH is one of the JPMAccess cash online
+content	experience	batch-oriented systems.
+content	experience	Experience Previous to Virtusa
+content	experience	Sr. Software Engineer/Team Leader (from February 2010 to September 2010)
+content	experience	professional services support for Tax related queries to be fulfilled for their clients.
+content	experience	Java-J2EE Developer (August 2005 – July 2007)
+content	experience	eRMA MSS (Material Specification Sheet) Prowess , New View, USA
+content	experience	Sr. Software Engineer (December 2004 - May 2005)
+content	experience	 deploying
+content	experience	Software Engineer (July 2004 – December 2004)
+content	experience	 deploying
+content	experience	Focus – AMS (Asset Management System),
+content	experience	Barwon WaterYVW (Yarra Vally Water), Australia
+content	experience	Software Engineer (April 2004 – June 2004)
+content	experience	 deploying
+content	experience	Software Engineer (February 2004 to March 2004)
+content	experience	providers   greater   flexibility   and   efficiency   in   performing   these   ancillary   duties,
+content	experience	Software Engineer (December 2003 to February 2004)
+content	experience	with   this   info   and   the   total   amount   including   the   taxes   and   other   charges   is
+content	education	Government.
+content	education	Tech Lead (May 2015 to May 2016)
+meta	education	 M.Tech.   (Eng)   in   Information   Technology   and   passed   with   First   Class,   Punjabi
+content	education	University, Patiala  2003
+content	education	 B.E. (Eng), Osmania University, Hyderabad
+header	education	Achievements & Certifications
+content	knowledge	design   and   development   of   software,   mainly   being   internet   based   business
+content	knowledge	Web   UI/UX:  ReactJS,   Redux,  Angular-4,  JQuery,   Typescript,   Javascript,   CSS3,   HTML5,  NodeJS,
+content	knowledge	Microservices: Spring Boot, Java-8.
+content	knowledge	CICD: Jenkins, GIT, Bitbucket
+content	knowledge	Pivotal Cloud Foundry,
+content	knowledge	HTML, Javascript, CSS,
+content	knowledge	JQuery, JQGrid, JSON,
+content	knowledge	ReactJS, Angular-4
+content	knowledge	Java 8, Spring Boot
+content	knowledge	Microservices, RabbitMQ,
+content	knowledge	MYSQL, MongoDB
+content	knowledge	 Object Oriented Design
+content	knowledge	 Mule, Intalio, Apache
+content	knowledge	Camel, Apache Spark
+content	knowledge	Spring Boot
+content	knowledge	Microservices, RabbitMQ,
+content	knowledge	Angular4, Jenkins,
+content	knowledge	(RXJava), Spring Cloud,
+content	knowledge	JIRA, HPQC-ALM-tool,
+content	knowledge	STS, Bitbucket,
+content	knowledge	HeidiSQL, WINSCP,
+content	knowledge	SoapUI, Putty, BIRT
+content	knowledge	Core Java, Scala, Dozer,
+content	knowledge	Servlet, JSP, Struts
+content	knowledge	 Web Services, Amazon
+content	knowledge	PL/SQL, MariaDB
+content	knowledge	 Oracle HTMLDB (Oracle
+content	knowledge	TOAD, MySQL-
+content	knowledge	WorkBench, SQL-
+content	knowledge	IRCP/IRAS (Inland Revenue Authorities of Singapore Cloud Production) - SG
+content	knowledge	financing activities from the Economic Development Board. Today, its branches numbering more
+content	knowledge	IRAS: The Inland Revenue Authority of Singapore (IRAS) is the main tax administrator to the
+content	knowledge	Government. IRAS collects taxes that account for about 70% of the Government's Operating
+content	knowledge	Environment: PCF (Pivotal Cloud Foundry), Spring-Boot rest API, Java-8, Python, Micro
+content	knowledge	services, ReactJS, Angular4, RabbitMQ, MariaDB, MongoDB, SOAP webservices , HeidiSQL,
+content	knowledge	Junits, Mockito, Spring, Putty, WINSCP. Dozer, GIT, Swagger, Jenkins (CICD), ELK,
+content	knowledge	SOAP UI/Postman, Jasypt, Solr, Sonar, Chickstyle, Findbugs, Fortify, JIRA, HP ALM, Nexus IQ,
+content	knowledge	● Initial code setup for developing micro-services.
+content	knowledge	● Initial code setup for developing Angular, ReactJS applications.
+content	knowledge	● Configuration of PCF to install spring-boot/microservices jars
+content	knowledge	● Preparing POCs - Microservices with springboot, RabbitMQ, MariaDB config etc.
+content	knowledge	● Code development/review.
+content	knowledge	● CI/CD with Jenkins scripting.
+content	knowledge	● Analyze code and identify root cause of the defect
+content	knowledge	● Preparing POCs.
+meta	knowledge	● WebMVCTest, DataJPATest
+content	knowledge	● Mocking and Spying with Mockito
+content	knowledge	● Implemented TTD, BDD with spring-boot test framework.
+content	knowledge	GE Transportation is a global technology leader and supplier to the railroad,  marine, drilling,
+meta	knowledge	services. Business Problem: GE Transportation manages lakhs of vehicles (Rails) in Mexico. The
+content	knowledge	Devices etc., depending upon the location of the vehicle.
+content	knowledge	saved to the database.
+content	knowledge	Developer Studio, Jboss Fuse, SQL Developer, Maven, Camel Transformers, EIPs, Junits, Spring,
+content	knowledge	AWS (Amazon WS). Putty, WINSCP. Camel-Dozer, Camel-Hazelcast, Jboss Fuse, Rally, GIT
+content	knowledge	Code development/review.
+content	knowledge	Analyze code and identify root cause of the defect
+content	knowledge	Preparing POCs for Camel Applications, AWS, Jboss Fuse etc.
+meta	knowledge	Preparing Class Diagram.
+content	knowledge	Creating Fuse/Bundles and Features, deploy to Fuse Container.
+content	knowledge	Testing the OSGI Applications in Jboss Fuse Standalone.
+content	knowledge	Preparing the Fabric Containers, and Profiles in Jboss Fuse
+content	knowledge	Installing JBoss Fuse in AWS
+content	knowledge	web server, Jboss 5 Server, ANT 1.8, Eclipse, Junit, Sql Developer, JIRA, Putty, Win-Scp, Unix,
+content	knowledge	SCP, SSH, Oracle 10g.
+content	knowledge	Code development/review.
+content	knowledge	Analyze code and identify root cause of the defect
+content	knowledge	any special equipment at their premises. The "selection" of the preferred provider is
+content	knowledge	done automatically at point of entry (the local exchange) to the public voice network.
+content	knowledge	LLU (Local Loop Unbundling)
+content	knowledge	Tomcat, ANT, MAVEN, Eclipse, Junit, My SQL Work Bench, JIRA, putty, Mule, Intalio,
+content	knowledge	MongoDB, BIRT, SpringBatch, AngularJS, Bootstrap
+content	knowledge	 Analyze code and identify root cause of the defect
+content	knowledge	payments in 32 countries and 110+payment combinations. The application enables
+content	knowledge	Living Expenses for Oil Prospectors on Location
+content	knowledge	Funds Investor Services
+content	knowledge	JMockit, Selenium, Jbehave, JIRA, Fish-eye, Sonar
+content	knowledge	 Analyze code and identify root cause of the defect
+content	knowledge	 Analyze code and indentify root cause of the defect
+content	knowledge	Servlets, JSP, Oracle, tomcat.
+content	knowledge	 Writing Triggers, Procedures, Functions, Packages, PL/SQL Programming.
+content	knowledge	Rent a car, HERTZ. (On-Site) - Park Ridge, NJ, USA.
+content	knowledge	Employer: Hallmark Global Technologies Inc. - Delaware, USA.
+content	knowledge	Java Front-end Developer (August 2007 - February 2010)
+content	knowledge	 Writing Triggers, Procedures, Functions, Packages, PL/SQL Programming.
+content	knowledge	 Testing the code.
+content	knowledge	 Designing and development
+content	knowledge	 Writing Triggers, Procedures, Functions, Packages, PL/SQL Programming.
+content	knowledge	 Creating the HTML, JSP Pages, javascript, and CSS.
+content	knowledge	 Testing the code.
+content	knowledge	Tomcat, JBoss.
+content	knowledge	 Writing Triggers, Procedures, Functions, Packages, PL/SQL Programming.
+content	knowledge	 Creating the HTML, JSP Pages, javascript,  and CSS
+content	knowledge	and integrated with the City of Melbourne’s back-office Oracle database system
+content	knowledge	improved job satisfaction
+content	knowledge	SERVER 2000, Jetty, Tomcat
+content	knowledge	 Writing Triggers, Procedures, Functions, Packages, PL/SQL Programming.
+content	knowledge	 Creating the HTML, JSP Pages, javascript,  and CSS
+content	knowledge	of information from front office call centres to field operations staff, resulting in
+content	knowledge	remarkable   productivity   improvements   to   the   efficiency   and   bottom-line   of
+content	knowledge	enterprises.   FOCUS   has   unique   features   not   found   in   other   enterprise   service
+content	knowledge	SERVER 2000, Jetty, Tomcat.
+content	knowledge	 Writing Triggers, Procedures, Functions, Packages, PL/SQL Programming.
+content	knowledge	 Creating the HTML, JSP Pages, javascript,  and CSS
+content	knowledge	Business Problem:  Dedicated to provide Healthcare professionals in the Rehab /
+content	knowledge	LTC sector with comprehensive Internet based tools in planning, scheduling, record
+content	knowledge	 Writing Triggers, Procedures, Functions, Packages, PL/SQL Programming.
+content	knowledge	 Creating the HTML, JSP Pages, javascript and CSS
+content	knowledge	 creating JavaBeans
+content	knowledge	 creating Servlets
+content	knowledge	 creating JUnit
+content	knowledge	SAWS, Coast Spas Service, Canada
+content	knowledge	calculated from the values in the database. The labor charges are determined from
+content	knowledge	 Writing Triggers, Procedures, Functions, Packages, PL/SQL Programming.
+content	knowledge	 Creating the HTML, JSP Pages, javascript, and CSS
+content	knowledge	 creating JavaBeans
+content	knowledge	 creating Servlets
+content	knowledge	 creating JUnit
+meta	knowledge	 Advanced Diploma in Software Export Technology, ASET (Aptech)
+content	project	solutions, using Web UI/UX and Java technologies. A proven problem solver with a
+content	project	track record of successful delivery of software projects over the last 15 years.
+content	project	DB: MariaDB, MongoDB, Mongoose
+content	project	Redis, Hibernate, Spring,
+content	project	JPA. MYSQL, Ms Access
+content	project	Database Design, Oracle,
+content	project	Redis, ReactJS,
+content	project	Maven, MariaDB,
+content	project	Report, Postman
+content	project	Hibernate, Spring, EJB
+content	project	 Oracle DB Developer /
+content	project	 Oracle Portal
+content	project	Application Express)
+content	project	Developer, HeidiSQL
+content	project	 Weblogic Portal
+content	project	AVP/Tech Lead (Feb 2017 to Till Date)
+content	project	DBS Bank is a multinational banking and financial services corporation headquartered in Marina
+content	project	Bay, Singapore. The company was known as The Development Bank of Singapore Limited,
+content	project	before the present name was adopted in July 2003 to reflect its changing role as a regional bank
+content	project	The bank was set up by the Government of Singapore in July 1968 to take over the industrial
+content	project	than 100 can be found island-wide. DBS Bank is the largest bank in South East Asia by assets
+content	project	Revenue that supports the Government's economic and social programmers to achieve quality
+content	project	negotiations, drafts tax legislation and provides advice on property valuation to the
+content	project	IRCP: The business problem, is the existing system IRSP (Inland Revenue Authorities of
+content	project	Singapore System Production) is developed on mainframes system and DB2 serves fine since
+content	project	almost not possible for adding new features, and requires more maintenance cost. To over
+content	project	come this problem, new application is developed from scratch with full stack development,
+content	project	using latest technologies like Spring Boot, and Angular 4 for more interactive and new look
+content	project	and feel UI/UX Interface. The application will be running on PCF (Pivotal Cloud Foundry).
+content	project	The application daily checks for incoming IRAS Files (These files are send by IRAS to
+content	project	DBS bank). The application picks up the IRAS file, validates the file. If it is a valid file, it loads
+content	project	all the records to the database. These records will be monitored for 90 days by the monitoring
+content	project	Day 1: validates each record of IRAS (from the database) for valid customer and valid account.
+content	project	If validation fails, IRAS record will be rejected, if its valid record, appointment will be
+content	project	created, and appointment letter will be generated.
+content	project	Day 1 to Day 14: If the amount is available in the account, the taxable amount will
+content	project	be earmarked. The process continues till day fourteen, and continues till day fourteen.
+content	project	Day 15 to Day 89: If the tax amount is not settled, the tax amount earmarked will be deducted
+content	project	from the account. This will be continued till 89th day.
+content	project	Day 90: Return file is generated and will be send to IRAS with details of status for each
+content	project	A user interface is also developed for creating appointments manually. Maker and Checker
+content	project	operations, Handling exceptional Appointments, manual releasing of appointments after
+content	project	settlements etc. Reports are also can be generated/downloaded from UI, like daily return
+content	project	report etc.
+content	project	Bitbucket, Nexus Repository.
+meta	project	Project Role: Team Lead / Full stack development, with the following responsibilities:
+content	project	● Project tracking.
+content	project	● Preparing Status Report.
+content	project	● Authorization, authentication with OAUTH2
+content	project	● Batch processing with Spring schedulers.
+content	project	● Change requests from Product Development to add new/changed content
+content	project	● Prepare developer test cases
+content	project	● Testing defect fixes
+content	project	● Preparing and executing Junit test cases, Spring boot tests, TestRestTemplate,
+content	project	GE (Transportation) – Loaders - USA
+content	project	Tech Lead (May 2016 to Feb 2017)
+content	project	wind and mining industries. GE provides freight and passenger locomotives, railway signaling
+content	project	and   communications   systems,   information   technology   solutions,   marine   engines,   motorized
+content	project	drive  systems  for  mining  trucks and  drills,  high-quality  replacement  parts  and  value   added
+content	project	application  manages   the   data   of   each   vehicle,   based  on  the   Routes,   Model,   Fleet   etc.   The
+content	project	application also collects the information about each vehicle  at scheduled time. Data will be
+content	project	collected   through   various   devices   and   transferred   to   server   through   satellite,   CELL   towers,
+content	project	The   data   from   the   devices,   CELL   towers  or   satellite   are   received  in   encoded   HEX
+content	project	format. The received data is decoded based on the rules depending on the type of data and are
+content	project	Environment: Core java, multi-threading, MQ-Messaging, Active-MQ, wMQ, Apache Camel, Jboss
+content	project	Project Role: Team Lead with the following responsibilities:
+content	project	Project tracking.
+content	project	Preparing Status Report.
+content	project	Change requests from Product Development to add new/changed content
+content	project	Prepare approach documents
+content	project	Preparing Data Flow Diagrams
+content	project	Preparing Sequence Diagrams
+content	project	Preparing usecase Diagrams
+content	project	Prepare developer test cases
+content	project	Code implementation according to the approved approach
+content	project	Testing defect fixes
+content	project	Preparing and executing Junit test cases
+content	project	After collecting the vehicles data, at scheduled time, faults are generated from  the
+content	project	data. For generated faults, the faults will undergo through the process based on the rules and
+content	project	recommendations are created. Recommendations are created based on the previous history for
+content	project	the rules applied. The generated Fault data, recommendations, and all the information related to
+content	project	the Vehicle will be saved in the database. Web/Application server generated the reports based
+content	project	on the request. Web/Application also has the option for creating rules so that based on the rule.
+content	project	User also can modify the rule if required. All the information like creating rules, modified rules
+content	project	are tracked by the application.
+content	project	Developing the Single Page Application using the Jquery, validators, Backbone and handlebars,
+content	project	AngularJS, requiredJS etc.
+content	project	Developing the using Hibernate, Spring, Jercy – REST based webservices (Can be accessed from
+content	project	Backbone), Oracle is used for data persistence.
+content	project	Environment:   Core   java,   multi-threading,   Caching(EH-Cache),   MQ-Messaging,   Web   Services,
+content	project	HTML-5, CSS/CSS-3, Javascript, JQuery, Validator, Backbone, Handlebars, Oracle 11g, Apache
+content	project	Project Role: Team Lead with the following responsibilities:
+content	project	Project tracking.
+content	project	Preparing Status Report.
+content	project	Change requests from Product Development to add new/changed content
+content	project	Prepare approach documents
+content	project	Prepare developer test cases
+content	project	Code implementation according to the approved approach
+content	project	Testing defect fixes
+content	project	Preparing and executing Junit test cases
+content	project	British Telecom, WLMS (White Label Managed services) - UK
+content	project	Sr. Tech Lead (Apr 2014 to Apr 2015)
+content	project	British Telecommunications plc. is the largest incumbent telecommunications provider
+content	project	Communications Providers to carry their calls without having to dial a prefix or install
+content	project	Customers can choose type of calls to be carried (e.g. all national calls, etc.). Line
+content	project	rental is paid to BT in a separate bill.
+content	project	or nearby to connect customer lines or local loops to the Communication Provider's
+content	project	own networks
+content	project	depend on the context or state of other services. Four basic services offered as part of
+content	project	Telecom are:
+content	project	1. Line Rental
+content	project	Environment:   HTML,   Javascript,   JQuery,   CSS,   Java,   JMockit,   Spring,   Hibernate,
+content	project	Project Role: Sr. Tech Lead with the following responsibilities:
+content	project	 Code review.
+content	project	 Project tracking.
+content	project	 Preparing Status Report.
+content	project	 Change requests from Product Development to add new/changed content
+content	project	 Prepare approach documents
+content	project	 Prepare developer test cases
+content	project	 Code implementation according to the approved approach
+content	project	 Testing defect fixes
+content	project	 Preparing and executing Junit test cases
+content	project	JPMC, GACH (Global automatic clearing house)  - USA
+content	project	Tech Lead (Mar 2011 to Mar 2014)
+content	project	applications which is used by the customers to initiate Payroll and Vendor
+content	project	non-urgent, future valued payments transactions to be made using lower-cost,
+content	project	Type of transaction is typically used for corporate-to-corporate payments and
+content	project	collections such as
+content	project	 Vendor Payments
+content	project	 Utility Service Collections
+content	project	Examples of this type of payment system includes BACS in the United Kingdom,
+content	project	Environment: HTML, JavaScript, JQuery, CSS, Strits 1.2, Oracle 10g, Apache web
+content	project	server,   Weblogic   10.3,   ANT   1.8,   MAVEN,   Eclipse,   Junit,   Sql   Developer,   Java,
+content	project	Project Role: Team Lead with the following responsibilities:
+content	project	 Code review.
+content	project	 Project tracking.
+content	project	 Preparing Status Report.
+content	project	 Change requests from Product Development to add new/changed content
+content	project	 Prepare approach documents
+content	project	 Prepare developer test cases
+content	project	 Code implementation according to the approved approach
+content	project	 Testing defect fixes
+content	project	 Preparing and executing Junit test cases
+content	project	 Preparing and executing Jbehave/Selenium test cases
+content	project	Thomson Reuters, LifeSciences JPharm - USA
+content	project	Tech Lead (December 2010 to Mar 2011)
+content	project	editorial tool for maintaining life sciences product categories. This application is
+content	project	used by Thomson editors in editing/publishing the content on different Life science
+content	project	entities: Drugs, Deals, Patents, Companies, Compounds, Trials etc. Workflow of the
+content	project	application includes Loading, Editing, Approving and publishing of various entities.
+content	project	This data is externally extracted and passed on to various other Thomson Reuters’
+content	project	suite of products.
+content	project	Environment: EJB, Swings, XML, JBOSS 5, ANT 1.8
+content	project	Project Role: Team Lead with the following responsibilities:
+content	project	 Code review.
+content	project	 Project tracking.
+content	project	 Preparing Status Report.
+content	project	 Change requests from Product Development to add new/changed content
+content	project	 Prepare approach documents
+content	project	 Prepare developer test cases
+content	project	 Code implementation according to the approved approach
+content	project	 Testing defect fixes
+content	project	Tax Knowledgebase, General Electric – NY,  USA
+content	project	Employer: Xtream IT Solutions Pvt. Ltd – Hyderabad,  India
+content	project	Business Problem: General Electric Company has come up with the requirement for
+content	project	An intranet web application has been implemented to resolve total solution related
+content	project	to the tax based queries. The project has number of modules in which our team
+content	project	handled modules like, workbook (for managing the entire tax related question,
+content	project	answers,   upload   and   download   of   multiple   documents   related   to   the   questions
+content	project	depending up on the country tax rules.), wiki (Which has all the information like
+content	project	Tax rates, Filing Dates, Book Tax Differences etc. depending up on the country),
+content	project	Tax calculator (It can be used to calculate the tax depending up on the country’s
+content	project	tax rules), User Administration (For managing the User Credential).
+content	project	Environment:  Struts 2, JQGrid, JQuery, HTML, CSS, Javascript, AJAX, JSON, java
+content	project	Project Role: Sr. Software Engineer/Team Leader
+content	project	 Designing and developing the as per the requirement document.
+content	project	 Creating the java classes.
+content	project	 Creating the HTML, JSP Pages, javascript, jQuery, CSS, XML and XSLT.
+content	project	 Creating test classes.
+content	project	 Reviewing the code developed the team members
+content	project	 Integrating the code developed the team members.
+content	project	Business Problem: Enhancement for existing application as per the business needs.
+content	project	One of the modules in the application is Special offers, which played key role in the
+content	project	business.   The   module   design   requirement  is  to   handle  the  business   depending
+content	project	upon the location (dialect) wise, because this module is internet application and
+content	project	has to be accessed throughout the world. The admin (Business) user can easily
+content	project	able   to   develop   the   web   pages   and   can   assign   the   pages   to   particular   zone
+content	project	(Location), delete the pages, modify the pages. Application refactoring is also one
+content	project	of the requirement which was been handled and archived performance of the site
+content	project	to 70%. Dashboard, Business Reports etc. are some of the requirements which are
+content	project	been handled.
+content	project	Environment:  Interwoven   Teamsite,   Java,   EJB,   Spring,   Hibernate,   JQuery,
+content	project	Prototype, JSP, AJAX, JSON, CSS, XML XSLT, Websphere Application Server, DB2
+content	project	Project Role: Design and development
+content	project	 Designing and developing the application as per the requirement by the client.
+content	project	 Reviewing the code.
+content	project	 Creating the java classes.
+content	project	 Creating the HTML, JSP Pages, javascript,  jQuery, CSS, XML and XSLT
+content	project	 Updating the interwoven template file and testing and publishing
+content	project	Content Management System, GENPACT – Hyderabad,  India
+content	project	Business   Problem:  Creating   business   related   applications   as   per   the   CoEs
+content	project	environment. Using Interwoven WorksiteMP to handle content management, and
+content	project	workflows and customizing as per the customer requirement.
+content	project	Environment:  WebLogic Application Server, Oracle 9i, Java, worksiteMP, HTMLDB
+content	project	(Oracle Application Express), EJB, Weblogic Portal, Oracle Portal, Oracle AQ.
+content	project	Project Role: Design and Development
+content	project	 Customer Interaction
+content	project	 Creating requirement documents
+content	project	 Oracle Portal
+content	project	 Creating the java classes.
+content	project	 Creating content and work flows using Interwoven worksiteMP.
+content	project	 Deploying to production server
+content	project	Business   Problem:  This   project   is   related   to   the   development   of   workflows   on
+content	project	various   scenarios   depending   on   the   requirement.   It   has   the   features   like
+content	project	Escalations, Reminders, Alerts, and Notifications etc.
+content	project	Environment:  Oracle 9i, MS SQL Server, Crystal Reports 11, Java, Servlets, Jsp,
+content	project	Project Role: Developer
+content	project	 Coding and Developing as per the requirement document
+content	project	 Creating the java classes.
+content	project	 Integrating
+content	project	Focus – MCS (Mobile Computing System), Brisbane Water, Australia
+content	project	Business   Problem:  Mobile   computing   System   improves   improvise   efficiency   and
+content	project	enables field officers to enter data on handhelds through a user friendly graphical
+content	project	front-end with built-in business logic, using familiar drop-down menus and touch
+content	project	screens. When the officer returns to home base, the handheld data is synchronized
+content	project	using software developed by e-Wise. Key areas identified where savings can be
+content	project	achieved using the mobile solution include reduced data logging and back office
+content	project	administration time Improved data accuracy and efficiency Standardised reporting I
+content	project	Environment:  HTML,   Java   Script,   Java,   Servlets,   Jsp,   JUnit   JavaScript,   Web
+content	project	Services   (SOAP),   WSDL,   XML,   DAO,   Spring,   Hibernate,   ORACLE   9i,   MS   SQL
+content	project	Project Role: Developer
+content	project	 Coding and Developing as per the requirement document
+content	project	 Creating the java classes.
+content	project	 Integrating
+content	project	Business Problem: FOCUS (field operations case utility system) automates the flow
+content	project	request   and   despatching   systems,   including  Both   Microsoft   .Net   and   Java   J2EE
+content	project	compliance; An architecture designed to handle high volume transactions; and Ability to use
+content	project	Environment:  HTML,   Java   Script,   Java,   Servlets,   Jsp,   JUnit   JavaScript,   Web
+content	project	Services   (SOAP),   WSDL,   XML,   DAO,   Spring,   Hibernate,   ORACLE   9i,   MS   SQL
+content	project	Project Role: Developer
+content	project	 Coding and Developing as per the requirement document
+content	project	 Creating the java classes.
+content	project	 Integrating
+content	project	REHAB PLANNER, Quadra Systems, Inc., CA USA
+content	project	thereby allowing them to spend more quality time with patients. For facility or care
+content	project	provider   managers,   Quadra   System   Products   offer   unique   solutions   to   labor
+content	project	tracking, billing and facility utilization. Don't be tied down to stand alone software
+content	project	programs that are hardware & operating system dependent, time consuming to
+content	project	upgrade and costly to put on multiple computers
+content	project	Environment:  HTML,   Java   Script,  Servlets,   Jsp,   JavaScript,   ORACLE  8i,   Tomcat,
+content	project	Resin Server, JavaBeans, JSP Pages, Servlets, JUnit
+content	project	Project Role: Software Engineer
+content	project	 Creating the java classes.
+content	project	 creating JSP Pages
+content	project	Business Problem: A Service Request is placed in the system when the Customer
+content	project	calls in and reports a problem. The location of the Customer is either pulled in from
+content	project	the existing records or is entered in. The Service Request will now contain the info
+content	project	about the Customer and their location, the make, model and series of the Spa, and
+content	project	the problem with the Spa during the course of the day, multiple service requests
+content	project	from   multiple   customers   will   be   received   and   added   to   the   system.   A   Service
+content	project	replaced are entered into the Service Request. The amounts for the parts are then
+content	project	the Repair Item times and are calculated based on the pre-configured labor rates.
+content	project	Once the parts and labor have been determined, the Service Request is updated
+content	project	Environment:  HTML,   Java   Script,  Servlets,   Jsp,   JavaScript,   ORACLE  8i,   Tomcat,
+content	project	Resin Server, JavaBeans, JSP Pages, Servlets, Junit
+content	project	Project Role: Software Engineer
+content	project	 Creating the java classes.
+content	project	 creating JSP Pages
+meta	others	Gandham Srinivas Ram Kumar
+meta	others	ramkumargs@yahoo.com
+meta	others	Srinivas Ram Kumar Ghandham
+meta	others	Full Stack Development,
+meta	others	Reactive Stack,
+meta	others	G S Ram Kumar
+meta	others	Gandham Srinivas Ram Kumar
+meta	others	ramkumargs@yahoo.com
+meta	others	Project Role: Team Lead / Full stack development, with the following responsibilities:
+meta	others	● WebMVCTest, DataJPATest
+meta	others	Employer: Virtus – Hyderabad,  India
+meta	others	G S Ram Kumar
+meta	others	Gandham Srinivas Ram Kumar
+meta	others	ramkumargs@yahoo.com
+meta	others	services. Business Problem: GE Transportation manages lakhs of vehicles (Rails) in Mexico. The
+meta	others	Preparing Class Diagram.
+meta	others	Employer: Virtus – Hyderabad,  India
+meta	others	G S Ram Kumar
+meta	others	Gandham Srinivas Ram Kumar
+meta	others	ramkumargs@yahoo.com
+meta	others	Employer: Virtusa – Hyderabad,  India
+meta	others	G S Ram Kumar
+meta	others	Gandham Srinivas Ram Kumar
+meta	others	ramkumargs@yahoo.com
+meta	others	Employer: Virtusa – Hyderabad,  India
+meta	others	Employer: Virtusa – Hyderabad,  India
+meta	others	G S Ram Kumar
+meta	others	Gandham Srinivas Ram Kumar
+meta	others	ramkumargs@yahoo.com
+meta	others	G S Ram Kumar
+meta	others	Gandham Srinivas Ram Kumar
+meta	others	ramkumargs@yahoo.com
+meta	others	Employer: Surpac Minex – Hyderabad,  India
+meta	others	Employer: Surpac Minex – Hyderabad,  India
+meta	others	G S Ram Kumar
+meta	others	Gandham Srinivas Ram Kumar
+meta	others	ramkumargs@yahoo.com
+meta	others	Employer: Surpac Minex – Hyderabad,  India
+meta	others	G S Ram Kumar
+meta	others	Gandham Srinivas Ram Kumar
+meta	others	ramkumargs@yahoo.com
+meta	others	calculated. If the total goes over a pre-set limit, a Pre-Approval is auto-generated
+meta	others	 M.Tech.   (Eng)   in   Information   Technology   and   passed   with   First   Class,   Punjabi
+meta	others	 Advanced Diploma in Software Export Technology, ASET (Aptech)
+meta	others	G S RAM KUMAR
+meta	others	G S Ram Kumar

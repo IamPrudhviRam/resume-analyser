@@ -1,0 +1,81 @@
+content	experience	  Having 3+ years of professional experience in Analysis, Application Programming, Implementation,
+content	experience	  Experienced  in  working  with  ORM  framework  such  as  Hibernate.
+content	experience	  Experienced in using GOF and J2EE design patterns.
+content	experience	  Through knowledge and experience of XML technologies (DOM, SAX )
+content	experience	  Using JAX-B, JAX-P, and extensive experience with DTD's, XSD's.
+header	experience	Professional Experience
+meta	experience	  Currently working as Java Developer in Wipro, Chennai from Jan-2019 to till date.
+content	experience	  Previously worked as Software Developer in Tech Mahindra,Chennai from Jan-2017 to Dec-2018
+content	experience	Java Web Services        -            RESTFUL (Jax-rs with jersey and Resteasy), WSDL
+content	experience	  Experience in developing web applications using SPRING framework.
+header	education	Educational Qualifications
+content	education	• B. tech(Bachelor of Technology) from RGPV 2016
+content	knowledge	  Knowledge extensively on Spring framework (Spring Core Container, Spring Web MVC,  Spring
+content	knowledge	  Good knowledge of  Restful Services.
+content	knowledge	Operating Systems      -            Windows
+header	knowledge	Language                       -            Java
+content	knowledge	J2EE Technology          -            Servlets, JSP, JDBC
+content	knowledge	Frameworks                 -            Spring Framework (Spring Core, Spring Annotations, Spring AOP, Spring
+content	knowledge	Transaction, Spring MVC, Spring Security, Spring Data, Spring Boot).
+content	knowledge	ORM Tool                      -            Hibernate, JPA
+content	knowledge	Web Server                   -            Apache Tomcat 9.0
+content	knowledge	Application Server       -            Wild Fly 9.0.2-10.0
+content	knowledge	IDE                                  -            Eclipse, Spring Tool Suite(STS)
+content	knowledge	Database                        -            MySQL
+content	knowledge	Tools                               -            Maven, JUnit 4, Log4j,Git.
+content	knowledge	Database                -  MySQL
+content	knowledge	- Maven,Log4j,JUnit.
+content	knowledge	IDE                            -  Eclipse,
+content	knowledge	Tool                          -  Maven, Log4J
+content	knowledge	using Spring AOP (Aspect Oriented Programming) concepts.
+content	project	development using Java and J2EE Technology, Tools and Framework
+content	project	  Expertise in JAVA, J2EE, Spring Framework, Hibernate, XML, Web Services, Restful
+content	project	Transactions, Spring JDBC, AOP, Spring Boot, Spring Security).
+content	project	Design Patterns           -            Singleton, Factory Method, Abstract Factory, Strategy Design
+content	project	XML Technologies        -            XML, XSD, Sax parser, Dom Parser
+header	project	Project Undertaken
+content	project	Role                         - Developer
+content	project	Team Size               -  7
+content	project	Duration                 - Jan 2019 to till date
+content	project	Environment          - J2SE (OOPs, Exception Handling and Collection),J2EE,Spring Boot , Spring Core,
+content	project	Spring AOP, Spring Tx, Spring MVC, Spring Security, Spring Jdbc, Restful API
+header	project	Description :
+content	project	Vesture is a centralized platform where local merchants can sell their products using this platform. In this
+content	project	platform we are going to provide marketplace for both customer and merchant. Where customer can browse
+content	project	the product from the nearby shop and can easily place the order. Customer can schedule the delivery time
+content	project	within the available slots. So, those goods can be shipped to the delivery address within time. Vesture is a
+content	project	B2B  and  B2C  application,  where  numbers  of  merchants  are  registered  with  us,  where  they  can  simply
+content	project	showcase their products which are available in the stock and ready to pick. On the other hand customer can
+content	project	Involved in various phases of Software Development Life Cycle (SDLC) of the application like
+content	project	Requirement gathering, Analysis and Code development.
+content	project	  Developing User Interface by using JSPs and Involved in Unit Testing.
+content	project	  Following Agile(Scrum) methodology and planned tasks for various sprints
+content	project	  Attend   daily   Standup   meeting,   Retrospective   meeting   and   Sprint   planning/Review meeting
+content	project	Implement task as per as business requirement
+header	project	Project # 2:
+content	project	Role                          -  Developer
+content	project	Team Size                -  7
+content	project	Duration                  -  Feb 2017 - Dec 2018
+content	project	Environment          -  J2SE (OOPs, Exception Handling, Multithreading, and Collection),
+content	project	J2EE, JSP, Spring, Hibernate, Spring (IOC, MVC, AOP, ORM, Transaction),
+header	project	Project Description:
+content	project	This  project  provides  notification  or  message  to  the  insured  person  by  checking  whether  he/she  is
+content	project	eligible for the claim or not through the paper or email. Now we are expanding our service by adding
+content	project	text support to our customer. It helps them to get the message on their mobile. It provides insurance
+content	project	of auto, home, life, fire etc. Meanwhile, it is supporting the calculator which will filter the best suitable
+content	project	insurance out of all according to the user-specified input.
+content	project	Involved in Scrum meeting to give status and gather new requirement.
+content	project	Implemented JMS so that listener will pick the message from the queue.
+content	project	  Engaged in gathering, analyzing and identifying various individual logical components.
+content	project	  Used design patterns such as Factory, Singleton, and Value Object Design patterns.
+content	project	  Exposing and building the Rest Client and Resource.
+content	project	  Developed DAO classes.
+content	project	  Develop Persistence logic in Hibernate.
+content	project	  Wrote  Associations,  mapped  tables  to  Entity’s  and  persisted  data  to  backend  by Hibernate
+content	project	Involved to develop Controller using Spring MVC.
+content	project	Involved to write business logic.
+content	project	  Exception  Management,  Caching,  Performance  Monitoring,  Security  of  application achieved
+meta	others	Mobile No: +91-8269854868
+meta	others	Email-id: tech.krishna08@gmail.com
+meta	others	  Currently working as Java Developer in Wipro, Chennai from Jan-2019 to till date.
+meta	others	I  hereby  declare  that  the  above-furnished  details  are  true  according  to  the  best  of  my

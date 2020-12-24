@@ -1,0 +1,79 @@
+header	others	Naveen Kumar R
+header	experience	Experience Summary
+content	experience	Have 8 years and 5 months of experience in software development life cycle that includes requirement analysis, development, testing and implementation of Java and J2EE Web applications.
+content	knowledge	Skills in Core Java, J2EE, Web Services, Spring, Struts, Hibernate, Oracle SQL.
+content	experience	Having experience in Application Development, Enhancement and Maintenance.
+content	others	Excellent Interpersonal and Communication skills.
+content	project	Ability to work in a team with diverse backgrounds and having good experience on Agile (Scrum) Software development Methodology.
+header	experience	Currently Working with Standard Chartered Global Business Services as a Technical Lead.
+header	education	Degrees and Qualification
+content	education	2007 – 2010 73% B.Tech (Information Technology) – Jaya Engineering College, Chennai.
+content	education	2004 – 2007 84% DEEE (Electrical and Electronics) – Jaya Polytechnic College, Chennai.
+header	knowledge	Technical Skills
+header	education	Certifications
+content	knowledge	SCJP 1.5 certified professional.
+content	knowledge	Completed Level 1 Internal Certification - Risk Management Domain conducted by Polaris.
+content	knowledge	Completed Level 1 PCJD -Polaris Certified Java Developer conducted by Polaris.
+content	knowledge	NIIT Certified Web Component Java Developer.
+header	others	Contact Details
+meta	others	Mobile No: +91- 9962165375
+meta	others	E-mail Id: nvnkmr.r@gmail.com
+header	experience	Project Experience
+header	project	Project Abstract:
+content	project	Retail Workbench is a group directive to digitize the front-end application processing. Retail
+content	project	Workbench is all about making banking easier, convenient and user-friendly. It enables sales staff to
+content	project	Create an account at any location quickly and makes banking services like loan approvals and credit card issuance completely paperless. This enables a fully digital device to process client requests from anywhere with the data moving straight through the bank’s back-end operations in near real time
+header	project	Roles/Responsibilities:
+content	project	As Java Technical Lead involved in -
+content	project	Worked on Impact Analysis and Design document preparation.
+content	project	Web Service development using Spring boot Rest.
+content	project	Supporting Team members with Technical stuffs.
+content	project	Code Review and Performance tuning.
+header	project	Project Abstract:
+content	project	The Instrument Data Analytics (IDA) Operational Data Store (ODS) Project consists of an application that performs Extract Transform and Load (ETL) of instrument logs sent by Abbott Link from instruments in the field and loads the information into an Oracle Relational Database. The system helps Business to perform data analysis and reporting. The instrument log files have been used primarily for internal investigational purposes.
+header	project	Roles/Responsibilities:
+content	project	As Java Tech Lead involved in -
+content	project	Document preparation such as IA (Impact Analysis), Detailed Design.
+content	project	Proof of Concept on File Handling, Log 4j.
+content	project	Developed the code which works on Multi-Server (UNIX) and Multi-Threaded Environment, which shares the load across the server and executes parallel.
+content	project	Followed Agile (Scrum) Software development methodology
+content	project	Unit Testing (including writing the UTP (Unit Test Plan)
+content	project	QA Testing Bug fixes and Code Movement to PVCS(Code Repository)
+header	project	Project Abstract:
+content	project	IRIS provides an electronic solution for management and global distribution of International Product Submission documents and provides management with metrics that are used to make business decisions.
+content	project	The E-Tech Docs is a stand-alone application that retrieves quality documents which comprises of CoA (Certificate of Analysis), CE (Certification Expiry Certificates) and ISO Certificates and makes them available online based on defined criteria. The E-Tech Docs application has two activities (loading and publishing in the E-Tech batch job) which makes the lot specific documents available online.
+header	project	Roles/Responsibilities:
+content	project	As Java Tech Lead involved in -
+content	project	SLC Document’s Preparation
+content	project	Code Development, Code Deployment and Code push into Repository(MKS)
+content	project	Unit Testing (including writing the UTP (Unit Test Plan) and QA Testing Bug fixes
+content	project	Prepare Migration Scripts (SQL) to ensure the existing functionality is not affected.
+content	project	Preparing Weekly status report and Monthly status report for the Project.
+header	project	Project Abstract:
+content	project	NPI – New Product Information provides an electronic solution for management and global distribution of International Product Submission documents and provides management with metrics that are used to make business decisions. This Project scope is to migrate/split Mylan data from the Abbott and deploy it in Mylan Servers, ensuring only Mylan artifacts are migrated.
+header	project	Roles/Responsibilities:
+content	project	As a Java Developer involved in -
+content	project	Prepare Migration Scripts (Oracle SQL) which never affects the Source System as well destination System
+content	project	Unit Testing (including writing the UTP (Unit Test Plan)
+content	project	QA Testing Bug fixes
+header	project	Project Abstract:
+content	project	Information Factory is capable of producing relational data store, application services, OR/M to decouple the business logic from Database and User Interface, from the fed in domain model (Domain XML) in an industrialized manner. The platform should be capable enough to produce multiple information factories of any domain complying domain Meta model.
+header	project	Roles/Responsibilities:
+content	project	As Java Developer involved in -
+content	project	Analyzing the product requirement from the onsite team
+content	project	Responsible for analyzing, designing, developing and coding several modules of this product.
+content	project	Applying the spring framework for bean declaration and injecting dependency into the components used.
+content	project	Used Spring AOP for logging/Auditing.
+content	project	Addressing the defects reported in SIT, UAT during testing in Dev &QA environment.
+content	project	Followed Agile (Scrum) Software development methodology.
+header	project	Project Abstract:
+content	project	Intellect ALM is multi-currency Asset Liability Management system that provides several key features that allow the bank to model business environments analyze the risks in the portfolios and mitigate the liquidity and interest rate risks. The key features of ALM are: Modeling of product behavior assumptions, Scenario Analysis, Limit Specifications and utilization reports, Cash flow generation models to support a wide variety of financial products, Yield Curve generation and manipulation methodologies, Multi-level report aggregation. During the batch processing, Deals from various source systems are uploaded into t he system and Cash Flows are generated using these Deals.
+header	project	Roles/Responsibilities:
+content	project	As Java Developer involved in -
+content	project	Document preparation such as IA (Impact Analysis), Design.
+content	project	Development of Complex reports using Java and PL SQL procedures.
+content	project	Work on Spring Batch to execute multiple reports as a batch process parallel.
+content	project	Testing (including writing the UTP (Unit Test Plan).
+header	others	Awards
+content	others	Won ‘Gem’ award from Polaris Financial Technology during the year 2013.
+content	project	Won ‘Spotlight’ award from Cognizant Technology during the year 2016.

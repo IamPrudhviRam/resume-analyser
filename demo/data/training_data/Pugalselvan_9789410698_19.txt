@@ -1,0 +1,21 @@
+content	experience	  Quick learner and excellent team player.
+content	experience	(2015-2019) (CGPA-6.1)
+header	knowledge	Career Objective:
+content	knowledge	Interested to work in design, development, implementation, maintenance of software
+content	knowledge	applications using Web Technologies.
+content	knowledge	  Good knowledge in front-end development Object Oriented Programming Concepts
+content	knowledge	  Knowledge in Mongo db, SQL queries in Mysql /Oracle.
+content	knowledge	  Ability to learn new technologies in minimal time and deliver outputs in short deadlines.
+header	knowledge	Technical Skills:
+content	knowledge	Database              : Mongo db, My SQL.
+content	project	contribute to the development of organization with impressive performance.
+content	project	Interested to work in Web technologies such as front end development and backend
+content	project	  Ability to work in multiple technologies.
+content	project	Technologies        : Angular, Node js, Express js, Html, CSS, javascript, C, C++.
+content	project	: Web developer.
+content	project	  Bachelor of Technology (B-Tech) in Information Technology
+meta	others	Pugal Selvan R
+meta	others	Mobile No: +91- 9789410698
+meta	others	Email Id : pugalselvanr@gamil.com
+meta	others	To work in challenging environment demanding my skills, adapt myself in diﬀerent ﬁelds realize my potential and
+meta	others	Date:                                                                                  (Pugal selvan R)

@@ -1,0 +1,55 @@
+header	experience	Work Experience
+content	experience	I’M Satish, with 8+ year experience in Web & Mobile -
+content	experience	UI / UX design & development. I create user-friendly
+content	experience	User Experience Design
+content	experience	High & Low Fidelity Prototypes
+content	experience	UX & UI Designer & Developer
+header	experience	Roles & Responsibilities
+content	experience	Designed User Experience, Visual Design & Development (UI) for BMW Shopping website.
+content	experience	UX & UI Designer & Developer
+header	experience	Roles & Responsibilities
+content	experience	UI Designer & Developer
+header	experience	Roles & Responsibilities
+content	experience	Designed, Developed & Maintenance of Company Website, Brochure & Newsletters
+content	experience	Designing static / dynamic websites and web application with responsive web design,
+header	experience	Roles & Responsibilities
+content	education	2004 - 2007
+content	education	2007 - 2008
+content	knowledge	UX / UI - Designer
+content	knowledge	and websites for users, and Adaptive Design layouts
+content	knowledge	UI  solutions  in  Adobe  XD,  Axure  RP,  HTML,  CSS,  JS
+content	knowledge	and  saving  dozens  of  hours  of  more  expensive
+meta	knowledge	ﬂows, Wireframes, Mockups, High-Fidelity Prototypes
+content	knowledge	Visual Design (UI) for Web & Mobile
+content	knowledge	UST Global - Trivandrum | www.ust-global.com
+content	knowledge	Flow diagrams, Mock-ups, Wire frame, and High-Fidelity Prototypes
+content	knowledge	Megatech Control Private Limited | www.megatechcontrol.com
+content	knowledge	UX & UI for Product Web Application and Mobile Apps - www.plantmis.com
+content	knowledge	Creating Flow diagrams, Mock-ups, Wire frame, and Prototypes
+content	knowledge	PERI Software Solutions Private Limited | www.perisoftware.com
+content	knowledge	Wireframe, Skeches & Process Flow Diagram
+header	knowledge	Software Tools
+header	knowledge	Bootstrap 4
+content	knowledge	HTML 5 / CSS 3 / SASS / JS
+content	knowledge	Designing UI for .NET applications
+content	knowledge	Arena Animation Multimedia
+content	knowledge	Arena Animation Academy Specialist Program (AAASP)
+content	project	to maintain a consistent user experience across the
+content	project	Collaborated with clients to rapidly iterate on custom
+content	project	development time.
+content	project	Delivered  high  quality  design  docs,  Sitemap,  User
+content	project	June 2018 - Till Date
+content	project	Client - BMW
+meta	project	Coordinating with Business Stack holders & Business Analyst to prepare UX process,
+content	project	Worked in Client Location for 6 Months & handling a team of 3 members
+content	project	Feb 2017 - June 2018
+content	project	Handling Projects individually and responsible for Project Delivery
+content	project	Designed ,Developed & Maintenance of Company Website, Product Brochure & Flyer
+content	project	Jan 2013 – Feb 2017
+content	project	Client engagement to gather website requirements and conceptualize design
+content	project	Head a team of Designer and Front-end Developers and responsible for Project Delivery
+content	project	Jan 2009 – Feb 2011
+content	project	Angular Material
+meta	others	sm.satish@yahoo.com
+meta	others	ﬂows, Wireframes, Mockups, High-Fidelity Prototypes
+meta	others	Coordinating with Business Stack holders & Business Analyst to prepare UX process,

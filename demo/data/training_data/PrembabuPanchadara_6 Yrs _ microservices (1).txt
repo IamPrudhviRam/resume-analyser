@@ -1,0 +1,250 @@
+meta	others	PREMBABU PANCHADARA
+meta	others	Email  : prembabu_p@yahoo.com
+meta	others	Phone : +91 9885080234
+header	others	OBJECTIVE
+meta	others	To succeed in an environment of growth and excellence and earn a job which provides me job
+meta	others	satisfaction and self development and help me achieve personal as well as organizational goals.
+header	others	AREAS OF EXPERTISE
+header	others	PROFILE SUMMARY
+content	experience	  6 years of experience in Java & Android Development, Product
+content	experience	Web & Mobile Application
+content	experience	Development & Maintenance
+content	experience	Development
+content	experience	Analysis and Debugging
+content	experience	  Proficient in Object-Oriented design, Problem Solving, Complexity
+header	project	Project Management
+content	experience	  Ability to design application flow based on requirements and writing
+header	project	Client Servicing
+content	project	efficient, maintainable and reusable code
+content	project	  Develop and execute unit tests to ensure and maintain source code
+content	project	Team Management
+content	project	quality
+content	project	  Supporting continuous improvement by investigating alternatives &
+content	project	technologies
+content	project	  Provide support to prepare technical document.
+meta	others	  Sincere and dedicated to work
+content	knowledge	  Knowledge on Agile development
+meta	others	2012
+meta	others	2009
+meta	education	M.C.A. from Andhra University with 8.04 CGPA
+meta	education	B.Sc.    from Andhra University with 63%
+header	education	EDUCATION
+header	experience	ORGANISATIONAL EXPERIENCE
+content	others	Since Sep 2017
+content	experience	“Thrymr Software Pvt. Limited”, Hyderabad as Technical Lead
+content	others	Aug’ 2015 – Sep 2017
+content	experience	“Iglulabs Software Pvt. Limited”, Bangalore as Sr. Software Developer.
+content	others	Feb’ 2015 - Aug’ 2015
+content	experience	“Collabera Technologies” (Client HCL), Chennai as Sr. Android Developer.
+content	others	May’ 2013 – Oct’ 2014
+content	experience	“Egghead Creative Software Pvt. Limited”, Hyderabad as Jr. Software
+content	experience	Engineer.
+header	others	Functional Skills
+content	project	•  Handling Application Development including design & troubleshooting of applications
+content	project	•  Monitoring  service  based  project  progress  &  outstanding  issues  and  ensuring  the  quality  &
+content	project	timeliness of the deliverables
+content	project	•  Working with team to track status & issues in offshore development mode; conducting reviews of
+content	project	codes & test cases and analysing change requests / enhancements
+content	project	•  Completing  product  development  as  per  requirements,  schedules  &  activities;  contributing  to
+content	project	team  meetings,  handling  troubleshooting,  development  &  production  problems  across  multiple
+content	project	environment / operating platforms
+header	knowledge	Technical Skills
+content	knowledge	Programming Languages
+content	knowledge	: JAVA (JDK 1.7, 1.8)
+content	knowledge	Mobile Technologies
+content	knowledge	: Android, iOS
+content	knowledge	Databases
+content	knowledge	: MySQL, Oracle,  PostgreSQL, MongoDB
+header	knowledge	Operating Systems
+content	knowledge	: Windows, Ubuntu, Mac
+header	knowledge	J2EE Technologies
+content	knowledge	: Servlets, JSP, JDBC
+header	knowledge	Frameworks
+header	knowledge	ORM Tools
+content	knowledge	: Spring, Spring Boot (with Microservices), Play Framework
+content	knowledge	: Hibernate, Ebean
+header	knowledge	Web Technologies
+content	knowledge	: HTML, CSS, Javascript, AngularJS
+header	knowledge	Version Control System
+content	knowledge	: GIT, SVN
+content	knowledge	: IntelliJ IDEA, Android Studio, X-Code, Eclipse, STS
+header	project	Major Projects Handled
+content	knowledge	IDE
+header	project	Project #1
+header	others	Title
+header	others	Duration
+content	project	Technologies Used
+content	project	Role
+header	others	Description
+content	project	TCM (Thong Chai Medical Institution, Singapore)
+content	project	Dec 2018 - April 2019
+content	project	Java 8, Spring Boot, PostgreSQL, MongoDB, Hibernate, Angular6,
+content	project	Microservices
+content	project	Team Lead
+content	project	TCM is the internal patient management tool for Thong Chai Medical
+content	project	Institution, Singapore. Objective of TCM application is to automate the
+content	project	patient appointment process. TCM application can be accessed by
+content	project	various users like Receptionist, Doctor, Inventory Staff, Purchase to
+content	project	perform their daily activities like patient registration, doctor appointments,
+content	project	diagnosis, prescription, inventory management based on respective user
+content	project	role.
+content	others	Responsibilities
+content	project	Understanding requirements, Team Management.
+content	others	URL
+content	others	http://ci.thrymr.net:1111//
+header	project	Project #2
+header	others	Title
+header	others	Duration
+header	project	Technologies Used
+header	others	Role
+meta	others	Description
+meta	others	Responsibilities
+content	others	URL
+header	project	Project #3
+header	others	Title
+header	others	Duration
+header	others	Technologies Used
+header	others	Role
+content	others	Description
+content	others	Responsibilities
+meta	others	URL
+header	project	Project #4
+header	others	Title
+header	others	Duration
+header	project	Technologies Used
+header	project	Role
+content	others	Responsibilities
+content	others	URL
+content	others	Sistic
+content	others	July 2018 – Till Date
+content	project	Java, Spring, Oracle 12c, Hibernate
+content	project	Team Lead
+content	project	SISTIC is the largest ticketing service and solution provider in
+content	project	Singapore. It sells tickets to events ranging from pop concerts,
+content	project	musicals, theatre, and family entertainment to sports. SISTICs
+content	project	Authorized Agents are now conveniently located in Singapore,
+content	others	Malaysia, Indonesia and Taiwan.
+content	project	Understanding requirements, Team Management.
+content	others	https://www.sistic.com.sg/
+content	project	Nemo Payments
+content	project	March 2018 – June 2018
+content	project	Java, Spring Boot, PostgreSQL, MongoDB, Hibernate, AngularJS,
+content	project	Microservices
+content	project	Technical Lead
+content	project	Nemo Payments is a simple accounting web application, where
+content	project	invoice management and financing building is the key, it involves by
+content	project	turning every invoice into a revenue opportunity. This application
+content	project	involves three major users Buyer, Supplier and Funder. Every
+content	project	functionality in the application is focused on building better process
+content	project	for the Buyers company. Every User will have some limitations
+content	project	depends on their roles. Through portal user will perform various
+content	project	transactions.
+content	project	Buyer, Supplier, Funder has a separate dashboard and separate view
+content	project	to manage all the Invoices & Payments.
+content	project	Understanding requirements, Application Architecture, Database
+content	project	Design, prepare unit test cases, Coding and unit testing, Maintenance.
+content	project	https://nemo.nufindata.com/
+content	others	Bloomr
+content	others	January 2017 – Till Date
+content	project	Java, Spring, Hibernate, AngularJS
+content	project	Project Lead
+content	project	Bloomr is an web based online platform for organizations to
+content	project	improve their sales operations by providing digital solutions.
+content	project	Understanding requirements, Application Architecture, Database
+content	project	Design, prepare unit test cases, Coding and unit testing, Maintenance.
+content	project	http://skf.bloomr.in
+header	project	Project #5
+header	project	Title
+header	project	Duration
+header	project	Technologies Used
+header	project	Role
+content	others	Description
+content	others	Responsibilities
+content	others	URL
+header	project	Project #6
+header	others	Title
+header	others	Duration
+header	others	Technologies Used
+header	others	Role
+content	others	Description
+content	others	Responsibilities
+content	others	URL
+header	project	Project #7
+header	others	Title
+header	others	Duration
+header	others	Technologies Used
+header	project	Role
+content	others	Description
+content	others	Hu-mine
+content	project	Dec 2015 – June 2016
+content	project	Java, Play Framework, AngularJS
+content	project	Project Lead
+content	project	Internal employee management tool for Decathlon Sports India Pvt
+content	project	Ltd.,. Hu- mine is a web application which includes end-to-end
+content	project	employee management functionalities like Payroll, Reports,
+content	project	Team/Cost Centre management, Investment Declarations etc.,.
+content	project	Understanding requirements, Application Architecture, Database
+content	project	Design, prepare unit test cases, Coding and unit testing, Maintenance.
+content	others	http://humine.decathlon.in/
+header	others	Cicer
+content	project	July 2016 – August 2016
+content	project	Java, Android, Azure Cloud Storage, SQLite
+content	project	Developer
+content	project	Cicer is an android/web app where a person who wants to monitor
+content	project	their cardiac information can view it live on an android tablet/phone
+content	project	or live on a web based dashboard. RCM includes a small patch device
+content	project	which is stuck to the patient's chest and communicates with the
+content	project	mobile app when switched on. The mobile app shows the live ECG
+content	project	and heart rates from the data received from the patch device.
+content	project	Understanding requirements, Application Architecture, Database
+content	project	Design, prepare unit test cases, Coding and unit testing, Maintenance.
+content	others	http://www.ten3thealth.com/#cicer
+content	others	MyDiGi
+content	project	Feb 2015 – Aug 2015
+content	project	Java, Android
+content	project	Developer
+content	project	MyDiGi is Android app for Digi subscribers. This handy utility allows
+content	project	user to manage their Digi Postpaid and Prepaid accounts. With this
+content	project	app user can even reload their Digi prepaid and Digi prepaid
+content	project	broadband services quickly and securely via data connection or Wi-
+content	project	Fi. The latest Digi Rewards and Privileges will also be available at
+content	project	user’s fingertips whether they are travelling, shopping, eating out or
+content	project	seeking the ultimate health and beauty experience.
+content	others	Responsibilities
+content	project	Understanding requirements, Prepare unit test cases, Coding and
+content	project	unit testing, Maintenance.
+content	others	URL
+content	others	https://play.google.com/store/apps/details?
+content	others	id=com.digi.portal.mobdev.android&hl=en
+meta	others	PERSONAL DETAILS
+meta	others	Personal Strengths
+meta	others	  Self-confidence, easily adapt various environment and eager to learn new things
+meta	others	
+meta	others	  Hard work and Smart work according to the situation
+meta	others	I see challenging situation not as a problem, but rather as an opportunity to learn something new
+meta	others	Extra Curricular Activities
+meta	education	  Awarded class first in my MCA
+meta	education	  Conducted Technology Awareness Programs in rural collages
+header	others	Personal Information
+meta	others	Name
+meta	others	: Prembabu Panchadara
+meta	others	Father’s Name
+meta	others	: Venkata Satya Narayana
+meta	others	Date Of Birth
+meta	others	: 21-May-1989
+meta	others	Gender
+meta	others	Marital Status
+meta	others	Nationality
+meta	others	: Male
+meta	others	: Single
+meta	others	: Indian
+meta	others	Present Address
+meta	others	: LIG Flats, Venture-II, 4th Phase, KPHB, Hyderabad.
+meta	others	Permanent Address
+meta	others	: H.No.7-97, Addalapalem Village, Sakhinatipelli Mandel, East
+meta	others	Godavari Dt., Andhra Pradesh, India. Pin: 533252.
+meta	others	Passport No
+meta	others	: k9437416
+meta	others	Connect with me
+meta	others	: http://lnkd.in/E9G5TT
+meta	others	Declaration

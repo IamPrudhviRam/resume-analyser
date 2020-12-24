@@ -1,0 +1,73 @@
+content	experience	A performance driven professional with 15 years of experience in:
+content	experience	Good understanding of overall web design including basic usability, accessibility, industry standards, architecture, and navigation
+content	experience	Experience in creating self-contained, reusable and testable modules and components
+content	experience	Expertise in QA Methodologies, Test Metrics and Software Development Life Cycle (SDLC).
+content	experience	Good Technical Experience in Writing System Test Scenario, Test Cases, Test Scripts, Documentation and Setting up Test lab Environment.
+content	experience	Hands on experience in Selenium web driver automation.
+content	experience	Since from Sept 2018 to May 2019 with CYBERNOID HEALTHCARE PVT LTD, Chennai. Present Roll: Technical Lead
+content	experience	PREVIOUS WORK EXPERIENCE HCL TECHNOLOGIES PVT Limited.
+content	experience	Capable of managing 10 resources at critical delivery, at normal time managing 5 resource.
+content	education	2002 B.E in Electronics and Communication from (Jaya Engineering College), Chennai.
+content	knowledge	In pursuit of challenging and enriching assignments in Quality Control/ Quality Assurance/Black Box testing with an organization, Angular Training in Fita Training Institute
+content	knowledge	Strong knowledge of Test Script with object oriented programming
+content	knowledge	Good knowledge in Angular
+content	knowledge	Strong CSS knowledge
+content	knowledge	Strong knowledge of web security concerns and preventive measures
+content	knowledge	Proficient in directing productive cross-functional teams using interactive and motivational leadership that spurs people to willingly give 110% effort and loyalty
+content	knowledge	Excellent team spirit and interactive leadership qualities with good communication and interpersonal skills.
+content	knowledge	CAT Support.
+content	knowledge	Training on domain for fresher’s
+content	knowledge	September ’12 to November ’15
+content	knowledge	Tested all financial transactions in the host(UNIX) and Lottery terminal embedded applications, Lottery Terminals, Video Monitors, Hand held devices, Barcode Readers, Sensors, Cameras.
+content	knowledge	Reported the defects in JIRA tool.
+content	knowledge	CAT Support.
+content	knowledge	Training on domain for fresher’s
+content	project	Strong knowledge of modern frontend technologies, best practices, and load speed optimization techniques
+content	project	Created Test Scripts and Test Conditions to perform the Functional, Integration, System, and End-to-End testing of the application to ensure Requirements Traceability using Quality Center for manual testing
+content	project	Expertise in the entire QA Life Cycle Process, which includes design and development of Testing Methodology, Test Strategy, Test Scenarios, Test Plans and Test Cases.
+content	project	Proficient domain knowledge in Public Service, Lottery Gaming and Retail [Inventory, Distribution management], Health Care.
+content	project	Monitoring and controlling the team and make sure assigned task is completed on time.
+content	project	Onsite Work Experience Poland and Finland as Module Lead, In Sweden-Vaxjo as Team Lead, UK Welwygarden for Knowledge transition
+content	project	Test Management: Organizing and Controlling, Ensuring Visibility, Traceability and control of testing process to deliver high quality software.
+content	project	End To End Testing: Created Test Scripts and Test Conditions to perform the Functional, Integration, System, and End-to-End testing of the application to ensure Requirements Traceability using Quality Center for manual testing
+content	project	Technical Skill: Good Technical Experience in Angular front end Development, Writing System Test Scenario, Test Cases, Test Scripts, Documentation and Setting up Test lab Environment.
+content	project	Customer Relationship Management: Managing customer centric operations & ensuring customer satisfaction by achieving delivery & service quality norms. Attending to clients’ complaints and undertaking steps for effectively resolving them. Interacting with the customers to gather their feedback regarding the product satisfaction.
+content	project	Team Management: Recruiting, mentoring, training and development of the field functionaries to ensure the sales and operational efficiency. Creating and sustaining a dynamic environment that fosters the development opportunities and motivates the high performance amongst the team of on-roll& Off-roll members.
+content	project	Products Handling: Healthcare Products
+content	project	Six Members Team playing the Test Lead Role
+content	project	Involved in review of requirement along with Developers (Formal and Informal)
+content	project	Sending the Test summary report to stake holders
+content	project	Identifying and logging defects if a test fails.
+content	project	Daily meeting with Entire Offshore QA Team for sharing the updates of progress/issues.
+content	project	Identifying and escalating the issues on time.
+content	project	November ‘15 to October ‘18
+content	project	Designated as Technical Lead for Project Department of Correction
+content	project	Products Handling: Public Service, Newzeland
+content	project	Monitoring and controlling the team and make sure assigned task is completed on time.
+content	project	Identifying the bottlenecks and escalating to Leads on time so that proper measure can be taken and ensured end of the day assigned task has been completed
+content	project	Handling the conflicts in team if they are not productive, will be trying to identify their problems, if it is sorted out necessary action will be taken otherwise will be taken to the next level, either to keep them or not, by considering the fact it should not impact the delivery.
+content	project	Identifying and logging defects if a test fails,
+content	project	Daily meeting with Entire Offshore QA Team for sharing the updates of progress/issues.
+content	project	Identifying and escalating the issues on time.
+content	project	BOSSMEDIA, Designated as Lead Engineer
+content	project	Products Handling: Lottery Gaming Products
+header	project	Key Result Areas:
+content	project	Performed roll as Onsite Coordinator for Sweden,Vaxjo
+content	project	5-member team was involved in Leading the team
+content	project	Review of detailed Test Scenario, Test scripts and Test cases by understanding the business logic and user requirements
+content	project	Identifying and logging defects if a test fails,
+content	project	Providing details of Traceability metrics ,Test coverage, How much test case passed and failed
+content	project	Daily meeting with clients for sharing the updates of progress/issues.
+content	project	May’05 to August’12
+content	project	Project:South Australian Lotteries.
+content	project	Products Handling: Lottery Gaming Products
+header	project	Key Result Areas:
+content	project	Six Members Team playing the Senior Test Engineer Role
+content	project	Involved in review of requirement along with Developers (Formal and Informal)
+content	project	Written and executed the test cases for GUI applications, Terminal application and Host in HP Quality Center.
+content	project	Sending the Test summary report for a module.
+meta	others	Contact No: 9176681683 ~ E-Mail: sathyazeusconsultant@gmail.com/ sathya.sridhar@gmail.com
+meta	others	Date of Birth: 26th May, 1980
+meta	others	Permanent Address: 142, Kambar Street, Nathemedu, Thirunindravur – 602024.
+meta	others	Languages Known: Tamil, Telugu and English
+meta	others	Location Preference: Tamil Nadu, Chennai

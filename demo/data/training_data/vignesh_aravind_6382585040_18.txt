@@ -1,0 +1,28 @@
+content	experience	And capable of working with my colleagues without any misunderstanding. ​To enhance my
+header	education	ACADEMIC QUALIFICATION
+content	education	engineering
+content	education	12​th​ or HSC  Matriculation
+content	education	10​th​ or SSLC  Matriculation
+content	education	7.20%(CGPA)
+content	education	Engineering
+content	education	matriculation
+content	education	matriculation
+header	knowledge	CAREER OBJECTIVE
+header	knowledge	TECHNICAL SKILLS
+content	knowledge	➢  Programming Languages: HTML,CSS3, BOOTSTRAP, JAVASCRIPT,ANGULAR
+content	knowledge	7,Java,MongoDB
+content	knowledge	➢  Operating Systems
+content	knowledge	: Windows 7, Windows 8
+content	project	To work enthusiastically in team with my smartness, and by utilizing the position allotted to me.
+content	project	PERSONAL PROJECTS: E-COMMERCE WEBSITE
+content	project	✓ Best Design And Fabrication Project Award for final year project “TRELLIS FRAME’
+content	project	College of Engineering And Technology during March 2017.
+meta	others	vignesharavind1996@gmail.com
+meta	others	✓ Achieved Junior Grade in Typewriting English .
+meta	others	Name:                        S. Vignesh Aravind
+meta	others	D.O.B:                       04-09-1996
+meta	others	Father’s name:           R.Srinivasan
+meta	others	Nationality:                Indian
+meta	others	Gender:                      Male
+meta	others	Languages Known:   Tamil and English
+meta	others	my knowledge.

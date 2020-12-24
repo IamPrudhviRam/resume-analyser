@@ -1,0 +1,144 @@
+header	experience	Experience Summary:
+content	experience	● I am a Technical Lead with 14 years of experience in software development with MTech in
+content	experience	● Experience in front end technologies like JavaScript(ES6) & Angular
+content	experience	● Experience in integrating OIDC/OAuth2 flows with both front end(Angular) & back-end API server
+content	experience	● Experience with DevOps & GitOps model and tools
+content	experience	● Experience in Agile Scrum Methodologies
+content	experience	● Worked closely with geographically distributed teams and collaborated with cross teams to define,
+header	experience	Professional Experience
+content	experience	Public Utilitiy
+content	experience	Water  & wastewater
+content	experience	Software Senior Engineer: Dell Secureworks(Oct 2013 – May 2018)
+content	experience	Trained and tested data using various Machine Learning models/algorithms like Linear &
+content	experience	NGN Platforms & Portals
+content	experience	NGN Platforms & Portals
+content	experience	Participated in maintenance and production support
+content	education	(Computer Science)
+content	knowledge	● Developed  Microservices using Python & Java with frameworks like Flask, Django & Spring
+content	knowledge	● Knowledge on public cloud platforms like Google Cloud(GKE) &  Microsoft Azure
+content	knowledge	● Exposure to Cloud design patterns and SOLID, 12 factor, Gof4 design patterns
+content	knowledge	● Experience in prototyping solutions quickly, and able to collaborate with others in crafting and
+header	knowledge	Software Skills:
+meta	knowledge	Programming Languages Python, Java
+content	knowledge	Microservices frameworks Flask, Spring Boot
+header	knowledge	Development Tools
+content	knowledge	Operating Systems
+content	knowledge	Kubernetes, Docker, Istio, Helm, Prometheus, Grafana,  Zipkin
+content	knowledge	PyCharm, VS Code, GIT, SVN, Jenkins, Jupyter Notebook,
+content	knowledge	Spyder, Vim, Intellij IDEA, Eclipse, Maven
+content	knowledge	Linux, Windows
+meta	knowledge	Keras, TensorFlow, Scikit-learn, Pandas, NumPy, matplotlib
+content	knowledge	 Received Pratibha award from AP Govt on securing 7 th Rank in MCACET
+meta	knowledge	MTech (CS), JNU - New Delhi (2002-2004)
+content	knowledge	Tech Lead: AppOrchid (Nov 2018 – May 2019)
+content	knowledge	Java, Python, Flask, Spring Boot, RabbitMQ, Git, Bitbucket, Linux,
+content	knowledge	Jenkins X, Swagger, Angular, BootStrap, MongoDB
+content	knowledge	Kubernetes, Istio, Helm, Docker, Jenkins X/GitOps
+content	knowledge	(Spring Boot, Python Flask)  API servers
+content	knowledge	 Built CI/CD pipeline with Jenkins X/GitOps, Git, Bit bucket, Jenkins, Helm
+content	knowledge	Established Blue/Green & Canary deployment strategy
+content	knowledge	Cyber Security
+meta	knowledge	Credit Suisse, Best Buy, AXA, BANA
+content	knowledge	Java, Python, Flask, Spring Boot, Spring, Mybatis, Eclipse, IntelliJ
+content	knowledge	IDEA, Git, Bitbucket, Linux, Maven, Jenkins,  Swagger,  Angular,
+content	knowledge	Cloud: Kubernetes, Helm, Docker
+content	knowledge	version control tools like Bitbucket, Git, SVN
+content	knowledge	Posted technical blogs on internal confluence pages & participated in Dell hackathons
+content	knowledge	Performed Data Analysis using statistical techniques (EDA, Hypothesis Testing, PCA,
+meta	knowledge	Logistic Regression, Naive Bayes, Decision Trees, Random Forest, SVM, KNN
+content	knowledge	Senior Tech Lead: HTC Global (Apr 2013 – Oct 2013) (Worked at Dell campus)
+content	knowledge	Cyber Security
+meta	knowledge	Credit Suisse, Best Buy, AXA, BANA
+content	knowledge	Python, Selenium, Java, TestNG, SVN, Linux, Electric Flow, Jenkins
+content	knowledge	Java, J2EE, Spring, WebSphere 6, Oracle, RAD 7.5, Windows, gradle
+content	knowledge	EndNote Web
+content	knowledge	Java, Struts, Tomcat, MySQL, Bugzilla, Perforce, Linux, C++
+content	knowledge	Senior Software Engineer: Motorola (Nov 2005 – May 2006)
+content	knowledge	Java, Struts, Tomcat, Postgres, Linux, C++
+content	knowledge	Senior Member Technical Staff: Persistent Systems (Sep 2004 – Oct 2005)
+content	knowledge	Java, Struts, Servlets, Tomcat, MySQL, Solaris, Ant, JUnit,
+content	knowledge	Java, Struts, Servlets, Tomcat, Postgres, Solaris, Make
+content	project	● Designed and setup Service Mesh using Cloud Native technologies like Istio, Kubernetes, Docker,
+content	project	● Implemented CI/CD pipelines involving  Jenkins X/GitOps, Git, Bit Bucket, Jenkins, Docker,
+content	project	● Involved in Blue/Green and Canary deployments
+content	project	implement and consume services/components/modules
+content	project	Automation Testing
+content	project	Selenium, JUnit, TestNG
+content	project	MongoDB, Redis, Oracle, MySQL
+header	project	Project Domain
+header	project	Project Name
+content	project	American Water Works
+content	project	Angular Oauth OIDC, Spring Security
+content	project	Implemented Open Id/OAuth2 flow for front-end(Angular) components and back-end
+content	project	 Worked on implementing microservices on Kubernetes/Istio Cluster
+content	project	 Generated Helm charts to configure resources on Kubernetes applications and all of its
+content	project	components, such as Deployments, ConfigMaps, Services, etc
+header	project	Project Domain
+header	project	Project Name
+content	project	Managed Security Services
+content	project	MongoDB,  Redis, Oracle, MySQL
+content	project	Implemented Microservices  & RESTful web services using Flask, Spring Boot, Swagger
+content	project	 Built & deployed Microservices using cloud technologies like Kubernetes, Helm, Docker,
+content	project	Involved in Blue/Green deployments
+content	project	 Worked as full stack engineer implementing both front-end & back-end components
+content	project	 Adopted Agile Scrum methodologies using project management tools Jira/confluence and
+content	project	Performed code reviews & coached team on best practices
+content	project	 Worked closely with Product managers, cross functional teams
+content	project	 Applied software Design Patterns, Data Structures, Algorithms
+content	project	etc.) on Dell Secureworks’s proprietary time series security events data using Python
+content	project	libraries (Scipy, pandas, matplotlib, numpy, etc.)
+content	project	 Applied Deep Learning using LSTM model for DGA (Domain Generation Algorithm)
+content	project	detection using Keras, TensorFlow
+header	project	Project Domain
+header	project	Project Name
+content	project	Managed Security Services
+content	project	Tech Lead / Developer
+content	project	 Worked on threat intelligence service features
+content	project	 Designed and Implemented automation framework using Python, Java
+content	project	 Migrated the automation framework from JUnit to TestNG
+content	project	Integrated the automation to Electric Commander for daily regression
+header	project	Project Domain
+header	project	Project Name
+content	project	Implemented new features using Java/J2EE stack
+content	project	 Created Technical Design documents for new features
+content	project	 Used Gradle for migration of build files from ant build.xml files to build.gradle format
+content	project	Participated in code reviews, demoed UAT to PM and Business Analysts
+header	project	Project Domain
+header	project	Project Name
+content	project	Life Sciences
+content	project	Research Alliance
+content	project	Thomson Reuters
+content	project	 Actively participated in meetings with Product Managers, Business Analysts
+content	project	 Created design documents using Rational Rose
+content	project	 Designed and implemented few web services
+content	project	 Worked on XML parsing using JAXB, SAX parsers
+content	project	Performed a rigorous unit testing and resolved several data accuracy issues
+header	project	Project Domain
+header	project	Project Name
+content	project	Involved in the Production Support
+content	project	Interacted with the Customers, Development and Testing Teams
+content	project	 Worked on production issues by collecting & analyzing core files, logs
+header	project	Project Domain
+header	project	Project Name
+content	project	Veraz Networks
+content	project	 Developed Service & Data access layer logic using JDBC and MySQL
+content	project	Involved in new features/fixes deployments to Test, Staging and Production environments
+content	project	Associate Software Engineer: ComViva (Jan 2004 – Aug 2004)
+header	project	Project Domain
+header	project	Project Name
+content	project	Core and Access Network
+content	project	Involved in Coding of enhancement of mobile originated messages
+content	project	Involved in the unit testing and integration testing
+content	project	 Worked on various SMS related bug fixes
+meta	others	Srinivasa Rao N
+meta	others	Email ID: srinivas.npy@gmail.com
+meta	others	Mobile: +91-7981452625
+meta	others	Hyderabad, India
+meta	others	Programming Languages Python, Java
+meta	others	Machine Learning
+meta	others	Keras, TensorFlow, Scikit-learn, Pandas, NumPy, matplotlib
+meta	others	MTech (CS), JNU - New Delhi (2002-2004)
+meta	others	MCA, JNU - New Delhi (1999-2002)
+meta	others	Credit Suisse, Best Buy, AXA, BANA
+meta	others	Logistic Regression, Naive Bayes, Decision Trees, Random Forest, SVM, KNN
+meta	others	Credit Suisse, Best Buy, AXA, BANA

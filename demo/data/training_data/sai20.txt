@@ -1,0 +1,21 @@
+meta	experience	Working as class representative for past two years.
+header	education	Academic Qualification
+header	knowledge	Technical Skills
+content	knowledge	Technologies known : C , Java , Matlab , HTML, JAVASCRIPT, ITIL .
+content	knowledge	Outcome : Detects rain and drives a servo meter to simulate as a car wiper.
+header	project	Academic Projects
+content	project	Project Title : Automatic Rain Sensing Car Wiper
+header	project	Duration : 4 Days
+header	project	Team Size : 4
+content	project	Description : This project consists of Automatic rain sensor and servo motor . Rain sensor works on the principle of using water for completing its circuit, so when rain falls on it’s circuit gets completed and sends out a Sends out a signal to a microcontroller and then it process this data and drives the servo meter to perform the required actions.
+meta	others	NAME: THUMULA SAIKUMAR
+meta	others	E-Mail Id : thumulasai96321@gmail.com
+meta	others	Mobile : +91- 7794994907
+meta	others	Career Objective : To work in a firm with a professional work driven environment where I can utilize and apply my knowledge, skills which would enable me as a fresh graduate to grow while fulfilling organizational goals.
+meta	others	Working as class representative for past two years.
+meta	others	Mother’s name : T.LAXMI
+meta	others	Father’s Name : T.RAJAMALLAIAH
+meta	others	Nationality : INDIAN
+meta	others	Date of Birth : 08/08/1996
+meta	others	Languages known : Telugu, English, Hindi,
+meta	others	Permanent Address :1-111/1/432B,Ragavendra Colony,Kondapur,Serilingampally, Rangareddy District

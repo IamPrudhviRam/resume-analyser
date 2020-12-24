@@ -1,0 +1,174 @@
+content	experience	I’m a B-tech from NIT having 7.0 years of experience in Java Development in terms of
+content	experience	•  Experience in designing and developing applications using Java / J2EE technologies like
+content	experience	•  Experience  in  developing  applications  based  on  architectures  like  Microservices  using
+content	experience	•  Experience in Migrating Legacy applications (Mainframes) to Containerized applications
+content	experience	•  Working Experience in Web Services like SOAP, RESTFULL and XMF.
+content	experience	•  Working Experience in Java Messaging Service using TIBCO and ESB.
+content	experience	•  Working Experience with version control tool like SVN, GIT.
+content	experience	•  Working Experience in Agile Methodologies and Atlasian Jira Scrum.
+content	experience	WebFlux and Spring HATEOAS.
+content	experience	Toad, PL/SQL Developer, Robo 3T
+header	experience	Professional Experience:
+content	experience	  Working  as  Senior  Software  Engineer  at    Prokarma  Softech  pvt  ltd,  Hyderabad,INDIA
+content	experience	  Worked as Associate-project at Cognizant Technologies Solution pvt ltd, Chennai,INDIA
+content	experience	  B-Tech in ECE from National Institute of Technology (NIT) Calicut.
+content	experience	Docker, Kubernetes, CI, Log4j, EasyMock,   Sonar Lint 4.5.1 and ECL emma.
+content	experience	  Migrate Legacy applications ( Jhe, SOAP)  to containerized Rest Services.
+content	experience	SVN, Jenkins CI, Log4j, EasyMock,   Sonar Lint 4.5.1 and ECL emma.
+content	experience	Lint and ECL emma.
+content	experience	applicable to new IDE (Helix).
+header	education	Educational Qualifications:
+content	knowledge	testing),  Deployment,  Cloud  Migration,
+content	knowledge	Java  8,  Spring  Boot,  Spring  Cloud,  Spring  Data  JPA,  Spring  Rest,  Spring  WebFlux,
+content	knowledge	Spring JMS and Hibernate.
+content	knowledge	Spring Boot,Spring Cloud and Java 8.
+content	knowledge	using Spring Boot and Docker.
+content	knowledge	•  Working  Experience  in  Relational  Databases,  SQL  and  ORM  Technologies(Open  JPA,
+content	knowledge	Hibernate).
+content	knowledge	•  Working Experience using Jenkins CI for Deployment phases.
+content	knowledge	•  Ability to solve complex technical challenges independently.
+content	knowledge	Frameworks:
+content	knowledge	Spring, Spring Boot, Spring Data JPA , Spring Rest, Spring
+content	knowledge	RESTFULL, SOAP and XMF
+content	knowledge	DB2, Oracle, Mongodb , CosmosDb, Ibatis
+content	knowledge	Eclipse, Spring Tool Suite
+content	knowledge	Tomcat 8.0, JBoss, TIBCO.
+content	knowledge	API testing
+content	knowledge	3.7.2, PLSQL, Maven 3.2, SVN, Jenkins , ICE,  Log4j, EasyMock,   Sonar Lint 4.5.1 and ECL
+content	knowledge	MapStruct,  Tomcat  8.0,  Spring  STS  3.7.2,  PLSQL,  Maven  3.2,  SVN,  Jenkins  ,  ICE,    Log4j,
+content	knowledge	Data Rest, DB2 , MapStruct, Tomcat 8.0, Spring STS 3.7.2, PLSQL, Maven 3.2, SVN, Jenkins ,
+content	knowledge	Data Rest, DB2 , CosmosDB, MapStruct, Tomcat 8.0, Spring STS 3.7.2, Toad 6.0, Maven 3.2,
+content	knowledge	user recovers it and saves to the DB once the process is completed.
+content	knowledge	the  exiting  business  logic  from  hdold  Corono  to  new  helix,  defining  new  business  Rules
+content	knowledge	  Developed JPA interfaces for the Entities.
+content	knowledge	Spring Rest.
+content	project	Software  development  life  cycle  involving  Requirement  Gathering,  Technical  analysis,
+content	project	Design,  Development(Coding  and  Unit
+content	project	Documentation  in  a  web  based  environment,  Distributed  n-tier  architecture  and  Client
+content	project	Server architecture.
+content	project	•  Capability of Handing Team and other Management activities.
+content	project	Code Repository:
+content	project	Unit Testing
+content	project	Postman, SoapUI
+content	project	Code Quality
+content	project	SonarQube, Sonar Lint,  ECL emma
+content	project	from Feb 2017 to till date.
+content	project	  Worked  as  Associate  Systems  Engineer  at  IBM,  Pune,  INDIA  from  Aug  2012  to    Dec
+content	project	Project #06:
+content	project	: Migrate Business Rules Management Systems from SOAP to REST
+content	project	: Jan 2019 to Mar 2019
+content	project	: Java 1.8, Spring Boot 1.4, Spring Rest, Oracle ,  Tomcat 8.0, Spring STS
+content	project	: Senior Developer
+content	project	Description:  BRMS  is  an  Infrastructure  project  which  is  exposed  as  framework  to  the
+content	project	customers, it automates the process of validation.
+content	project	BRMS  engine  is  a  Service  provider  and  Event  handler,  it  process  requests  and  also  refreshes
+content	project	As the Customers requested for Http end points. BRMS engine migrated to Http from Soap.
+content	project	  Created Design document for exposing service provider as HTTP end point required for
+content	project	  Migrated the Existing BRMS Engine using Spring Boot, Java 8.
+content	project	  Created a Http End point across service provider.
+content	project	  Developed Spring Boot configuration files.
+content	project	Project #05:
+content	project	: SOLR real time updates for Business Rules Management Systems DB
+content	project	: Sep 2018 to Dec 2018
+content	project	:  Java  1.8,  Spring  Boot  1.4,  Spring  WebFlux,  Spring  Data  JPA,  Oracle  ,
+content	project	EasyMock,   Sonar Lint 4.5.1 and ECL emma.
+content	project	: Senior Developer
+content	project	Description: BRMS automates the process of validation of a service. The rules provided by the
+content	project	customer are used for the validation.
+content	project	As  the  number  of  rules  are  increasing,  the  faster  search  is  required.  So  Solr  job  is  created  to
+content	project	populate the rules from DB to Solr.
+content	project	  Created Design document for Usecases required for Developmet.
+content	project	  Translate application storyboards and use cases into functional applications
+content	project	  Developed Business logic through Spring Boot Framework.
+content	project	  Developed Spring Boot configuration files
+content	project	Project #04:
+content	project	: Business Rules Management Systems
+content	project	: Feb 2017 to present
+content	project	: Java 1.8, Angular 2, Spring Boot 1.4, Spring 4.2.3, Hibernate 5.0, Spring
+content	project	: Senior Developer
+content	project	Description:  BRMS  is  an  Infrastructure  project  which  is  exposed  as  framework  to  the
+content	project	customers, it automates the process of decision making using Jess Rule engine
+content	project	BRMS will build Templates and Rules specific to each Service. A Jess Rule Engine takes Facts
+content	project	as  inputs  and  takes  decisions  based  on  the  patterns  provided  in  the  rules  and  publish  the  valid
+content	project	facts to the customer.
+content	project	  Created Design document for Usecases required for Developmet.
+content	project	  Translate application storyboards and use cases into functional applications
+content	project	  Responsible for Code Build, Deployment and release to QA  using Jenkins, Docker and
+content	project	Implemented Real time updates for BRMS Db using Solr.
+content	project	Implemented schedulers using Quartz Api for purging expired rules.
+content	project	  Ensure the best possible performance, quality, and responsiveness of the applications.
+content	project	  Given KT on Project and Technology for new project members and guided them during
+content	project	Project #03:
+content	project	: Jan 2016 to Feb 2017
+content	project	:  JDK  1.8,  Azure,  Spring  Boot  1.4,  Spring  4.2.3,  Hibernate  5.0,  Spring
+content	project	: Developer
+content	project	Description:  Pace  Client  Admin  project  is  an  Administrative  application  which  automates  the
+content	project	process of creation and maintenance of the Rules  and Rates used for generating the invoice to
+content	project	A Rule Engine provides sample rules required for the Account based on eligibility requirement
+content	project	that Legal Agreement/contract should meet and stores  as an XML for every Open Period.
+content	project	Pace  will  build  Rules
+content	project	from  (XML  cached)Lookup  Rules
+content	project	Agreement/contract  or  copying  of  Rules  from  existing  account  or  configuring  existing  rules
+content	project	based  on  the  XML  Data  provided  by  the  rule  engine.  Similarly  Rates  are  built  or  copied  or
+content	project	configured from existing Rules to new Rules based on the XML data provided under the Rules
+content	project	The  entire  PACE  process  takes  more  than  Two  days  to  complete,  Instead  of  saving  the
+content	project	partially created/edited data we save them in a stagging table as XML and retrieves it when the
+content	project	  Migrate Mainframe applications  to containerized Rest Services.
+content	project	  Gathered requirements, designed the Usecase Documents for development.
+content	project	  Created Design document for Usecases required for Developmet.
+content	project	  Responsible for Code Build, Deployment and release to QA  using Jenkins, Docker and
+content	project	  Developed YML files required for the project and deployed into the Config Server.
+content	project	  Developed Spring Boot Configuration files.
+content	project	  Given KT on Project and Technology for new project members and guided them during
+content	project	  Responsible for Code Build, Deployment and release to QA  using Jenkins.
+header	project	Project #2:
+content	project	: Paypal Shipping Migration
+content	project	: Paypal, USA.
+content	project	: Sep 2014 to Nov 2015
+content	project	:Java, Spring, Hibernate, Jersey, Eclipse, Maven, SVN, Jenkins CI,Sonar
+content	project	Description:  The intended purpose of the Shipping Migration team is to migrate the association
+content	project	of business  rules related to  shipping label  and maintenance of existing business rules. Copying
+content	project	Involved in developing Business logic through Spring Framework.
+content	project	  Developed the persistency logic and business transactions logic using hibernate.
+content	project	  Developed the Server side validations.
+content	project	  Developed the Entities and DTOs for the development.
+content	project	  Developed Utility classes required for the project.
+content	project	  Developed  RestControllers  for  client  and  Repository  Rest  Controllers  for  server  using
+content	project	  Developed RestTemplate and  used for communication between Client and server.
+content	project	Involved in development of spring configuration files
+header	project	Project #1:
+content	project	: American Express, USA
+content	project	: April 2013 to June 2014
+content	project	:Java, Spring, Hibernate, Eclipse.
+content	project	Description        :  The purpose of the XPG Global  Release is  to  bring  XPG system to  parity or
+content	project	greater than NGP. The XPG Global will have ability to deploy a corporation globally and service
+content	project	the corporation across the regions.  It  will also  help  eliminate the org and sub org structure and
+content	project	will  utilize  rules  management  functionality  to  apply  the  custom  fields  and  selected  standard
+content	project	interface which will be actively used by Travel Counselors to manage the traveler’s profile. This
+content	project	functionality will be available only for new corporations that are deployed under global root. The
+content	project	global  corporation  under  global  root  will  have  all  the  standard  fields  and  relevant  market
+content	project	said, there are selected standard fields that are available at the corporation level for which view
+content	project	Implemented “Type Ahead” for the searching using Spring data jpa projections.
+content	project	  Developed database queries needed for this application using Querydsl.
+content	project	  Developed the persistency logic and business transactions logic using hibernate.
+content	project	Involved in developing Business logic through Spring Framework.
+content	project	Interacted with the client team to understand the requirements.
+meta	others	Email:vikram.fk3003@gmail.com
+meta	others	Mobile: +91-7306050629
+meta	others	Email:vikram.fk3003@gmail.com
+meta	others	Mobile: +91-7306050629
+meta	others	Email:vikram.fk3003@gmail.com
+meta	others	Mobile: +91-7306050629
+meta	others	: Union Pacific Rail Road,U.S.
+meta	others	Email:vikram.fk3003@gmail.com
+meta	others	Mobile: +91-7306050629
+meta	others	: Union Pacific Rail Road,U.S.
+meta	others	Email:vikram.fk3003@gmail.com
+meta	others	Mobile: +91-7306050629
+meta	others	: Union Pacific Rail Road,U.S.
+meta	others	Email:vikram.fk3003@gmail.com
+meta	others	Mobile: +91-7306050629
+meta	others	Email:vikram.fk3003@gmail.com
+meta	others	Mobile: +91-7306050629
+meta	others	Email:vikram.fk3003@gmail.com
+meta	others	Mobile: +91-7306050629

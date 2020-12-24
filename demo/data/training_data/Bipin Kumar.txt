@@ -1,0 +1,159 @@
+header	others	Professional Summary:
+meta	others	BIPIN KUMAR
+meta	others	E-Mail: bipinpandey99@gmail.com
+meta	others	Mobile No: +917358324439
+content	experience	▪  Having 5 years of software development experience in object oriented programming, design
+content	experience	and  development  of  Multi-Tier  distributed,  Enterprise  applications  using  JAVA  and  J2EE
+content	experience	technologies.
+content	experience	▪  Expertise  in  developing  Multi-tier  enterprise  level  web  applications  using  various  J2EE
+content	experience	technologies including Servlet, Spring, Hibernate, JDBC, JSP.
+content	experience	▪  Hands  on  experience  to  work  with  Web  Services  related  technologies  like  JAX-RS  (Restful
+content	experience	Services).
+content	knowledge	▪  Good working knowledge in XML, JSON.
+content	experience	▪  Experience in used design patterns like Singleton, Factory, MVC and DAO.
+content	experience	▪  Experience in Presentation layer, Front-end web pages using JSP, HTML, CSS, and JavaScript,
+content	experience	Angular.
+content	experience	▪  Developed applications on different IDE’s such as Eclipse, STS.
+content	experience	▪  Working experience on Java mail API.
+content	experience	▪  Working experience on Java validations API with Spring Integration.
+content	experience	▪  Experience  in  Configuring  and  deploying  applications  on  Apache  Tomcat  and  Web  Sphere
+content	experience	Application Server.
+content	knowledge	I have awareness on various related build tools in handling and managing the project.
+content	knowledge	▪  Good Team member but also has ability to work independently with minimal Supervision to
+content	knowledge	meet deadlines.
+content	knowledge	▪  Excellent analytical, problem-solving and interpersonal communication skills.
+content	knowledge	▪  Team  player,  highly  productive  and  result-driven  in  team  and  individual  projects  and  time
+content	knowledge	management skills.
+content	knowledge	▪  Adaptive to learn new technologies.
+header	experience	Work Experience:
+content	experience	▪  Currently  Working  as  Associate  Project  for  Cognizant  Technology  Solutions,  from  August
+content	experience	2018 to till Date.
+content	experience	▪  Previously Worked as Senior Software Engineer for HCL Technologies Ltd, from Sept 2014
+content	experience	to August 2018.
+header	education	Academic Profile:
+content	education	•  MCA from Punjab Technical University, Jalandhar in 2013.
+header	knowledge	Technical Skills:
+header	knowledge	•  Programming  Language
+content	knowledge	:     Java, Servlet, JDBC, JSP
+content	knowledge	Java Framework
+content	knowledge	:     Spring Core ,Spring MVC Hibernate, Spring Boot
+content	knowledge	•  Web Services                      :     Restful services
+header	knowledge	IDE
+content	knowledge	•  Database
+content	knowledge	:     Eclipse, STS, RAD (Relational Application Developer)
+content	knowledge	:      Oracle11g, DB2
+content	knowledge	•  Web Dev Technology
+content	knowledge	•  Web Servers
+content	knowledge	•  Design Pattern
+header	knowledge	•  Tools
+header	project	Project Details:
+content	knowledge	:      HTML, JSP
+content	knowledge	:      Tomcat, JBoss.
+content	knowledge	:      Strategy, Singleton, Factory,  DAO, MVC
+content	knowledge	:      Maven, Log4j, SVN, SonarType, Jenkins, SonarQube
+header	project	Project #1: NCCM –Network Change and Configuration Management
+content	project	Environment            : Java, J2EE, Spring, Hibernate, Oracle10g, Html, JSP
+content	project	Role                         : Application Developer
+content	project	Duration
+content	project	Team size
+content	project	Client
+content	project	: Sept 2014 to November 2014
+content	project	: 12
+content	project	: CISCO
+header	project	Project Description:
+content	project	NCCM is the application for configuration management of different Network Devices. It comprises
+content	project	different modules to managing, auditing and building the configurations. This is a user friendly Web
+content	project	UI application in order to implement all the need of the Network Devices. Also the application is a
+content	project	module to interact between the core-configuration of the devices and helps them to be virtually
+content	project	configured and managed.
+header	project	Roles Responsibilities:
+content	project	  Designed and developed the application using Spring MVC Framework.
+content	project	  Developed Web Resources using Rest components.
+content	project	  Involved in the development of Business logic in service layer and persistence logic in DAO
+content	project	layer using hibernate.
+content	project	  Utilized Spring annotations and XML based configuration for Dependency Injection.
+content	project	  Published and consumed Restful Web Services for transferring data between different
+content	project	applications.
+content	project	  Developed presentation layer components comprising of JSP.
+content	project	  Using Hibernate Framework to interact with database.
+content	project	  Used Factory and Singleton Design Patterns.
+header	project	Project #2: Device Data Manipulation Tool (DDMT)
+content	project	Environment            : Core Java, JSP, Servlet, Spring, webservice,Hibernate, JASPER, Tomcat.
+content	project	Role                         : Application Developer
+content	project	Duration
+content	project	Team size
+content	project	: Dec 2014 to Feb 2015
+content	project	: 5
+content	project	Client
+content	project	: Xerox Corporation, USA
+header	project	Project Description:
+content	project	DDMT (Device Data Manipulation Tool) is a web application which helps to connect with CDDS (Common Device
+content	project	Data  Store)  for  fetching  out  the  printer  device  information.  It  is  a  printer  domain  project.  DDMT  contains  four
+content	project	various Modules:
+content	project	Device Profiler Module,
+content	project	Device Query Module,
+content	project	1.
+content	project	2.
+content	project	3.  Customization Module and
+content	project	4.  Simulator Module.
+content	project	DDMT  will  receive  Device,  Billing  and  Supplies  information  of  various  printers  which  are  connected  to  GRS  DB,
+content	project	instead of getting information directly from the printers.
+content	project	Synchronous request / response is made for billing and supplies. This application is using SOAP web service, JSP,
+content	project	Spring MVC-3 and Hibernate-3.
+header	project	Roles Responsibilities:
+content	project	  Coding according to the functional requirement.
+content	project	  Debugging and solving any possibly run time errors.
+content	project	
+content	project	
+content	project	
+content	project	  Using Hibernate Framework to interact with database.
+content	project	  Used Factory and Singleton Design Patterns.
+content	project	Involved in developing codes for Framework for PNCB different Versions for different Network devices.
+content	project	Involved writing CLI’s for those devices for different technologies.
+content	project	Involved in Unit, Sanity, and Integration testing.
+header	project	Project #4: eConcierge Tool /E-commerce Application
+content	project	Environment            : CoreJava, Jsp, Servlet, Spring, Hibernate, web services,HTML-5, JavaScript,
+content	project	jQuery, GWT, Jboss, Tomcat, Jekins, Sonar.
+content	project	Role                         : Application Developer
+content	project	Duration
+content	project	Team size
+content	project	Client
+content	project	: March 2015 to August 2018
+content	project	: 5
+content	project	: Xerox Corporation, USA.
+header	project	Project Description:
+content	project	eConciergetool  is  a  web  application  designed  for  the  Xerox  Corporation.  It  is  an  Ecommerce  Application  to
+content	project	maintain  the  ecommerce  operation  for  the  Consumables  and  device  parts  for  the  printers.  This  application  is
+content	project	designed for US and Canada customers.
+content	project	There are four portals in this application
+content	project	1.  Platform Portal – It is portal only for Platform service i.e. Admin people only can access this portal.
+content	project	2.  Provider  Portal  –  this  portal  is  designed  for  our  Service  provider,  this  portal  also  having  the  limited
+content	project	access.
+content	project	3.  Partner Portal – This is only for Xerox Partner. There are different kinds of partner for Xerox. Based on
+content	project	partner’s type we provide accessibility to the partner user.
+content	project	4.  Customer portal – This is the portal for all the Customers under Xerox corporation partners. In this portal
+content	project	customer can by any consumables and device part for the Xerox or non-Xerox Printers.
+header	project	Roles Responsibilities:
+content	project	  Designed and developed the application using Spring MVC Framework.
+content	project	  Designing and developing the business components using java.
+content	project	  Developed Web Resources using Rest components.
+content	project	  Using Hibernate Framework to interact with database.
+content	project	  Used Factory and Singleton Design Patterns.
+header	project	Project #4: Sky-scanner project, Zurich Insurance Corporation
+content	project	Environment            : Java, J2EE, Spring Core and MVC, Hibernate, DB2, AngularJS, JSP,Policy-J.
+content	project	Role                         : Application Developer
+content	project	Duration
+content	project	Team size
+content	project	Client
+content	project	: August 2018 to till date.
+content	project	: 10
+content	project	: Zurich Insurance Corporation, Japan.
+header	project	Project Description:
+content	project	This Project is complete insurance domain project. The sky-scanner project is all about managing the
+content	project	Automobile and life insurance in Japan. There are various modules in this project.
+content	project	1.  Quotations and Plan module.
+content	project	2.  Contract Establishment and Renewal module.
+content	project	3.  Claim module.
+header	project	Roles Responsibilities:
+content	project	  Designed and developed the application using Spring MVC Framework.
+content	project	  Designing and developing the business components using java.

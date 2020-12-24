@@ -1,0 +1,25 @@
+content	experience	Great at Problem Solving
+content	education	BACHELOR DEGREE
+content	education	BSC Computer science
+content	education	A.M.JAIN College of Arts and Science - 64%
+content	education	Nehru Government Boys Higher
+content	education	Secondary school – 64%
+content	education	Nehru Government Boys Higher
+content	education	Secondary school – 85%
+content	education	From(july2019-october2019)
+content	knowledge	Html5, css3, Bootstrap
+content	knowledge	JavaScript, TypeScript
+content	knowledge	•  Created form validation using (html5,css3,bootstrap
+content	knowledge	javascript,typescript,Angular8)
+content	knowledge	•  Completed ANGULAR7+JS in credo systemz
+content	project	in a fun and challenging working environment that will
+content	project	skills as well as be motivated by the company to do his
+content	project	2 016   2 019
+content	project	•  Ecommerce website using Angular8
+meta	others	Date of Birth: January 27, 1999
+meta	others	Gender: Male
+meta	others	4th street NGO Colony,
+meta	others	A C A DE MI C   B A CK G RO UND
+meta	others	+91 9790782493
+meta	others	adithya2799@gmail.com
+meta	others	Good Leadership Skills

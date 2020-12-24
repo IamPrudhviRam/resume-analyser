@@ -1,0 +1,194 @@
+header	experience	Professional Experience
+content	experience	16 Years of experience with a strong emphasis in Java, J2EE technologies include people
+content	experience	3 years of experience in end-to-end architecting the web based applications.
+content	experience	+   Good programming experience in Java, J2EE, JUnit, Struts, Spring.
+content	experience	+  Good experience in preparing project plan, WBS, resource plan and activity duration estimation,
+content	experience	+  Experienced with spring framework IOC and AOP modules for injections and interceptions.
+content	experience	Developer 7.0.0, Log4J V 1.2.13
+content	experience	Rational Rose Version 2001A.04.00, Star UML
+content	experience	Siperian HUB XU / Informatica MDM, TOAD, Actuate 7.0, Informatica 9.x,
+content	experience	core Java & Redis).
+content	experience	Thirdware Solutions Limited
+content	experience	IGATE Global Solutions Limited
+content	experience	July 2011 – March 2015 [3.8 years]
+content	experience	Thirdware Solutions Limited
+content	experience	TAFE Limited
+content	experience	  Task allocation, technical support to team and code reviews.
+content	experience	Cambridge Solutions Limited
+content	experience	Feb 2005 – June 2008 [3.4 years]
+content	experience	Senior Software Engineer
+content	experience	AVT InfoTech Pvt Limited
+content	experience	Software Engineer
+content	experience	NatureSoft Pvt Limited
+content	experience	Software Engineer
+content	education	+  Master of Computer Application (MCA)
+content	education	Kongunadu Arts & Science College, Coimbatore, Bharathiyar University.
+header	education	Certifications
+content	knowledge	Advanced levels of technical knowledge combined with sound business vision and project management skills.
+content	knowledge	Exceptional problem-solving and written and verbal communication skills, with broad understanding of UML,
+content	knowledge	databases. Enjoy leading teams to deliver end-to-end solutions to customers with managing below portfolios
+content	knowledge	  Pre-Sales Involvement and PLM
+content	knowledge	  Database Design
+content	knowledge	+  Good knowledge of SQL, UML, and JAVA/J2EE patterns.
+header	knowledge	Technical Proficiency
+content	knowledge	Tools / IDE
+content	knowledge	MVC Framework
+header	knowledge	Technologies
+content	knowledge	Application Server / Web
+header	knowledge	Configuration Tools
+content	knowledge	Design Suite
+content	knowledge	C,C++,Java 1.7, UML
+content	knowledge	Struts 2.3, Spring 2.5
+content	knowledge	JDBC3.0, Servlets2.2, JSP1.1, EJB3.0,  XML
+content	knowledge	Oracle 10g, SQL Server 2012, MySQL 5.5
+content	knowledge	JNDI,JMS, MQ-Series, JSP, JSF, SAX,DOM, Web Services, AJAX, SOA
+content	knowledge	Win CVS V 2.0.2.4, Tortoise CVS V 2.1, Microsoft VSS 2005, Jenkins, GIT
+content	knowledge	Operating Systems
+content	knowledge	MDM & Other Tools
+content	knowledge	RedHad Linux, Unix, Windows 7 / 8
+content	knowledge	Extreme Programming, FDD & FP.
+content	knowledge	Aspiring to gain PMP certification in a few months’ time. Preparation has started.
+content	knowledge	Oracle Certified Java Professional
+content	knowledge	Oracle PL/SQL Developer Certified Associate
+content	knowledge	ITIL V3 – Foundation Certified
+content	knowledge	IBM WebSphere MQ v6.0 System Administrator
+content	knowledge	IBM WebSphere Application Server v 6.0 Certified Specialist
+content	knowledge	Aspiring to gain PMP certification in a few months’ time. Preparation has started.
+content	knowledge	single retailers and multiple-retailer partnerships to create local, regional, and even nationwide loyalty
+content	knowledge	Member API.
+content	knowledge	  Worked in Sonar cube for bug fixing in WMS module.
+content	knowledge	timelines and supported after delivery.
+content	knowledge	  Creating primary objects (tables, views, indexes) once application developers have designed an application
+content	knowledge	management.
+content	knowledge	  Participated in CMMi Level-5 training.
+content	knowledge	July 2000 – Sep 2003 [3.2 years]
+meta	knowledge	  Writing business logic with Stateless Session Bean and Java
+content	knowledge	AlRais, Discovery, AIMA
+content	knowledge	Java  (JDK  1.8),HTML  with  Angular  JS,  Spring  Boot,  Spring  Data,  Hibernate,  RESTFUL
+content	knowledge	API,JSF  with  prime  faces,  Quartz  scheduler,  Redis  cache,  MySQL  and  Oracle,  Spot
+content	knowledge	Windows 8 & Linuix
+content	knowledge	be Online or Offline. On line booking portal (OBE) is for booking & managing bookings (booking, ticketing,
+content	knowledge	2) Hotels (GTA, DOTW, MIKI, HOTELSBEDS, HOTELSPRO, etc.,)
+content	knowledge	3) Car (Flexi Autos)
+content	knowledge	4) Sight Seeing (GTA)
+content	knowledge	Java  (JDK  1.6),  XML,JSF,  WebServices,  SQL  Server  2012,  Sonargraph,  Findbugs,
+content	knowledge	Windows 8 & Unix
+content	knowledge	Java  (JDK  1.6),  XML,JSF,  WebServices,  SQL  Server  2012,  Sonargraph,  Findbugs,
+content	knowledge	Windows 8 & Unix
+content	knowledge	requirements. An APA market requires Self Billing Invoices in PDF (for FSA and FOA) and Debit/Credit note in
+content	knowledge	TIFF format for FSA, FOA and FNZ.
+content	knowledge	JSP, Java (JDK 1.6), XML, WebServices, Oracle12g, Log4J,Eclipse 3.3, Informatica 9.x,
+content	knowledge	Windows 8 & Unix
+content	project	Solutions architect adept at designing and implementing effective technical business solutions.
+content	project	  Project / Program Management
+content	project	  Delivery / Release Management
+content	project	  Scrum Master using Rally
+content	project	  Requirement Analysis and Designing /Architecting
+content	project	  Stakeholder / Client Management
+content	project	  Resource Planning, Team Building & Mentoring
+content	project	management, technical architecting, framework design and implementing, project design and
+content	project	product backlog and iteration backlog.
+content	project	+  Good in mentoring novice programmers and evaluating team performance.
+content	project	+  Reporting daily/weekly status, issues and risks to project management team.
+content	project	Implemented various design patterns like Factory Pattern, Session Facade, Singleton, Service Locator.
+content	project	Code Analyzers
+content	project	Eclipse3.0, IBM Application Developer 5.1.2, IBM Rational Application
+content	project	Hibernate 5.0
+content	project	Tomcat 6, Oracle Web Logic 11, IBM Web sphere 7, JBOSS 6, Apache,
+content	project	Bigdata, Hadoop, DevOps, Angular 2, Javascript frameworks, Cloud Data warehousing, Prince2,
+content	project	Oracle Certified Web Component Developer
+content	project	G10X India Pvt LTD
+content	project	Technical Lead
+header	project	Project Description
+content	project	programs offering fuel discounts. RM contains so many modules, Admin Portal, Real Time, Offer Engine, Rise,
+content	project	  Creation of RESTful services for participants and offer details along with testing with postman.
+content	project	  Worked on RISE module in implementing business logic to generate fuel consumed details at fuel station
+content	project	along with special offer details for that customer and output verification in PTS device simulator ( by using
+content	project	Reward Marketplace (“RM”) is a loyalty discount transaction management system that enables both
+content	project	  Creating unit test cases by using Mockito framework.
+content	project	  Conducting Daily Scrum and Work with product owner to ensure the agreed timelines and delivery.
+content	project	Information Dynamics Pvt Limited
+content	project	April 2018 – Jan 2019
+content	project	Lead Technology
+content	project	  Performing architecture role in dealing with clients and stakeholders.
+content	project	  Document  all  technical  requirements  and  design  technical  solutions  utilizing  enterprise  architecture
+content	project	standards including documenting all solution components and configurations.
+content	project	  Conducting Daily Scrum, Sprint review and retrospective meetings, Sprint planning, and backlog assigning.
+content	project	  Work  with  functional  analysts,  developers  to  ensure  that  all  solutions  are  deployed  within  agreed
+content	project	March 2015 – March 2018 [3 years]
+content	project	  Taken architecture role in dealing with clients, program managers and IT team.
+content	project	  Translate business requirements into detailed architectures and designs.
+content	project	  Conducting Daily Scrum, Sprint review and retrospective meetings.
+content	project	Project Lead
+content	project	Bangalore, India
+content	project	  Document  all  technical  requirements  and  design  technical  solutions  utilizing  enterprise  architecture
+content	project	standards including documenting all solution components and configurations.
+content	project	Implement architectural designs while building solid relationships with stakeholders at all levels.
+content	project	  Actively involved in Improving performance, scalability and security of the application.
+content	project	Dec 2009 – June 2011 [1.6 years]
+content	project	  Reviewing and delivering Technical Architecture, Design documents, Data Modeling
+content	project	  Architecting  new  requirements  as  per  the  customer  requirement  and  effectively  implementing  change
+content	project	Implemented configuration management process
+content	project	June 2008 – Aug 2008 [3months]
+header	project	Senior Consultant
+content	project	  Understand the overall system requirement.
+content	project	  Understand the overall system requirement.
+content	project	Involved in estimation of change requests, new modules, and activity duration estimation.
+content	project	  Document all technical requirements and design technical solutions utilizing enterprise.
+content	project	  Actively involved in writing base documents/user documents.
+content	project	Involved in DBA activities (played DBA role).
+content	project	Involved in screen development with HTML, JSP, Java and JavaScript
+content	project	Oct 2003 – Oct 2004 [1 year]
+content	project	  Building the Process flow.
+content	project	  Writing base documents/user documents
+content	project	  Wrote Java programs for data migration and verification
+content	project	  Provided business analysis support and technical support and guidance to customers
+content	project	  Project environment setup in Linux
+content	project	Few major assignments
+content	project	Involved in screen development with HTML, JSP, Java and JavaScript
+content	project	April 2018 to Jan 2019
+content	project	bugs, Using AWS
+content	project	Travlogix –A Complete ERP solution for Travel Agencies right from booking, reservation, payment and ticket
+content	project	issuing. Technical requirements to create and manage a Supplier & Customer using this Travlogix. Supplier can
+content	project	Below are major modules integrated with 3rd party services -
+content	project	1) Flights - major GDS providers integrated (Galileo, Sabre, UAPI, Amadeus & Multiple LCC providers)
+content	project	All provider integrations were done using micro services by consuming third party API calls. Internal sync
+content	project	services to sync with legacy back office system. Automation of flows (auto cancellation PNR retrieval etc) is
+content	project	done using Quartz Scheduler integration.
+content	project	ITRS (India Tax Registers Solution)
+content	project	Mar 2016 to Mar 2018
+content	project	India Tax Registers Solution [ITRS] is a web based solution being developed from scratch for various tax
+content	project	submissions to the Government of India. This system helping all Ford India plants to produce various tax
+content	project	related reports RG1, RG23A and RG23C to overcome the manual process.
+content	project	GDDS (GAPS Document Distribution Solution)
+content	project	Mar 2015 to Feb 2016
+content	project	GAPS Documents Distribution Solution (GDDS) is a web based solution being developed from scratch
+content	project	for generating e-documents for Ford of South Africa, Australia and New Zealand based on the market specific
+content	project	CMR (Contract Margin Review)
+content	project	GE - Transportation, USA
+content	project	Feb 2014 to Feb 2015[1year]
+content	project	Project Lead
+content	project	This project involves in enhancements and upgrades in Contract Margin Review System which acts as
+content	project	a repository and source of the Locomotives Billing for each month and its contract details of each customers
+content	project	to whom GE sold out its locomotive. This application contains modules names admin, Locomotive reports and
+content	project	contract details of customers, user can view and navigate to the different information which associated with
+content	project	Locomotives and contract details of its. System has the capability to generate various locomotive report
+content	project	requested by user providing different criteria based on the existing business rule.
+meta	others	reachsenthilkumarr@gmail.com || +91 805 695 6655
+meta	others	reachsenthilkumarr@gmail.com | +91 805 695 6655
+meta	others	 Resume: Senthilkumar Kandasamy
+meta	others	Chennai, India
+meta	others	 Page 2 | reachsenthilkumarr@gmail.com | +91 805 695 6655
+meta	others	 Resume: Senthilkumar Kandasamy
+meta	others	Chennai, India
+meta	others	Chennai, India
+meta	others	Chennai, India
+meta	others	Chennai, India
+meta	others	 Page 3 | reachsenthilkumarr@gmail.com | +91 805 695 6655
+meta	others	 Resume: Senthilkumar Kandasamy
+meta	others	Chennai, India
+meta	others	Chennai, India
+meta	others	  Writing business logic with Stateless Session Bean and Java
+meta	others	 Page 4 | reachsenthilkumarr@gmail.com | +91 805 695 6655
+meta	others	 Resume: Senthilkumar Kandasamy
+meta	others	 Page 5 | reachsenthilkumarr@gmail.com | +91 805 695 6655

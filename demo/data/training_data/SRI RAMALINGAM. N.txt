@@ -1,0 +1,220 @@
+meta	others	SRI RAMALINGAM. N
+meta	others	New No.168, Mettu Street,
+meta	others	Attarambakkam Village,
+meta	others	Odappai Post, Tiruvallur Dt,
+meta	others	Tamil Nadu, India,
+meta	others	Pin-602 023.
+meta	others	Email: sriramalingamn@gmail.com
+header	others	Carrier Objective
+content	others	Seeking  a  challenging  position  that  allows  me  to  perfect  my  skills  in  the  field  of  Software
+content	experience	Developer.  I  want  to  work  with  your  progressive  organization  where  I  can  utilize  my  experience  of
+content	experience	(around 4 .5 years) knowledge and skills for the mutual benefit of the company and myself.
+content	experience	➢  Currently working at HotelHub LLP at Silk Board, Bengaluru, as a JAVA Plug-in developer.
+content	experience	➢  I was worked at Till and Aisle Technology at Kolathur, Chennai, as a JAVA / J2EE developer.
+content	experience	➢  I was worked at Geetham Software Pvt Ltd at Kolathur, Chennai, as a JAVA developer.
+header	experience	Experience Summary
+content	experience	(Around One Year).
+content	experience	(One Year and Seven Month).
+content	experience	(One Year and Eleven Month ).
+header	project	Project Worked
+header	project	Project Title
+header	project	Company
+header	project	Customer
+header	project	Domain
+header	project	Period
+content	project	GDS Plug-in  [Connect Hotel NG]
+content	project	HotelHub LLP,
+content	project	Multiple Clients
+content	project	Travell,
+content	project	June-2018 to till date.
+header	others	Description
+content	others	We developed plug-in application to promote hotel availability. To do this,
+content	others	we are listen the list of cryptic command from GDS  terminal, if the commands are
+content	others	listed  in  the  app  store,  we  stop  the  command  and  process  the  data  as  per
+content	others	requirement,  then  control  return  back  to  the  GDS,  based  on  the  information
+content	others	collected from GDS, we are display the Promotional window.  Connect Hotel NG
+content	others	is not only for displaying promotional offers, but also we can able to complete all
+content	others	hotel  booking  related  transaction,  without  minimizing  the  GDS  terminal.  To
+content	others	achieve this we integrated browser plug-in, inside the gds terminal and open the
+content	others	browser window. The GDS terminal is type of Eclipse application, there we can do
+content	others	whatever we doing the eclipse Id like typing command and displaying UI in view
+content	others	part.  This application  is not  a standalone  application, because which  runs  inside
+content	others	the GDS terminal. It is used by the corporate peoples who are doing their business
+content	others	travels.
+header	others	Technology
+header	others	Role /
+header	others	Responsibility
+content	knowledge	Java 8, Eclipse RCP, Java FX 2 and Agile Methodology
+content	knowledge	➢  Participated  in  project  planning  sessions  with  business  analysts  and  team
+content	knowledge	members  to  analyze  business  IT  Requirements  and  translate  business
+content	knowledge	requirements into working software Application.
+content	knowledge	➢  Implemented Business Delegate layer using POJO objects.
+content	knowledge	➢  UI Designing based on the BA requirement
+meta	others	E-Mail: sriramalingamn@gmail.com |                                                                    Cell: +91 8248156902
+header	project	Project Title
+header	project	Company
+header	project	Customer
+header	project	Period
+header	project	Description
+header	project	Technology
+content	project	Point of Sales [POSx]
+content	project	Till And Aisle Technology Pvt. Ltd., India
+content	project	Multiple Clients
+content	project	June-2016 to till date.
+content	project	POSable is a retail POSX application. It has two applications one is the desktop
+content	project	version where we can have single version of the application or will have multiple
+content	project	instances  in  server  client  model.  The  second  application  is  a  web  application
+content	project	hosted in cloud as SAAS. The desktop server will sync with the web application at
+content	project	configured intervals and also having  ability to push data to stores when data lost
+content	project	on stores. Various reports are generated in the desktop and web application.
+content	project	Java 7, MySQL 5.7, Spring 4.0, Hibernate 4.2, Oracle 12c, AngularJS 1, Bootstrap 4,
+content	project	Tomcat  8.0,  Restful  Webservices  using  spring  MVC,  JavaFX  2,  SVN  1.8,  Agile
+content	project	Methology.
+content	project	➢  Participated  in  project  planning  sessions  with  business  analysts  and  team
+content	project	members  to  analyze  business  IT  Requirements  and  translate  business
+content	project	requirements into working software Application.
+content	project	➢  Designed and developed the project structure using JavaEE in Eclipse Kepler.
+content	project	➢  Used  AngularJS  for  MVC  and  to  develop  user  interfaces  using  services.js,
+header	others	Role /
+header	others	Responsibility
+content	others	controller.js, app.js and html pages.
+content	others	➢  Utilized  Hibernate  for  application  persistence  and  Spring  MVC  for  business
+header	others	Project Title
+header	others	Company
+header	others	Customer
+header	others	Period
+header	others	Description
+header	others	Technology
+header	others	Role /
+header	others	Responsibility
+header	others	logic.
+header	others	objects.
+content	others	➢  Implemented Business Delegate layer using POJO objects.
+content	others	➢  Implemented  Restful  Webservices  which  produces  and  consumes  JSON
+content	others	Transport Income Made Easy (TIME)
+content	others	Geetham Software Pvt Ltd, India
+content	others	Multiple Clients
+content	experience	Nov-2015 to June-2016
+content	others	Our  Goal  is  “Make  Business  owners  to  handle  their  business  very  easy  and
+content	others	Systemized manner for all the activity” Using this software the owner can track all
+content	others	the  business  transaction  happens  in  his  business.  It  contain  Many  features  like
+content	others	Automatic  Mail  and  SMS,  Daily  Backup  of  Business  Transactions,  Accounts
+content	others	Maintenance, Vehicle Maintenance and Service, Payment Tracking, etc.,
+content	others	Java 8 and JavaFx2, MYSQL 5.1
+content	others	➢  Identifying and implementing the use cases.
+content	others	➢  Discussions with product owner regarding use cases and their feasibility.
+content	others	➢  Technical discussion among team members and manage over technical issues.
+content	others	➢  Understanding the flow specifications and developing  project modules.
+content	others	➢  New Features Implementation.
+content	others	➢  Bug fixing and Impact Analysis.
+content	others	➢  Production Supporting.
+content	others	➢  Client Management, Client handling and Demo given.
+meta	others	E-Mail: sriramalingamn@gmail.com |                                                                    Cell: +91 8248156902
+header	project	Project Title
+header	project	Company
+header	project	Customer
+header	project	Period
+header	project	Description
+header	project	Technology
+content	project	Customer Relationship Management System
+content	project	Geetham Software Pvt Ltd, India
+content	project	Multiple Clients
+content	experience	June-2015 to Sep-2015
+content	others	The CRM Software which is mainly developed for textile business owner, to
+content	others	develop their business. Major goal of the project is greet the customer on special
+content	others	occasions like birthday, wedding anniversary, etc. While doing like these activity
+content	others	they  we  keep  good  relationship  with  customer,  then  the  customer  frequently
+content	others	keep business with us.
+content	knowledge	Java 7 and JavaFx 1.0 , MySql 5.1
+content	others	➢  Identifying and implementing the use cases.
+content	others	➢  Discussions with product owner regarding use cases and their feasibility.
+content	others	➢  Technical  discussion  among  team  members  and  manage  over  technical
+header	others	Role /
+header	others	Responsibility
+header	others	issues.
+content	others	➢  Understanding the flow specifications and developing  project modules.
+content	others	➢  New Features Implementation.
+content	others	➢  Bug fixing and Impact Analysis.
+content	others	➢  Production Supporting.
+content	others	➢  Client Management, Client handling and Demo given.
+header	education	Academic Qualification
+header	education	Qualification
+header	education	Institution Name
+content	education	MCA
+content	education	BCA
+content	education	HSC
+content	education	SSLC
+content	education	Sri Venkateswara College of
+content	education	Engineering and Technology,
+content	education	Tiruvallur.
+content	education	Thiru-Murugan Arts and Science
+content	education	College, Tiruvallur.
+content	education	Goudie Higher Secondary School,
+content	education	Tiruvallur
+content	education	Goudie Higher Secondary School,
+content	education	Tiruvallur.
+header	education	Year of
+header	education	Passing
+header	education	Percentage
+content	education	2014
+content	education	78%
+content	education	2011
+content	education	2003
+content	education	2001
+content	education	78%
+content	education	89%
+content	education	48%
+header	education	Additional Qualification
+content	education	October – 2005.
+content	education	➢  Diploma  in  Teacher  Education,  Completed  with  79%  from  September  –  2003  to
+content	education	➢  Diploma in PGHDCA, Completed with First Class from July – 2006 to June – 2007.
+content	education	➢  Diploma  in  DTP,  Completed  with  First  Class  form  September  –  2007  to  February–
+content	education	2008.
+header	knowledge	Programming Language Skill
+content	knowledge	➢  Java 8, Eclipse RCP
+content	knowledge	➢  JavaFX 2.0 Programming
+content	knowledge	➢  MySql 5.7
+header	others	Certification Done
+content	knowledge	➢  Core Java, Certified by Arcus Infotech , from May-2014 to Sep-2014.
+content	knowledge	➢  Pc Technician-A+, Certified by CompTIA, Award: R111118600054,  from  Jun-2010 to
+content	knowledge	➢  Network Technician-N+, Certified by CompTIA, Award: R111118600054, Sep –2010 to
+content	knowledge	Aug- 2010.
+content	knowledge	Nov-2010.
+meta	others	E-Mail: sriramalingamn@gmail.com |                                                                    Cell: +91 8248156902
+content	others	Awards and Honors
+content	others	➢  Volleyball and Football Winner in College level.
+content	others	➢  Technical Quiz Second Prize in SVCE, Sriperumbudur.
+content	others	Computer Skill
+content	others	➢  OS: Windows 9X series, Ubundu, Linux,
+content	others	➢  Good knowledge in  MS-Office, Photoshop, PageMaker, Internet Surfing
+content	others	Extracurricular & Volunteer Activities
+content	others	➢  Organizing National level Conference and Technical Symposiums.
+content	others	➢  Participating all College Technical Symposiums.
+content	others	➢  Red Ribbon Club Member in Thiru-Murugan Arts and Science College.
+content	others	➢  Football and Volley Ball Team Caption.,  Playing  Carom, Cards and Chess.
+header	others	Languages
+meta	others	Tamil
+meta	others	English
+meta	others	Telugu
+meta	others	Reading
+meta	others	Writing
+meta	others	Speaking
+header	others	✓
+header	others	Date of Birth
+header	others	Marital Status
+header	others	Nationality
+header	others	Phone Number
+meta	others	E-Mail
+meta	others	:  25-March-1985
+meta	others	:  Single
+header	others	:
+meta	others	Indian
+meta	others	:  044 2763 9535
+meta	others	:  sriramalingamn@gmail.com
+content	others	I hereby declare that the above information is true to the best of my Knowledge and belief…
+content	others	Place : Attarambakkam                                                                                        Yours Faithfully
+header	others	Date :                                                                                                                     N.SRI RAMALINGAM
+header	others	Languages Known
+header	others	Personal Information
+content	others	Declaration
+meta	others	E-Mail: sriramalingamn@gmail.com |                                                                    Cell: +91 8248156902

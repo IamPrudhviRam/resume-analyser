@@ -1,0 +1,148 @@
+content	experience	Experienced Test Manager with 12.6 years of expertise in Agile Project
+content	experience	Delivery and Test Management. Worked in Complex, Dynamic, Onsite-Offsite
+content	experience	•  Experience in Ecommerce testing - Site navigations, SEO, A/B Testing, Google
+content	experience	: Exposure to Quick Test Professional 8.5
+content	experience	sizing and task definitions
+content	experience	Identified and mitigated team risks and impediments (Blocking Issues, Critical
+content	experience	preparation of Test Strategies, Test planning, monitoring and controlling of the
+content	experience	navigations, performing A/B testing in Ecommerce site
+content	experience	▪  Automation using QTP, Selenium
+content	experience	▪  Performance Testing using IBM RPT & VSTS
+content	experience	o  Experience in End-to-end testing and test management for large e-commerce
+content	experience	Field Force Management (FFM) is the management of Field Force Representatives, who
+content	experience	•  As Automation Test Analyst (HCL – SAGE ABRA HRMS)
+content	experience	•  As Defect Manager (HCL - SAGE ABRA HRMS)
+content	experience	•  As Test Analyst (HCL - EMC Documentum – Localization testing)
+header	education	Career Profile
+content	education	•  Bachelor of Engineering - Computer Science
+content	education	•  HSC – Velammal Matriculation HSC
+content	education	•  SSLC – Velammal Matriculation HSC
+content	education	(2000) – 91%
+content	education	(1998) – 89%
+header	education	Certifications
+content	knowledge	teams with project environments using Agile / SCRUM / Waterfall methodologies
+content	knowledge	•  Scrum Master Accredited Certified – SMAC
+content	knowledge	•  Proficient    in  Functional,  System  Integration,  GUI  Testing,  Regression,
+content	knowledge	Browser  Compatibility,  Mobile  Applications  testing,  E2E  testing  and
+content	knowledge	Localization testing
+header	knowledge	Technical Skills
+content	knowledge	•  Test Methodologies
+header	knowledge	•  Version control Tool
+content	knowledge	: PSFT, Siebel (Siebel eConsumer Goods,
+content	knowledge	HnM is a Swedish multinational Retail-clothing company, known for its fast-fashion
+content	knowledge	o  Support team in testing functional changes, tracking metrics in GA, SEO, Site
+content	knowledge	various environments (SQL, VFP) and on multi browser testing
+content	knowledge	Documentum Products, in Asian & European Languages. Localization Testing is mainly
+content	knowledge	and Web based products
+content	knowledge	•  Web Publisher, WebTop
+content	knowledge	•  HCL Technologies Ltd - Nov 2004 – Nov 2006
+content	knowledge	•  Scrum Master Accredited Certification (SMAC)
+content	project	•  Successfully executed assignments in the capacity  of Scrum Master and as a
+content	project	Test Manager on Agile Methodology
+content	project	•  Acted as Scrum Master for Product teams with a focus on guiding the teams
+content	project	towards improving the way they work
+content	project	•  Experience  in  Managing  Complex  Ecommerce  Testing  projects  involving
+content	project	Automation using QTP & Selenium and Performance testing using IBM RPT
+content	project	•  Test management Tools
+content	project	•  Automated Test Tools
+content	project	•  Performance Test Tools
+content	project	•  Content Management System
+content	project	: Retail, Telecom
+content	project	: Exposure to VSTS, IBM RPT
+content	project	: Waterfall Model , Agile – SCRUM model
+content	project	Testing, Sales force applications, Wipcore
+content	project	Page 1 of 5
+content	project	Key Responsibilities held:
+content	project	•  As Scrum Master :    (Sweden – TCS – HnM)
+content	project	platform for H&M owned brands (COS, Monki, & Other Stories, Weekday and Cheap
+content	project	Monday). The system includes everything from selling online to picking, shipping to
+content	project	customers and handle purchase orders and goods receipt
+content	project	o  Organized  and  facilitated  Sprint  Planning,  Daily  stand-up  meetings,
+content	project	Reviews, Sprint Retrospectives, Demos and other Scrum-related meetings
+content	project	o  Handled  Scrum  for  multiple  Business  teams  (COS,  Monki,  &  Other  Stories,
+content	project	Weekday and Cheap Monday) in parallel and performed the Scrum activities for
+content	project	o  Participated  in  Backlog  grooming  meetings  and  Sprint  planning  for  every
+content	project	Sprint Management using JIRA to plan, track, release & report the Iteration
+content	project	o  Monitored the project progress and radiated the information to all key stake
+content	project	Defects) on daily basis.
+content	project	o  Worked  with  customers  and  product  managers  to  prioritize  and  validate
+content	project	requirements.
+content	project	o  Present Release Demo to Business team and Client stakeholders
+content	project	o  Assisted with prioritization and resolution of software defects
+content	project	team's interaction with them
+content	project	o  Coached Product Owners in creation and maintenance of Product Backlog
+content	project	o  Coached team members on Agile principles and providing general guidance
+content	project	on the methodology
+content	project	o  Removed  impediments  by  finding  the  right  personnel  to  remove  the
+content	project	progress to all affected teams and management
+content	project	o  Updated Agile tracking systems to provide transparency on product and sprint
+content	project	o  Worked  with  the  Scrum  Team  and  the  Product  Owner  to  negotiate  the
+content	project	minimum viable product for delivery
+content	project	Page 2 of 5
+content	project	•  As Test Manager (TCS – HnM - Sweden)
+content	project	o  Responsible  for  the  overall  test  activities  including  Test  Estimations,
+content	project	Test deliverables
+content	project	o  Engagement  with  multiple  3rd  Party  suppliers  and  testing  teams  across
+content	project	different delivery centers.
+content	project	o  Overseeing on Test Automation need where appropriate and guided team in
+content	project	o  Performance testing of the web applications post each sprint & performance
+content	project	reports shared to customers
+content	project	o  Project  Management  and  the  Test  Management  activities  monitored  using
+content	project	o  Experience in Managing Complex Online Testing projects involving
+content	project	Involved in performing External Quality Audits on Test deliverables
+content	project	o  Ability to lead onsite / offshore testing teams.
+content	project	o  Experience of client facing roles.
+content	project	o  Training new test team members and getting them productive quickly
+content	project	•  As Test Lead (TCS – Butterfly Migration Project Hutch to VHA)
+content	project	Vodafone Hutchison Australia is a joint venture between Hutchison Telecommunications
+content	project	(Australia) and the Vodafone Group (which is based in the UK). The Brand & Customer
+content	project	Migration is a multi-phase strategy that results in VHA offering customers on the 3 brand
+content	project	the opportunity to upgrade on the Vodafone brand. Butterfly is a key enabler to support this
+content	project	phase of VHA’s strategy for Customer Migration from the 3 brand to the Vodafone brand
+content	project	o  Analyzed requirements and provided WBS estimation for requirements
+content	project	Involved in creation of work packages, Detailed Test Plan& Estimations
+content	project	Involved  in  better  understanding  of  the  requirements  and  responsible  for
+content	project	deriving the environmental and data needs across platforms
+content	project	on planned deliverables
+content	project	Page 3 of 5
+content	project	•  As UAT Test Coordinator : (Singapore – TCS – Nokia)
+content	project	Retail Net provides end-to-end business process for Nokia’s Field Force Management and
+content	project	Retail Net initiatives as per the industry standard.
+content	project	gather information from Point of Sales (POS retailers).
+content	project	Retail Promotional Planning (RPP) process is to support getting the right product, in the
+content	project	right store, at the right time, as well as promoting it in-store.
+content	project	o  Ensured the readiness of the UAT Test Environment
+content	project	o  Trained the UAT team on the application and the defect reporting
+content	project	o  UAT Communication Kit (including the UAT Test cases, Schedule, Test Data
+content	project	& login details) been distributed to the UAT test team before the Acceptance
+content	project	o  Tracked defects reported by the UAT team & assigned to the appropriate team
+content	project	for the defect fixes
+content	project	o  Organized  the  status  meetings  and  adhered  rigorously  to  the  meetings
+content	project	o  Ensured  test  completion  of  the  releases  by  obtaining  timely  Sign-off  from
+content	project	o  Responsible  for  preparation  of  UAT  completion  report  and  overall  test
+content	project	completion report
+content	project	Involved in the Enhancement of Automation Framework
+content	project	facilitating  meetings
+content	project	o  Coordinated with various team to ensure to resolve defects on time
+content	project	o  Engaged  stakeholders  to  provide  the  required  level  of  participation  in
+content	project	Page 4 of 5
+content	project	Documentum Localization Testing QA (L10N) is involved in testing several EMC
+content	project	Involved  in  Localization  testing  (Spanish/French)  of  the  Documentum client
+content	project	o  Setting  up  the  environment,  which  includes  Installation/Configuration  of
+content	project	Client / Server / App Server
+content	project	Identifying Test Scenarios, breaking them into granular test cases
+content	project	Documentum client and web based products tested
+content	project	•  BPM – Business Process Manager
+content	project	•  Tata Consultancy Services Ltd  - Dec 2006 – June 2017
+content	project	o  Scrum Master / Test Manager / Test Lead
+content	project	o  Test Lead / Defect Manager / Test Analyst
+content	project	Page 5 of 5
+meta	others	Resume of Subhashini P
+meta	others	Mobile:  +91 9884060412
+meta	others	Email: psubhashini08@gmail.com
+meta	others	Communication for Mobile Carriers, Siebel
+meta	others	Resume of Subhashini P
+meta	others	Resume of Subhashini P
+meta	others	transformation programs
+meta	others	Resume of Subhashini P
+meta	others	Resume of Subhashini P

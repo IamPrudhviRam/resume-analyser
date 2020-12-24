@@ -1,0 +1,113 @@
+content	experience	of professionals with sincerity, creativity and dedication.
+content	experience	Over ​3.5 years ​of experience in developing ​framework based web applications.
+content	experience	✔ Hands-on experience in Object oriented programming, Software designing, development, analysis,
+content	experience	✔ Experience in implementation of ​Rest web service APIs ​using ​Spring​, ​SpringBoot​, ​Microservice, Maven, Gradle,
+content	experience	✔ Experience in Writing query, functions and procedures using ​MySQL​ and ​PL/SQL​.
+content	experience	✔ Experience in configuring ​Jenkins, GIT (CICD Tools).
+content	experience	✔ Worked in various IDEs like ​Intellij IDEA, STS​ and ​Visual Studio ​code.
+content	experience	✔ Experience in various tools like ​Postman, VersionOne.
+header	experience	Work Experience
+content	experience	1. Working as Associate Software Engineer at ​Hexaware Technologies Ltd., ​from March 2018 – till date.
+content	experience	2. Worked as Software Developer at ​Yakkay Technologies Pvt Ltd., ​from August 2016 – March 2018.
+header	experience	​Area of Experience
+content	experience	SNAPP Rewrite ​(March 2018 – till date)
+content	experience	teams and users send a request to join the existing teams.
+content	education	B.E. Computer Science and Engineering
+header	education	Qualification
+content	education	Sri Muthukumaran Institute of Technologies, Anna
+content	education	University.
+content	education	Kalaimagal Matriculation Higher Secondary School
+content	education	DBTR National Higher Secondary School
+content	education	Year of Passing
+content	knowledge	Intend to associate with an organization that provides an opportunity to build a career with a leading corporate,
+content	knowledge	✔ Skilled in developing responsive UI using ​Angular 6/7/8, Angular Material, ngrx/store, JSP, HTML, CSS, Bootstrap
+content	knowledge	and​ ​Scripting languages like ​JavaScript, Typescript.
+content	knowledge	✔ Knowledge in developing standard code for web/enterprise application in ​JAVA (J2EE) ​technology.
+content	knowledge	✔ Knowledge in writing ​JUnit ​test case for server-side and Jasmine (​Karma Scripts​) for UI-side.
+content	knowledge	✔ Basic knowledge On Creating Instance Deploy and run the Application in ​AWS​.
+content	knowledge	✔ Have implemented ​Swagger ​to create YAML language for hierarchical configuration.
+header	knowledge	Technologies
+content	knowledge	:  Angular 4+, Java, Spring MVC, Spring Boot, Maven, Gradle, Web services, Microservice,
+content	knowledge	MySQL, PL/SQL, HTML, CSS, Bootstrap, Angular Material, JavaScript, Typescript, Karma,
+content	knowledge	Operating Systems
+content	knowledge	:  Windows 7/8/10, Ubuntu 14.04Lts
+content	knowledge	QA testing tool
+content	knowledge	Intellij, STS, Visual Studio Code
+content	knowledge	:  Postman, WinSCP, FileZilla
+content	knowledge	Web/App Server
+content	knowledge	:  Apache Tomcat/ WebSphere
+content	knowledge	:  GIT, Jenkins, SVN
+content	knowledge	Methodologies
+content	knowledge	:  Agile, Safe-Agile, Kanban
+content	knowledge	Single Network Application (SNAPP) is developed for Airport & Cargo Services that provides
+content	knowledge	interface. SNAPP is used at Gates, Lobby, Curb, Bag Drop & back-office
+content	knowledge	Intellij IDEA, Postman, WinSCP, FileZilla, Eclipse(Helios), VersionOne, SQL developer
+header	knowledge	Technologies
+content	knowledge	Angular 6, Java, SpringBoot, Rest API, Karma Scripts, JUnit, SQL queries, Jenkins, SonarQube,
+content	knowledge	TS Lint, GIT lab
+content	knowledge	● Implementing ​Rest Web Services ​with SpringBoot
+content	knowledge	● Developing the UI & API services to fetch data from ​ngrx/store and Database
+content	knowledge	● Involved in ​defect fixing ​by doing root cause analysis
+content	knowledge	● Used ​Karma Scripts ​for Client side (UI) testing & ​JUnit ​for server side (API) testing
+content	knowledge	● Sharing ​Domain (functional) & Technical knowledge ​to juniors during KT sessions
+header	knowledge	Technologies
+content	knowledge	Spring Tool Suit, Postman, MySQL Workbench, , WinSCP, Putty, Trello, Ngnix
+content	knowledge	● Implementing ​Rest Web Services ​with SpringBoot.
+content	knowledge	● Developing the UI, API services and writing SQL queries to fetch data from
+content	knowledge	● Creating an Instance and upload a war file into ​AWS.​ Start/Stop the AWS instance
+content	knowledge	● Involved in ​defect fixing ​by doing root cause analysis
+content	knowledge	● Sharing ​Domain (functional) & Technical knowledge ​to juniors during KT sessions
+header	knowledge	Languages Known
+content	project	documentation, debugging, unit testing and implementation.
+content	project	✔ Involved in checking the event/session logs using ​WinSCP/ FileZilla.
+content	project	✔ Involved in Code Review, analyzing code quality using ​SonarQube ​and provide possible fixes.
+content	project	✔ Involved in ​Agile​/​Scrum​ development environment and actively Participated in Scrum meetings, Planning and
+content	project	Ability to adapt to new environment and flexible to learn latest technologies
+content	project	:  Oracle DB, SQL server, MySQL
+content	project	:  SonarQube
+content	project	Source Safe tools
+content	project	Project Management
+header	project	Project Experience
+content	project	Associate Software Engineer
+content	project	a common UI and Backend processes. This application supports airport above-the-wing
+content	project	activities and assists the agents to complete the process at the airport with the use of
+content	project	proprietary and for common uses at airports.
+content	project	● Regular interaction with onsite team ​for requirement analysis, specification
+content	project	design and delivery related activities
+content	project	● Active participant ​in Scrum meetings, Spring grooming, Spring Planning, Sizing of
+content	project	user stories and Sprint retrospective meetings
+content	project	● Involved in ​coding and remodeling of screens ​based on business requirements
+content	project	● Performed CRUD operations using ​SQL queries ​to access Database
+content	project	● Ensuring the ​Quality of code ​by unit testing the scenarios before delivery the code
+content	project	● Updating the ​DOD review documents ​in every sprint
+content	project	Perform code reviews and fix issues using ​SonarQube
+content	project	Yakkay Technologies Pvt Ltd.
+content	project	Software Developer
+content	project	Freelancing Teams​ (August 2016 – March 2018)
+content	project	and Backend processes to create or work on projects. This application contains Project
+content	project	creation, Teams creation, Join team and create/work on the proposals.
+content	project	Project Creation: Project owner create features and assign the budget estimates for the
+content	project	Team Creation/Join Teams: Users create their own team and invite other users to join the
+content	project	Create Proposal: ​Team leader can create a proposal for the project and start working on
+content	project	the project features.
+content	project	Payment:​   Users are paid using Stripe/PayPal payment gateway.
+content	project	Java, Spring MVC, SpringBoot, MySQL, GitHub, AWS, JSP, Angular 6, JavaScript, JQuery,
+content	project	● Regular interaction with onsite Manager ​for requirement analysis, specification
+content	project	design and delivery related activities.
+content	project	● Active participant ​in Scrum meetings, Sprint grooming, Sprint Planning, Sizing of
+content	project	user stories and Sprint retrospective meetings.
+content	project	● Involved in ​coding and remodeling of screens ​based on business requirements
+content	project	● Performed CRUD operations using ​SQL queries, Functions, Stored Procedures ​to
+content	project	access Database
+content	project	● Integrating a ​Stripe/PayPal​ Payment gateways into Application.
+content	project	using ​Putty​ Terminal and access the production error log using ​WinSCP​.
+content	project	● Creating the ​Release documents ​in every sprint release.
+content	project	Perform code reviews.
+meta	others	VIJAYASARATHI. G
+meta	others	​Email​: ​vijayasarathi.g1995@gmail.com
+meta	others	Phone no: +91-​7401650422
+meta	others	Date of Birth
+meta	others	Marital Status
+meta	others	Nationality
+meta	others	:  Tamil, English
+meta	others	:  2/422, Padmavathy Nagar, Near Padmam School, Medavakkam, Chennai – 100.

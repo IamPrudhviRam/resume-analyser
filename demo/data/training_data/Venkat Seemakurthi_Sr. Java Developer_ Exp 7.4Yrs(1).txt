@@ -1,0 +1,48 @@
+content	experience	7.4 years of IT experience as ATG/Java J2EE Developer.
+content	experience	Very good exposure to Oracle ATG Web Commerce in Telecom & Retail domain.
+content	experience	Experience in Analysis, Design, Coding, Testing and Integration of full life cycle software projects using ATG, Java, J2EE, JSP, Servlets, SQL, ANT.
+content	experience	Experience in Web Services including SOAP and Restful.
+content	experience	Experience in Agile methodology.
+content	experience	Experience in code reviews and suggests optimum solutions\code flow.
+content	experience	Experience in Web Logic, JBOSS and Web Sphere application servers.
+content	experience	Expertise in analytics tools called site catalyst, Dynatrace.
+content	experience	Strong experience in UI design and development using HTML, CSS, JavaScript.
+content	experience	Strong experience to work in Windows environment.
+content	knowledge	Excellent analytical, problem solving, presentation, communication skills and a dedicated team player.
+header	knowledge	Technical Skills:
+content	knowledge	Achievements: Received Best Employee award for the year. Got very good feedback from Sr.Director level for fixing the issues very effectively.
+content	knowledge	Environment: Java, Play and Akka framework, Scala templates, JPA, JMS
+content	knowledge	Developed UI using HTML, JavaScript, and JSP, and developed Business Logic and Interfacing components using Business Objects, XML, and JDBC
+content	knowledge	Environment & Technologies: Spring-MVC , DB2,JSP, Servlets, HTML, Javascript.
+content	knowledge	Created rich UI for excellent E Commerce application.
+content	knowledge	JSP , JavaScript , Servlets , Spring.
+content	project	Extensively involved in Development and Maintenance of J2EE and ATG Commerce based ecommerce stores and applications.
+content	project	Experience as a Developer for an ecommerce implementation in ATG for the world’s largest Retailers in US(Verizon wireless)
+content	project	Received spot light awards for two consecutive years.
+content	project	Role: Java Developer by using Spring Boot
+content	project	Project: Transfer your Service
+content	project	Developed components in different modules and handled change request, bugs.
+content	project	Developed various beans for handling business logic and data.
+content	project	Developed in design Html templates and navigation among modules.
+content	project	Environment: Java, Spring Boot, MicroServices, Redis, Ngnix,Docker, Kubernetes
+content	project	Role: Java Developer by using Play and Akka
+header	project	Project: NSE
+content	project	Developed components in different modules and handled change request, bugs.
+content	project	Developed various beans for handling business logic and data.
+content	project	Developed in design scala templates and navigation among modules.
+content	project	Role: Java Developer
+content	project	Project: UFD-TYS
+content	project	Unified flow Designer is a solution in creating anything from simple to complex flows by using an IDE which provides tools to Graph your business logic and then associate the user experience within the flow. Flows created in UFD and deployed within a UFD complaint application will typically required no traditional coding.
+content	project	Developed components in different modules and handled change request, bugs.
+content	project	Developed various beans for handling business logic and data
+content	project	Involved in design of JSP's and Servlets for navigation among the modules.
+content	project	Environment: Java, JPA, Oracle,Web Logic Application Server,HTML,CSS
+content	project	Role: J2EE developer
+content	project	Project: Registry
+content	project	Project: Profile & Preferences
+content	project	Role: J2EE developer
+content	project	Project : Mini Ecom Application
+content	project	Worked on building templates and Pages for Ecom Site as POC.
+content	project	Worked on “Adding Product” functionality in Catalog Admin project, developed Add to Bag functionality and build one of the best feature “Product zoom in”.
+header	project	Environment & Technologies:
+meta	others	+91- 8309803138

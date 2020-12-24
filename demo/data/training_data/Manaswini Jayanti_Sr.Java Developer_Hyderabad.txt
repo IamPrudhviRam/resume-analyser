@@ -1,0 +1,66 @@
+content	experience	9.5 Years at
+content	experience	•  Tata Consultancy Services (Dec 2009  - Present)
+header	education	ACHIEVEMENTS & CERTIFICATIONS
+content	education	●  Gold  medallist  in  Bachelor  of  Technology  in  Computer  Science  &  Engineering  at  VR  Siddhartha
+content	education	Acharya Nagarjuna University, Guntur
+content	education	Engineering College, Vijayawada with an aggregate of 91.4%
+content	education	●  Intermediate education (Class XII) at Nehru Niketan Junior College, Tenali with an aggregate of 96.3%.
+content	education	●  Schooling at St.Annes’ High School, Warora, Maharashtra with an aggregate of 86%.
+meta	knowledge	Flat 401, Aadhi Shakthi Heights,
+content	knowledge	NGOs  theme  among  16  other  teams  (110  participants)  for  the  “VOLMAN  -  Volunteer  Management
+content	knowledge	●  Shaping-up-with-angularjs and NodeJs basics certifications awarded by Code School academy
+content	knowledge	●  Oracle Certified Java Developer 6
+content	knowledge	●  Oracle Certified PL/SQL Developer
+content	knowledge	●  Python Programming certification from Coursera
+content	knowledge	●  Automated SOAP Web Services using SoapUI and QTP Scripts.
+content	knowledge	●  Automated Web UI using Selenium , SeeTest and did a POC on Protractor to automate Angular Projects.
+content	knowledge	●  Worked  extensively  on  continuous  integration  tools  and  deployment  pipelines  using  Atlassian  Bamboo
+content	knowledge	and Jenkins.
+content	knowledge	for SalesProcessService Project and showed tremendous increase of 40% in the Overall Pass Percentage.
+content	knowledge	●  Awarded  TCS  on  the  spot  award  for  leading  Weblogic  to  JBoss  Migration  and  being  involved  in  the
+meta	knowledge	Flat 401, Aadhi Shakthi Heights,
+header	knowledge	LANGUAGES AND TECHNOLOGIES
+content	knowledge	TOOLS N TECHNOLOGIES: REST, GIT, SOAP Web services, Spring, Spring-boot, Spring MVC, Hibernate,
+content	knowledge	Spring data  JPA, Caching with  Ignite,  QTP Scripting, Selenium, Maven, Junit, Atlassian suite(JIRA,
+content	knowledge	Confluence, Bamboo)for collaboration, Tomcat Application Server 8.
+content	knowledge	IBM Websphere Application Server, JBoss server and WebLogic.
+content	knowledge	●  Graduate  Coursework:  Software  Engineering,  Computer  Architecture,  Algorithms,  Programming  basics
+content	knowledge	and Languages such as C, C++ and Java, Operating Systems, Databases and Soft Skills.
+meta	project	Phase 3, Near Bhargavi Hospital,
+content	project	●  FIRST PRIZE WINNER at the OpportunityHack event held at PayPal, Chennai in November, 2015 based on
+content	project	System” application
+content	project	●  Migrated jQuery based frontend projects to Angular JS which addresses Passenger Grievances travelling
+content	project	Jan 2016 – Present
+content	project	via American Airlines.
+content	project	●  Developed Microservice architecture based applications using Spring and Spring Boot which uses IBM MQ.
+content	project	●  Worked with Angular 2 on my own as a pet project.
+content	project	●  Awarded TCS on the spot award within 5 months of moving from Automation to Java development and
+content	project	learning Angular on my own and contributing towards both frontend and backend development .
+content	project	Test Automation Developer
+content	project	Dec 2012 – Jan 2016
+content	project	●  Being a Java developer till then, learnt Automation technology and automated the Regression Test Suite
+content	project	Java/J2EE Developer
+content	project	●  Awarded TCS BEST Team award for delivering continuous defect-free Enhancements within one year of
+content	project	April 2010 – Dec 2012
+content	project	joining TCS.
+content	project	migration right from analysis phase till Production.
+content	project	●  Developed a stored procedure to read XML data and write it to Excel thus reducing lot of manual effort.
+meta	project	Phase 3, Near Bhargavi Hospital,
+content	project	LANGUAGES: Java, HTML, AngularJS, Angular, JavaScript, CSS,  AJAX,  Jquery, SQL, XML
+meta	others	Flat 401, Aadhi Shakthi Heights,
+meta	others	Plot no. 192 & 193, Kalyan Nagar
+meta	others	Phase 3, Near Bhargavi Hospital,
+meta	others	Moti Nagar, Hyderabad – 500018.
+meta	others	Mobile - (+91) 9566068246
+meta	others	Alt. contact- (+91) 9566068048
+meta	others	Email:ch.manaswini@gmail.com
+meta	others	Full Stack Developer
+meta	others	Offsite – Chennai)
+meta	others	Flat 401, Aadhi Shakthi Heights,
+meta	others	Plot no. 192 & 193, Kalyan Nagar
+meta	others	Phase 3, Near Bhargavi Hospital,
+meta	others	Moti Nagar, Hyderabad – 500018.
+meta	others	Mobile - (+91) 9566068246
+meta	others	Alt. contact- (+91) 9566068048
+meta	others	Email:ch.manaswini@gmail.com
+meta	others	Vijayawada, Andhra Pradesh

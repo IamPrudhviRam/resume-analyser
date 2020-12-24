@@ -1,0 +1,71 @@
+content	experience	Over 5+ years of experience in software development includes understanding and development of Web-based applications using Java/J2EE technologies.
+content	experience	Hands on experience in developing Microservices using SpringBoot and deploying on cloud.
+content	experience	Experience in design and development of multi-tier applications using Java, J2EE, Struts, Hibernate, Spring, JavaScript, SpringBoot, Tag Libs, AJAX, Testng, and JQUERY.
+content	experience	Worked on different Application and Web Servers like Oracle Web logic Server, Apache Tomcat.
+content	experience	Extensive experience in different IDEs like My Eclipse, Eclipse and Eclipse Neon.
+content	experience	Experience in web application design using open source MVC, Spring and Struts Frameworks
+content	experience	Experience in using MVC (Model View Controller) architecture for developing applications using JSP, Java Beans and Servlets.
+content	experience	Experience with Spring Frame Work 3.0 including Spring MVC.
+content	experience	Strong experience of developing data models using Hibernate POJO's and configuring Hibernate persistence layer.
+content	experience	Experience in using RDBMS concepts with Oracle 9i/10g and MySQL
+header	experience	Work Experience:
+content	experience	Working as a Senior Software Engineer for Tech Mahindra PvtLtd, Hyderabad, India since July 2016 to till date.
+header	experience	Professional Experience:
+content	experience	Tech Mahindra Pvt Ltd, Hyderabad, India. July 2016 -present
+content	experience	Participated in Requirements Analysis, and Design and Development phases of the project.
+content	experience	Accenture Services Pvt Ltd, Hyderabad, India. November 2013- February 2016
+content	education	Masters in Software Engineering Stratford University, U.S.A. December 2008.
+content	knowledge	Self-motivated with strong interpersonal, written/oral communication skills and capable of working independently as well as in a team.
+content	knowledge	Programming Languages: Java 5/6, HTML, UNIX, SQL, HQL, Oracle 9i
+content	knowledge	Application Software’s: DBMS, HTML, UML, J2EE, ORACLE
+content	knowledge	J2EE Frameworks: Spring 3.x, Spring Boot, Hibernate 3.x, TestNG
+content	knowledge	Operating System: UNIX, WIN 9x/XP/2000, LINUX.
+content	knowledge	Tools / IDE: Eclipse 3.x, My Eclipse, Eclipse Neon, Maven, Log4j
+content	knowledge	Application/Web servers: Web Logic, Tomcat 7, Jboss EAP 6.4
+content	knowledge	Web: HTML, XHTML, JavaScript, Ajax, JQuery, JSP
+content	knowledge	Databases: Oracle9/10.x, SQL Server, MySQL
+content	knowledge	Used Apache-CXF framework and Façade-Delegate-Service pattern to refactor the web services.
+content	knowledge	Implemented Java Internationalization (I18N).
+content	knowledge	Environment: Eclipse Neon, Apache-CXF Framework, spring, JBOSS EAP 6.4,jdk1.7, maven, LOG4J, TFS.
+content	knowledge	Worked with Hibernate for object relational mapping and connection management.
+content	project	Seeking a Java Developer position in Information Technology with a technology-driven organization of repute.
+content	project	Ability to function in a small team where team members typically have multiple responsibilities from development, debug to benchmarking.
+content	project	B. Tech in Computer Science and Engineering Jawaharlal University (JNTU), INDIA May 2006.
+content	project	Worked as a Senior Software Engineer for Accenture Service Pvt Ltd, Hyderabad, India since November 2013 to February 2016.
+content	project	Java/J2EE Technologies: Java, JDK, Struts, Spring, Hibernate, Servlets, JSP, JDBC
+content	project	Project: Qatar Airways
+content	project	Role: Senior Software Engineer
+header	project	Project Description:
+content	project	Self-check-in KIOSK – The new design of self-check-in KIOSK serve to enhance the check-in experience for all passengers and significantly improve the efficiency of the check-in process. In order to provide the quick and convenient service, Kiosk Check-in shall be redesigned for passengers to print the boarding pass and baggage tag with minimum number of clicks. This self-check-in process will be more intuitive and the user is prompted in a straightforward, easy, interactive process. The touch screens shall be user-friendly, and provide a stress-free check-in experience
+content	project	Involved in designing & documentation of flows & functional diagrams.
+content	project	Involved in creating UML diagrams, which is needed in developing the application.
+content	project	Implemented different modules in self-check in Kiosk using spring.
+content	project	Used Java and Spring Framework DI for maintaining the backend module.
+content	project	Wiring of the classes was done through spring beans.xml.
+content	project	Performed the code build and deployment using MAVEN.
+content	project	Used log4j for logging information into log files.
+content	project	Used JQuery and JavaScript for front end validations.
+content	project	Involved in resolving issues and done analysis for application.
+content	project	Resolved and fixed system test bugs.
+content	project	Responsible for resolving defect as per the timeline of the module.
+content	project	Project: SuperMedia
+content	project	Role: Java/J2EE Developer
+header	project	Project Description:
+content	project	Dexknows application helps customers to find businesses through search engines like Google, Yahoo and Bing. It actually enhances the business website and online presence to help search engines find and list the business in customers’ search results with Dexknows search engine optimization (SEO) solution.
+content	project	It places business name on top search and shopping sites with our local search engine marketing (SEM) solution. It actually helps to local SEO services, an SEM program, or both. Search of any business in DexKnows uses the DexSearch application which internally uses DexSolr.
+content	project	Used Spring MVC framework at the front end and configured many beans and wired (dependency injection) them as per the requirement.
+content	project	Developed hibernate DAO Classes using Spring JDBCTemplate.
+content	project	Integrated Spring DAO for data access using Hibernate, used HQL and SQL for querying databases.
+content	project	Used the spring container for data source and to load the Hibernate specific classes.
+content	project	Developed scripts which will help to check whether batch jobs are running successfully or not.
+content	project	Used to check the server logs whether there is any issue or not.
+content	project	Involved in resolving issues and done analysis for application
+content	project	Understand the E2E flow of the application and lead as support team lead.
+content	project	Resolved and fixed system test bugs.
+content	project	Involved in Client Meetings and updates.
+content	project	Responsible for resolving defect as per the timeline of the module.
+content	project	Used to check the web application, the web server and the services (http, MySQL, send mail) whether they are running and also used to restart if necessary.
+content	project	Environment: Spring, UNIX, Oracle 10g, Hibernate, SQL, Apache Tomcat7, LOG4J and remedy tool.
+meta	others	Shiv Prasad
+meta	others	Phone: 91-9704673578
+meta	others	E-mail: shivpeta541@gmail.com

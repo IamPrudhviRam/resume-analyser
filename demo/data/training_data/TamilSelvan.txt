@@ -1,0 +1,66 @@
+header	others	RESUME
+meta	others	P.Tamilselvan
+header	others	Email
+header	others	Contact
+meta	others	: selvtamil199807@gmail.com
+meta	others	:6369741254
+header	others	CAREER OBJECTIVE
+content	others	To achieve the challenging position in the industry that provides an
+content	others	opportunity to apply my knowledge and my technical skills for the growth of an
+content	others	organisation.
+header	education	ACADEMIC CREDENTIALS
+content	education	JERUSALEM COLLEGE OF ENGINEERING
+content	education	( 2015-2019)
+content	education	B.E –COMPUTER SCIENCE AND ENGINEERING
+content	education	KURINJI MATRICULATION AND HIGHER
+content	education	SECONDARY SCHOOL
+content	education	(2014-2015)
+content	education	HSC
+content	education	TAGORE MATRICULATION SCHOOL
+content	education	(2012-2013)
+content	education	SSLC
+header	others	SKILLS & ABILITIES
+content	others	➢ Innovative
+content	others	➢ Problem solving ability
+content	others	➢ Team player
+content	others	➢ Positive Attitude
+header	knowledge	TECHNICAL SKILLS
+header	knowledge	AREA OF INTEREST
+content	knowledge	➢ Software testing
+content	knowledge	➢ Software devlopment
+content	knowledge	➢ Software worked on  : Microsoft office
+content	knowledge	➢ Basic Knowledge of
+content	knowledge	: hmtl,javascript,angular
+header	others	ACHIEVEMENTS &AWARDS
+content	knowledge	➢ Got First Prize in Sports (Football) conducted by Jerusalem College of
+content	knowledge	Engineering.
+content	knowledge	➢ Got Second place in running at the time of schooling.
+header	others	WORKSHOP
+header	others	PROJECT
+content	others	➢  Attended workshop on Internet of Things conducted by Robokart at
+content	others	Jerusalem College of Engineering.
+content	others	➢  Project on “Attribute Based Encryption in Financial industry”
+content	others	EXTRA CURRICULAR ACTIVITY
+content	others	➢  Participated in Inter college cricket match
+content	others	➢  Participated as a volunteer in department events
+content	others	➢  Participated in technical events
+header	others	LANGUAGES
+header	others	PERSONAL PROFILE
+content	experience	➢  English
+content	others	➢  Tamil
+content	others	➢ Hobbies
+content	others	➢  Strength
+header	others	➢  Permanent address
+header	others	DECLARATION
+content	others	: Dancing, Signing, Reading books
+content	others	: Self motivated, Responsible towards work,
+content	others	Good communication skill
+meta	others	: S.pudur, sirupakkam(p.o),
+meta	others	Thittakudi(t.k),Cuddalore(d.t)
+meta	others	606108
+content	others	I hereby declare that the details furnished above are true to the best of my
+content	others	knowledge and belief.
+content	others	DATE
+content	others	:
+content	others	PLACE  : Chennai.
+content	others	Signature

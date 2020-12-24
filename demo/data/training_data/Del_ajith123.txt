@@ -1,0 +1,80 @@
+meta	others	AJITH KUMAR B
+meta	others	210-2 Ahrahara street,
+meta	others	Kollumangudi (PO),
+meta	others	Nannilam (TK),
+meta	others	Thiruvarur (DT)- 609 403.
+meta	others	CONTACT: +91 6385845719
+meta	others	EMAIL ID: ajithpriyan111@gmail.com
+header	knowledge	CAREER OBJECTIVE
+content	knowledge	To  learn  and  deliver  my  duties  for  the  effective  functioning  in  organization  and  to  reach
+content	knowledge	responsible position in future, work for the betterment of the company in any circumstances.
+header	education	EDUCATIONAL QUALIFICATION
+content	education	EDUCATION
+content	education	COURSE
+content	education	INSTITUTION
+content	education	BOARD/
+content	education	YEAR OF
+content	education	UNIVERSITY  PASSING
+content	education	PERCENTAGE
+content	education	Under
+content	education	Graduate
+content	education	Higher
+content	education	Secondary
+content	education	SSLC
+content	education	B.E
+content	education	Hindusthan college of
+content	education	(Mechanical
+content	education	Engineering)
+content	education	Engineering and
+content	education	Technology.
+content	education	XII
+content	education	X
+content	education	Sri Sankara Matric Hr.
+content	education	sec school , Peralam.
+content	education	Sri Sankara Matric Hr
+content	education	sec school, Peralam.
+content	education	Anna
+content	education	University
+content	education	May 2018
+content	education	77.1%
+content	education	State Board
+content	education	March
+content	education	2014
+content	education	90.75%
+content	education	State Board  April2012
+content	education	91.8%
+header	knowledge	TECHNICAL SKILLS
+content	knowledge	  Platforms Known                    : Windows, Linus
+content	knowledge	  Programming  Languages      : C, Java
+content	knowledge	  Databases                                 : Mysql, Oracle
+content	knowledge	  Scripting Languages                 : Javascript, Angular Js, Node Js
+header	project	PROJECT PROFILE
+content	project	  Undertaken a Project in ‘’DESIGN AND FABRICATION OF AUTOMATIC
+content	project	STAMPING MACHINE’’
+content	project	  Undertaken a Project in “DEVELOPMENT AND TESTING OF SOLAR WATER
+content	project	HEATER USING PACKED BED ABSORBER PLATE”
+header	knowledge	ACADEMIC ACHEIVEMENTS
+content	knowledge	   I am certified in ANGULAR JS, NODE JS, JAVA SCRIPT from CREDO
+content	knowledge	SYSTEMZ, VELACHERY.
+content	knowledge	  I attend the value added course in the topic of JAVA, which is
+content	knowledge	conducted in our college.
+content	knowledge	   I have depth knowledge in HTML5, CSS3.
+header	others	Extra Curricular Activities
+content	others	  Winner Up in Basketball at Zonal Level Competition for the year (2013-2014).
+content	others	 Runner Up in Basketball at District Level Competition for the year (2012-2013).
+content	others	 Winner Up in Volleyball at Inner School Competition for the year (2012-2013).
+content	others	 Runner Up in Basketball at Inner School Competition for the year (2012-2013).
+content	others	 Played for Thiruvarur District Team in State Level Basketball Competition for
+content	others	the year (2012-2013).
+header	others	HOBBIES
+meta	others	
+meta	others	
+meta	others	  Playing Basketball
+meta	others	  Watching Cricket
+content	others	  Work as a cashier in my fathers shop
+header	experience	WORK EXPERIENCE
+content	experience	  Working as a short-term Trainee in DELPHI-TVS, Chennai with one year of
+content	experience	experience.
+content	others	I, Ajithkumar b., hereby declare that all the information furnished above is true to the best of
+content	others	DECLARATION
+content	others	my knowledge and belief.

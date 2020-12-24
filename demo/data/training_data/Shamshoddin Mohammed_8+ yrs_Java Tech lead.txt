@@ -1,0 +1,61 @@
+content	experience	Decent background of Electronic &Communication engineering and practical programming skills, eager to learn, I can research and develop the most complex problems with an expertise and good design. I have good experience in Object Oriented Enterprise Web Applications and also decent exposure to Banking Products.
+header	experience	Professional Experience
+content	experience	1. Senior Software Engineer at Qatar Islamic Bank(QIB)-Oct-2018-till now.
+header	experience	Summary of Experience
+content	experience	8 years of experience in all facets of Software Development Life Cycle using Java / J2EE technologies.
+content	experience	Experience is design and development in Web Applications.
+content	experience	Experience in Devops( Automation using CI & CD Integration).
+content	experience	Proven software development experience using different methodologies - Agile , Waterfall.
+content	experience	Expertise in coordinating with offshore and onshore teams.
+content	experience	Experienced in all phases of SDLC including analysis, design, coding and testing.
+content	experience	Spot Award Winner in Verizon for concecutive years 2013,2014,2015.
+header	experience	Project Experience
+content	experience	Analysis of Business to create SREQs from BREQs with Architecture Team
+header	education	Education Qualification
+content	knowledge	With a total of 8 years of experience in design and development in Java/J2EE,Spring boot,MicroServices,Backbase,ApacheCamel,SpringMVCHibe,rnate,Devop’s,RestAPI,Webservices,Jenkins,Ansible,Nagios,Docker,Kubernetes. Has an exposure to Banking and Telecom domains. I am a self-taught learner open to work for product development.
+content	knowledge	Well-versed in Agile software development.
+content	knowledge	Excellent team player with good communication, analytical and problem solving skills
+header	knowledge	Technical Expertise
+content	knowledge	Making the project configuration for CI and CD integration using Jenkins,GIT ,Ansible,Nagios,Docker,kuberentes
+content	knowledge	Making the project configuration for CI and CD integration using Jenkins,GIT ,Ansible,Nagios,Docker,kuberentes
+content	project	2. Development Engineer at Development Bank of Singapore from Dec 2016-Aug 2018.
+content	project	3. IT Analyst C2 at Tata Consultancy Services from Feb 2016 – Dec 2016
+content	project	4. Analyst System Dev at Verizon Data Services India pvt ltd. from May 2011 – Feb2016.
+content	project	Experience in Web based application development using Java/J2EE,Spring boot,MicroServices,Backbase ,Apache Camel, Spring MVC, Hibernate.
+content	project	Understanding and analyzing the business requirements.
+content	project	Coding,peer reviews, Unit Test plans, Unit test executions.
+content	project	Integration testing and capturing the test results.
+content	project	Solving the defects raised during integration testing.
+content	project	Solving SIT ,UAT and Production issues.
+content	project	Understanding and analyzing the business requirements.
+content	project	Coding,peer reviews, Unit Test plans, Unit test executions.
+content	project	Integration testing and capturing the test results.
+content	project	Solving the defects raised during integration testing.
+content	project	Solving SIT ,UAT and Production issues.
+content	project	Understanding and analyzing the business requirements.
+content	project	Coding, Unit Test plans, Unit test executions.
+content	project	Integration testing and capturing the test results.
+content	project	Solving the defects raised during integration testing.
+content	project	Solving the Production issues which are raised during Production.
+content	project	Understanding and analyzing the business requirements.
+content	project	Coding, Unit Test plans, Unit test executions.
+content	project	Integration testing and capturing the test results.
+content	project	Solving the defects raised during integration testing.
+content	project	Solving the Production issues which are raised during Production.
+content	project	Understanding and analyzing the business requirements.
+content	project	Coding, Unit Test plans, Unit test executions.
+content	project	Integration testing and capturing the test results.
+content	project	Solving the defects raised during integration testing.
+content	project	Solving the Production issues which are raised during Production.
+content	project	Being the Single Point of Contact for numerous Products that includes making LLD, Development, Tracking of other module development, D2D Testing and Fixing Defects.
+content	project	Joining POD calls to support Users in executing UAT Test Cases.
+content	project	Writing documents on best practices for team to avoid connection leaks.
+content	project	Part of Infrastructure Team to fix environmental issues like build failure, stuck threads in need.
+content	project	Sharing the knowledge with new team members by presentations, hands-on and code walk through.
+meta	others	Email: Shamshoddin.Qib@gmail.com
+meta	others	Mobile: +91-9959709259/+974-74460697
+meta	others	District ranker in intermediate .
+meta	others	Birth | June 1st , 1989 | Male | Indian
+meta	others	Family | Mother | Father |2 Sisters|1 brother
+meta	others	Language Competencies | Hindi | English | Telugu
+meta	others	Marital Status | Married

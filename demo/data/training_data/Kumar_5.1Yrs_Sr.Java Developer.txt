@@ -1,0 +1,83 @@
+meta	others	Kumar
+meta	others	Mobile: 9985230656
+meta	others	Email: kumarelisha2015@gmail.com
+header	others	Objectives
+content	others	Seeking a challenging position in an organization with opportunities for growth and knowledge improvisation in continuous process where my skills can be utilized to fullest extent towards the successful of the assigned tasks.
+content	knowledge	Professional Summary
+content	knowledge	5 years of experience in development of java/J2EE web applications.
+content	others	Extensive work experience in the development of Web applications.
+header	project	Experience in Spring Boot, Spring, JPA, Angular js, Angular, Micro services and Hibernate of new
+content	project	technologies and environments.
+content	others	Ability to work in team as well as independently.
+header	experience	Technical Summary
+content	knowledge	Operating System : Windows and Linux.
+content	knowledge	Technologies : Spring (MVC,IOC), Spring Boot, Microservices JSP,JPA, Hibernate, Web
+content	knowledge	services, AngularJs, Angular and SVN.
+content	knowledge	Database : MySQL and DB2
+content	knowledge	Web Servers : IBM WebSphire ,Tomcat and Jboss
+content	knowledge	IDE Tools : Eclipse and Net beans.
+content	knowledge	Build Tools : Maven
+header	experience	Work Experience Summary
+content	experience	Organization : Wipro Ltd. (Feb 2017 to Present)
+content	experience	Designation : Sr.Software Engineer
+content	experience	Organization : TCS. (Sep 2016 to Dec 2017)
+content	experience	Designation : Sr.Software Engineer
+content	experience	Organization : Redshift Internetworking India Pvt. Ltd (Dec 2013 to Feb 2016.)
+content	experience	Designation : Software Engineer
+content	education	MCA (Master of Computer Applications) from Osmania University.
+content	project	Projects Details
+header	project	Project # 1
+content	project	Title : AIC
+content	project	Client : Govt of India
+content	project	Team : 5
+content	project	Technologies : SpringBoot,HTML,Restfull Webservice, Angular js , SVN, Jenkins, Testing tools like Junit ,Mockito,Core java,JSON,XML,eclipse,microservices,Sonar Lint
+header	project	Description of Project:
+content	project	AIC of India is and web application. Is used by the farmers of India, application basically helps user to get insurance for their crop.
+content	project	Insurance companies are called channel partner’s, these channel partners can provide subsidies for crops, This application contains so many external web service validation like
+content	project	AADHAR validation, LAND validation etc.
+content	project	Development using Angular, Spring Boot Framework to build application using Restful and other spring security.
+content	project	Developed a RnD and Masters module .
+content	project	Designed Spring Boot Restful services.
+content	project	Training freshers on Job training, performing code review and sonarqube.
+content	project	Involved in designing the application.
+header	project	Project # 2
+content	project	Title : EDPP (MYSU)
+content	project	Client : Amex
+content	knowledge	Technologies : Java, J2EE, JSP, Servlets, Spring 3.2, Web Services, HTML, XHTML, DHTML, JavaScript,
+content	knowledge	JQuery, CSS, , XML, JBoss, Log4j, DB2, JUnit 4, JBPM, Eclipse 3.5, EJB.
+content	project	Roles : Programmer
+content	project	Description of Project:
+content	project	American Express is one of the world's largest card issuer by purchase volume, processes millions of transactions .Daily as the premium network for high-spending card members, provide commercial payment tools and expertise ,that helps companies control their spending and save billions of dollars, offer marketing and information management insights that help merchants build their businesses, are customer loyalty experts with industry- Leading rewards programs and platforms and operate one of the world's largest travel networks.
+content	project	Followed agile methodology during development of the project and oversee the software development in Sprints by attending daily stand-ups.
+content	project	Provided the level of efforts and estimations for multiple user stories.
+content	project	Involved in Production deployment of the User stories on iteration basis.
+content	project	Worked on project build-script by using maven and deployed on Jboss server.
+content	project	Involved in requirement analysis and creation of Functional and Technical Design Documents
+content	project	Developed in implementation of Encryption and Decryption for requirement field.
+header	project	Project # 3
+content	project	Title : RedShift UCTM (Product Based)
+content	project	Client : Redshift Internetworking India Pvt. Ltd
+content	project	Team : 5
+content	project	Technologies : Spring 3.1.2 RELEASE, Web services ,Spring MVC , Spring annotations , Spring IOC and Hiberante 3.1
+content	project	Tools : SIP and VOIP .
+content	project	Roles : Software Engineer
+content	project	Description of Project:
+content	project	“Redshift UCTM “ project main aim is to provide the securing Cloud based VoIP networks and provides the industry's first complete security solutions developed for Unified Communications (UC), VOIP and SIP. RedShift Networks has been solving the most difficult UC, VOIP and Video security challenges for service providers and enterprises with the company's Unified Communications Threat Management (UCTM) product portfolio. Deploying the Redshift Network's user, application and network layer technology in the cloud ensures secure, reliable and hardened network and service. The UCTM security platform provides a host of proactive, high-performance, and cost-effective security benefits designed to meet today's and tomorrow's UC, VOIP.
+content	project	Developed the application using Spring Framework that uses Model View Controller (MVC) architecture.
+content	project	Responsible to integrate the controller layer with persistence logic.
+content	project	Implemented Audit Interceptors to track the event changes at Database tables.
+content	project	Added features with latest business and system requirements as needed.
+content	project	Participation in Design, Issue Resolution and Sustainment meetings.
+header	project	Project # 4
+content	project	Title : Scheme Management system
+content	project	Client :egate.
+content	project	Team : 5
+content	project	Technologies :JAVA ,J2EE ,Appatch tomcat server ,html,css and mysql
+content	project	Tools : Eclipse
+content	project	Roles : Software Engineer
+content	project	Description: Scheme Management system is a web enabled application used to keep track of schemes. Scheme Management system web application avoids more manual hours that need to spend in record keeping and generating reports. This application keeps the data in a centralized way which is available to all the users simultaneously.
+content	project	Based on the requirements, develop the website content and maintenance.
+content	project	Developing and maintaining the front end functionality of websites.
+content	project	Added features with latest business and system requirements as needed.
+meta	others	I hereby declare that all the above mentioned particulars are true to the best of my knowledge and belief.
+meta	others	(Elisha Kumar)

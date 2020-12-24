@@ -1,0 +1,105 @@
+meta	experience	A dynamic, team spirited and performance-driven professional with over 6 years of IT experience in Software Development. Currently associated with Optimum Solutions, Kuala Lumpur as Senior Java Developer
+content	experience	Deep understanding of technology with focus on delivering business solutions. Proven ability to be a strong professional with the sound knowledge of the payments domain.
+content	experience	Implemented SOAP and REST Web services using spring boot and hibernate on SAP and open shift cloud platforms
+content	experience	Effort estimation at the time of sprint planning
+content	experience	Created Architecture and sequential diagrams in confluence
+content	experience	Trained new resources on telecom billing and java concepts
+header	education	Educational Credentials
+meta	education	B.Sc. (Computer Science) from Andhra University, Visakhapatnam, Andhra Pradesh in 2013
+meta	knowledge	Flat No-A-17-12, Palm Court condominium, Brickfields, Kuala Lumpur - 50470
+content	knowledge	Recommends resolutions to complex matters of significance and coordinate the implementation of the approved course of action.
+header	knowledge	Technical Proficiency
+content	knowledge	Tools: Eclipse, SQL developer, SOAP UI, Jira, JMeter.
+content	knowledge	Database: Oracle
+content	knowledge	Work Location Kuala Lumpur
+content	knowledge	Tools Intellij, SQL developer, Eclipse
+content	knowledge	Created Camel routings for different end customers
+content	knowledge	Work Location England
+content	knowledge	Technologies used: Java, spring boot, Mongo and Postgres Databases, Docker, Kubernetes, Open shift cloud,
+content	knowledge	Installed Docker container and implemented the light-weight application
+content	knowledge	Work Location TCS - Hyderabad
+content	knowledge	Tools Eclipse, PL/SQL developer
+content	project	Thorough understanding of the entire Software Development Life Cycle including finalization of specifications, design, development, testing and maintenance.
+content	project	Gained exposure in project management activities including scoping, estimation, planning, resource administration and quality management of the software application.
+content	project	Excellent client communication and requirement gathering skills
+content	project	Special proficiency in Telecom and Digital Banking domains
+content	project	Innovative professional with proven ability to identify, analyze, and solve problems to increase customer satisfaction and control costs.
+content	project	Technology: Java, java script, Apache Camel, Spring boot, OAuth 2.0, Junit, Hibernate, Web services, Azure Active directory, Oracle, SAP Hana Cloud platform, Dockers, Jenkins, Micro services
+content	project	Methodology: Agile
+header	project	Projects Handled
+content	project	#1 (Optimum Solutions) (December 2018 – Present)
+content	project	Title Digital Bank - Onboarding
+content	project	Project Type Digital Banking
+content	project	Technology Java, spring boot, REST web services, Apache Camel, JWT
+content	project	Team Size 10
+content	project	Role Senior Developer
+content	project	Period December 2018 - till date
+header	project	Project Objective
+content	project	This project is to onboard the customers to the bank using bank’s mobile app.
+header	project	Project Description
+content	project	This project is completely to enable Digital banking using Bank’s mobile app
+content	project	Customer can create their account without visiting branch, directly can open the account with their mobile
+content	project	After creating their account, After KYC they can have video call authentication with bank agent for verification
+content	project	If video call fails, there is a feasibility to get it authenticate by visiting the branch
+content	project	Role and Responsibilities
+content	project	Understanding the new model and preparation of Implementation procedure and user stories based on the requirement.
+content	project	Daily participation in scrum meeting and sprint planning discussions
+content	project	Study of the requirement documents and system analysis and preparing High level design documents
+content	project	Creation of technical specification document
+content	project	Coding and unit testing
+content	project	Covered 100 % of branch coverage and code coverage in unit testing
+content	project	Defect resolution and test support
+content	project	Prepared DB scripts to reuse those to get some specific type of data which is used recursively
+content	project	Implemented Junit test cases as Unit testing framework.
+content	project	Travelled to customer’s location to attend PI planning’s and to take requirements
+content	project	#2 (Tata Consultancy Services) (December 2015 – November 2018)
+content	project	Title Network Automation (Matrix) - Nokia
+content	project	Project Type Architecture and implementation
+content	project	Nexus, Junit, SonarQube, Jenkins, GIT,
+content	project	Team Size 8
+content	project	Role Analyst/Senior developer
+content	project	Period Oct 2015 to June 2016
+header	project	Project Objective:
+content	project	Nokia is having network elements which they will sell it to Network providers. This project is to automate the network operation by placing each operation sequentially as per the requirement. Each operation can be a system setup/ web service or API. As per the requirement, respective user can place the operation sequentially and execute the process. If any process got failed, user should have feasibility to check why it got failed. So that we have implemented a feature that user can see the reason behind the process failure in the UI itself. UI was developed using Angular 2, backend we have implemented micro services with java, spring boot and spring cloud. We have created Docker images and deployed in Open shift cloud
+content	project	Few network operations should be more secure and it will be remote places. So, to handle those kind of scenarios, we have created light application which is called as Light Matrix internally. This light matrix application has been deployed in Docker container which is installed in user’s local desktop/laptop. So that user can login and execute the operations in remote places.
+content	project	Role and Responsibilities
+content	project	Handled the application as lead and participated in design and architect discussions
+content	project	Participated in sprint planning, estimation and daily stand-up meetings.
+content	project	Implemented micro services using spring boot, spring cloud on open shift cloud environment
+content	project	To get the application status at run-time, implemented rest APIs and made a communication with Docker APIs.
+content	project	Used GIT as a Version management tool for code repository
+content	project	Created Jenkins script to execute the deployment process automatically after the merge request approval as part of Devops.
+content	project	Implemented Junit test cases as part of Test Driven Development
+content	project	As part of Code Quality check, used sonarQube instance and configured the same in Jenkins script. So that code will be Quality Assured before deployment
+content	project	To design API contracts, implemented Swagger to brief about API end points, request/ response data formats
+content	project	Before deploying the code archive, configured Nexus repository. So that Jenkins job will pick the appropriate archive for that respective build
+content	project	Implemented Postgres Database scripts in such a way that to get the operations executed history.
+content	project	Each operation can have respective inputs. To save the inputs we have mapped operation specific information in mongo database.
+content	project	#3(Tata Consultancy Services) (January 2014 – November 2015)
+content	project	Title Billing Integration –Saudi Telecom Company
+content	project	Project Type Integration between billing system and source systems
+content	project	Work Type Implementation and unit testing
+content	project	Team Size 10
+content	project	Role Application developer
+content	project	Period Jan 2014 – Aug 2015
+header	project	Project Description
+content	project	This project was mainly to deal with migration from mainframe’s billing system to Net Cracker’s Billing system- RBM (Rating and Billing Manager).
+content	project	Role and Responsibilities
+content	project	Requirement Analysis by communicating with lead and senior team mates
+content	project	Working as a junior most developer and owned tasks alone
+content	project	Implemented SOAP web services using spring and Hibernate by replacing EJB code.
+content	project	Handling Server Deployments and troubleshooting various issues.
+content	project	Worked with Leader ship team on SLA preparations after getting the proper exposure on application
+content	project	Resolving client queries and ensuring that they have received correct resolution.
+content	project	Received appreciation from Supervisor/client for good customer communication and timely deliveries with quality productivity.
+content	project	References: Available upon request
+content	project	Pan Card: DDJPK0722E
+meta	others	Sai Kumar Kadimisetty
+meta	others	Flat No-A-17-12, Palm Court condominium, Brickfields, Kuala Lumpur - 50470
+meta	others	A dynamic, team spirited and performance-driven professional with over 6 years of IT experience in Software Development. Currently associated with Optimum Solutions, Kuala Lumpur as Senior Java Developer
+meta	others	B.Sc. (Computer Science) from Andhra University, Visakhapatnam, Andhra Pradesh in 2013
+meta	others	Personal Particulars
+meta	others	Date of Birth: 18th February 1993
+meta	others	Languages known: English, Hindi and Telugu
+meta	others	Marital: Unmarried
+meta	others	(Sai Kumar Kadimisetty)

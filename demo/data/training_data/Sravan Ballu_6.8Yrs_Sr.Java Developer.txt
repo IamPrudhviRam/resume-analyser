@@ -1,0 +1,254 @@
+content	experience	Having 6+ Years of experience as Software Developer.
+content	experience	2+ years of experience as Hadoop / Apache Spark Developer.
+content	experience	Has 3+ Years of experience as Java/J2EE Developer.
+content	experience	Good working experience on Core Java, J2EE, Spring Boot , Restful Web services , MQTT (message broker tool ) etc.
+content	experience	Good working experience on Apache SPARK (Spark Core, Spark SQL).
+content	experience	Experience in HealthCare, Banking , Retail, Insurance, Telecom, and Educational Series ,domains.
+content	experience	Good working experience in Timeseries Database Influx DB .
+content	experience	Has exposure to Version Control tools like TFS,GitHub,SVN.
+content	experience	Experience on Cloudera, Hortonworks ,AWS EMR , Qubole BigData distributions ,CDAP
+content	experience	Has Experience on AWS S3, AWS Redshift , AWS Athena .
+content	experience	Given internal trainings on BigData and related technologies in company.
+content	experience	worked with Manthan Systems ( product development )Predictive analytics for Retail domains . for future enhancements of manthan systems analytics products like Data sync etc.
+header	experience	Experience Summary
+content	experience	Working as a Senior Software Engineer at Connected Care India Pvt Ltd at Hyderabad from April 2019 to till date.
+content	experience	Worked as a Senior BigData Developer at Manthan Software Services at Bangalore from December 2017 to April 2019.
+content	experience	Worked as a Senior Engineer in L&T Technology Services Ltd, at Bangalore from November, 2015 to December 2017.
+content	experience	Worked as a Software Engineer in Kclink Technologies Pvt Ltd, at Bangalore from March 2012 to April 2015.
+content	experience	Is a multinational retail franchise operator headquartered in Kuwait, and operates more than 90 consumer retail brands across the Middle East and North Africa, Russia, Turkey and Europe.
+content	experience	(HDP), Apache Kafka,ApacheSpark2.x,Java1.8 , Scala
+content	experience	Deploying Applications in Pivatol Cloud Foundry.
+content	experience	Deploying Applications in Pivotal Cloud Foundry.
+content	experience	Memory (RAM and HardDisks)
+header	education	Educational Details
+content	education	Bachelor of Technology Balaji Institute of Technology And Sciences in year 2011 with
+content	education	Intermediate SRT Junior College in year 2007 with 74%
+content	education	SSC SSSM School in year 2005 with 81%
+content	education	Electronics and Lighting.
+content	knowledge	Excellent team player, able to work independently with commitment, dedication and planning towards goal oriented tasks.
+content	knowledge	Excellent problem-solving skills with good Logical, Interpersonal and Communication skills.
+content	knowledge	Good knowledge on Agile, Waterfall model.
+content	knowledge	Strong in implementing & developing Big Data Solutions using Hadoop Eco System (HDFS, Sqoop, Pig, Hive, MapReduce, Apache Spark ,Apache Kafka ,Scala etc …)
+content	knowledge	Experience in Handline the Incremental and Historical data handling using DataLake Framework.
+content	knowledge	Knowledge on Pivatol Cloud Foundry (PCF).
+content	knowledge	Worked on POC’S on Hadoop and its Ecosystems Tools for Sagemcomm, GVR Clients.
+header	knowledge	Technical Exposure
+content	knowledge	BigData Technologies HDFS, MapReduce, Hive, Pig, SQOOP, Apache
+content	knowledge	Spark,Spark Streaming ,Apache Kafka ,CDAP (CASK
+content	knowledge	Data Application Platform), Spark with Scala
+meta	knowledge	BigData Distributions Cloudera CDH3, CDH4, Hortonworks Distribution,AWS EMR ,Quoble
+content	knowledge	Build Tool Maven,Jenkins
+content	knowledge	Bug Tracking Tools JIRA
+content	knowledge	Team Collaboration Tool Confluence
+content	knowledge	Junit, JIRA, Mqtt ( VerneMq broker )
+content	knowledge	Developing the rest api’s for the Vigocare product using Spring boot.
+content	knowledge	JIRA, Confluence, Junit Testing
+content	knowledge	The company currently operates more than 4,000 stores in seven sectors – Fashion & Footwear, Health & Beauty, Food, Optics, Pharmacy, Home Furnishings and Leisure & Entertainment – and employs more than 53,000 people.
+content	knowledge	Creating DDL for Hive Tables tables.
+content	knowledge	JIRA, Confluence, Junit Testing
+content	knowledge	Creating DDL for Hive Tables , Hbase tables.
+content	knowledge	Environment : Spark 1.5.2 (core, sql), Pivatol Cloud Foundry (PCF),
+content	knowledge	Apache Hive, Postgres,Core Java, Hortonworks Distribution,
+content	knowledge	Philips is Dutch technology company headquarter in Amsterdam with primary division focused in areas of HealthCare, Electronics and Lighting.
+content	knowledge	After predicting failure of devices it will Alerts Remote Monitoring Engineer’s (RME’s) of ISP by Displaying Alerts on RDW Dashboard.
+content	knowledge	Creating Shell scripts for running Spark ETL’S
+content	knowledge	Creating DDL for Hive Tables.
+content	knowledge	Performance tuning of Spark ETL’S.
+content	knowledge	Environment : Core Java (8th version) ,Collections,Spring JPA,Spring Boot,
+content	knowledge	Mysql, JIRA
+content	knowledge	3. Guide Junior developers and clarify their doubts while they working on tasks.
+content	knowledge	4. Deploy applications in Jenkins.
+content	knowledge	Restful Webservices, Spring Boot, Junit , Jenkins.
+content	knowledge	Philips is Dutch technology company headquarter in Amsterdam with primary division focused in areas of HealthCare, Electronics and Lighting.
+content	knowledge	Creating Restful webservices.
+content	knowledge	Creating DDL for Postgres Tables.
+content	knowledge	Philips is Dutch technology company headquarter in Amsterdam with primary division focused in areas of HealthCare,
+content	knowledge	Environment : Ubique, MapReduce, Apache Hive, Postgres, Linux
+content	knowledge	Here Telecom Related data will be collected by Ubique Reader (L&T Technology Services Product) and convert that input data into JSON Format and store in Ubique Wise (Storage Area), from this MapReduce ETL will convert the input JSON data into CSV and storing in HDFS.
+content	knowledge	The telematics program uses wireless technology to collect data related to customer’s driving behavior and use that information to derive a pricing model, modify insurance premiums and to provide useful feedbacks to policy holders. Customer receives personalized coaching and feedback on their driving performance and thus provide an opportunity to improve their driving performance/lower their rate.
+content	knowledge	2. Responsible for preparing action plans to analyze the data.
+content	knowledge	3. Developing algorithms & programs for processing Data.
+content	knowledge	Some of the interesting trends that were observed from this dataset using Hive were:
+content	knowledge	- Health & Beauty Products saw the highest growth rate at 65%, closely followed by Food Products (55 %) and Entertainment (54.6%).
+content	knowledge	-Which areas take the top spot for the purchase of Fashion and Apparels.
+content	knowledge	2. Responsible for preparing action plans to analyze the data.
+content	knowledge	3. Developing algorithms & programs for processing Data.
+content	project	Software Developer
+content	project	Experienced in developing new Projects and also supporting existing projects.
+content	project	Key participant in all phases of Software Development Life Cycle with Analysis, Design, Development, Integration and Implementation.
+content	project	Participated in Architecture discussion of Projects.
+content	project	Able to adopt new Technologies and Frameworks.
+content	project	Got good performance award as part of NetForum project.
+content	project	Cloud Technologies Elastic Search , Pivatol Cloud Foundry
+header	project	Project Details
+header	project	Project # 12:
+content	project	Project Title : Vigo Ecg Holter
+content	project	(own product IOT Health Care Device )
+content	project	Client : Connected Care India Pvt Ltd
+content	project	Duration : April 2019 to till date
+content	project	Environment : Core Java , Spring Boot , Spring Restfull ,
+content	project	Web Services , Influx DB (Time Sries DB)
+content	project	Team Size : 6
+content	project	Role : Java Developer
+header	project	Description:
+content	project	Connected Care India Pvt Ltd is a Health care startup product development company , which is having headqurter in Hyderabad. This company is trying to build the own health care product .which is patient monitoring using wireless ecg holter .
+content	project	This ecg patch which will record the heart beat rate and store it’s values into the patch memory . and after that this from android app the ecg data will get upload to the Gateway .the uploaded file which ingested into influx and analyzed by AI engine and after analyzing the report will get generated, which is automatically submitted to the doctors.
+content	project	When ever the ecg patch is using by customer , at the same time live ecg also able to display in Android
+content	project	Roles and Responsibilities:
+content	project	Develop Mqtt client and publisher for performing ecg live stream.
+content	project	Creating the rest api’s for access the Influx time series data.
+content	project	Written the code to Perform the load testing on Vernemq , Influx and the code which is dealing with it.
+header	project	Project # 11:
+content	project	Project Title : Data Lake
+content	project	Client : Alshaya
+content	project	Duration : April 2018 to April 2019
+content	project	Environment : Apache Spark 2.x ,Scala ,Apache Hive 1.2 ,
+content	project	Amazon EMR cluster, Quoble Cluster ,AWS Redshift ,
+content	project	AWS Athena , AWS S3 .
+header	project	Team Size : 4
+content	project	Role : Bigdata Developer
+header	project	Description:
+content	project	The objective of this project is to Creating reusable , dynamic bigdata processing framework for process the input data which received from multiple source systems and covert that input data into parquet format, dynamically insert the input data into respective hive tables as per the metadata details Present in the metadata table.
+content	project	Roles and Responsibilities:
+content	project	Developing reusable bigdata processing DataLake frameworks for process the input data ,data quality check and validating the input data etc.
+content	project	Develop Java components for take the data from Amazon Redshift DB , process according to the requirements , and performing the data fixes.
+content	project	Testing the developed Apache Spark with Scala , Java components in AWS EMR Cluster, Qubole cluster.
+content	project	Discussing Project requirements with Client.
+content	project	Project # 10:
+content	project	Project Title : Data Enterprise Enabler (DEE)
+content	project	Client : Lloyds Bank
+meta	project	Duration : 3 months
+content	project	Environment : CDAP (Cask Data Application Platform) , Hortonworks
+header	project	Team Size : 4
+content	project	Role : Bigdata Developer
+header	project	Description:
+content	project	Lloyds Bank is a British retail and commercial bank with branches across England and Wales. It has traditionally been considered one of the "Big Four" clearing banks
+content	project	The objective of this project is to Creating Pipeline components for import the data from multiple Source systems into CDAP , process incoming data and store in Hadoop(HDFS) ,HBase ,Hive etc.
+content	project	Roles and Responsibilities:
+content	project	Developing CDAP Batch Data pipelines , Realtime Data pipelines for importing data from multiple sources into HDFS, HBase ,Hive etc.
+content	project	Preprocessing data using Python evaluator, Json parser etc before storing into HDFS, Hbase, Hive etc
+content	project	Deploying realtime data pipelines using Apache Kafka ,Spark Streaming.
+content	project	Discussing Project requirements with Client.
+header	project	Project # 9:
+content	project	Project Title : Remote Diagnostic WorkSpot (RDW)
+content	project	Client : Philips HealthCare Limited
+content	project	Application Server : Tomcat.
+header	project	Team Size : 4
+content	project	Role : Sr. Developer
+header	project	Description:
+content	project	The objective of this project is to Creating RDW component for Philips HSDP Platform.
+content	project	RDW will be used to Collect the Data sent by PHILIPS ISP Devices and predict their failures by analyzing the data which is sent by ISP Devices by using Spark ETL’s.
+content	project	Based on Alerts on Dashboard RME’s will instruct respective Field Service Engineer (FSE’s) to do repairs related to particular devices.
+content	project	Roles and Responsibilities:
+content	project	Developing ETL’S for XML, Log, JSON input files Using Apache Spark.
+content	project	Discussing Project requirments with Client.
+content	project	Project # 8:
+content	project	Project Title : Tims
+content	project	Client : Hill-Rom Holdings, Inc
+content	project	Duration : 5 Months
+content	project	.Application Server : Tomcat.
+content	project	Team Size : 7
+content	project	Role : Sr. Developer
+header	project	Description:
+content	project	Hill-Rom is a leading worldwide manufacturer and provider of medical technologies and related services for the health care industry, including patient support systems, safe mobility and handling solutions, non-invasive therapeutic products for a variety of acute and chronic medical conditions, medical equipment rentals, surgical products and information technology solutions.
+content	project	The objective of this project is to Creating Java Component to allocate patient and devices allocation.
+content	project	Tims Java code will take the Hill-Rom Devices sales details as CSV , process input data using java and mysql stored procedures. and store resultant data into Mysql DB tables.
+content	project	Based on Hill-Rom Id of Patient , Serial Number of Device Input Data will be categorized and processed in different case of Tim’s Code, and finally the below possible activities can be done by Tim’s
+content	project	New Patient Creation, Allocate New device or existing device to new patient or existing patient can be done and shell device allocation to patient etc.
+content	project	Roles and Responsibilities:
+content	project	1. Developing Java Code to process Tims Input data as per requirement.
+content	project	2. Requirement gathering , understanding and develop code.
+content	project	5. Testing application in DEV ,QA Servers before delivering Testers.
+content	project	Discussing Project requirements with Client.
+header	project	Project # 7:
+content	project	Project Title : NetForum
+content	project	(Philips Clinical Content Management System)
+content	project	Client : Philips HealthCare Limited
+header	project	Duration : 4 Months
+content	project	Environment : Core Java, AWS Elastic Search, Pivotal Cloud Foundry, Postgress,
+content	project	Application Server : Tomcat.
+header	project	Team Size : 4
+content	project	Role : Sr. Developer
+header	project	Description:
+content	project	The objective of this project is to create content management system for Clinical Data :
+content	project	NetForum will be mainly used by Doctors, Medical Research Scholars for posting the clinical articles, presentations and clinical case studys.
+content	project	Roles and Responsibilities:
+content	project	Developing Indexing and searching functionality by using AWS Elastic Search.
+content	project	Discussing Project requirments with Client.
+header	project	Project # 6:
+content	project	Project Title : Ganglia Monitoring System Installation
+content	project	Client : Philips Health Care Limited
+meta	project	Duration : 3 Months
+content	project	Team Size : 1
+content	project	Role : Sr. Developer
+header	project	Description:
+content	project	The objective of this project is to setup the Ganglia Monitoring System Setup on Philips DBSI Cloudera Cluster.
+content	project	Ganglia used to monitor the cluster metrics (Including All Data nodes and Master Nodes) like
+content	project	Network etc.
+content	project	Roles and Responsibilities:
+content	project	Installing Ganglia Monitoring System on Cloudera Cluster.
+header	project	Project # 5
+content	project	Project Title : Telecom Network Analysis POC
+content	project	Client : Sagemcomm
+content	project	Duration : 1 Month
+content	project	Team Size : 6
+content	project	Role : Sr. Developer
+header	project	Description:
+content	project	1. Writing MapReduce ETL’S to convert input JSON to CSV
+content	project	2. Creating Hive External Table.
+header	project	Project # 4
+content	project	Project Title : Telematics Data Analysis POC
+content	project	Client : Federal Insurance
+content	project	Duration : 1 Month
+content	project	Team Size : 5
+content	project	Role : Developer
+header	project	Description:
+content	project	Vendors collect data on vehicle usage (speed, distance, time, location, etc) through a telematics device installed on customer’s vehicle and is sent to client at hourly intervals, which gets ingested into Hadoop. This data is analyzed along with historical trip data from Teradata and program data from DB2. Various reports are produced for the analytic consumption. Summarized data (driving details, discount summary, alters) along with customer specific reports was exposed to customers through a portal finally, visualize the reports in graphical representation.
+content	project	1. Analyze the Telematics data using Analytical tools.
+header	project	Project # 3:
+content	project	Project Title : Retail Data Analysis POC
+content	project	Client : Carrefour
+content	project	Duration : 5 Month
+content	project	Team Size : 6
+content	project	Role : Developer
+header	project	Description:
+content	project	Carrefour S.A. is a French multinational retailer headquartered in Boulogne Billancourt France, in Greater Paris It is one of the largest hypermarket chains in the world with 1,452 hypermarkets at the end of 2012, the fourth largest retail group in the world in terms of revenue .now they wanted their last 4 years semi- structured dataset to be analyzed for trends and patterns.
+content	project	-There was a healthy increase in Year over Year growth across all retail product categories
+content	project	1. Analyze the retail data using Analytical tools.
+header	project	Project # 2
+content	project	Client : Mihir TM
+meta	project	Duration : 1 year 3 Months
+content	project	Environment : Core Java, J2EE (Struts MVC), MySQL 5.5
+content	project	Application Server : Tomcat.
+content	project	Team Size : 5
+content	project	Role : Developer
+header	project	Description:
+content	project	This provides the school with comprehensive student management software that serves the needs of the institution management with necessary modules to efficiently manage their daily activities like grades, notifications, homework and assignments.
+content	project	Tasks Performed:
+content	project	Involved in developing detailed project plan.
+content	project	Involved in developing Business Logic by using the Jdbc, Servlets and Jsp.
+content	project	Responsible for general maintenance of application.
+content	project	Performed testing and resolved all technical issues arising in the existing and new applications.
+header	project	Project # 1 :
+content	project	Project Title : Patient Companion
+content	project	Client : Mihir TM
+content	project	Environment : Core Java, J2EE (Struts MVC), MySQL 5.5
+content	project	Application Server : Tomcat
+content	project	Team Size : 5
+content	project	Role : Developer
+header	project	Description:
+content	project	Patient Companion caters to the companions of patients who are admitted into a hospital and receiving treatment. This facilitates the companions by providing them all the necessary updates about the diagnosis, current condition of the patient and any prescriptions and instructions by the Physicians.
+content	project	Tasks Performed:
+content	project	Involved in Design discussions of the database.
+content	project	Developed Diagnosis Module using Jdbc, Servlets, Jsp.
+content	project	Involved at every project phase, from concept creation to deployment.
+content	project	Responsible for general maintenance of application.
+meta	others	Phone Number: +91-949-045-8224
+meta	others	BigData Distributions Cloudera CDH3, CDH4, Hortonworks Distribution,AWS EMR ,Quoble
+meta	others	Duration : 3 months
+meta	others	Duration : 3 Months
+meta	others	Duration : 1 year 3 Months
+meta	others	Duration : 6 months
+meta	others	Phone Number : +91-948-108-8424
+meta	others	Mail Id : sravan.b4163@gmail.com
+meta	others	Languages Known : English, Hindi and Telugu.

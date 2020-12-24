@@ -1,0 +1,43 @@
+content	experience	3+ years of experience as a Software development Engineer i.e. Web-based applications and associated technology components. Distributed Architecture Applications using Java and J2EE.
+content	experience	Good experience in working with Spring Framework.
+content	experience	Hands on Experience in Spring Boot.
+content	experience	Awareness of Micro Services Architecture
+content	experience	Extensive Experience in using MVC (Model View Controller) architecture for developing applications using JSP, Java Beans and Servlets.
+content	experience	Good Exposure on JAXB (Marshalling and Unmarshalling).
+content	experience	Awareness in SOAP Based Web Services (Consumer and Provider).
+content	experience	Developed Restful Web Services (Resource and Client) and have hands on Experience on it.
+content	experience	Working experience on Maven.
+content	experience	Working experience on LOG4J for debugging.
+header	experience	WORK EXPERIENCE:
+content	experience	Working as a Software Engineer with Traverse TXM Technology private limited, Chennai from Feb 2017 to present.
+header	knowledge	Career objective:
+content	knowledge	Good Knowledge in J2EE Technologies (JDBC, JSP, Servlets).
+content	knowledge	Having good exposure in writing the Persistence layer using ORM tool Hibernate and JPA.
+content	knowledge	Worked on Spring data JPA.
+content	knowledge	Good knowledge in XML (DTD, SCHEMA).
+content	knowledge	Having a good knowledge in JAXP (SAX, DOM).
+content	knowledge	Good knowledge Asynchronous rest API.
+content	knowledge	Good knowledge Security for Restful services.
+content	knowledge	Awareness in HTML, JavaScript.
+content	knowledge	Working Knowledge version control tool GIT.
+header	knowledge	Technical Skills
+content	project	Experience in using Agile SCRUM methodology for developing the application.
+content	project	Worked on Spring integration with hibernate.
+content	project	Good experience of developing data models using Hibernate Entities and configuring Hibernate persistence layer.
+content	project	Awareness in JAXRPC (Provider and consumer).
+content	project	Good Knowledge around Gang of Four Design patterns (Singleton, Factory, Abstract Factory, Fly Weight, Strategy, Builder) and implemented some of it as part of application classes.
+header	project	Project Detail:
+content	project	PRA (Project Resource Allocation): This tool is used for allocating the resource to the projects based on resource availability.
+content	project	DAT (Daily Activity Tracker): This tool is used to track the resources daily activities in respective project.
+content	project	PBS (Project Budgeting System): This tool is used for calculating Project Budget and Profit with all deductions on monthly basis.
+content	project	Involved in gathering the requirements, analysis, design & development of the project. Involved in development of Web Forms, classes using JAVA that incorporates both N-
+content	project	Tier Architecture, and Database Connectivity. Developed classes using MVC patterns.
+content	project	Developed Persistence layer using Hibernate framework. Created server controls.
+content	project	Used AJAX to trade data with Server without reloading the page. Used SVN for integration, maintenance and Security of code.
+meta	others	E-mail: beherasumant7008@gmail.com PHONE: +91 7008280033
+meta	others	Willing to work in a challenging and professional environment and achieved significant position in growing software organization that will offer better career as well a good opportunity to do.
+meta	others	Gender : Male
+meta	others	Marital Status : Single
+meta	others	Languages Known : English, Hindi, Odia
+meta	others	I hereby declare that all information furnished by me is true to best of my knowledge.
+meta	others	Date: Sumant Behera

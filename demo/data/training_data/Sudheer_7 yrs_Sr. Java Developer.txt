@@ -1,0 +1,61 @@
+content	experience	Extremely motivated, result-oriented professional having 7 years of experience in information technology.
+content	experience	Experience in web server like Tomcat and Application server Jboss, WebSphere.
+content	experience	Having good experience in ECAMS Framework and Rule It Product.
+content	experience	Having good experience in Security Code Analyzer like HP Fortify Tool.
+content	experience	Having good experience in Spring (Core and MVC) Framework.
+content	experience	Having good experience in ORM tool like Hibernate.
+content	experience	Having good experience in Spring Boot and Microservices.
+content	experience	Having good Experience in Angular JS, jQuery and React JS.
+content	experience	Having good experience in Oracle 12c(Sql/Plsql).
+header	experience	Professional Experience
+content	experience	Working as Senior System Analyst in CNSI Private Limited. Chennai from October 2013 to till the date. (6 Yrs. Health Care Domain)
+content	experience	Worked as Software Engineer in Encore Pierian Pvt Ltd., Chennai from Aug 2012 to September 2013. (1 yr. Financial Domain)
+content	education	I have completed post-Graduation Master of Computer Applications(MCA) from Sri Venkateswara University, Tirupati in the Year 2011
+meta	knowledge	B. SUDHEER +91-9677225237
+header	knowledge	Certification
+content	knowledge	Certified from Oracle Corporation as Oracle Certified Java Programmer(OCJP) with Aggregate (90%), for Standard Edition6
+content	knowledge	Being Internal Organizational Trainer for Technical Prospective.
+content	knowledge	Excellent experience in Object Oriented Programming’s, Multithreading, Exception Handling and Collection Framework.
+content	knowledge	Good experience in Ides like Eclipse, My Eclipse, Net Beans and STS.
+header	knowledge	Technical skill set
+content	knowledge	AP Work Flow Management :
+content	knowledge	AP Executive:AP Executive generates AP Voucher post validation and updates “AP voucher number” in the field on form and submits the workitem item for QC to AP Supervisor queue
+content	knowledge	Payment details updation:This workstep is a system updation workstep and no manual intervention is involved.Utility in WFM tool picks payment details from file saved by Comviva Oracle analyst based on AP Voucher number available on the form and accordingly updates on the form and moves the workitem to Expiry.
+content	knowledge	Expiry:This workstep is last one in Omniflow and workitem exits from this workstep after 30 days of entry into this. After 30 days, workitem moves to Omnidocs and exits from Omniflow / WFM.
+content	knowledge	Involvement to developing struts action classes and jsp’s.
+content	knowledge	Responsible for developing the Core java code for Business
+content	project	Appreciated with High-Five Award from Onsite Team.
+content	project	Responsible for implementing Jdbc, Servlet and JSP related Business logic coding.
+content	project	Projects info
+header	project	Description:
+content	project	Medicaid Management Information system describe about individual’s medical files are maintained for every patient that a doctor’s see. A medical record is where patient health information is stored, such as medical history, medical notes and prescriptions and medications lists. Managing Medical paper filling Systems, a dedicate process that involves specific procedures to be followed.
+content	project	Otherwise one patient’s information could end up in another patient’s chart. HIPAA. The Health insurance portability and accountability Act is a federal Act that oversees how patient information is stored and secured with in a healthcare organization. Accordingly, the policies and procedures you stablish for managing paper filing systems must be in line with HIPAA rules. Medicaid Management Information System contains six modules (sub systems) like
+meta	project	1.My inbox 2. Admin 3. Provider 4. Member 5. Claims 6. Reference
+content	project	Roles and Responsibilities:
+content	project	Involved in the development of java services for enhancements &Innovations.
+content	project	Developed DCR’s for CR based requirement Process.
+content	project	Developing the Server-side validations based on the business rules.
+content	project	Involve in the admin, Claims, Provider, PA and Reference Modules.
+content	project	Involved Validation Part with Rule-IT Tool while adjudication.
+content	project	Performing the Unit Testing, System Testing, Regression Testing.
+content	project	Involved for Ecams 3.0 New UI frame work development.
+content	project	Involved in Fortify for Providing Security from Existing Application.
+content	project	Involved Review Logs and Operations in Pone sub system.
+content	project	Handled Entire Barcode CR for Phase 1 Sub System.
+content	project	Involved the Project called OSC (One Stop Claim).
+content	project	Requirement understanding and analysis.
+content	project	Projects info
+header	project	Description:
+content	project	This tool is built to manage processing of AP invoices through a Workflow which includes - starting with scanning of hardcopy invoices & related supportings and till capture of payment details for a particular invoice.
+content	project	Scanning:To scan the invoices and supporting into WFM tool (Omniflow), Omniscan is used and this one is a webbased application.
+content	project	User Dept (Approver):Approvers’ access invoices routed to them for approval and either “Approve”, “reject” or “Hold” as appropriate.
+content	project	SCM:SCM analyst creates GRN in Oracle for invoices / workitems routed to SCM queue post required validation and update “GRN number” on the form and submit invoices in WFM tool to be routed to AP for accounting the invoices in Oracle
+content	project	Note:Query can be raised @ worksteps - User Dept, SCM, AP Executive and AP Supervisor through workitem if validations become incorrect at a particular workstep as per User.
+content	project	Roles and Responsibilities:
+content	project	Involved in the development of java beans, hbm and Dao’s for data access using Object Relational Mapping with Hibernate.
+content	project	Responsible for Unit Testing and Test Case Execution.
+content	project	Responsible for implementing database connections.
+content	project	Requirement understanding and analysis.
+meta	others	sudheerb.ocjp@gmail.com
+meta	others	B. SUDHEER +91-9677225237
+meta	others	1.My inbox 2. Admin 3. Provider 4. Member 5. Claims 6. Reference

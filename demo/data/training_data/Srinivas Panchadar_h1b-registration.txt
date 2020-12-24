@@ -1,0 +1,37 @@
+meta	experience	U.S. Citizenship and Immigration Services
+meta	experience	U.S. Citizenship and Immigration Services
+content	education	Form I-797C, Notice of Action
+content	education	Form I-797C, Notice of Action
+content	knowledge	BOCA RATON FL  33432-1800
+content	knowledge	H-1BR - H1B REGISTRATION
+content	knowledge	Your company, BPMLINKS LLC, with an Employer Identification Number of 812695247, submitted a registration on behalf of PANCHADAR,
+meta	knowledge	SRINIVAS (Date of Birth: 10/13/1977) for possible selection toward the FY2021 H-1B numerical cap projections.
+content	knowledge	You must include a copy of this selection notice with your petition.
+content	knowledge	This notice is only valid for the FY2021 H-1B numerical allocations and for the company and beneficiary named below:
+content	knowledge	Company: BPMLINKS LLC
+content	knowledge	Beneficiary: PANCHADAR, SRINIVAS
+content	knowledge	For additional information regarding the H-1B numerical cap, and exemptions from the numerical cap, please visit the USCIS website.
+content	knowledge	Form I-797C  04/01/2019
+content	knowledge	Form I-797C  04/01/2019
+content	project	Received Date
+meta	project	Notice Type: Registration Selection
+content	project	Based on this selected registration, your company is eligible to file a corresponding H-1B petition between 04/01/2020 and 06/30/2020 at the following
+content	project	Vermont Service Center
+content	project	Your company may not substitute the beneficiary named in the registration or transfer the registration to another petitioner. If you file an H-1B cap-subject
+content	project	petition for a different beneficiary than the one identified in the selected registration notice submitted with the petition, the H-1B cap-subject petition will be
+content	project	USCIS internet website at www.uscis.gov.
+content	project	If you are visiting a field office and need directions, including public transportation directions, please see www.uscis.gov/fieldoffices for
+content	project	To request a disability accommodation:
+content	project	• Go to uscis.gov/accommodations to make your request online, or
+content	project	applicants must call to make their request.
+content	project	have of your accommodation request, the better prepared we can be and less likely we will need to reschedule your appointment. For more
+content	project	information about accommodations, visit uscis.gov/accommodationsinfo.
+meta	others	U.S. Citizenship and Immigration Services
+meta	others	Beneficiary Confirmation Number
+meta	others	Notice Date
+meta	others	Priority Date
+meta	others	1700 N DIXIE HWY STE 151
+meta	others	Notice Type: Registration Selection
+meta	others	SRINIVAS (Date of Birth: 10/13/1977) for possible selection toward the FY2021 H-1B numerical cap projections.
+meta	others	DOB: 10/13/1977
+meta	others	U.S. Citizenship and Immigration Services

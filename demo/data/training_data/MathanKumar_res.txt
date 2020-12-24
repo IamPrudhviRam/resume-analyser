@@ -1,0 +1,48 @@
+content	experience	  Extensively having experience in working with Angular 8 modules, services, templates,
+content	experience	  Extensive experience in design and development of applications using Web technologies
+header	education	ACADEMIC BACKGROUND
+content	education	INSTITUTION
+content	education	:  CSI Higher Secondary School, Nagapattinam.
+content	education	:  CSI Higher Secondary School, Nagapattinam.
+content	education	Ammal Mahalingam Engineering College,Thanjavur.
+content	education	Of  Engineering ,Thanjavur
+content	knowledge	like HTML5, CSS3, Bootstrap, JavaScript and JQUERY.
+content	knowledge	  Excellent in verbal, written and interpersonal communication and collaboration skills.
+content	knowledge	  Excellent in Code debugging skills.
+content	knowledge	  Completed Angular 8 course in Credo Systemz.
+content	knowledge	Angular8,Node.js,MongoDB
+content	knowledge	Programming Languages
+content	knowledge	:  Core Java
+content	knowledge	Web Technologies
+content	knowledge	:  Html, CSS, JavaScript, Angular, Node.js
+content	knowledge	:  Visual Studio Code, Eclipse
+content	knowledge	Operating Systems
+content	knowledge	:  Windows Family
+content	knowledge	BACHELOR OF TECHNOLOGY(IT)
+content	knowledge	  Participated in CODE BUGGING in INNOMATIVA’15  hosted by Anjalai
+content	knowledge	  Participated in CODE BUGGING in CISBAZ’15 hosted by Kings College
+content	knowledge	32,Green Street,2ND Lane, Nagapattinam
+content	project	directives, services and dependency injection to create a SPA. Hands on Experience
+content	project	on Angular CLI.
+content	project	  Ability to learn and develop using new technologies.
+content	project	PROJECT INVOLVED
+header	project	Project Name
+header	project	Technologies Used
+content	project	E-Commerce Application
+content	project	:  E-commerce Application with payment gateway Integration.
+content	project	The Application has the admin functionalities. Admin can
+content	project	upload products from the admin panel with categories. He can
+content	project	make the entire application from admin panel. In frontend, the
+content	project	products will be displayed with short description and other
+content	project	details. Users can Search, Add products in their cart Update
+content	project	their cart and purchase through PayPal and payment gateway.
+content	project	Transform template into fully functioning SPA.
+content	project	Update product information and content on the website.
+content	project	Involved in defect fixing
+content	project	Building reusable code and libraries for future use
+content	project	:  Angular, Express.js
+header	project	Development Environment
+meta	others	MATHAN KUMAR .S
+meta	others	mathanitech96@gmail.com
+meta	others	Date of Birth
+meta	others	Tamil, English
