@@ -86,27 +86,27 @@ class ResumeParser(object):
         return history
 
     @staticmethod
-    def extract_education(label, text):
+    def extract_education(type,label, text):
         if label == 'education':
-            return text
+            return type+'\t'+label+'\t'+text
         return None
 
     @staticmethod
-    def extract_project(label, text):
+    def extract_project(type,label, text):
         if label == 'project':
-            return text
+            return type + '\t' + label + '\t' + text
         return None
 
     @staticmethod
-    def extract_knowledge(label, text):
+    def extract_knowledge(type,label, text):
         if label == 'knowledge':
-            return text
+            return type + '\t' + label + '\t' + text
         return None
 
     @staticmethod
-    def extract_experience(label, text):
+    def extract_experience(type,label, text):
         if label == 'experience':
-            return text
+            return type + '\t' + label + '\t' + text
         return None
 
     def parse(self, texts, print_line=False):
@@ -121,11 +121,11 @@ class ResumeParser(object):
                 email = extract_email(s, p)
                 sex = extract_sex(s, p)
                 race = extract_ethnicity(s, p)
-                education = self.extract_education(line_label, p)
-                project = self.extract_project(line_label, p)
-                experience = self.extract_experience(line_label, p)
+                education = self.extract_education(line_type,line_label, p)
+                project = self.extract_project(line_type,line_label, p)
+                experience = self.extract_experience(line_type,line_label, p)
                 objective = extract_objective(s, p)
-                knowledge = self.extract_knowledge(line_label, p)
+                knowledge = self.extract_knowledge(line_type,line_label, p)
                 mobile = extract_mobile(s, p)
                 if name is not None and self.name is None:
                     self.name = name
@@ -172,45 +172,18 @@ class ResumeParser(object):
 
     def summary(self):
         text = ''
-        if self.name is not None:
-            text += 'name: {}\n'.format(self.name)
-        if self.email is not None:
-            text += 'email: {}\n'.format(self.email)
-        if self.mobile is not None:
-            text += 'mobile: {}\n'.format(self.mobile)
-        if self.ethnicity is not None:
-            text += 'ethnicity: {}\n'.format(self.ethnicity)
-        if self.sex is not None:
-            text += 'sex: {}\n'.format(self.sex)
-        if self.objective is not None:
-            text += 'objective: {}\n'.format(self.objective)
-
         for ex in self.experience:
-            text += 'experience: {}\n'.format(ex)
+            text += ex + '\n'
 
         for edu in self.education:
-            text += 'education: {}\n'.format(edu)
+            text += edu + '\n'
 
         for knowledge in self.knowledge:
-            text += 'knowledge: {}\n'.format(knowledge)
+            text += knowledge + '\n'
 
         for project in self.project:
-            text += 'project: {}\n'.format(project)
+            text += project + '\n'
 
         for meta_data in self.meta:
-            text += 'meta: {}\n'.format(meta_data)
-        return text.strip()
-
-    def skill_summary(self):
-        text = ''
-
-        for ex in self.experience:
-            text += '{} \n'.format(ex)
-
-        for knowledge in self.knowledge:
-            text += '{} \n'.format(knowledge)
-
-        for project in self.project:
-            text += '{} \n'.format(project)
-
+            text += 'meta\tothers\t{}\n'.format(meta_data)
         return text.strip()
