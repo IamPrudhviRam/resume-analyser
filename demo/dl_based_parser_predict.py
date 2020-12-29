@@ -22,7 +22,7 @@ def getresults(dataf):
         [final_database['Candidate Name'], final_database['Subject']]).count().unstack()
     final_database2.reset_index(inplace=True)
     final_database2.fillna(0, inplace=True)
-    print("database20 \n", final_database2)
+    print("final_database \n", final_database2)
     global new_data
     new_data = final_database2.iloc[:, 1:]
     new_data.index = final_database2['Candidate Name']
@@ -36,7 +36,7 @@ def main():
     from keras_en_parser_and_analyzer.library.utility.io_utils import read_pdf_and_docx
     current_dir = os.path.dirname(__file__)
     current_dir = current_dir if current_dir is not '' else '.'
-    data_dir_path = current_dir + '/data/test_data'  # directory to scan for any pdf and docx files
+    data_dir_path = current_dir + '/data/'  # directory to scan for any pdf and docx files
     nlp = en_core_web_sm.load()
 
     workbook = openpyxl.load_workbook(current_dir + '/data/resumeTemplate_Keys.xlsx')
