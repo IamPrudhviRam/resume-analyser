@@ -1,0 +1,63 @@
+meta	others	Musunuru Udaya Harshitha || M.Tech in Computer Science Engg.
+meta	others	Email id: harshitha.musunuru@gmail.co m                                                   +91 9705722688
+header	others	OBJECTIVE
+header	education	EDUCATION
+content	education	To learn & work in a professional environment which will enhance my capabilities and qualifications to
+content	education	work in varied conditions and to enrich my skills.
+header	education	PROGRAM
+header	education	UNIVERSITY/ INSTITUTION
+header	education	%/CGPA
+header	education	YEAR
+content	education	M Tech in CSE.
+content	education	JNTU Kakinada
+content	education	B Tech in CSE
+content	education	GITAM University
+content	education	XII
+content	education	X
+content	education	Sri Chaitanya Jr. Kalasala, Visakhapatnam
+content	education	K D P M High School, Visakhapatnam
+content	education	78%
+content	education	8.38
+content	education	86.1%
+content	education	83.1%
+content	education	2015
+content	education	2013
+content	education	2009
+content	education	2007
+header	knowledge	SOFTWARE PROFICIENCY
+content	knowledge	•  Database languages
+content	knowledge	•  Web Technologies
+content	knowledge	•  Programming languages
+content	knowledge	: SQL, DBMS
+content	knowledge	: HTML
+content	knowledge	:  C,  Python
+content	knowledge	Science(basics), Javascript (currently learning)
+header	project	ACADEMIC PROJECTS
+content	project	for  web  development,  Python
+content	project	for  Data
+content	project	Effective Cluster Ensemble for Multi-variant Categorical Data Clustering using Classification
+content	project	Entropy-Based Approach.                                                                                                         [Sept’14 - Oct’15]
+content	project	The featuring technique provides an efficient approach to get the meta information of the clusters
+content	project	to ensemble without loosing the data using entropy and information gain classification techniques.
+content	project	Energy  Efficient  Wireless  Communication  using  Genetic  Algorithm  Guided  faster  Digital
+content	project	Signature Algorithm.                                                                                                                   [Aug’12 - Apr’13]
+content	project	This  project  deals  with  the  problem  using  Genetic  Algorithm  bases  optimization  algorithm  for
+content	project	minimization of the modular multiplication.
+content	project	•  A Hypothesis on modus operandi of management of server domain.                    [Apr’12 - July’12]
+content	project	In  this  project,  we  developed  a  tier-based  server  management  portal  system  to  store  the
+content	project	operational as well as performance details of the servers.
+header	others	EXTRA-CURRICULAR ACTIVITIES
+content	others	•
+content	others	Successfully completed the NPTEL online certification course of Python for Data Science.
+content	others	•  Participation Certificate on C, C++, DS from Millinieum software solutions.
+content	others	Participation Certificate on “Oracle 11g” course from Srikanth Technologies.
+content	others	I am one of the active NSS volunteer and also participated in “ONENESS” rally.
+content	others	•
+content	others	•
+content	others	•
+content	others	•
+content	others	•
+header	others	PERSONAL ATTRIBUTES
+content	others	Hard working and Resilient.
+content	others	M. Udaya Harshitha
+content	others	Participated twice in Free Medical Camp, Clean and Green, Anti-ragging Rally under NSS.

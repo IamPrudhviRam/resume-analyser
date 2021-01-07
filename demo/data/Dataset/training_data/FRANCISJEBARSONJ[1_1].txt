@@ -1,0 +1,95 @@
+content	others	Working in a challenging environment which provides me
+content	others	an  opportunity  for  continuous  learning  enables  me  to
+content	others	cultivate fresh skills and enhance existence abilities which
+content	others	should  ultimately  help  me
+content	others	in
+content	others	contributing in new technology.
+content	others	to  become  a  part
+header	experience	Work History
+content	experience	2019-Feb
+content	experience	to
+content	experience	Current
+content	experience	Associate Software Engineer
+content	experience	Datazoic Machines Pvt.Ltd,Chennai,Tamil Nadu
+content	project	• Analyzing, Designing  and Developing
+content	experience	RESTful services to fetch and modify client’s
+content	project	data like activities, reports and meeting in
+content	project	prism.
+content	project	• Developing Stored Procedures,triggers and
+content	project	functions in SQL Server for populating data
+content	project	from staging database to prism application
+content	project	database.
+content	project	• Configuring batch for pulling third party
+content	project	systems data like Sales force and Thomson
+content	project	Reuters.
+content	project	• Collaborate with other developers to
+content	project	identify and resolved bugs and errors in
+content	project	application.
+content	project	• Tested application and performed
+content	project	troubleshooting prior to deployment.
+header	education	Education
+meta	education	2015 -2019
+meta	education	2103-2015
+meta	education	High School Diploma(HSC)
+meta	education	Bachelor of Technology: Information
+meta	education	Technology
+meta	education	K.S.Rangasamy College of Technology,
+meta	education	Tiruchengode,Namakkal
+meta	education	(with 7.91 CGPA)
+meta	education	N.S.VV Matriculation Higher Sec School,
+meta	education	Pattiveeranpatti,Dindigul
+meta	education	(with 77.25 percentage)
+meta	education	2012-2013
+meta	education	High School Diploma(SSLC)
+meta	education	Annai Velankanni Matriculation Higher Sec
+meta	education	School,Batlagundu,Dindigul
+meta	education	(with 80 percentage)
+header	project	Project Work
+meta	others	FRANCIS
+meta	others	JEBARSON
+content	others	Associate Software Engineer
+content	others	Contact
+header	others	Address
+meta	others	Door No:7/12A,
+meta	others	East Street,
+meta	others	Mela Kovilpatti,
+meta	others	Batlagundu(Post),
+meta	others	Dindigul,Tamil Nadu,
+meta	others	624202.
+meta	others	Phone
+meta	others	770 813 2612
+header	others	E-mail
+meta	others	francisjebarsonj@gmail.com
+header	experience	Skills
+content	experience	● Core Java
+content	experience	SQL Server
+content	experience	HTML5
+content	experience	● CSS3
+content	experience	●
+content	experience	JavaScript
+content	experience	Workshops
+content	experience	●
+content	experience	●
+content	experience	●
+content	experience	Successfully attended
+content	experience	workshop on “Python”
+content	experience	conducted by The
+content	experience	National Level Technical
+content	experience	Symposium SAMHITA’17
+content	experience	in MIT, Chennai
+content	experience	●
+content	experience	Done web based solution for the present
+content	experience	guidelines of Dot HQ do not more than one
+content	experience	mobile connections to an individual under
+content	experience	the ministry of Communication during
+content	experience	“Smart India Hackathon 2018”
+content	experience	Co-curricular Activities
+content	experience	Paper Presented
+content	experience	●
+content	experience	Successfully presented
+content	experience	paper  on “Hologram
+content	experience	Technology”   in
+content	experience	Futura’19, Coimbatore
+content	knowledge	●
+content	knowledge	Successfully coordinated The National Level
+content	experience	Technical Symposium- UTSAHA’ 17 & 18

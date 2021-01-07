@@ -79,7 +79,7 @@ are working with.
 
 A training data generation and annotation tool is created in the [demo](demo) folder which allows 
 resume deep learning training data to be generated from any pdf and docx files stored in the 
-[demo/data/resume_samples](demo/data/resume_samples) folder, To launch this tool, run the following 
+[demo/data/resume_samples](demo/data/Dataset/resume_samples) folder, To launch this tool, run the following 
 command from the root directory of the project:
 
 ```batch
@@ -87,11 +87,11 @@ cd demo
 python create_training_data.py
 ``` 
 
-This will parse the pdf and docx files in [demo/data/resume_samples](demo/data/resume_samples) folder
+This will parse the pdf and docx files in [demo/data/resume_samples](demo/data/Dataset/resume_samples) folder
 and for each of these file launch a Tkinter-based GUI form to user to annotate individual text line
 in the pdf or docx file (clicking the "Type: ..." and "Label: ..." buttons multiple time to select the 
 correct annotation for each line). On each form closing, the generated and annotated data will be saved
-to a text file in the [demo/data/training_data](demo/data/training_data) folder.  each line in the
+to a text file in the [demo/data/training_data](demo/data/Dataset/training_data) folder.  each line in the
 text file will have the following format
 
 ```text
@@ -173,7 +173,7 @@ classifier.line_type_classifier = WordVecCnnLstm()
 ### Step 3: parse resumes using trained parser
 
 After the trained models are saved in the [demo/models](demo/models) folder,
-one can use the resume parser to parse the resumes in the [demo/data/resume_samples](demo/data/resume_samples)
+one can use the resume parser to parse the resumes in the [demo/data/resume_samples](demo/data/Dataset/resume_samples)
 by running the following command:
 
 ```bash

@@ -36,10 +36,10 @@ def main():
     from keras_en_parser_and_analyzer.library.utility.io_utils import read_pdf_and_docx
     current_dir = os.path.dirname(__file__)
     current_dir = current_dir if current_dir is not '' else '.'
-    data_dir_path = current_dir + '/data/'  # directory to scan for any pdf and docx files
+    data_dir_path = current_dir + '/data/Dataset'  # directory to scan for any pdf and docx files
     nlp = en_core_web_sm.load()
 
-    workbook = openpyxl.load_workbook(current_dir + '/data/resumeTemplate_Keys.xlsx')
+    workbook = openpyxl.load_workbook(current_dir + '/data/ResumeTemplate_Keys.xlsx')
     worksheet = workbook.worksheets[0]
     column_list = []
     for cell in worksheet[1]:
@@ -51,11 +51,11 @@ def main():
     cell_title.value = 'New Words'
 
     def parse_resume(file_path, file_content):
-        predicted_data_dir_path = current_dir + '/data/predicted'
+        # predicted_data_dir_path = current_dir + '/data/predicted'
         parser = ResumeParser()
         parser.load_model(current_dir + '/models')
         parser.parse(file_content)
-        template = current_dir + '/data/resumeTemplate_Keys.xlsx'
+        template = current_dir + '/data/ResumeTemplate_Keys.xlsx'
         keyword_dict = pd.read_excel(template)
         ML_words = [nlp(text.casefold()) for text in keyword_dict['ML Engineer'].dropna(axis=0)]
         HR_words = [nlp(text.casefold()) for text in keyword_dict['Human Resource'].dropna(axis=0)]
@@ -75,11 +75,11 @@ def main():
 
         if parser.unknown is False:
             print("summary", parser.summary())
-            # TD
+            # # TD
             # base = os.path.basename(file_path)
             # filename = os.path.splitext(base)[0]
             # print(filename)
-            # output_file_path = os.path.join(predicted_data_dir_path, filename + '.txt')
+            # output_file_path = os.path.join(data_dir_path, filename + '.txt')
             # print("op file path",output_file_path)
             # if os.path.exists(output_file_path):
             #     return
@@ -117,7 +117,7 @@ def main():
             cell_to_write.value = unique_nouns[x]
             y += 1
         # unique values to be loaded in new words column
-        workbook.save(current_dir + '/data/resumeTemplate_Keys.xlsx')
+        workbook.save(current_dir + '/data/ResumeTemplate_Keys.xlsx')
         keywords = "\n".join(f'{i[0]} {i[1]} ({j})' for i, j in Counter(d).items())
         df = pd.read_csv(StringIO(keywords), names=['Keywords_List'])
         df1 = pd.DataFrame(df.Keywords_List.str.split(' ', 1).tolist(), columns=['Subject', 'Keyword'])

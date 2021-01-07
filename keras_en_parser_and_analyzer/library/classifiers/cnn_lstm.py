@@ -3,6 +3,8 @@ from keras.layers import Embedding, SpatialDropout1D, Conv1D, MaxPooling1D, LSTM
 from keras.models import model_from_json, Sequential
 import numpy as np
 from keras.preprocessing.sequence import pad_sequences
+# from tensorflow import optimizers
+
 from keras_en_parser_and_analyzer.library.utility.tokenizer_utils import word_tokenize
 from keras.utils import np_utils
 from sklearn.model_selection import train_test_split
@@ -36,11 +38,13 @@ class WordVecCnnLstm(object):
         json = open(self.get_architecture_file_path(model_dir_path), 'r').read()
         self.model = model_from_json(json)
         self.model.load_weights(self.get_weight_file_path(model_dir_path))
+        # sgd = optimizers.SGD(lr=0.01, decay=1e-6, momentum=0.9, nesterov=True)
+
         self.model.compile(optimizer='adam', loss='categorical_crossentropy', metrics=['accuracy'])
 
         config_file_path = self.get_config_file_path(model_dir_path)
 
-        self.config = np.load(config_file_path).item()
+        self.config = np.load(config_file_path, allow_pickle=True).item()
 
         self.idx2word = self.config['idx2word']
         self.word2idx = self.config['word2idx']
@@ -58,6 +62,7 @@ class WordVecCnnLstm(object):
         self.model.add(MaxPooling1D(pool_size=4))
         self.model.add(LSTM(lstm_output_size))
         self.model.add(Dense(units=len(self.labels), activation='softmax'))
+        # sgd = optimizers.SGD(lr=0.17, decay=1e-6, momentum=0.9, nesterov=True)
 
         self.model.compile(optimizer='adam', loss='categorical_crossentropy', metrics=['accuracy'])
 

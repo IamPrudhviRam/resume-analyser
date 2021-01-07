@@ -14,6 +14,7 @@ import os
 from keras.preprocessing.sequence import pad_sequences
 from keras.utils import np_utils
 from sklearn.model_selection import train_test_split
+# from tensorflow import optimizers
 
 from keras_en_parser_and_analyzer.library.utility.tokenizer_utils import word_tokenize
 
@@ -42,15 +43,17 @@ class WordVecCnn(object):
     def get_architecture_file_path(model_dir_path):
         return model_dir_path + '/' + WordVecCnn.model_name + '_architecture.json'
 
+
     def load_model(self, model_dir_path):
         json = open(self.get_architecture_file_path(model_dir_path), 'r').read()
         self.model = model_from_json(json)
         self.model.load_weights(self.get_weight_file_path(model_dir_path))
+        # sgd = optimizers.SGD(lr=0.17, decay=1e-6, momentum=0.9, nesterov=True)
         self.model.compile(optimizer='adam', loss='categorical_crossentropy', metrics=['accuracy'])
 
         config_file_path = self.get_config_file_path(model_dir_path)
 
-        self.config = np.load(config_file_path).item()
+        self.config = np.load(config_file_path, allow_pickle=True).item()
 
         self.idx2word = self.config['idx2word']
         self.word2idx = self.config['word2idx']
@@ -63,11 +66,13 @@ class WordVecCnn(object):
         self.model = Sequential()
         self.model.add(Embedding(input_dim=self.vocab_size, input_length=self.max_len, output_dim=embedding_size))
         self.model.add(SpatialDropout1D(0.2))
-        self.model.add(Conv1D(filters=256, kernel_size=5, padding='same', activation='relu'))
+        self.model.add(Conv1D(filters=128, kernel_size=5,padding='same', activation='relu'))
         self.model.add(GlobalMaxPool1D())
         self.model.add(Dense(units=len(self.labels), activation='softmax'))
+        # sgd = optimizers.SGD(lr=0.17, decay=1e-6, momentum=0.9, nesterov=True)
 
         self.model.compile(optimizer='adam', loss='categorical_crossentropy', metrics=['accuracy'])
+
 
     def predict(self, sentence):
         xs = []
@@ -86,14 +91,14 @@ class WordVecCnn(object):
     def fit(self, text_data_model, text_label_pairs, model_dir_path, batch_size=None, epochs=None,
             test_size=None, random_state=None):
         if batch_size is None:
-            batch_size = 64
+            batch_size = 128
         if epochs is None:
             epochs = 20
         if test_size is None:
             test_size = 0.3
         if random_state is None:
             random_state = 42
-
+        print("batch_size",batch_size)
         self.config = text_data_model
         self.idx2word = self.config['idx2word']
         self.word2idx = self.config['word2idx']
@@ -141,6 +146,7 @@ class WordVecCnn(object):
         score = self.model.evaluate(x=x_test, y=y_test, batch_size=batch_size, verbose=1)
         print('score: ', score[0])
         print('accuracy: ', score[1])
+        # print('Weight:',self.model.get_weights())
 
         return history
 
@@ -177,7 +183,7 @@ class WordVecMultiChannelCnn(object):
 
         config_file_path = self.get_config_file_path(model_dir_path)
 
-        self.config = np.load(config_file_path).item()
+        self.config = np.load(config_file_path, allow_pickle=True).item()
 
         self.idx2word = self.config['idx2word']
         self.word2idx = self.config['word2idx']

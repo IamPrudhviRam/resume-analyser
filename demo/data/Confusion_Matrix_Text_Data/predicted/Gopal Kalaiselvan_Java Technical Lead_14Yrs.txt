@@ -1,0 +1,114 @@
+content	experience	Technical Lead; 13+ years’ experience as Java/J2EE developer. Associated with Wipro Technologies Limited
+content	experience	Rich expertise in core Java and J2EE Technologies which includes Struts, Spring,Spring Boot,MicroServices,AWS & Hibernate. Has vast experience in working with backend database Oracle and SQL. (sql/psql)
+content	experience	Took ownership of 24 enhancements; met client requests. Key clients; RBS, DBS, OCBC, Wells Fargo and BOA.
+content	experience	Experience in non-functional requirements such as like availability and scalability
+content	experience	Took full ownership of complete migration of all model from struts based application to Spring Migration
+content	experience	Investment Trade Project Migration ( 2017-2018)
+content	experience	Took full ownership of complete migration from on Premises to Aws Cloud Migration
+content	experience	Took full ownership of complete migration of all reports from SQL Query based to SQL Query and template based.
+content	experience	End to end ownership from design, development to deployment.
+header	experience	Experience Details
+content	experience	Virtual Account Changes(DBS and RBS)
+content	education	Wave4 Changes (Kasikorn).
+header	education	Academic Credentials
+content	education	MCA from Bharathidasan University, Trichy, TamilNadu 69%
+content	education	BSc (Mathematics)from Bharathidasan University, Trichy, TamilNadu 65%
+content	knowledge	Career Synopsis
+content	knowledge	Passionate towards learning new technologies and tools with an ability to grasp these technologies, very quickly.
+content	knowledge	Responsible for development and deployment of system-level solutions
+content	knowledge	Technical Strengths
+content	knowledge	Jboss and Jdk Stack Upgrade
+content	knowledge	Identified root cause as an Oracle performance issue.
+content	knowledge	Multi language support Enhancement. Successfully delivered for Kasikorn. Later implemented also for OCBC and DBS.
+content	knowledge	Payment management methods, payment channel options, administrative capabilities and timely posting and funding of ACI’s eLockbox services. Resulted in a full-featured, end-to-end electronic payment application.
+content	knowledge	Technologies: Languages: J2SE 1.5, J2EE(JSP,Servlet,EJB) Struts, OOPS, Weblogic11, Web Services, unit, JavaScript, XML; Database: Oracle 10g/SQL
+content	project	Technical Lead Professional
+content	project	Proven track record of delivery of complex products in Online Bill Payment , Corporate Banking domains ,Investment Compliance and Payment Gateway Service
+content	project	Take a responsibility for Struts to Spring migration Payment Gateway Service
+content	project	Part of a global Dev Team (India and US). End to end ownership of enhancements and customizations for new enhanced product versions.
+content	project	Ensured numerous successful on time releases without any major issues reported.
+content	project	Led team of engineers and was module owner for multiple Projects. Won Awards for successful completion.
+content	project	Mentored team members on product, Java and J2EE technologies and Development tools.
+content	project	Extensive experience in SDLC; gathered analyse requirement, design, code review, development, functional testing, release to QA, bug fixing, initial support.
+content	project	Involved In Low Level design , High Level Design and Estimation given for development
+content	project	Strong Knowledge on platform best practices and various tools available for testing and debugging
+content	project	Be responsible for requirements ,Preparing estimates and defining technical solutions
+content	project	Take Initiative to analysing and digging into problem statements and find a feasible solutions
+content	project	Primaryskillset:CoreJava,J2EE,Struts,Spring,SpringBoot,MicroServices,Hibernate,EsperandOracleCoherence Oracle(SQL/PLSQL)
+content	project	Secondary skill set: Java Design Patterns, JDBC, XML, Java Script,Jquery,BEA Weblogic,JBoss, Ant 1.6,Maven and Tomcat,Jenkins ,AWS(EC2,EBS,S3,VPC,RDS and AWS Code Commit)
+content	project	Tools: Eclipse, Toad, JUnit, Jira, IT, SVN-Subversion, Elixir Reports, Microsoft Interdev
+content	project	Payment Gateway Services Migration (2019)
+content	project	Implements the Continuous Integration and Continuous deployment
+content	project	Data Migration Project; Applause Award. (2010 – 12). Global Banker Product; client, OCBC.
+content	project	Led/ managed team; Developed Data Migration Tool. Client wanted to improve look and feel.
+content	project	Researched, suggested and convinced Product Manager to migrate from Oracle to Elixir.
+content	project	Received client appreciation; Implemented for other clients - DBS, RBS, TMB, NISB.
+content	project	Master Detail Transaction Enhancement. Complete Ownership. Enabled 10K records to be processed in fraction of seconds, GBS, Client, OCBC.
+content	project	Resolved post deployment existing issue reported by client. Statement report generation time reduced by 75%.
+content	project	Analysed Explain Plan and Query and used SQL Index to optimize Query.
+content	project	Internationalization for Thai language support was done for Screens labels, data, messages and reports
+content	project	Successfully led team of 6 members
+content	project	Working as Technical Lead in Wipro Technologies June 2017 till the date
+content	project	Wipro Technologies Teachnical Lead Jun 2017
+content	project	Project Title: Ecommerce Non Store
+content	project	Description: Ecommerce non-store applications providing services to HP B2B and B2C global business. Total 20 assets, in which 15 are mission critical applications. These applications are the backbone of B2B and B2C business. In that one of the Project PGS (Payment Gateway system). They multiple Modules FQM,FQM UAM,RMS,RMS Admin,Reporting Tool and Log Search Tool. In that RMS Admin is used to generate the rule that rule needs to satisfy the any one of condition like Approve, Review and Reject. Once Rules get satisfied its move to FQM module based on the user privilege the can able to edit the data review and reject updated the comments.
+content	project	Team Size:9 Role: Lead and Development
+content	project	Technologies:J2SE1.8,J2EE,Spring Boot,Spring MVC 5.1.2,Hibernate,Webservices,Weblogic 12c,XML and MSSQL Server
+content	project	Discussing with client on various solutions and bringing new values add to customer experience.
+content	project	Evaluate current or emerging technologies to consider factors such as cost, portability, compatibility, or usability.
+content	project	Provide technical guidance or support for the development or troubleshooting of systems.
+content	project	Establish functional or system standards to ensure operational requirements, quality requirements, and design constraints are addressed.
+content	project	Communicate program information through presentations, technical reports or white papers.
+content	project	Responsibility on technology to use or upgrading to different frameworks or software’s.
+content	project	Project Title: Investment Compliance Engine
+content	project	Description: The Compliance engine within a brokerage firm ,and financial institution is designed to ensure compliance with all applicable laws, rules and regulations .Depending on the business of the financial institution, these duties may range from monitoring trading activity, Preventing conflicts of interest and ensuring compliance with regulations at brokerage firms to preventing money laundering.
+content	project	Team Size:10 Role :Development
+content	project	Technologies: J2SE 1.8, J2EE,AWS,SpringBoot,MicroServices WebServices,Junit,JQuery,JBoss,EPL,Oracle Coherence,EJB ,JavaScript, XML; Oracle 10g/SQL
+header	project	Role &Responsibilities:
+content	project	Establish functional or system standards to ensure operational requirements, quality requirements, and design constraints are addressed.
+content	project	Communicate program information through presentations, technical reports or white papers.
+content	project	Mentor and guide team members
+content	project	Detail design, perform code review and tune the database queries
+content	project	Requirement analysis and give solution specification
+content	project	ACI Worldwide Solutions Pvt. Ltd. Sr. Software Engineer II Jun 2005-2017
+content	project	Project Title : Electronic Bill Presentment & Payment(EBPP)
+content	project	Description: Consumer can make electronic payment to a service provider (i.e. a biller) through their financial institution or through the service provider’s environment. ACI offers billers the EBPP Services suite to support electronic payments made through the biller’s environment. EBPP offers both One Time Pay and Recurring Payments (Enrolment) Consumer payment management modules. Consumers can make payments through a variety of channels including: Web, mobile phone browser, phone (IVR), or through Web based customer service interface. The payment management modules and payment channels may be mixed and matched to meet any biller’s presentment and payment needs.
+content	project	Team Size:15 Role :Development
+content	project	Technologies: J2SE 1.5, J2EE, Spring, WebServices,Junit,JQuery,JBoss,OOPS ,JavaScript, XML; Oracle 10g/SQL
+header	project	Role &Responsibilities:
+content	project	Mentor and guide team members
+content	project	Detail design, perform code review and tune the database queries
+content	project	Requirement analysis and give solution specification
+content	project	Took ownership for the following Enhancements:
+content	project	One Time Pay Web – online payment by ACH, credit or debit cards
+content	project	One Time Pay Mobile Browser – mobile payment by ACH, credit or debit cards
+content	project	Enrolment Mobile Browser – mobile payment (including automatic recurring payments), plus summary presentment, payment history, and account management features
+content	project	Client Console Module - Enabled efficient Report Generation, Reconciliation and Audit Claim
+content	project	Client Console Module - Introduced Admin Privileges to create users
+content	project	Worked on following Customizations:
+content	project	Connect– API connections that provide payment functionality of both One Time Pay and Recurring Payments (Enrolment) modules, for Consumers who want to maintain their own front-end application. Batch payments via a file transmission are also supported.
+content	project	Consumer facing web interfaces offer support of English and Spanish. Single language can be utilized or the consumer can choose between two languages
+content	project	Project Title: Global Banker (GB)
+content	project	Description:Product offered by ACI under wholesale banking product suite. Enables a bank's corporate customers to operate accounts and products and receive consolidated balance reporting information across all other bank branches, spread across geographic regions.
+content	project	Provides various banking instruments such as Bulk Payment, Cheques, Demand Drafts and Internationalization support for global corporate customers. Corporate customer will be able to manage financial portfolio and manage cash flow. Helps corporate customers deliver results.
+content	project	Allows customers to initiate transactions over Internet or Intranet. Facilitates transactions to back-office systems for further processing. Delivers feedback on status of transactions and reporting information to originators.
+content	project	Implemented the CSRF for DBS and OCBC with Security for Sql injection and Cross Site Scripting
+content	project	Team size: 10 Role: Design & Development
+meta	project	Client : DBS, OCBC, RBS, CIMB, NISP, TMB and KBANK.
+header	project	Role &Responsibilities:
+content	project	Phase Lead for the Project. Mentored newcomers in project.
+content	project	High level estimation, impact assessment and detail designing.
+content	project	Requirement analysis, designed solution specification, development of UT, Unit & Integration testing, code reviews, root cause analysis, code optimization, write& tune database queries and bug fixing.
+content	project	Wrote business validations, created entities, screens, DAO s
+content	project	Took ownership for the following enhancements; Designed, developedand customized:
+content	project	Corporate internet banking applications
+content	project	SMS number and language added in manual payments and file upload module so that bank could alert customer for each transaction authorization (KasiKorn).
+content	project	Electronic Receipts Module. Request can be placed with some criteria and a pre-printed PDF report can be launched for respective request (OCBC).
+content	project	Interface to connect to back end systems / middleware (DBS)
+content	project	Elixir Reports migration from version 4 to 7 (KasiKorn)
+content	project	Payment Module (TMB). Smart Credit day, Smart Credit Same day ,Smart Debit day and Smart Debit Same day.
+content	project	IGiro Product. IGiro Payments, Giro Payroll, Giro Management Payroll and IGiro Collection Product.
+content	project	Based on Custom needs Files read from XML and Custom Message Stored in database print data in PDF format (OCBC)
+meta	others	G KALAISELVAN
+meta	others	Mobile: +91-8971331063|E-Mail:gkalaiselvan36@gmail.com
+meta	others	Client : DBS, OCBC, RBS, CIMB, NISP, TMB and KBANK.

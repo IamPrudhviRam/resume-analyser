@@ -5,6 +5,7 @@ import numpy as np
 from keras.preprocessing.sequence import pad_sequences
 from keras.utils import np_utils
 from sklearn.model_selection import train_test_split
+#from keras import optimizers
 
 from keras_en_parser_and_analyzer.library.utility.tokenizer_utils import word_tokenize
 
@@ -37,6 +38,7 @@ class WordVecLstmSigmoid(object):
         json = open(self.get_architecture_file_path(model_dir_path), 'r').read()
         self.model = model_from_json(json)
         self.model.load_weights(self.get_weight_file_path(model_dir_path))
+        #sgd = optimizers.SGD(lr=0.01, decay=1e-6, momentum=0.9, nesterov=True)
         self.model.compile(optimizer='adam', loss='categorical_crossentropy', metrics=['accuracy'])
 
         config_file_path = self.get_config_file_path(model_dir_path)
@@ -54,15 +56,16 @@ class WordVecLstmSigmoid(object):
         self.model = Sequential()
         self.model.add(Embedding(input_dim=self.vocab_size, output_dim=embedding_size, input_length=self.max_len))
         self.model.add(SpatialDropout1D(0.2))
-        self.model.add(LSTM(units=64, dropout=0.2, recurrent_dropout=0.2))
+        self.model.add(LSTM(units=64, dropout=0.6, recurrent_dropout=0.6))
         self.model.add(Dense(1, activation='sigmoid'))
-
-        self.model.compile(optimizer='rmsprop', loss='binary_crossentropy', metrics=['accuracy'])
+        #sgd = optimizers.SGD(lr=0.01, decay=1e-6, momentum=0.9, nesterov=True)
+        self.model.compile(optimizer='adam', loss='binary_crossentropy', metrics=['accuracy'])
 
     def fit(self, text_data_model, text_label_pairs, model_dir_path, batch_size=None, epochs=None,
             test_size=None, random_state=None):
         if batch_size is None:
-            batch_size = 64
+            batch_size = 32
+            print("bactchsize",batch_size)
         if epochs is None:
             epochs = 20
         if test_size is None:

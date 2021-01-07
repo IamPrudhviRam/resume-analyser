@@ -1,0 +1,69 @@
+header	others	RESUME
+meta	others	Hazarath Vadapalli E-mail:
+meta	others	Mobile: +91-8148168979
+meta	experience	Career Summary:
+content	experience	Have 7+ Years of experience in Implementing BI Solutions Using Microsoft BI Tools like Sql Server Integration Services, Reporting Services and Analysis Services.
+content	experience	Implemented and maintained new and existing ETL Workflows in Microsoft SQL Server 2008/2012/2014.
+content	experience	Experienced in implementing business rules via stored procedures, T-SQL and SSIS Transformations.
+content	experience	Experience in using various Containers and Tasks in SSIS like Execute SQL Task, DataFlow Task, Script Task, Lookup task, Sendmail task, FTP, Sequence Container for Each Loop Container.
+content	experience	Experience in Creating tabular, Matrix, Chart, Drill down and drill through Reports using SQL Server Reporting Services (SSRS).
+content	experience	Good Work experience in implementing, and maintaining new and Existing Reports in Microsoft SQL Server 2008/2012/2014
+content	experience	Follow the Data warehouse and BI Development team Coding Standards and Processes
+content	experience	Excellent self learning, analytical and team interaction skills.
+content	experience	Good knowledge in creating reports, importing various custom visuals as per the requirements, deploying them to Power Bi service, managing power bi service cloud configuration, scheduling the data refreshes, creating the content pack and sharing with specific groups, managing the row level security
+header	experience	Experience Summary:
+content	experience	Working as Associate Projects at Cognizant Technology Solutions Ltd, Chennai since July 2016 to till date.
+content	experience	Worked as an IT Analyst at Tata Consultancy services, Chennai since February 2012 to June 2016.
+content	knowledge	Technical Skills:
+content	knowledge	MSBI Tools : SSIS, SSRS, SSAS, Power BI.
+content	knowledge	Databases : SQL Server 2008/2012/2014.
+content	knowledge	Environment : Windows XP/7/Server 2008 R2, Microsoft Visual Studio 2012/2013
+header	project	Projects Involved:
+content	project	Project # 1 : OneData
+content	experience	Client : Pearson Education.
+content	knowledge	Tools Used : SSIS, SSRS, SSAS, SQL SERVER 2014, Power BI.
+content	experience	Duration : Sep-2016 to till date
+content	experience	Description:
+content	project	Pearson is the world’s learning company, with expertise in educational courseware and assessment, and a range of teaching and learning services powered by technology. Its are used by millions of teachers and learners around the world every day. Pearson mission is to help people make progress in their lives through learning — because it believe that learning opens up opportunities, creating fulfilling careers and better lives.
+content	project	We manage the data corresponding to UK customers, whoever are accessing the assessment series, resources and products of Pearson. We receive data from various sources SQL, Flat files, managing the data from maxemail data centres etc. We import the data from various sources using SSIS packages and transform the data to stage tables, created complex stored procedures with various business logics and loaded data to dimension tables. Developed various SSRS.
+header	experience	Responsibilities:
+content	experience	Understanding and analyzing existing code.
+content	experience	Creating new SSIS packages for new incoming feeds which involves creating new tables, procedure, index and other related objects
+content	experience	Creating jobs and scheduling.
+content	experience	New dimensions and measure groups are added on the existing cube to accommodate the new data feed.
+content	experience	Designing SSRS reports as per bussiness requirement and deplying to sharePoint.
+content	experience	Providing report level securities for the bussiness in sharepoint site.
+content	experience	Designing various Matrix, tabular, Chart reports as per business requirement and deploying in Report manager providing security and creating subscriptions.
+content	experience	Responsible for speaking with the Client to gather business requirements.
+content	experience	Working on manual data updates, adding new column, changes for the reports and access requests.
+content	knowledge	Monitoring daily jobs and sending status mail to client.
+content	knowledge	Creating Visualizations and reports in Power BI Desktop and Publishing to Power BI service.
+content	knowledge	Managing row level securities.
+header	project	Projects Involved:
+content	project	Project # 2 : Your Other Warehouse (YOW)
+content	knowledge	Client : The Home Depot (YOW IT TEAM) Atlanta, GA.
+content	knowledge	Tools Used : SSIS, SSRS, SQL SERVER 2012
+content	experience	Duration : March-2013 to June 2016
+header	experience	Description:
+content	experience	The Home Depot is retailer of Home improvement and construction products and services. The project is on Your Other Warehouse employees and costumers information management in stores around USA and Canada. Project on Migrating 2005 Server to 2012.Upgrading stored procedure, SSIS packages and SSRS reports from 2005 to 2012.
+header	experience	Responsibilities:
+content	project	Understanding and analyzing existing code.
+content	project	Modification of existing stored procedures and SSIS package to meet the business requirements.
+content	project	Applying business rules while designing ETL packages through transformations like Derived Column, Aggregate, lookup, Merge etc.
+content	project	Designing stored procedures to populate reports datasets
+content	project	Designing Business analytical reports and modifying existing reports as per business user’s requirements.
+content	project	Creating, scheduling and fixing the SQL Agent jobs.
+content	experience	Granting several permissions to user on reports and databases.
+content	project	Project # 3 : MS People
+content	knowledge	Client : Microsoft, USA.
+content	knowledge	Tools Used : SSIS, SSRS, SQL SERVER 2008R2
+content	knowledge	Duration : Apr-2012 to Jan-2013
+header	experience	Description:
+content	experience	MS People deals with Microsoft employee’s data like Name, Gender, salary, Date of Joining, Designation etc. Microsoft is having a reporting tool called MSRA which is used to get the report on MS People Data Warehouse.
+header	experience	Responsibilities:
+content	experience	Extensively worked in Data Extraction, Transformation and loading data from source systems to target systems using SSIS packages.
+content	experience	Scheduling ETL packages through Sql Server agent Jobs.
+content	experience	Deploying the designed SSIS packages to multiple environments.
+content	experience	Creation of Tabular, matrix and Chart reports in SSRS as per business requirements.
+content	experience	Creation of report subscriptions to send the reports through emails at desired schedules
+content	experience	Hazarath

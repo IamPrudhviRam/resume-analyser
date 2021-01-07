@@ -1,0 +1,72 @@
+meta	others	Name
+meta	others	: Hariharasudhan E
+meta	others	Email Id
+meta	others	: hari2233812@gmail.com
+meta	others	Phone number : 8547624973
+meta	others	Address
+meta	others	: s/o Ezhumalai, West division, Yellapatty estate, Munnar, Kerala 685615
+meta	others	Presently I am a fresher so I need a platform that showcases innovative performance.
+header	others	OBJECTIVE:
+header	others	PERSONAL SKILLS:
+meta	others	➢ Energetic: Active, full of life.
+meta	others	➢ Cooperative: Work well with others.
+content	others	➢ Alert: Watchful.
+header	education	EDUCATIONAL QUALIFICATION:
+meta	education	Qualification  University/Board
+meta	education	Institution
+meta	education	B.Tech
+meta	education	(EEE)
+content	education	H.S.E
+content	education	Dr. A.P.J. Abdul
+content	education	Kalam Technological
+content	education	University, Kerala
+content	education	Kerala State board
+content	education	N.S.S College of
+content	education	Engineering, Palakkad
+content	education	P.M.G.H.S.S Palakkad
+content	others	2015
+content	others	81.33%
+content	others	S.S.L.C
+content	others	Kerala State board
+content	others	G.M.R.S PEERMADE
+content	others	2013
+content	others	88%
+content	others	Year of
+content	others	passing
+content	others	2019
+content	others	Percentage
+content	others	62%
+header	knowledge	TECHNICAL SKILLS:
+content	knowledge	:Angular8, Node JS (Basic)
+header	knowledge	  Platform
+content	knowledge	  Mark-up & Scripting: HTML5, JavaScript.
+content	experience	  Database
+content	experience	: MongoDB (Basic)
+content	experience	AREA OF INTREREST:
+content	experience	  Software Developer
+header	experience	PROJECT WORKS:
+content	experience	  Project  done  on  IOT  based  secured  driving  updater  at  N.S.S  College  of
+content	experience	engineering.
+content	experience	  Project done on shopping cart application at credo systems.
+content	experience	  Front End : Angular8
+content	experience	  Back End  : Node JS
+header	experience	AWARDS/ACHIVEMENT:
+header	others	INTERSETS/HOBBIES:
+meta	others	Editing.
+meta	others	PERSONAL INFORMATION:
+meta	others	Father`s Name
+meta	others	: Ezhumalai T
+meta	others	Date of Birth
+meta	others	: 05.12.1997
+meta	others	Gender
+meta	others	: Male.
+meta	others	Marital Status
+meta	others	: Single.
+meta	others	Languages Known : English, Tamil & Malayalam (read, write and speak)
+header	others	DECLARATION:
+meta	others	belief.
+meta	others	DATE  :
+meta	others	PLACE:
+meta	others	I hereby declare that above information is correct to the best of my knowledge and
+meta	others	your faithfully,
+meta	others	Hariharasudhan E

@@ -14,7 +14,7 @@ def main():
     current_dir = os.path.dirname(__file__)
     current_dir = current_dir if current_dir is not '' else '.'
     output_dir_path = current_dir + '/models'
-    training_data_dir_path = current_dir + '/data/test_data'
+    training_data_dir_path = current_dir + '/data/Dataset/training_data'
 
     classifier = ResumeParser()
     batch_size = 64

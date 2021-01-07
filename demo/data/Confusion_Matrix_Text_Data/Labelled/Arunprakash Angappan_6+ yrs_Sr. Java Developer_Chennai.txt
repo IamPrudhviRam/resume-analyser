@@ -1,0 +1,75 @@
+meta	others	Arunprakash Angappan
+meta	others	Mobile : +91-9976074518
+meta	others	Email : aprakash1028@gmail.com
+header	knowledge	PROFESSIONAL SUMMARY
+content	knowledge	6 years of experience in developing Web Application using Java, Spring Boot, JPA, Spring Batch.
+content	knowledge	Involved in both Front and Back End Development
+content	knowledge	Sound knowledge in Angular 7, Typescript (UI Design)
+content	experience	Experienced in Health Care domain
+content	experience	Have work exposure to Microservice and Docker
+content	knowledge	Having knowledge in EXT JS
+content	experience	Ensure solid, minimal-defect code by performing unit testing with JUnit test cases and through rigorous integration testing of the entire application
+content	experience	Strong problem solving, analytical skills
+header	knowledge	SKILL SETS
+content	knowledge	Programming Languages : Java
+content	knowledge	RDBMS : MySQL
+content	knowledge	Client-side Scripting : Angular 7, Typescript, Ext JS
+content	knowledge	Operating Systems : Windows
+content	knowledge	IDE : Eclipse
+content	knowledge	Frameworks : Spring Boot, JPA, Spring Batch, JUnit
+header	knowledge	ACHIEVEMENTS
+content	knowledge	Received ESprit AWARD in 2018 for outstanding contribution towards the projects ‘Assign’ and ‘AI Viewer’.
+header	experience	EXPERIENCE SUMMARY
+header	education	EDUCATIONAL QUALIFICATION
+content	education	Bachelor of Engineering in Electronics and Communication (2009-2013) from Nandha Engineering College -Perundurai, with 7.3 (CGPA) First Class affiliated to Anna University
+content	education	HSC from Saratha Matric Hsc - Gobi, with 85.3% aggregate - State Board
+content	education	SSLC from Sri Akila Vidhyalaya - Annur, with 72.2% aggregate – Matric Board
+header	project	PROJECT PROFILE
+content	project	PROJECT # 1
+content	project	Application : Assign
+content	project	Domain : Health Care
+content	project	Duration : Oct 2017 to till date
+content	project	Environment : Java, Spring Boot, Hibernate, Micro services, Docker, Eclipse, MySQL, Tomcat
+header	project	PROJECT DESCRIPTION
+content	project	Optimizing the patient assignment process, intelligently and automatically assembling the optimal care team, facilitating collaboration, and by providing innovative charge capture solutions.
+header	project	ROLES AND RESPONSIBILITIES
+content	project	Worked in both Front and Back End Development
+content	project	Coordinated with client to get details on the requirements
+content	project	Involved in preparation of Low Level design document as well as creation of reusable components for the application
+content	project	Involved in other activities like performing peer reviews and preparation of technical approach documents
+content	project	Prepared daily status report and circulated to team on regular basis
+content	project	Used HQL and SQL queries for data extraction
+content	project	Mentored Junior and provided them all required technical support
+header	project	PROJECT # 2
+content	project	Application : AI Viewer
+content	project	Domain : Health Care
+content	project	Duration : Nov 2018 to till date
+content	project	Environment : Angular 2, Typescript, SASS
+header	project	PROJECT DESCRIPTION
+content	project	Device which captures different tissues of a patient and displays the image in the AI viewer application which follows the Health Care DICOM standards and health information on the basis of HL7 standards.
+header	project	ROLES AND RESPONSIBILITIES
+content	project	Contributed for Front end development activities
+content	project	Was part of application architecture design phase and created application design template
+content	project	Interacted with client closely to gather detailed requirements
+content	project	Post requirement analysis, raised clarifications if required and then estimated the respective modules based on the inputs gathered
+content	project	Developed baseline for the application using Angular 2 and Typescript
+content	project	Did design and code peer reviews
+header	project	PROJECT # 3
+content	project	Application : ICEW
+content	project	Domain : Health Care
+content	project	Duration : June 2015 to Oct 2017
+content	project	Environment : Core Java, Spring, Hibernate, DB2
+header	project	PROJECT DESCRIPTION
+content	project	iConnect Enterprise Workflow is a vendor neutral platform that simplifies, drives and measures reading workflow activities across the enterprise. More than just federating multiple referral sources into a single work list, iConnect Enterprise Workflow helps to improve study throughput and the physician’s reading experience, exceed quality and load balancing policy goals, and access integrated analytics from multiple PACS systems.
+header	project	ROLES AND RESPONSIBILITIES
+content	project	Worked in both Front and Back End Development
+content	project	Requirement analysis, DB design and service documentation
+content	project	Generate the Reports for individual user based on the exam qualifications
+content	project	Performed Junit testing for individual DAO and Service layer (Junit, Mockito)
+header	project	PROJECT # 4
+content	project	Application : STI – Special Terminal Interface
+content	project	Duration : June 2013 – May 2015
+header	project	PROJECT DESCRIPTION
+content	project	It’s a web-based application developed for managing Customer Relationship Management. This application can be used for organization-wide sales, marketing, customer support and inventory functions.
+content	project	ROLES AND RESPONSIBILITIES
+content	project	Developed the application using JSP, Servlets where user can enter the input data for business logic
