@@ -1,3 +1,4 @@
+import sys
 import os
 import pandas as pd
 from spacy.matcher import PhraseMatcher
@@ -60,11 +61,13 @@ def main():
         matcher.add('UI-UX', None, *UI_UX_developer_words)
         matcher.add('HR', None, *HR_words)
 
+        print("matcher", matcher)
         matchesWithJD = matcher(job_description)
         matchlistWithJD = []
 
         for match_id, start, end in matchesWithJD:
             span = str(job_description[start: end])
+            print("span",span)
             #can we do this in list comparision instead of loop
             for words in ML_words:
               if span == str(words):
@@ -104,8 +107,8 @@ def main():
             categorised_dict = categorised_dict[fileds].sort_values(by=matchlistWithJD, ascending=False, ignore_index=True)
             categorised_dict = categorised_dict.loc[categorised_dict['Points'] >= 1]
             print("\n")
-            categorised_dict.to_csv('categorised_dict.csv')
-            # print(" Categorised Canditates Table: \n", categorised_dict)
+            print(" Categorised Canditates Table: \n", categorised_dict)
+            #categorised_dict.to_csv('categorised_dict.csv')
         else :
             print("you have No resume matched with Job description")
 
