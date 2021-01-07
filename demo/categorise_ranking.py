@@ -112,6 +112,7 @@ def main():
             categorised_dict = categorised_dict.loc[categorised_dict['Points'] >= 1]
             print("\n")
             print(" Categorised Canditates Table: \n", categorised_dict)
+            #categorised_dict.to_csv('categorised_dict.csv')
         else :
             print("you have No resume matched with Job description")
 
