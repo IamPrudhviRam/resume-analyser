@@ -31,10 +31,6 @@ root.mainloop()
 #end of statement
 
 def main():
-    index = open("jd.html").read().format(first_header='goodbye',
-                                             p1='World',
-                                             p2='Hello')
-    print("index", index)
 
     if jd !="":
         job_desc= jd.casefold()
