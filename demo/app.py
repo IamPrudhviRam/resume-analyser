@@ -4,27 +4,33 @@ import os
 from flask import Flask
 from pyngrok import ngrok
 from flasgger import Swagger
+from flask import request
 from collections import Counter
 from io import StringIO
 import pandas as pd
+import numpy as np
 from pandas.tests.io.excel.test_openpyxl import openpyxl
 from spacy.matcher import PhraseMatcher
 import en_core_web_sm
-import numpy as np
+
 import matplotlib.pyplot as plt
 from textblob import TextBlob
 
 final_database = pd.DataFrame()
 y = 2
+jd = ""
+nlp = en_core_web_sm.load()
 
 app = Flask(__name__)
 Swagger(app)
 public_url = ngrok.connect(5000).public_url
 print(" * ngrok tunnel \"{}\" -> \"http://127.0.0.1:{}\"".format(public_url, 5000))
 
+
 @app.route('/')
 def hello():
     return '<h2> Api Working for Resume</h2><h4> "/predict" for predicting</h4>' \
+           '<h4> "/ranking" for Ranking</h4>' \
            '<h4> "/confusion" for confusion matrix and accuracy</h4>'
 
 
@@ -175,4 +181,93 @@ def main():
     plt.show()
 
     # return plt.show()
-    return '<h2>Files Predicted</h2><p>{new_data}</p>'.format(new_data = new_data)
+    return '<h2>Files Predicted</h2><p>{new_data}</p>'.format(new_data=new_data)
+
+
+@app.route('/ranking', methods=['POST'])
+def ranking():
+    # index = open("jd.html").read().format(first_header='goodbye', p1='World', p2='Hello')
+    # print("index", index)
+    global categorised_dict
+    jd = request.form['jd']
+
+    if jd != "":
+        job_desc = jd.casefold()
+
+        print("***************** Ranking candidates based on job description **************")
+        # job_desc = input("enter the Job Description: ")
+        job_description = nlp(job_desc)
+
+        current_dir = os.path.dirname(__file__)
+        current_dir = current_dir if current_dir is not '' else '.'
+        template = current_dir + '/data/resumeTemplate_Keys.xlsx'
+        keyword_dict = pd.read_excel(template)
+
+        ML_words = [nlp(text.casefold()) for text in keyword_dict['ML Engineer'].dropna(axis=0)]
+        HR_words = [nlp(text.casefold()) for text in keyword_dict['Human Resource'].dropna(axis=0)]
+        Data_Engineering_words = [nlp(text.casefold()) for text in keyword_dict['Data Engineering'].dropna(axis=0)]
+        Java_Developer_words = [nlp(text.casefold()) for text in keyword_dict['Java Developer'].dropna(axis=0)]
+        Web_Developer_words = [nlp(text.casefold()) for text in keyword_dict['Web Developer'].dropna(axis=0)]
+        Quality_Assurance_words = [nlp(text.casefold()) for text in keyword_dict['Quality Assurance'].dropna(axis=0)]
+        UI_UX_developer_words = [nlp(text.casefold()) for text in keyword_dict['UI UX developer'].dropna(axis=0)]
+
+        matcher = PhraseMatcher(nlp.vocab)
+        matcher.add('ML', None, *ML_words)
+        matcher.add('DE', None, *Data_Engineering_words)
+        matcher.add('Java', None, *Java_Developer_words)
+        matcher.add('Web', None, *Web_Developer_words)
+        matcher.add('QA', None, *Quality_Assurance_words)
+        matcher.add('UI-UX', None, *UI_UX_developer_words)
+        matcher.add('HR', None, *HR_words)
+
+        print("matcher", matcher)
+        matchesWithJD = matcher(job_description)
+        matchlistWithJD = []
+
+        for match_id, start, end in matchesWithJD:
+            span = str(job_description[start: end])
+            print("span", span)
+            # can we do this in list comparision instead of loop
+            for words in ML_words:
+                if span == str(words):
+                    matchlistWithJD.append("ML")
+            for words in Data_Engineering_words:
+                if span == str(words):
+                    matchlistWithJD.append("DE")
+            for words in Java_Developer_words:
+                if span == str(words):
+                    matchlistWithJD.append("Java")
+            for words in Web_Developer_words:
+                if span == str(words):
+                    matchlistWithJD.append("Web")
+            for words in Quality_Assurance_words:
+                if span == str(words):
+                    matchlistWithJD.append("QA")
+            for words in UI_UX_developer_words:
+                if span == str(words):
+                    matchlistWithJD.append("UI-UX")
+            for words in HR_words:
+                if span == str(words):
+                    matchlistWithJD.append("HR")
+        matchlistWithJD = list(set(matchlistWithJD))
+        print("Match List With Job Desc:\n", matchlistWithJD)
+
+        categorised_dict = pd.read_csv('sample.csv')
+        print("\n")
+        print(" Candidates Table: \n", categorised_dict)
+        categorised_columns = list(categorised_dict.columns)
+        matchlistWithJD = list(set(matchlistWithJD).intersection(set(categorised_columns)))
+        fileds = matchlistWithJD.copy()
+        fileds.insert(0, "Candidate Name")
+        categorised_dict['Points'] = categorised_dict.loc[:, matchlistWithJD].sum(axis=1)
+        fileds.insert(1, "Points")
+
+        if len(matchlistWithJD) > 0:
+            categorised_dict = categorised_dict[fileds].sort_values(by=matchlistWithJD, ascending=False,
+                                                                    ignore_index=True)
+            categorised_dict = categorised_dict.loc[categorised_dict['Points'] >= 1]
+            print("\n")
+            print(" Categorised Canditates Table: \n", categorised_dict)
+        else:
+            print("you have No resume matched with Job description")
+    return'<h2>Resume Ranking done.</h2><p>Categorized Candidates :\n {rank}</p>'.format(rank=categorised_dict)
