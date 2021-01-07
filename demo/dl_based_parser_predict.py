@@ -6,7 +6,6 @@ import pandas as pd
 from pandas.tests.io.excel.test_openpyxl import openpyxl
 from spacy.matcher import PhraseMatcher
 import en_core_web_sm
-import numpy as np
 import matplotlib.pyplot as plt
 from textblob import TextBlob
 
@@ -22,7 +21,6 @@ def getresults(dataf):
         [final_database['Candidate Name'], final_database['Subject']]).count().unstack()
     final_database2.reset_index(inplace=True)
     final_database2.fillna(0, inplace=True)
-    print("final_database \n", final_database2)
     global new_data
     new_data = final_database2.iloc[:, 1:]
     new_data.index = final_database2['Candidate Name']
