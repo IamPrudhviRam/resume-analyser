@@ -24,7 +24,7 @@ print(" * ngrok tunnel \"{}\" -> \"http://127.0.0.1:{}\"".format(public_url, 500
 
 @app.route('/')
 def hello():
-    return '<h2> Api Working for Resume</h2><h4> "/main" for predicting</h4>' \
+    return '<h2> Api Working for Resume</h2><h4> "/predict" for predicting</h4>' \
            '<h4> "/confusion" for confusion matrix and accuracy</h4>'
 
 
@@ -44,14 +44,14 @@ def getresults(dataf):
     sample2 = new_data.to_csv('sample.csv')
 
 
-@app.route('/main')
+@app.route('/predict')
 def main():
     sys.path.append(os.path.join(os.path.dirname(__file__), '..'))
     from keras_en_parser_and_analyzer.library.dl_based_parser import ResumeParser
     from keras_en_parser_and_analyzer.library.utility.io_utils import read_pdf_and_docx
     current_dir = os.path.dirname(__file__)
     current_dir = current_dir if current_dir is not '' else '.'
-    data_dir_path = current_dir + '/data/'  # directory to scan for any pdf and docx files
+    data_dir_path = current_dir + '/data/test_data/'  # directory to scan for any pdf and docx files
     nlp = en_core_web_sm.load()
 
     workbook = openpyxl.load_workbook(current_dir + '/data/resumeTemplate_Keys.xlsx')
@@ -175,4 +175,4 @@ def main():
     plt.show()
 
     # return plt.show()
-    return '<h2>Files Predicted</h2>'
+    return '<h2>Files Predicted</h2><p>{new_data}</p>'.format(new_data = new_data)
