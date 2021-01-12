@@ -52,15 +52,15 @@ def getresults(dataf):
 
 @app.route('/predict')
 def main():
-    sys.path.append(os.path.join(os.path.dirname(__file__), '..'))
+    sys.path.append(os.path.join(os.path.dirname(__file__), ''))
     from keras_en_parser_and_analyzer.library.dl_based_parser import ResumeParser
     from keras_en_parser_and_analyzer.library.utility.io_utils import read_pdf_and_docx
     current_dir = os.path.dirname(__file__)
     current_dir = current_dir if current_dir is not '' else '.'
-    data_dir_path = current_dir + '/data/Dataset'  # directory to scan for any pdf and docx files
+    data_dir_path = current_dir + '/demo/data/Dataset'  # directory to scan for any pdf and docx files
     nlp = en_core_web_sm.load()
 
-    workbook = openpyxl.load_workbook(current_dir + '/data/resumeTemplate_Keys.xlsx')
+    workbook = openpyxl.load_workbook(current_dir + '/demo/data/resumeTemplate_Keys.xlsx')
     worksheet = workbook.worksheets[0]
     column_list = []
     for cell in worksheet[1]:
@@ -72,11 +72,11 @@ def main():
     cell_title.value = 'New Words'
 
     def parse_resume(file_path, file_content):
-        predicted_data_dir_path = current_dir + '/data/predicted'
+        predicted_data_dir_path = current_dir + '/demo/data/predicted'
         parser = ResumeParser()
-        parser.load_model(current_dir + '/models')
+        parser.load_model(current_dir + '/demo/models')
         parser.parse(file_content)
-        template = current_dir + '/data/resumeTemplate_Keys.xlsx'
+        template = current_dir + '/demo/data/resumeTemplate_Keys.xlsx'
         keyword_dict = pd.read_excel(template)
         ML_words = [nlp(text.casefold()) for text in keyword_dict['ML Engineer'].dropna(axis=0)]
         HR_words = [nlp(text.casefold()) for text in keyword_dict['Human Resource'].dropna(axis=0)]
@@ -138,7 +138,7 @@ def main():
             cell_to_write.value = unique_nouns[x]
             y += 1
         # unique values to be loaded in new words column
-        workbook.save(current_dir + '/data/resumeTemplate_Keys.xlsx')
+        workbook.save(current_dir + '/demo/data/resumeTemplate_Keys.xlsx')
         keywords = "\n".join(f'{i[0]} {i[1]} ({j})' for i, j in Counter(d).items())
         df = pd.read_csv(StringIO(keywords), names=['Keywords_List'])
         df1 = pd.DataFrame(df.Keywords_List.str.split(' ', 1).tolist(), columns=['Subject', 'Keyword'])
@@ -200,7 +200,7 @@ def ranking():
 
         current_dir = os.path.dirname(__file__)
         current_dir = current_dir if current_dir is not '' else '.'
-        template = current_dir + '/data/resumeTemplate_Keys.xlsx'
+        template = current_dir + '/demo/data/resumeTemplate_Keys.xlsx'
         keyword_dict = pd.read_excel(template)
 
         ML_words = [nlp(text.casefold()) for text in keyword_dict['ML Engineer'].dropna(axis=0)]
@@ -252,7 +252,7 @@ def ranking():
         matchlistWithJD = list(set(matchlistWithJD))
         print("Match List With Job Desc:\n", matchlistWithJD)
 
-        categorised_dict = pd.read_csv('sample.csv')
+        categorised_dict = pd.read_csv('/demo/sample.csv')
         print("\n")
         print(" Candidates Table: \n", categorised_dict)
         categorised_columns = list(categorised_dict.columns)
