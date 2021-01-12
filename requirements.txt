@@ -10,6 +10,7 @@ pillow
 pdfminer.six
 python-docx
 nltk
+spacy
 textblob
 matplotlib
 collections-extended
