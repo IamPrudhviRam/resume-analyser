@@ -12,4 +12,4 @@ python-docx
 nltk
 textblob
 matplotlib
-collections
+collections-extended
