@@ -10,7 +10,6 @@ pillow
 pdfminer.six
 python-docx
 nltk
-en_core_web_sm
 textblob
 matplotlib
 collections
