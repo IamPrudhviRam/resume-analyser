@@ -16,3 +16,5 @@ matplotlib
 collections-extended
 flask
 flasgger
+openpyxl
+pytest
