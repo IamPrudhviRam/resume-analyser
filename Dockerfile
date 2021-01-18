@@ -10,6 +10,9 @@ EXPOSE 5000
 
 RUN pip install -r requirements.txt
 
+RUN python -c "import nltk; nltk.download('punkt')"
+RUN python -c "import nltk; nltk.download('brown')"
+
 RUN python -m spacy download en_core_web_sm
 
 ENV PORT 8080
