@@ -2,13 +2,12 @@ import sys
 import os
 
 from flask import Flask
-from pyngrok import ngrok
+# from pyngrok import ngrok
 from flasgger import Swagger
 from flask import request
 from collections import Counter
 from io import StringIO
 import pandas as pd
-import numpy as np
 from pandas.tests.io.excel.test_openpyxl import openpyxl
 from spacy.matcher import PhraseMatcher
 import en_core_web_sm
