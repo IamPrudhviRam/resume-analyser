@@ -21,10 +21,10 @@ y = 2
 jd = ""
 nlp = en_core_web_sm.load()
 
-app = Flask(__name__)
+app=Flask(__name__)
 Swagger(app)
-public_url = ngrok.connect(5000).public_url
-print(" * ngrok tunnel \"{}\" -> \"http://127.0.0.1:{}\"".format(public_url, 5000))
+#public_url = ngrok.connect(5000).public_url
+#print(" * ngrok tunnel \"{}\" -> \"http://127.0.0.1:{}\"".format(public_url, 5000))
 
 
 @app.route('/')
@@ -271,3 +271,6 @@ def ranking():
         else:
             print("you have No resume matched with Job description")
     return'<h2>Resume Ranking done.</h2><p>Categorized Candidates :\n {rank}</p>'.format(rank=categorised_dict)
+	
+if __name__=='__main__':
+    app.run(host='0.0.0.0',port=8080)

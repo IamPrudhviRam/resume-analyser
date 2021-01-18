@@ -14,3 +14,5 @@ spacy
 textblob
 matplotlib
 collections-extended
+flask
+flasgger
