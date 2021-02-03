@@ -22,7 +22,7 @@ def main():
 @app.route('/ranking', methods=['POST'])
 def ranking():
     jd = request.form['jd']
-    categorised_dict= categorise_ranking.get_cr_values(nlp(jd))
+    categorised_dict= categorise_ranking.get_cr_values(jd)
     return'<h2>Resume Ranking done.</h2><p>Categorized Candidates :\n {rank} < / p > '.format(rank=categorised_dict)
 	
 if __name__=='__main__':
