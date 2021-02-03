@@ -156,7 +156,7 @@ def main():
             height = rect.get_height()
             ax.text(x + width / 2., y + height / 2., label, ha='center', va='center')
     plt.show()
-
+    return new_data
 
 if __name__ == '__main__':
     main()
