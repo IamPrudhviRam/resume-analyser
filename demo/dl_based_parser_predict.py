@@ -57,14 +57,16 @@ def main():
         keyword_dict = pd.read_excel(template)
         ML_words = [nlp(text.casefold()) for text in keyword_dict['ML Engineer'].dropna(axis=0)]
         HR_words = [nlp(text.casefold()) for text in keyword_dict['Human Resource'].dropna(axis=0)]
-        Data_Engineering_words = [nlp(text.casefold()) for text in keyword_dict['Data Engineering'].dropna(axis=0)]
+        AWS_words = [nlp(text.casefold()) for text in keyword_dict['AWS Developer'].dropna(axis=0)]
+        Cloud_words = [nlp(text.casefold()) for text in keyword_dict['Cloud Developer'].dropna(axis=0)]
         Java_Developer_words = [nlp(text.casefold()) for text in keyword_dict['Java Developer'].dropna(axis=0)]
         Web_Developer_words = [nlp(text.casefold()) for text in keyword_dict['Web Developer'].dropna(axis=0)]
         Quality_Assurance_words = [nlp(text.casefold()) for text in keyword_dict['Quality Assurance'].dropna(axis=0)]
         UI_UX_developer_words = [nlp(text.casefold()) for text in keyword_dict['UI UX developer'].dropna(axis=0)]
         matcher = PhraseMatcher(nlp.vocab)
         matcher.add('ML', None, *ML_words)
-        matcher.add('DE', None, *Data_Engineering_words)
+        matcher.add('AWS', None, *AWS_words)
+        matcher.add('CLOUD', None, *Cloud_words)
         matcher.add('Java', None, *Java_Developer_words)
         matcher.add('Web', None, *Web_Developer_words)
         matcher.add('QA', None, *Quality_Assurance_words)
