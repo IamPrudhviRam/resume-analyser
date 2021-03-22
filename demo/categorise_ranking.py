@@ -1,5 +1,6 @@
 import os
 import pandas as pd
+from flask import jsonify
 from spacy.matcher import PhraseMatcher
 import en_core_web_sm
 import tkinter as tk
@@ -88,13 +89,14 @@ def get_cr_values(job_description):
                     matchlistWithJD.append("HR")
         matchlistWithJD = list(set(matchlistWithJD))
         print("Match List With Job Desc:\n", matchlistWithJD)
+        print("curr direc",current_dir)
         categorised_dict = pd.read_csv(current_dir + '/sample.csv')
         print("\n")
         print(" Candidates Table: \n", categorised_dict)
         categorised_columns = list(categorised_dict.columns)
         matchlistWithJD = list(set(matchlistWithJD).intersection(set(categorised_columns)))
         fileds = matchlistWithJD.copy()
-        fileds.insert(0, "Candidate Name")
+        fileds.insert(0, "CandidateName")
         categorised_dict['Points'] = categorised_dict.loc[:, matchlistWithJD].sum(axis=1)
         fileds.insert(1, "Points")
 
@@ -103,7 +105,8 @@ def get_cr_values(job_description):
             categorised_dict = categorised_dict.loc[categorised_dict['Points'] >= 1]
             print("\n")
             print(" Categorised Canditates Table: \n", categorised_dict)
-            return categorised_dict
+            arrayOfObjs = categorised_dict.to_dict('records')
+            return arrayOfObjs
             # categorised_dict.to_csv('categorised_dict.csv')
         else:
             print("you have No resume matched with Job description")

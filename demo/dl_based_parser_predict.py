@@ -8,33 +8,49 @@ from spacy.matcher import PhraseMatcher
 import en_core_web_sm
 import matplotlib.pyplot as plt
 from textblob import TextBlob
+import pathlib
 
 final_database = pd.DataFrame()
 y = 2
-
+current_dir = os.path.dirname(__file__)
+current_dir = current_dir if current_dir is not '' else '.'
 
 def getresults(dataf):
+    print("dataf",dataf)
     global final_database
     final_database = final_database.append(dataf)
     final_database = final_database.drop_duplicates()
     final_database2 = final_database['Keyword'].groupby(
-        [final_database['Candidate Name'], final_database['Subject']]).count().unstack()
+        [final_database['CandidateName'], final_database['Subject']]).count().unstack()
     final_database2.reset_index(inplace=True)
     final_database2.fillna(0, inplace=True)
     global new_data
+    print ("fnl database 2",final_database2)
     new_data = final_database2.iloc[:, 1:]
-    new_data.index = final_database2['Candidate Name']
-    # execute the below line if you want to see the candidate profile in a csv format
-    sample2 = new_data.to_csv('sample.csv')
+    new_data.index = final_database2['CandidateName']
+    print("new data",new_data)
+    import pathlib
+    file = pathlib.Path(current_dir + '\sample.csv')
+    print("file existense", file.exists())
+    if file.exists():
+        print("remove file")
+        os.remove(current_dir + '\sample.csv')
+        print("removed file")
+    else:
+        print("File not exist")
+
+    sample2 = new_data.to_csv(current_dir + '\sample.csv')
+    print("data in to csv done")
+    return "done"
 
 
 def main():
     sys.path.append(os.path.join(os.path.dirname(__file__), '..'))
     from keras_en_parser_and_analyzer.library.dl_based_parser import ResumeParser
     from keras_en_parser_and_analyzer.library.utility.io_utils import read_pdf_and_docx
-    current_dir = os.path.dirname(__file__)
-    current_dir = current_dir if current_dir is not '' else '.'
     data_dir_path = current_dir + '/data/Dataset'  # directory to scan for any pdf and docx files
+    print("dd path",data_dir_path)
+    testingdata_dir_path = 'D:/ML-POC/resume-analyser/instance/TestingData'
     nlp = en_core_web_sm.load()
 
     workbook = openpyxl.load_workbook(current_dir + '/data/ResumeTemplate_Keys.xlsx')
@@ -130,35 +146,40 @@ def main():
         name2 = name[0]
         name2 = name2.lower()
         ## converting str to dataframe
-        name3 = pd.read_csv(StringIO(name2), names=['Candidate Name'])
-        dataf = pd.concat([name3['Candidate Name'], df3['Subject'], df3['Keyword'], df3['Count']], axis=1)
-        dataf['Candidate Name'].fillna(dataf['Candidate Name'].iloc[0], inplace=True)
+        name3 = pd.read_csv(StringIO(name2), names=['CandidateName'])
+        dataf = pd.concat([name3['CandidateName'], df3['Subject'], df3['Keyword'], df3['Count']], axis=1)
+        dataf['CandidateName'].fillna(dataf['CandidateName'].iloc[0], inplace=True)
 
         print('++++++++++++++++++++++++++++++++++++++++++')
-        getresults(dataf)
+        global result
+        result = getresults(dataf)
+        print("ressults",result)
+        return result
 
-    collected = read_pdf_and_docx(data_dir_path, command_logging=True, callback=lambda index, file_path, file_content: {
+
+    collected = read_pdf_and_docx(testingdata_dir_path, command_logging=True, callback=lambda index, file_path, file_content: {
         parse_resume(file_path, file_content)
     })
 
     # code to count words under each category and visulaize it through Matplotlib
-    plt.rcParams.update({'font.size': 10})
-    ax = new_data.plot.barh(title="Resume keywords by category", legend=False, figsize=(25, 7), stacked=True)
-    labels = []
-    for j in new_data.columns:
-        for i in new_data.index:
-            label = str(j) + ": " + str(new_data.loc[i][j])
-            labels.append(label)
-    patches = ax.patches
-    for label, rect in zip(labels, patches):
-        width = rect.get_width()
-        if width > 0:
-            x = rect.get_x()
-            y = rect.get_y()
-            height = rect.get_height()
-            ax.text(x + width / 2., y + height / 2., label, ha='center', va='center')
-    plt.show()
-    return new_data
+    # plt.rcParams.update({'font.size': 10})
+    # ax = new_data.plot.barh(title="Resume keywords by category", legend=False, figsize=(25, 7), stacked=True)
+    # labels = []
+    # for j in new_data.columns:
+    #     for i in new_data.index:
+    #         label = str(j) + ": " + str(new_data.loc[i][j])
+    #         labels.append(label)
+    # patches = ax.patches
+    # for label, rect in zip(labels, patches):
+    #     width = rect.get_width()
+    #     if width > 0:
+    #         x = rect.get_x()
+    #         y = rect.get_y()
+    #         height = rect.get_height()
+    #         ax.text(x + width / 2., y + height / 2., label, ha='center', va='center')
+    # plt.show()
+    #return new_data
+
 
 if __name__ == '__main__':
     main()
